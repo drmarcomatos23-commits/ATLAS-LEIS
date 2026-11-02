@@ -1,0 +1,1405 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+<html lang="pt-br">
+<head>
+    <title>Ministerio do Trabalho e Emprego - Mediador</title>
+    <link type="image/x-icon" rel="shortcut icon" href="/sistemas/mediador/Content/Images/favicon.ico"  />
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <meta name="author" content="Ministerio do Trabalho e Emprego" />
+    <meta name="description" content="Portal do Ministerio do Trabalho e Emprego, MTE, Governo do Brasil" />
+    <meta name="keywords" content="Trabalho, Emprego, CTPS, Carteira de Trabalho, FGTS, Seguro Desemprego, CAGED, RAIS, CLT, Primeiro Emprego, Economia Solidária, Empregador, Trabalhador, Sindicatos" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="Expires" content="-1" />
+
+    <link href="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/css/MTE_Estilo.css" rel="stylesheet" type="text/css" />
+    <link href="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/css/MTE_FonteMenor.css" title="fonte_menor" rel="stylesheet" type="text/css" />
+    <link href="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/css/MTE_FonteMaior.css" title="fonte_maior" rel="stylesheet" type="text/css" />
+    <link href='/sistemas/mediador/WebResource.axd?d=YwsasDPFkU2oafwgQpac0gOCVDj6SXtVxcQaW2vV8him3nXvk95VwZDJIxlnodYcun5BgYQTJ382jMF_qJ5BHAAPN4_xh7fWUg-JgLC551qMMIDeSPOD0lS5sXfNfNrxcat1rEfHBxkb21f0lKHjoAvmJgRF16xCyLcQg0Rr3Hb57oEbYD2ykfsFITfT-htdwphwZMVUO-DGqfXVGw8IMw2&t=639193666532168144' rel='stylesheet' type='text/css' />
+<link href='/sistemas/mediador/WebResource.axd?d=wcg_f6_iCgq52nxy_X9vMO6M4pJ3R_LGKmzmB02dU--wVU0iHDtA7uiXDkncodpTjG9GpIPRrVc0wIgHzPedxqpYigfe8mYFVPs1TLvTnN35psHpcRI3xnxRvLV1MZ77eqQ88q7sIuU6w7F17eWe44DTh9eo4Ej9sMDLfZSp8cka4aLS10rorec9_yZL6R8cfCzNUZO-fjqmI4xyQn7H9g2&t=639193666532168144' rel='stylesheet' type='text/css' />
+<link href='/sistemas/mediador/WebResource.axd?d=5AtJZcrWIz303JlS7KcqM7IwbhPNoh6zLW9u56kREtdtahxy-bxzF-JmLWQHu_MYYZ91Cd9tYfCvgxArzVGKoKtKdrMPLSbhDOogcISF_N4VvV9c0ZaOIN3a0-jrA4A7yEE-EH1MO4Qy4kJ5o5DduvbwlppJA325p1lpVMIFJVvYOcnUu7lontpAk7G5WF4mPCKoxg-SFmkLgPob6yZDCA2&t=639193666532168144' rel='stylesheet' type='text/css' />
+
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_TrocaEstilo_01.js" type="text/javascript"></script>
+    <!-- função a-A+ -->
+    <script src='/sistemas/mediador/WebResource.axd?d=KK7PjFe7Y6hbnS92iugHf4TZpid0QGC2D3GBJse709BykgaFdDW7Td87IyjJh0G535MghKYDMlZK8lQiH9V2AEsdIm1oqX1cZ1gW3eEaQMj4Q4GZKJ9sE0BAdYQgnE-5XLPexyIN39WFqsci2un4FqY-LwkHGQ87N91zpjrAkHzbxepOLDKjt_jWb9_xXrWo0&t=639193666532168144' type='text/javascript'></script>
+<script src='/sistemas/mediador/WebResource.axd?d=kYmFwUNd8Wd1d1ZYxCnI-jXtSnB4cK9uwQQVRwNCpEjAPoLWTfqBJfUxiD_6Ejw3zAL-UCE0-0j4JPKG8AotafeTZDvbcWKqcQShSCg85xLp9cQiOQkPs0EIOgizGFe9-vVjO8Krtm8MslXNbeRpPKW9FZAAnnAQXufwKAW3020NJzuO3DBt1Z8z7cA3lXiBlWdOr5wxijvJiSGzgNXh1Q2&t=639193666532168144' type='text/javascript'></script>
+<script src='/sistemas/mediador/WebResource.axd?d=NBfwHghjKDDK0SKxYN0Vvm8WrUczmYMllVev7YCR_Je3QnniYXLhgk_dWEwcqtzTGJgztuNeXrqK7Dn4IYNY_slKZ9WXwW2rvGr6R6Jg79WMsVARF45YnxldvvFj0wvLjkKcbuxJPz4XMvcw9enz5r3-rz16lquGIHG8jMgZqNle-p4iuABW1ZnUDrIgdNx20&t=639193666532168144' type='text/javascript'></script>
+<script src='/sistemas/mediador/WebResource.axd?d=zJC3X5yD5co4xSHO4IN3bsEI3nCZ5U_BlzvQ4hOjWk2zAK33EbgbdP8f7iiicJsmL0zO1NYA4dF7Q-SjQQsXtkfbUL-Y-FwdqFGCcKBZgZ9wD06KkIW1zVT220xdpyjbGOjfsJKAl9pQT1RgoznN6zh936gQL5C4Z_3ej1k7_CEU_BCaCqNxbVvSh4t1OEjb0&t=639193666532168144' type='text/javascript'></script>
+<script src='/sistemas/mediador/WebResource.axd?d=VI13BvG847OarN8uUmt69-fOmEdeiIrRm0wHR70V-ieoICpTPy0KFfAeyMrY7Q_vgZmCaQAKYBEHZEOgvX3ryPX88CtnVd9kmo2KE-FxvFSG4FdbceS66HUhIHODAWC3pIS2VVnWsN8ViSgzr2NgaPBb-YSum1wH2gu9pducMuPK5PpMgjhwmv2lNVDtuAcS0&t=639193666532168144' type='text/javascript'></script>
+<script src='/sistemas/mediador/WebResource.axd?d=ULIEfLVkLanqEeovZE9W4iI7AOtjw88zi3z3YOo5G7JTiMN_4QIokc_GyN7GxpZ-ISHeODmpoZ2QPxr3C9cLaGiNk4hfMK8x8eqBcqvqatiJ4Tleo8PCmdcE6fq3iQXU3vBN6p1F_2QeDlwHX-CsrZBwUWJwr-Vx-Q_daO5jdxdXV-0eFxRjZcezcGGx2PRu0&t=639193666532168144' type='text/javascript'></script>
+
+    <script src='/sistemas/mediador/WebResource.axd?d=7cDaGqWjLZFVoQd2cJr4o1rWZaE66kqZbF7N_0u9SASAx9EbqgQJu0GEjSFsSzUtN5d95Y-GhvhEheICcpw0Pdecdvqh3BIRj8jCEaZIsDlSZhpeDfZ7bJ5vgk4fmiQqYkCzaRt38tdLk9a-HThSCXY3An_0uaUXVyLFX5TVpvi9QN3eAhu_cIw5YJsX5nfAGQ_gTQyWS3XrHPWWTCIY_g2&t=639193666532168144' type='text/javascript'></script>
+    <script src='/sistemas/mediador/WebResource.axd?d=815smchyjk22ToEmnmyFRKuoikg0K8jnnnnvCro0Tq42R4VMP9WICgtFmGY50GNGutOUoMrIvRoeukhoHXZeY1W6xi-1S1xGRiY4mZbmpjAoA1vaYZ2BVtnuP8_CAYH0d3TUlFxnAeEV5rd3ZpqKugl04IiLFVYzllSyPD4ud-F7-o6HYkFyUSDKD7ls2aSL5QtFP6h5VpCy9LL1kBI8Fw2&t=639193666532168144' type='text/javascript'></script>
+    <script src='/sistemas/mediador/WebResource.axd?d=cXcuGMJ7BaCtl9Bq-9QnyrN0q_z4zbl6efclErrbOJvCc7jgk_ZwkQa3pCWpp90thFHPV9e9VmeXk1S255hmu49BJOg8BUAIC-1KWNrAjBFpcMtora8gAHvsDkKLFC6yARY4b6Jor6b2wPUb6X30EqTcNvzmuffhsmIO5DlzL83sasJnUmupbMUw_Z5dKqP8KMPn8vmoi3hI7p_s3uAkaA2&t=639193666532168144' type='text/javascript'></script>
+    <script src='/sistemas/mediador/WebResource.axd?d=iMvNkMjIe__N4vVKbVOYnZut4MGoGci6BPIbYJlPQxfH65VOKp70i49iDPvCz_kRemDM1BcseB9veQ--I8mxdWKewX-Sn2lpfYwEsaxp5HSNrfn7AOC6lIsPBIn014o87GVbR59tUPwMLiyl6-7JSSpUi5YZBWIcO5pHr_tHCTqq5-2nViGFk1tZ-U29pdq00&t=639193666532168144' type='text/javascript'></script>
+    <script src='/sistemas/mediador/WebResource.axd?d=QHmyXxbWEXdhMS1GL9IVtKwZVFo_elinymfmdss8LibQgxqtXKRjkGLeQVVIxfSMMJcx5SJcyzUf_Pcw4O9DWUIzQGqNsTndq4zzFcu9PIAYp3hSQkXULjszhZvaWK0jS6BwIz9W6K40dozqpexJ79ef82Fe0z2fj6jRLqKFblciXv0N2eKTymyf8r0jLLq13c6lp5nHAk5DMa9ZtocMHA2&t=639193666532168144' type='text/javascript'></script>
+    <script src='/sistemas/mediador/WebResource.axd?d=Y1cSp0VkRoKBY31fGzflD4MSzVhmzH3bWFimTZDN4HOydVMIQu-BDZmmpPKnQ1twi0STJqhlM5i29H6yuts39Zm3l_lInhbwK4HiF-CeLbzSnn9Mb_u3HOXCpl73EDc7DehQWmUHY-uks8mP6DJvJva9HnOJro6Hp-Cp2F1GhvmcXoAw8opCavwQ-67BD8r06DP59vMSUQlPk5pEz5X2pw2&t=639193666532168144' type='text/javascript'></script>
+    <script src='/sistemas/mediador/WebResource.axd?d=-b8jF9X0oj6vmbK6XErH510igfEZLWS8vop2uWJfBePztYBu9usMqdxNvRgniqQpsDVVN_toMiw3Ev1eAhWv6aQ_nX8HtKx7OOITvFErto1HQ-DddzpQLhbjW6M8oJ-s4ZUZipGmyXzf9jT7hjqEVHdz4pRfUn4j_BpnBU4ohAuPtWuv2zyWEDT2N12jJ8wy0&t=639193666532168144' type='text/javascript'></script>
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_MontaNavegacaoGuias_03.js" type="text/javascript"></script>
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_Data_01.js" type="text/javascript"></script>
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_CNPJ_01.js" type="text/javascript"></script>
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_CPF_01.js" type="text/javascript"></script>
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_Processo_01.js" type="text/javascript"></script>
+    <script src="https://mediador.trabalho.gov.br/mte_corporativo/funcoes/js/MTE_Mascara_01.js" type="text/javascript"></script>
+    <script src="/sistemas/mediador/Content/tiny_mce/tiny_mce.js" type="text/javascript"></script>
+    <script src="/sistemas/mediador/Content/tiny_mce/jquery.tinymce.js" type="text/javascript"></script>
+    <script src="/sistemas/mediador/Content/JS/jquery.MTEValidacaoCorporativoTxt.js" type="text/javascript"></script>
+    <script src="/sistemas/mediador/ValidarDataDetalhada.js" type="text/javascript"></script>    
+    <script src="/sistemas/mediador/ValidarDataNaoDetalhada.js" type="text/javascript"></script>    
+    <script type="text/javascript">
+        $(function () { ajaxAnimadoAbilitar(); });
+    </script>
+</head>
+<body>
+<div id="divMantemSessaoViva">
+
+    <script type='text/javascript'>
+var milisegundosRestantes = 600000;
+var mudouRequerimento = false;
+</script>
+
+    <script type="text/javascript">
+        var manterSessao = function() {
+
+            if (mudouRequerimento) {
+                window.location = '/sistemas/mediador/';
+                
+            }
+            var param = {
+                nrrequerimentoEdicao: $("#spnNrRequerimento").text(),
+                paginaDaSolicitacao: ($("#spnNrRequerimento").length > 0)
+            };
+            ajaxAnimadoDesabilitar();funcExecutaAjax('/sistemas/mediador/home/mantemSessaoViva', param, function(data) {setTimeout('ajaxAnimadoAbilitar()', 100);$('#divMantemSessaoViva').replaceWith(data)});
+        };
+        setTimeout(manterSessao, 600000);
+
+    </script>
+</div>
+
+    <div id="layoutSistemaVertical" style="min-width: 1105px;">
+        <div id="cabecalho">
+            
+<div id="barra-brasil" style="background-color: #00500f; height: 26px;">
+    <table style="width: 100%">
+        <tr>
+            <td>
+                <a href="http://www.mte.gov.br" id="logo-mte-bv2" title="Ministerio do Trabalho e Emprego"
+                    target="_top">
+                    <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/logo-mte-bv2.gif" alt="Ministerio do Trabalho e Emprego" /></a>
+            </td>
+            <td style="text-align: right">
+                <a href="http://www.brasil.gov.br" id="logo-gov-bv2" target="_blank" title="www.brasil.gov.br">
+                    <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_03/imagens/img_LogoPortalBrasilGov_01.jpg" alt="www.brasil.gov.br" /></a>
+            </td>
+        </tr>
+    </table>
+</div>
+<div style="height: 1px; background-color: #006b0a">
+</div>
+<div style="height: 1px; background-color: #ffb400">
+</div>
+
+<div id="areaCabecalhoInterna">
+    <!--Versão: 3.0.9790.15961-->
+    <div id="aumentaTextoInterna">
+        <a href="#" onclick="setActiveStyleSheet('fonte_maior'); $('#menuVerticalBordas').css('min-height', '660px'); $('#areaConteudo').css('min-height', '685px'); return false;"
+            onkeypress="setActiveStyleSheet('fonte_maior'); $('#menuVerticalBordas').css('min-height', '660px'); $('#areaConteudo').css('min-height', '685px'); return false;"
+            title="Aumenta a fonte dos textos"><span class="Invisivel">Aumenta a fonte dos textos</span></a>
+        <span class="Invisivel">|</span></div>
+    <div id="diminuiTextoInterna">
+        <a href="#" onclick="setActiveStyleSheet('fonte_menor'); $('#menuVerticalBordas').css('min-height', '492px'); $('#areaConteudo').css('min-height', '510px'); return false;"
+            onkeypress="setActiveStyleSheet('fonte_menor'); $('#menuVerticalBordas').css('min-height', '492px'); $('#areaConteudo').css('min-height', '510px'); return false;"
+            title="Retorna ao padrão a fonte dos textos"><span class="Invisivel">Retorna ao padr&atilde;o
+                a fonte dos textos</span></a> <span class="Invisivel">|</span></div>
+    <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/imgTopoSistema_off_03.jpg" alt="Imagem ilustrativa." />
+    <div id="tituloClienteInterna">Secretaria de Rela&#231;&#245;es do Trabalho - SRT</div>
+    <div id="tituloSistemaInterna" style="width: 700px">Sistema de Negocia&#231;&#245;es Coletivas de Trabalho - MEDIADOR <span
+        style="color: red"></span></div>
+    <div id="msgUsuarioInterna"></div>
+    <div id="dataInterna">segunda-feira, 2 de novembro de 2026</div>
+</div>
+
+        </div>
+        <div id="areaConteudo" style="min-height: 600px;">
+            <div id="menuVertical">
+    <div id="menuVerticalTopo">
+    </div>
+    <div id="menuVerticalTopo1">
+    </div>
+    <div id="menuVerticalBordas">
+        <div class="ItemMenuVertical">
+            Solicitação de Registro de Instrumento Coletivo
+        </div>
+        <div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/AcordoColetivo">Acordo Coletivo</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/ConvencaoColetiva">Conven&#231;&#227;o Coletiva</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/termoAditivo">Termo Aditivo</a>
+                </div>
+            </div>
+            
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/ContinuarSolicitacao">Continuar Solicita&#231;&#227;o</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/RetificarSolicitacao">Retificar Solicita&#231;&#227;o</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/AcompanharSolicitacao">Acompanhar Solicita&#231;&#227;o</a>
+                </div>
+            </div>
+        </div>
+        <div class="ItemMenuVertical">
+            Solicitação de Mediação
+        </div>
+        <div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/Mediacao">Solicitar Media&#231;&#227;o</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/ContinuarSolicitacao">Continuar Solicita&#231;&#227;o</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/AcompanharSolicitacao/acompanharSolicitacaoMediacao">Acompanhar Media&#231;&#227;o</a>
+                </div>
+            </div>
+        </div>
+        <div class="ItemMenuVertical">
+            Imprimir
+        </div>
+        <div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/ConsultarRequerimento">Imprimir Requerimento</a>
+                </div>
+            </div>
+        </div>
+        <div class="ItemMenuVertical">
+            Consultar
+        </div>
+        <div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/ConsultarInstColetivo">Instrumentos Coletivos Registrados</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="https://www.gov.br/trabalho-e-emprego/pt-br/boletim-boas-praticas/boletim-boas-praticas/" target="_blank">Boas Pr&#225;ticas Trabalhistas</a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="https://processoeletronico.trabalho.gov.br/sei/controlador_externo.php?acao=usuario_externo_logar&amp;id_orgao_acesso_externo=3" target="_blank">Protocolo SEI MTE</a>
+                </div>
+            </div>
+        </div>
+        <div class="ItemMenuVertical">
+            Instruções
+        </div>
+        <div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href='javascript:funcExecutaAjax("/sistemas/mediador/Cartilha/getViewCartilha");'>
+                        Manual do Usuário
+                    </a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href='javascript:funcExecutaAjax("/sistemas/mediador/Clausula/getViewClausulaListaGrupoSimples", null, function(html){showMensagem({msg:html,titulo:"Cláusulas Grupos/Subgrupos"});});'>
+                        Cláusulas – Grupos/Subgrupos
+                    </a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                
+                    <a href="/sistemas/mediador/Email">
+                        Contato/Dúvidas?
+                    </a>
+                </div>
+            </div>
+            <div class="SubitemMenuVertical">
+                <div class="SubitemMenuVerticalTexto">
+                    <a href="/sistemas/mediador/Suporte">
+                        Suporte Técnico
+                    </a>
+                </div>
+            </div>
+        </div>
+        <div class="ItemMenuVertical">
+        </div>
+    </div>
+    <div id="menuVerticalRodape">
+    </div>
+</div>
+
+            <div id="colunaConteudo">
+                <div id="conteudoPrincipalVertical">
+                    <h1 id="conteudoTituloInterna">
+                        Consultar Instrumentos Coletivos Registrados
+                    </h1>
+                    <div id="areaNavegaInterna">
+                        <div id="barraNavegaInternaVertical">
+                            <a href="javascript:history.back()" class="SemVisited">
+                                <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/icoVoltar_off_01.gif" alt="Ícone. Clique para retornar à página anterior." />
+                                Voltar</a> <span class="Invisivel">|</span> <a href='/sistemas/mediador/Home' id="navegaItem3" class="SemVisited">
+                                    <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/icoHome_off_01.gif" border="0" alt="Ícone. Clique para retornar à página inicial." />
+                                    Página Inicial</a> <span class="Invisivel">|</span> <a href="http://www.mte.gov.br"
+                                        id="navegaItem4" class="SemVisited">
+                                        <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/icoPorta_off_01.gif" border="0" alt="Ícone. Clique para retornar ao Portal do MTE." />
+                                        Portal do MTE</a> <span class="Invisivel">|</span>
+                        </div>
+                    </div>
+                    <div id="conteudoSistemaVertical">
+                        
+
+<div id="ContentPlaceHolder">
+    <script type="text/javascript">
+        function funcExibirCosultaBasicaHandler() {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/ConsultaBasica');
+        }
+
+        function funcExibirCosultaFiliacaoHandler() {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/ConsultaFiliacao');
+        }
+
+        $(function () {
+            $("#linkConsultaBasica").click(funcExibirCosultaBasicaHandler);
+            $("#linkConsultaFiliacao").click(funcExibirCosultaFiliacaoHandler);
+        });
+
+    </script>
+    <div id="divLinkConsultas">
+        <table border="0" cellspacing="0" cellpadding="0">
+            <tr height="25px">
+                <td style="vertical-align: middle; width: 1px; padding-left: 5px">
+                    <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/icoLupa_off_01.gif" border="0">
+                </td>
+                <td style="vertical-align: middle; padding-left: 5px">
+                    <a id="linkConsultaBasica" style="cursor: pointer" href="#" class="itens_menunegrito">
+                        Consulta Básica</a>
+                </td>
+            </tr>
+            <tr height="25px" style="padding-bottom: 5px">
+                <td style="vertical-align: middle; width: 1px; padding-left: 5px">
+                    <img src="https://mediador.trabalho.gov.br/mte_corporativo/padraovisual/visual_02/imagens/icoLupa_off_01.gif" border="0">
+                </td>
+                <td style="vertical-align: middle; padding-left: 5px">
+                    <a id="linkConsultaFiliacao" style="cursor: pointer" href="#" class="itens_menunegrito">
+                        Consulta por Filiação a Entidade de Grau Superior e a Central Sindical</a>
+                </td>
+            </tr>
+        </table>
+        <br />
+    </div>
+    
+
+<script src="https://www.google.com/recaptcha/api.js?render=6LdPnewrAAAAADM60VqWAyvhreJD6Jpyr1tORg6G"></script>
+
+<script src='/sistemas/mediador/WebResource.axd?d=CM9P0_FyRMlSQUQOGZhnNa2BVEq6eykiTgFrpAN-Pi5CQ8CcRMRtYygS7i-glzqXjSDJNfATHR0xRWVBjLGbmEt_xGM0a9MgW2ej_a9PSVI1UPprgJu5GeCcFxRgEcT9G-d9Bo3z1EBDeETwkT1DwWnosEK9MHnLG-wqQ3obMl2HE40q67zkFWOZnWp37sdu0&t=639193666532168144' type='text/javascript'></script>
+<script type="text/javascript">
+
+    var recaptchaToken = '';
+
+    function executeRecaptcha() {
+        return new Promise((resolve, reject) => {
+            grecaptcha.ready(function() {
+                grecaptcha.execute('6LdPnewrAAAAADM60VqWAyvhreJD6Jpyr1tORg6G', { action: 'pesquisar' })
+                    .then(function(token) {
+                        recaptchaToken = token;
+                        resolve(token);
+                    })
+                    .catch(function(error) {
+                        console.error('reCAPTCHA error:', error);
+                        reject(error);
+                    });
+            });
+        });
+    }
+
+    $(function () {
+        $("#txtNRCNPJ").mask("99.999.999/9999-99"); //.blur(validaCNPJ);
+        $("#txtNRCEI").mask("99999999999-9");
+
+        $("#btnPesquisar").click(function (e) {
+            e.preventDefault();
+            funcHandlerBtnPesquisarComRecaptcha();
+        });
+    });
+
+    async function funcHandlerBtnPesquisarComRecaptcha(mostrarClausulas) {
+        executeRecaptcha()
+            .then(function (token) {
+                console.log('reCAPTCHA executado com sucesso, token:', token);
+                funcHandlerBtnPesquisar(mostrarClausulas);
+            })
+            .catch(function (error) {
+                console.error('Erro no reCAPTCHA:', error);
+                showErro('Erro na validação de segurança. Tente novamente.');
+            });
+    }
+
+    function HabilitarCampo(id) {
+        switch (id) {
+            //Pesquisa por NRCNPJ
+            case 0:
+                if ($("#chkNRCNPJ")[0].checked) {
+                    $("#txtNRCNPJ").removeAttr("readonly");
+                    $("#txtNRCNPJ").removeClass("ReadOnly");
+                    $("#txtNRCNPJ").focus();
+
+
+                    $("#txtNRCEI, #txtNORazaoSocial")
+                        .unmask()
+                        .val("")
+                        .attr("readonly", true)
+                        .addClass("ReadOnly");
+
+                    $("#chkNRCEI")[0].checked = false;
+                    $("#chkNORazaoSocial")[0].checked = false;
+
+                    $("#txtNRCNPJ").mask("99.999.999/9999-99"); //.blur(validaCNPJ);
+                } else {
+                    $("#txtNRCNPJ").val("");
+                    $("#txtNRCNPJ").attr("readonly", "readonly");
+                    $("#txtNRCNPJ").addClass("ReadOnly");
+                }
+
+                break;
+            //Pesquisa por NRCEI
+            case 1:
+                if ($("#chkNRCEI")[0].checked) {
+                    $("#txtNRCEI").removeAttr("readonly");
+                    $("#txtNRCEI").removeClass("ReadOnly");
+                    $("#txtNRCEI").focus();
+
+                    $("#txtNRCNPJ, #txtNORazaoSocial")
+                        .unmask()
+                        .val("")
+                        .attr("readonly", true)
+                        .addClass("ReadOnly");
+
+                    $("#chkNRCNPJ")[0].checked = false;
+                    $("#chkNORazaoSocial")[0].checked = false;
+
+                    $("#txtNRCEI").mask("99999999999-9");
+                } else {
+                    $("#txtNRCEI").val("");
+                    $("#txtNRCEI").attr("readonly", "readonly");
+                    $("#txtNRCEI").addClass("ReadOnly");
+                }
+
+                break;
+            //Pesquisa por NORazaoSocial
+            case 2:
+                if ($("#chkNORazaoSocial")[0].checked) {
+                    $("#txtNORazaoSocial").removeAttr("readonly");
+                    $("#txtNORazaoSocial").removeClass("ReadOnly");
+                    $("#txtNORazaoSocial").focus();
+
+                    $("#txtNRCNPJ, #txtNRCEI, #txtDSCategoria")
+                        .unmask()
+                        .val("")
+                        .attr("readonly", true)
+                        .addClass("ReadOnly");
+
+                    $("#chkNRCNPJ")[0].checked = false;
+                    $("#chkNRCEI")[0].checked = false;
+                    $("#chkCategoria")[0].checked = false;
+                } else {
+                    $("#txtNORazaoSocial").val("");
+                    $("#txtNORazaoSocial").attr("readonly", "readonly");
+                    $("#txtNORazaoSocial").addClass("ReadOnly");
+                }
+
+                break;
+            //Pesquisa por DSCategoria
+            case 3:
+                if ($("#chkCategoria")[0].checked) {
+                    $("#txtDSCategoria").removeAttr("readonly");
+                    $("#txtDSCategoria").removeClass("ReadOnly");
+                    $("#txtDSCategoria").focus();
+
+                    $("#txtNORazaoSocial").val("");
+                    $("#txtNORazaoSocial").attr("readonly", "readonly");
+                    $("#txtNORazaoSocial").addClass("ReadOnly");
+
+                    $("#chkNORazaoSocial")[0].checked = false;
+                } else {
+                    $("#txtDSCategoria").val("");
+                    $("#txtDSCategoria").attr("readonly", "readonly");
+                    $("#txtDSCategoria").addClass("ReadOnly");
+                }
+
+                break;
+            //Periodo de Registro
+            case 4:
+                if ($("#chkPeriodoRegistro")[0].checked) {
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").removeAttr("readonly");
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").removeClass("ReadOnly");
+                    $("#txtDTInicioRegistro").focus();
+
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").val("");
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").attr("readonly", "readonly");
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").addClass("ReadOnly");
+
+                    $("#chkVigencia")[0].checked = false;
+
+                    $("#txtDTInicioRegistro").mask("99/99/9999");
+                    $("#txtDTFimRegistro").mask("99/99/9999");
+                } else {
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").val("");
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").attr("readonly", "readonly");
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").addClass("ReadOnly");
+                }
+
+                break;
+            //Periodo de Vigencia
+            case 5:
+                if ($("#chkVigencia")[0].checked) {
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").removeAttr("readonly");
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").removeClass("ReadOnly");
+                    $("#txtDTInicioVigencia").focus();
+
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").val("");
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").attr("readonly", "readonly");
+                    $("#txtDTInicioRegistro, #txtDTFimRegistro").addClass("ReadOnly");
+
+                    $("#chkPeriodoRegistro")[0].checked = false;
+
+                    $("#txtDTInicioVigencia").mask("99/99/9999");
+                    $("#txtDTFimVigencia").mask("99/99/9999");
+                } else {
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").val("");
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").attr("readonly", "readonly");
+                    $("#txtDTInicioVigencia, #txtDTFimVigencia").addClass("ReadOnly");
+                }
+
+                break;
+        }
+    }
+
+    function limparCampos() {
+        var baseTerritorialSelecionada = escolherTipoBase();
+        if (!$("#txtNRCNPJ").val() &&
+            !$("#txtNRCEI").val() &&
+            !$("#txtNORazaoSocial").val() &&
+            !$("#txtDSCategoria").val() &&
+            !$("#cboSTVigencia").val() &&
+            !$("#cboUFRegistro").val() &&
+            !$("#txtDTInicioRegistro").val() &&
+            !$("#txtDTFimRegistro").val() &&
+            !$("#txtDTInicioVigencia").val() &&
+            !$("#txtDTFimVigencia").val() &&
+            !$("#cboUFRegistro").val() &&
+            !$("#cboGrupoClausula").val() &&
+            !$("#cboSubGrupoClausula").val() &&
+            $("#cboTPRequerimento").val() == "" &&
+            !$("#txtNOTituloClausula").val() &&
+            baseTerritorialSelecionada == "Todos os tipos" &&
+            !$("#btnExcluirTodos").is(':visible')
+            ) {
+
+            showErro("Não existe nenhum campo preenchido para ser limpo.");
+            return false;
+        }
+
+        showOkCancel('Deseja limpar o(s) campo(s)?', function () { window.location = '/sistemas/mediador/ConsultarInstColetivo'; });
+    }
+
+    function funcHandlerBtnSelecionarMunicipio() {
+        var baseSelcionada = escolherTipoBase();
+        var sgUFSelecionado = $("#cboUFAbrangenciaTerritorial").val();
+        if (!sgUFSelecionado) { showErro("Selecione pelo menos uma UF."); return; };
+        funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getPartMunicipiosPelaUF', { UF: sgUFSelecionado, BaseSelecionada: baseSelcionada }, funcShowDialogMunicipiosAbrangencia);
+    }
+
+    function funcHandlerBtnAdicionarUF() {
+        var baseTerritorialSelecionada = escolherTipoBase();
+
+        funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getPartAbrangenciaAddUF', { UF: $("#cboUFAbrangenciaTerritorial").val(), baseSelecionada: baseTerritorialSelecionada });
+    }
+
+    function funcHandlerBtnPesquisar(mostrarClausulas) {
+
+        if (!recaptchaToken) {
+            console.error('ERRO: Token reCAPTCHA está vazio ou nulo');
+            showErro('Validação de segurança não concluída. Tente novamente.');
+            return;
+        }
+
+        var valGrupo = $("#cboGrupoClausula").val();
+        var valSubGrupo = $("#cboSubGrupoClausula").val();
+        var valTituloClausula = $("#txtNOTituloClausula").val();
+        var tiposInstrumentoColetivoSelecionados = new Array();
+
+        if ($("#cboTPRequerimento").val() != "") {
+            tiposInstrumentoColetivoSelecionados.push($("#cboTPRequerimento").val());
+        } else {
+            for (var i = 0; i < $("#cboTPRequerimento")[0].length; i++) {
+                if ($("#cboTPRequerimento")[0][i].value != "") {
+                    tiposInstrumentoColetivoSelecionados.push($("#cboTPRequerimento")[0][i].value);
+                }
+            }
+        }
+
+        var dataSend = {
+            nrCnpj: $("#txtNRCNPJ").val(),
+            nrCei: $("#txtNRCEI").val(),
+            noRazaoSocial: $("#txtNORazaoSocial").val(),
+            dsCategoria: $("#txtDSCategoria").val(),
+            tpRequerimento: tiposInstrumentoColetivoSelecionados,
+            tpVigencia: $("#cboSTVigencia").val(),
+            sgUfDeRegistro: $("#cboUFRegistro").val(),
+            dtInicioRegistro: $("#txtDTInicioRegistro").val(),
+            dtFimRegistro: $("#txtDTFimRegistro").val(),
+            dtInicioVigenciaInstrumentoColetivo: $("#txtDTInicioVigencia").val(),
+            dtFimVigenciaInstrumentoColetivo: $("#txtDTFimVigencia").val(),
+            tpAbrangencia: "",
+            dsTipoAbrangencia: escolherTipoBase(),
+            ufsAbrangidasTotalmente: $("#cboUFRegistro").val(),
+            cdMunicipiosAbrangidos: "",
+
+            cdGrupo: valGrupo,
+            cdSubGrupo: valSubGrupo,
+            noTituloClausula: valTituloClausula,
+
+            dsAbrangenciaTerritorial: "",
+            cdGrupo: $("#cboGrupoClausula").val(),
+            cdSubGrupo: $("#cboSubGrupoClausula").val(),
+            noTituloClausula: $("#txtNOTituloClausula").val(),
+            utilizarSiracc: "",
+            excel: false,
+            pagina: "1",
+            qtdTotalRegistro: "-1",
+            recaptchaToken: recaptchaToken
+        };
+
+        if (validarConsulta()) {
+            console.log('Validação OK, enviando para servidor...');
+
+            if (mostrarClausulas == true) {
+                funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getConsultaAvancada', dataSend, detalhamento);
+            }
+            else if (valGrupo != "" || valSubGrupo != "" || valTituloClausula != "") {
+                funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getConsultaAvancadaClausula', dataSend, detalhamento);
+            }
+            else {
+                funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getConsultaAvancada', dataSend, detalhamento);
+            }
+
+        }
+
+        recaptchaToken = '';
+
+    }
+
+    function validarConsulta() {
+        var mask = "";
+        if (($("#chkNRCNPJ")[0].checked) && ($("#txtNRCNPJ").val() == "")) {
+            mask = "99.999.999/9999-99";
+            showErro('O campo CNPJ/CAEPF é de preenchimento obrigatório.', '', '', function () { $("#txtNRCNPJ").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        if (($("#chkNRCEI")[0].checked) && ($("#txtNRCEI").val() == "")) {
+            mask = "99999999999-9";
+            showErro('O campo Matrícula CEI é de preenchimento obrigatório.', '', '', function () { $("#txtNRCEI").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        if (($("#chkNORazaoSocial")[0].checked) && ($("#txtNORazaoSocial").val() == "")) {
+            showErro("O campo Razão Social é de preenchimento obrigatório.", "", "", function () { $("#txtNORazaoSocial").val(""); setTimeout(function () { $('#txtNORazaoSocial').focus(); }, 0); });
+            return false;
+        }
+
+        if (($("#chkCategoria")[0].checked) && ($("#txtDSCategoria").val() == "")) {
+            showErro("O campo Categoria é de preenchimento obrigatório.", "", "", function () { $("#txtDSCategoria").val(""); setTimeout(function () { $('#txtDSCategoria').focus(); }, 0); });
+            return false;
+        }
+
+        mask = "99/99/9999";
+
+        if (($("#chkPeriodoRegistro")[0].checked) && ($("#txtDTInicioRegistro").val() == "")) {
+            showErro('O campo Período do Registro é de preenchimento obrigatório.', '', '', function () { $("#txtDTInicioRegistro").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        if (($("#chkPeriodoRegistro")[0].checked) && ($("#txtDTFimRegistro").val() == "")) {
+            showErro('O campo Período do Registro é de preenchimento obrigatório.', '', '', function () { $("#txtDTFimRegistro").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        if (($("#chkVigencia")[0].checked) && ($("#txtDTInicioVigencia").val() == "")) {
+            showErro('O campo Vigência no Período é de preenchimento obrigatório.', '', '', function () { $("#txtDTInicioVigencia").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        if (($("#chkVigencia")[0].checked) && ($("#txtDTFimVigencia").val() == "")) {
+            showErro('O campo Vigência no Período é de preenchimento obrigatório.', '', '', function () { $("#txtDTFimVigencia").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        if (!$("#chkMunicipal").is(":checked") && !$("#chkEstadual").is(":checked") && !$("#chkNacional").is(":checked") && !$("#chkIntermunicipal").is(":checked") && !$("#chkInterestadual").is(":checked")) {
+            showErro("Selecione pelo menos um(a) tipo de Abrangência.", null, null, function () { $("#chkMunicipal").focus(); });
+            return false;
+        }
+
+        if (!validarCEI($("#txtNRCEI")[0], false) && $("#txtNRCEI").val() != "") {
+            mask = "99999999999-9";
+            showErro('O valor informado no campo Matricula CEI está no formato inválido.', '', '', function () { $("#txtNRCEI").unmask(mask).select().mask(mask); });
+            return false;
+        }
+
+        mask = "99/99/9999";
+        if ($("#chkPeriodoRegistro")[0].checked) {
+            if ($.datepicker.parseDate('dd/mm/yy', $("#txtDTFimRegistro").val()) < $.datepicker.parseDate('dd/mm/yy', $("#txtDTInicioRegistro").val())) {
+                showErro('A data inicial deve ser anterior ou igual à data final.', '', '', function () { $("#txtDTInicioRegistro").unmask(mask).select().mask(mask); });
+                return false;
+            }
+
+            var dataFutura = $.datepicker.parseDate('dd/mm/yy', $("#txtDTInicioRegistro").val());
+            dataFutura.setFullYear(dataFutura.getFullYear() + 2);
+
+            if ($.datepicker.parseDate('dd/mm/yy', $("#txtDTFimRegistro").val()) > dataFutura) {
+                showErro('O intervalo máximo de pesquisa é de dois anos.', '', '', function () { $("#txtDTFimRegistro").unmask(mask).select().mask(mask); });
+                return false;
+            }
+        }
+
+        if ($("#chkVigencia")[0].checked) {
+            if ($.datepicker.parseDate('dd/mm/yy', $("#txtDTFimVigencia").val()) < $.datepicker.parseDate('dd/mm/yy', $("#txtDTInicioVigencia").val())) {
+                showErro('A data inicial deve ser anterior ou igual à data final.', '', '', function () { $("#txtDTInicioVigencia").unmask(mask).select().mask(mask); });
+                return false;
+            }
+
+            var dataFutura = $.datepicker.parseDate('dd/mm/yy', $("#txtDTInicioVigencia").val());
+            dataFutura.setFullYear(dataFutura.getFullYear() + 1);
+
+            if ($.datepicker.parseDate('dd/mm/yy', $("#txtDTFimVigencia").val()) > dataFutura) {
+                showErro('O intervalo máximo de pesquisa é de um ano.', '', '', function () { $("#txtDTFimVigencia").unmask(mask).select().mask(mask); });
+                return false;
+            }
+        }
+        if ($("#txtNOTituloClausula").val() != "") {
+            if ($("#txtNOTituloClausula").val().length < 4) {
+                showErro('Deve ser informado no mínimo 4 caracteres no campo Palavra do Título.', null, null, function () { $("#txtNOTituloClausula").select().focus(); });
+                return false;
+            }
+        }
+
+        if (!$("#cboSTVigencia").val()) {
+            showErro("O campo Vigência é de preenchimento obrigatório.");
+            return false;
+        }
+
+        if ($("#cboTPRequerimento").val() == "") {
+            var baseTerritorialSelecionada = escolherTipoBase();
+            if (!$("#txtNRCNPJ").val() && !$("#txtNRCEI").val() && !$("#txtNORazaoSocial").val() &&
+                !$("#txtDSCategoria").val() && !$("#cboUFRegistro").val() && !$("#txtDTInicioRegistro").val() &&
+                !$("#txtDTFimRegistro").val() && !$("#txtDTInicioVigencia").val() && !$("#txtDTFimVigencia").val() &&
+                !$("#cboGrupoClausula").val() && !$("#cboSubGrupoClausula").val() && !$("#txtNOTituloClausula").val() &&
+                baseTerritorialSelecionada == "Todos os tipos" && !$("#btnExcluirTodos").is(':visible')
+            ) {
+                showErro("Informe pelo menos um parâmetro.");
+                return false;
+            }
+        }
+        return true;
+    }
+
+    objDialogOptionsMunicipiosAbrangencia = {
+        autoOpen: false,
+        modal: true,
+        position: "center",
+        title: "Município por UF",
+        resizable: false,
+        closeOnEscape: false,
+        width: 400,
+        open: function (event, ui) {
+            $('body').css('overflow', 'hidden');
+            $(this.parentNode.parentNode).find(".ui-dialog-title").addClass("TituloBlocoForm Esquerda");
+            $(this.parentNode.parentNode).find(".ui-dialog-content").removeAttr("style").css({ "padding": "0px", "width": "auto", "border": "0px" });
+            $(this.parentNode.parentNode).find(".ui-dialog").css({ "border-style": "solid", "border-color": "#AA977F", "border-width": "2px", "padding": "0px" });
+            $(this.parentNode.parentNode).find(".ui-dialog-buttonpane").css({ "background-color": "#F1EEE9", "margin": "0px" }).removeClass("ui-widget-content");
+            $(this.parentNode.parentNode).find(".ui-dialog-titlebar").css({ "background-image": "", "-moz-border-radius": "0px", "background-color": "#92866F" }).removeClass("ui-widget-header");
+            $(this.parentNode.parentNode).find(".ui-dialog-buttonset").removeClass("ui-dialog-buttonset").attr("align", "center");
+            $(this.parentNode.parentNode).find(".ui-button").removeAttr("className").addClass("Botao").unbind('mouseenter mouseleave').css({ "background-image": "none", "padding-right": "2px", "padding-left": "2px" });
+            $(this.parentNode.parentNode).find(".ui-button-text").removeAttr("className").css({ "font-family": "arial, 'trebuchet ms', trebuchet, sans-serif" });
+            $(this.parentNode.parentNode).find("*").removeClass("ui-widget-content ui-widget-header ui-state-active ui-state-focus");
+        },
+        close: function (event, ui) { $('body').css('overflow', 'auto'); },
+        buttons: [{ text: "Fechar", click: function () { $(this).dialog("close"); } }]
+    };
+
+    function escolherTipoBase() {
+        var baseTerritorialSelecionada = new String("  ");
+        var total = 0;
+
+        if ($("#chkMunicipal")[0].checked) {
+            baseTerritorialSelecionada = "Municipal, ";
+            total++;
+        }
+
+        if ($("#chkIntermunicipal")[0].checked) {
+            baseTerritorialSelecionada = baseTerritorialSelecionada + "Intermunicipal, ";
+            total++;
+        }
+
+        if ($("#chkEstadual")[0].checked) {
+            baseTerritorialSelecionada = baseTerritorialSelecionada + "Estadual, ";
+            total++;
+        }
+
+        if ($("#chkInterestadual")[0].checked) {
+            baseTerritorialSelecionada = baseTerritorialSelecionada + "Interestadual, ";
+            total++;
+        }
+
+        if ($("#chkNacional")[0].checked) {
+            baseTerritorialSelecionada = baseTerritorialSelecionada + "Nacional, ";
+            total++;
+        }
+
+        if (total == 5) {
+            baseTerritorialSelecionada = "Todos os tipos  ";
+        }
+
+        if (total == 0) {
+            baseTerritorialSelecionada = "Nenhum tipo selecionado  ";
+        }
+
+        return $.trim(baseTerritorialSelecionada.substring(0, baseTerritorialSelecionada.length - 2));
+    }
+
+    function validacaoTipoBase() {
+        var baseTerritorialSelecionada = escolherTipoBase();
+
+        switch (baseTerritorialSelecionada) {
+            case "Nacional":
+                $("#cboUFAbrangenciaTerritorial").val("");
+                $("#cboUFAbrangenciaTerritorial").attr("disabled", "disabled");
+                $("#cboUFAbrangenciaTerritorial").addClass("ReadOnly");
+                $("#btnSelecionarMunicipio").hide();
+                $("#btnAdicionarUF").hide();
+
+                break;
+
+            case "Interestadual":
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").show();
+                $("#btnAdicionarUF").show();
+
+                break;
+
+            case "Estadual":
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").hide();
+                $("#btnAdicionarUF").show();
+
+                break;
+
+            case "Intermunicipal":
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").show();
+                $("#btnAdicionarUF").show();
+
+                break;
+
+            case "Municipal":
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").show();
+                $("#btnAdicionarUF").show();
+
+                break;
+
+            case "Municipal, Intermunicipal":
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").hide();
+                $("#btnAdicionarUF").show();
+
+                break;
+
+            case "Municipal, Intermunicipal, Estadual":
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").show();
+                $("#btnAdicionarUF").show();
+
+                break;
+
+            default:
+                $("#cboUFAbrangenciaTerritorial").removeAttr('disabled');
+                $("#cboUFAbrangenciaTerritorial").removeClass("ReadOnly");
+                $("#btnSelecionarMunicipio").show();
+                $("#btnAdicionarUF").show();
+        }
+
+        funcRemoverTodos();
+    }
+
+    function detalhamento(html) {
+        $("#divConsultaDetalhada").html(html);
+        $("#divExibirConsultaDetalhada").show();
+        $("#divPrincipal").hide();
+        $("#divLinkConsultas").hide();
+    }
+
+    $(function () {
+        $("#btnLimpar").click(limparCampos);
+        $("#divPopUpAbrangenciaMunicipios").dialog(objDialogOptionsMunicipiosAbrangencia);
+        $("#btnAdicionarUF").click(funcHandlerBtnAdicionarUF);
+        $("#btnSelecionarMunicipio").click(funcHandlerBtnSelecionarMunicipio);
+        //$("#btnPesquisar").click(funcHandlerBtnPesquisar);
+
+        $("#txtDTInicioRegistro").MTEValidacaoCorporativoTxt({ funcValidacaoCorporativo: validarData, MensagemErro: "Data Inválida.", mininoCaracteres: 8 });
+        $("#txtDTFimRegistro").MTEValidacaoCorporativoTxt({ funcValidacaoCorporativo: validarData, MensagemErro: "Data Inválida.", mininoCaracteres: 8 });
+        $("#txtDTInicioVigencia").MTEValidacaoCorporativoTxt({ funcValidacaoCorporativo: validarData, MensagemErro: "Data Inválida.", mininoCaracteres: 8 });
+        $("#txtDTFimVigencia").MTEValidacaoCorporativoTxt({ funcValidacaoCorporativo: validarData, MensagemErro: "Data Inválida.", mininoCaracteres: 8 });
+    });
+</script>
+<div id="divPrincipal">
+    <div id="divPopUpAbrangenciaMunicipios">
+    </div>
+    <div id="divParticipante" class="BlocoForm">
+        <h2>
+            Participante</h2>
+        <div class="BlocoFormConteudo">
+            <input type="hidden" id="txtTeste" />
+            <table class="TbForm" width="100%">
+                <tbody>
+                    <tr>
+                        <tr>
+                            <td style="vertical-align: middle; height: 15px; width: 1px">
+                                <input class="SemBorda" style="padding-left: 5px; padding-top: 5px;" type="checkbox"
+                                    id="chkNRCNPJ" onclick="HabilitarCampo(0);" />
+                            </td>
+                            <td style="vertical-align: middle; height: 15px; width: 130px">
+                                CNPJ/CAEPF:
+                            </td>
+                            <td style="vertical-align: middle; height: 15px;">
+                                <input name="txtNRCNPJ" id="txtNRCNPJ" type="text" readonly="readonly" class="ReadOnly"
+                                    value="" size="16" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="vertical-align: middle; height: 15px; width: 1px">
+                                <input class="SemBorda" style="padding-left: 5px; padding-top: 5px;" type="checkbox"
+                                    id="chkNRCEI" onclick="HabilitarCampo(1);" />
+                            </td>
+                            <td style="vertical-align: middle; height: 15px; width: 130px">
+                                Matrícula CEI:
+                            </td>
+                            <td style="vertical-align: middle; height: 15px;">
+                                <input name="txtNRCEI" id="txtNRCEI" type="text" readonly="readonly" class="ReadOnly"
+                                    value="" size="13" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="vertical-align: middle; height: 15px; width: 1px">
+                                <input class="SemBorda" style="padding-left: 5px; padding-top: 5px;" type="checkbox"
+                                    id="chkNORazaoSocial" onclick="HabilitarCampo(2);" />
+                            </td>
+                            <td style="vertical-align: middle; height: 15px; width: 130px">
+                                Razão Social:
+                            </td>
+                            <td style="vertical-align: middle; height: 15px;">
+                                <input name="txtNORazaoSocial" id="txtNORazaoSocial" type="text" readonly="readonly"
+                                    class="ReadOnly" value="" size="60" />
+                            </td>
+                        </tr>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="divCategoria" class="BlocoForm">
+        <h2>
+            Categoria</h2>
+        <div class="BlocoFormConteudo">
+            <table class="TbForm" width="100%">
+                <tbody>
+                    <tr>
+                        <td style="vertical-align: middle; height: 15px; width: 1px">
+                            <input class="SemBorda" style="padding-left: 5px; padding-top: 5px;" type="checkbox"
+                                id="chkCategoria" onclick="HabilitarCampo(3);" />
+                        </td>
+                        <td style="vertical-align: middle; height: 15px; width: 130px">
+                            Categoria:
+                        </td>
+                        <td style="vertical-align: middle; height: 15px;">
+                            <input name="txtDSCategoria" id="txtDSCategoria" type="text" readonly="readonly"
+                                class="ReadOnly" value="" size="50" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="divFiltro" class="BlocoForm">
+        <div class="BlocoFormConteudo">
+            <table class="TbForm" width="100%">
+                <tbody>
+                    <tr>
+                        <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px;
+                            vertical-align: top">
+                            Tipo do Instrumento Coletivo:
+                        </td>
+                        <td style="vertical-align: middle; height: 15px;" id="tdTipoInstrumentoColetivo">
+                            <table>
+                                <tr>
+                                    <td>
+                                        <select id="cboTPRequerimento">
+                                            <option value="">Todos os Tipos</option>
+                                            <option value="acordo">Acordo
+                                                Coletivo</option>
+                                            <option value="acordoColetivoEspecificoPPE">Acordo
+                                                Coletivo Específico - Programa de Proteção ao Emprego</option>
+                                            <option value="acordoColetivoEspecificoDomingosFeriados">Acordo
+                                                Coletivo Específico - Autorização de Trabalho nos Domingos e Feriados</option>
+                                            <option value="convencao">Convenção
+                                                Coletiva</option>
+                                            <option value="termoAditivoAcordo">
+                                                Termo Aditivo de Acordo Coletivo</option>
+                                            <option value="termoAditivoConvecao">
+                                                Termo Aditivo de Convenção Coletiva</option>
+                                            <option value="termoAditivoAcordoEspecificoPPE">
+                                                Termo Aditivo de Acordo Coletivo Programa de Proteção ao Emprego</option>
+                                            <option value="termoAditivoAcordoEspecificoDomingoFeriado">
+                                                Termo Aditivo de Acordo Coletivo - Autorização de Trabalho nos Domingos e Feriados</option>
+                                        </select>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px">
+                            Vigência:
+                        </td>
+                        <td style="vertical-align: middle; height: 15px;">
+                            <select name="cboSTVigencia" id="cboSTVigencia">
+                                <option value="" selected="selected">Selecione</option>
+                                <option value="2">Todos</option>
+                                <option value="1" >Vigentes</option>
+                                <option value="0">Não Vigentes</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px">
+                            UF de Registro:
+                        </td>
+                        <td style="vertical-align: middle">
+                            <select name="cboUFRegistro" id="cboUFRegistro">
+                                <option value="" selected="selected"></option>
+                                <option value='SRT'>SRT</option>
+                                <option value='AC'>AC</option>
+                                <option value='AL'>AL</option>
+                                <option value='AM'>AM</option>
+                                <option value='AP'>AP</option>
+                                <option value='BA'>BA</option>
+                                <option value='CE'>CE</option>
+                                <option value='DF'>DF</option>
+                                <option value='ES'>ES</option>
+                                <option value='GO'>GO</option>
+                                <option value='MA'>MA</option>
+                                <option value='MG'>MG</option>
+                                <option value='MS'>MS</option>
+                                <option value='MT'>MT</option>
+                                <option value='PA'>PA</option>
+                                <option value='PB'>PB</option>
+                                <option value='PE'>PE</option>
+                                <option value='PI'>PI</option>
+                                <option value='PR'>PR</option>
+                                <option value='RJ'>RJ</option>
+                                <option value='RN'>RN</option>
+                                <option value='RO'>RO</option>
+                                <option value='RR'>RR</option>
+                                <option value='RS'>RS</option>
+                                <option value='SC'>SC</option>
+                                <option value='SE'>SE</option>
+                                <option value='SP'>SP</option>
+                                <option value='TO'>TO</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            <table cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <input class="SemBorda" style="padding-left: 5px" type="checkbox" id="chkPeriodoRegistro"
+                                            onclick="HabilitarCampo(4);" />
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px; width: 130px">
+                                        Per&iacute;odo do Registro de:
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <input name="txtDTInicioRegistro" id="txtDTInicioRegistro" class="ReadOnly" readonly="readonly"
+                                            value="" size="10" />
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        até
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <input name="txtDTFimRegistro" id="txtDTFimRegistro" class="ReadOnly" readonly="readonly"
+                                            value="" size="10" />
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <input class="SemBorda" style="padding-left: 5px" type="checkbox" id="chkVigencia"
+                                            onclick="HabilitarCampo(5);" />
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px; width: 130px">
+                                        Vigência no Per&iacute;odo de:
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <input name="txtDTInicioVigencia" id="txtDTInicioVigencia" class="ReadOnly" readonly="readonly"
+                                            value="" size="10" />
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        até
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <input name="txtDTFimVigencia" id="txtDTFimVigencia" class="ReadOnly" readonly="readonly"
+                                            value="" size="10" />
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="vertical-align: top; height: 15px; width: 150px; padding-left: 5px">
+                            Abrang&ecirc;ncia:
+                        </td>
+                        <td style="vertical-align: top; height: 15px;">
+                            <table>
+                                <tr style="height: 10px">
+                                    <td style="vertical-align: top">
+                                        <input class="SemBorda" type="checkbox" id="chkMunicipal" onclick="validacaoTipoBase();"
+                                            checked="checked" />
+                                    </td>
+                                    <td style="width: 80px; vertical-align: middle">
+                                        Municipal
+                                    </td>
+                                    <td>
+                                        <input class="SemBorda" type="checkbox" id="chkEstadual" onclick="validacaoTipoBase();"
+                                            checked="checked" />
+                                    </td>
+                                    <td style="width: 80px; vertical-align: middle">
+                                        Estadual
+                                    </td>
+                                    <td>
+                                        <input class="SemBorda" type="checkbox" id="chkNacional" onclick="validacaoTipoBase();"
+                                            checked="checked" />
+                                    </td>
+                                    <td style="width: 80px; vertical-align: middle">
+                                        Nacional
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td>
+                                        <input class="SemBorda" type="checkbox" id="chkIntermunicipal" onclick="validacaoTipoBase();"
+                                            checked="checked" />
+                                    </td>
+                                    <td style="width: 80px; vertical-align: middle">
+                                        Intermunicipal
+                                    </td>
+                                    <td>
+                                        <input class="SemBorda" type="checkbox" id="chkInterestadual" onclick="validacaoTipoBase();"
+                                            checked="checked" />
+                                    </td>
+                                    <td style="width: 80px; vertical-align: middle">
+                                        Interestadual
+                                    </td>
+                                    <td colspan="2">
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px">
+                            Abrang&ecirc;ncia Territorial:
+                        </td>
+                        <td style="vertical-align: middle; height: 15px;">
+                            <table cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <select name="cboUFAbrangenciaTerritorial" id="cboUFAbrangenciaTerritorial">
+                                            <option value="" selected="selected"></option>
+                                            <option value='AC'>AC</option>
+                                            <option value='AL'>AL</option>
+                                            <option value='AM'>AM</option>
+                                            <option value='AP'>AP</option>
+                                            <option value='BA'>BA</option>
+                                            <option value='CE'>CE</option>
+                                            <option value='DF'>DF</option>
+                                            <option value='ES'>ES</option>
+                                            <option value='GO'>GO</option>
+                                            <option value='MA'>MA</option>
+                                            <option value='MG'>MG</option>
+                                            <option value='MS'>MS</option>
+                                            <option value='MT'>MT</option>
+                                            <option value='PA'>PA</option>
+                                            <option value='PB'>PB</option>
+                                            <option value='PE'>PE</option>
+                                            <option value='PI'>PI</option>
+                                            <option value='PR'>PR</option>
+                                            <option value='RJ'>RJ</option>
+                                            <option value='RN'>RN</option>
+                                            <option value='RO'>RO</option>
+                                            <option value='RR'>RR</option>
+                                            <option value='RS'>RS</option>
+                                            <option value='SC'>SC</option>
+                                            <option value='SE'>SE</option>
+                                            <option value='SP'>SP</option>
+                                            <option value='TO'>TO</option>
+                                        </select>
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <button type="button" class="Botao" value="SelecionarMunicipio" id="btnSelecionarMunicipio"
+                                            name="btnSelecionarMunicipio">
+                                            Selecionar Município</button>
+                                    </td>
+                                    <td style="vertical-align: middle; height: 15px;">
+                                        <button type="button" class="Botao" value="AdicionarUF" id="btnAdicionarUF" name="btnAdicionarUF">
+                                            Adicionar UF</button>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2">
+                            
+<div id="divAbrangenciaSelecaoRegioes">
+    <script type="text/javascript">
+
+        function funcReloadAbrangencia(data) {
+            $("#divAbrangenciaSelecaoRegioes").html(data);
+        }
+
+        function funcShowDialogMunicipiosAbrangencia(data) {
+            $("#divPopUpAbrangenciaMunicipios").html(data).dialog("open"); ;
+        };
+
+        function funcConfirmarRemoverRegiaoSelecionada(ID) {
+            showOkCancel("Confirma a exclusão da UF/ Município?", function () { funcRemoverSelecionado(ID); }, null, null, null, null, "SIM", "NÃO");
+        }
+        
+        function funcRemoverSelecionado(ID) {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getPartAbrangenciaRemoverRegioes', { ID: ID }, funcReloadAbrangencia, "json");
+        }
+
+        function funcRemoverTodos() {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getPartAbrangenciaRemoverTodos');
+        }
+
+        function funcHandlerRemoverRegiaoAdicionadas() {
+            showOkCancel("Confirma a exclusão da(s) UF(s) / Município(s)?", funcRemoverSelecionados);
+        }
+
+        function funcHandlerCboUFAbrangenciaTerritorial() {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getPartAbrangenciaSelecionarUF', { uf: $(this).val() },
+                    function (data) {
+                        $("#AbrangenciaSelecaoRegioes").html(data);
+                        if ($("#cboUFAbrangenciaTerritorial").val() == "DF") $("#btnSelecionarMunicipio").hide();
+                    });
+        }
+
+        function funcDefinirAbrangenciaNacional(seraNacional) {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getPartAbrangenciaNacional', { ehNacional: seraNacional });
+        }
+
+        function funcHanlerChkBxAbrangerNacionalmente(checado) {
+            if (checado) {
+                showOkCancel("Alterando a abrangência territorial para Nacional todos os itens adicionados serão apagados.\nConfirma a alteração?", function () {
+                    funcDefinirAbrangenciaNacional(checado);
+                },
+                function () {
+                    $("#chkBxAbrangerNacionalmente").removeAttr("checked");
+                }
+                );
+            } else {
+                funcDefinirAbrangenciaNacional(checado);
+            }
+        }
+
+        function funcHandlerExcluirTodos() {
+            showOkCancel("Confirma a exclusão da(s) UF(s)/ Município(s)?", function() { funcRemoverTodos(); }, null, null, null, null, "SIM", "NÃO");
+        }
+        
+        $(function () {
+            $("#btnExcluirTodos").click(funcHandlerExcluirTodos);
+        });
+    </script>
+    <table class="TbForm" width="100%" cellpadding="0" cellspacing="0" border="0">
+        <tbody>
+            <tr>
+                <td style="vertical-align: top; height: 15px; width: 148px; padding-left: 5px">
+                    UF-Municípios Selecionados:
+                </td>
+                <td style="vertical-align: top; height: 15px;">
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="divClausulas" class="BlocoForm">
+        <h2>
+            Cláusulas</h2>
+        <div class="BlocoFormConteudo">
+            
+<div id="divClausulaGrupoESubgrupo">
+    <script type="text/javascript">
+        function funcRefreshdivClausulaGrupoESubgrupo(html) {
+            $("#divClausulaGrupoESubgrupo").replaceWith(html);
+        }
+
+        function funcCboGrupoClausulaHandler() {
+            funcExecutaAjax('/sistemas/mediador/ConsultarInstColetivo/getSubGrupos', { CDGrupo: $("#cboGrupoClausula").val() }, funcRefreshdivClausulaGrupoESubgrupo);
+        }
+        function funcVerificarPreechimentoClausulasGrupoESubGrupo() {
+            verificarPreenchimento($("#cboGrupoClausula")[0]);
+            verificarPreenchimento($("#cboSubGrupoClausula")[0]);
+        }
+        $(function () {
+            funcVerificarPreechimentoClausulasGrupoESubGrupo();
+            $("#cboSubGrupoClausula").change(funcVerificarPreechimentoClausulasGrupoESubGrupo);
+            $("#cboGrupoClausula").change(funcCboGrupoClausulaHandler);
+        });
+    </script>
+    <table class="TbForm" width="100%">
+        <tbody>
+            <tr>
+                <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px">
+                    Grupo:
+                </td>
+                <td style="vertical-align: middle;">
+                    <select id="cboGrupoClausula" name="cboGrupoClausula" style="width: 416px;">
+                        <option  value=""></option>
+                            <option  value="1" >
+                                Sal&#225;rios, Reajustes e Pagamento
+                            </option>
+                            <option  value="2" >
+                                Gratifica&#231;&#245;es, Adicionais, Aux&#237;lios e Outros
+                            </option>
+                            <option  value="3" >
+                                Contrato de Trabalho – Admiss&#227;o, Demiss&#227;o, Modalidades
+                            </option>
+                            <option  value="4" >
+                                Rela&#231;&#245;es de Trabalho – Condi&#231;&#245;es de Trabalho, Normas de Pessoal e Estabilidades
+                            </option>
+                            <option  value="5" >
+                                Jornada de Trabalho – Dura&#231;&#227;o, Distribui&#231;&#227;o, Controle, Faltas
+                            </option>
+                            <option  value="6" >
+                                F&#233;rias e Licen&#231;as
+                            </option>
+                            <option  value="7" >
+                                Sa&#250;de e Seguran&#231;a do Trabalhador
+                            </option>
+                            <option  value="8" >
+                                Rela&#231;&#245;es Sindicais
+                            </option>
+                            <option  value="9" >
+                                Disposi&#231;&#245;es Gerais
+                            </option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px">
+                    SubGrupo:
+                </td>
+                <td style="vertical-align: middle;">
+                    <select id="cboSubGrupoClausula" style="width: 416px;" name="cboSubGrupoClausula" disabled=&#39;disabled&#39;>
+                        <option selected=&#39;selected&#39; value="">
+                        </option>
+                    </select>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+            <table class="TbForm" width="100%">
+                <tbody>
+                    <tr>
+                        <td style="vertical-align: middle; height: 15px; width: 150px; padding-left: 5px">
+                            Palavra do Título:
+                        </td>
+                        <td style="vertical-align: middle;">
+                            <input id="txtNOTituloClausula" name="txtNOTituloClausula" style="width: 416px; text-transform: uppercase;"
+                                                    class="textoMaiusculo" maxlength="75"
+                                                     />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div id="divBotoes" style="text-align: center">
+        <br />
+        <button type="button" class="Botao" value="Pesquisar" id="btnPesquisar" name="btnPesquisar">
+            Pesquisar</button>
+        <button type="button" class="Botao" value="Limpar" id="btnLimpar" name="btnLimpar">
+            Limpar</button>
+    </div>
+</div>
+<div class="BlocoForm" id="divExibirConsultaDetalhada" style="display: none">
+    <div id="divConsultaDetalhada" class="BlocoFormConteudo">
+    </div>
+</div>
+
+</div>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="rodape" style="height: 1px">
+            <div id="linhaRodape">
+    Todos os direitos reservados <acronym title="Ministerio do Trabalho e Emprego">MTE</acronym>
+    &copy; 1997-2026 - Versão 3.3.1
+</div>
+
+        </div>
+    </div>
+</body>
+</html>
