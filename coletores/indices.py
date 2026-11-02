@@ -50,7 +50,9 @@ def resumo(corpo: str, n: int = 450) -> str:
     corpo = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", corpo)          # links markdown
     corpo = re.sub(r"<br\s*/?>|\*\*|__", " ", corpo)
     corpo = re.sub(r"-\n(\w)", r"\1", corpo)                        # hifenização do PDF
-    return " ".join(corpo.split())[:n]
+    corpo = " ".join(corpo.split())
+    corpo = re.sub(r"^\d+\s+Tema\s+\d+\s+(?:\d{4}-\d{2}-\d{2}\s+)+", "", corpo)  # cabeçalho numérico do STJ
+    return corpo[:n]
 
 
 def item(p: Path, base: Path, repo: str, trib: str, tipo: str):
