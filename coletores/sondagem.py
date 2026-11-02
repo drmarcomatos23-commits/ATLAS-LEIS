@@ -61,11 +61,12 @@ ALVOS = [
 ]
 # Rodada 2: páginas guardadas na íntegra (_relatorios/bruto/) para calibrar os analisadores
 BRUTOS = [
-    "https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$orderby=Modified%20desc",
-    "https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$filter=substringof('RC',FileLeafRef)",
-    "https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('RCTema')/items?$top=5",
-    "https://www.in.gov.br/leiturajornal?secao=do1&data=27-10-2026",
-    "https://www.tjsp.jus.br/Enunciados",
+    "https://egov.santos.sp.gov.br/legis/documents/1",
+    "https://egov.santos.sp.gov.br/legis/documents/18",
+    "https://egov.santos.sp.gov.br/legis/documents/54",
+    "https://egov.santos.sp.gov.br/legis/documents/54/view",
+    "https://atos.cnj.jus.br/atos/detalhar/1",
+    "https://atos.cnj.jus.br/atos/detalhar/100",
 ]
 ALVOS = BRUTOS
 
