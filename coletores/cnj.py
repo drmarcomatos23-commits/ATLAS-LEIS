@@ -50,13 +50,13 @@ def texto_principal(f: dict) -> tuple[str, str]:
 def main():
     est = ler_estado(NOME)
     proximo, vazios = est.get("proximo", 1), est.get("vazios", 0)
-    s, pausa, prazo = sessao(), Pausa(1.0), Prazo(minutos_env(30))
+    s, pausa, prazo = sessao(retry_500=False), Pausa(1.0), Prazo(minutos_env(30))
     gravados = 0
     while not prazo.esgotado() and vazios < FIM_APOS_VAZIOS:
         try:
             pausa()
             r = s.get(BASE.format(id=proximo), timeout=60)
-            if r.status_code == 404 or "identificacao" not in r.text:
+            if r.status_code in (404, 500) or "identificacao" not in r.text:
                 vazios += 1
             else:
                 vazios = 0

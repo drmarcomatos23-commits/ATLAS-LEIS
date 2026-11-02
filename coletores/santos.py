@@ -60,7 +60,7 @@ def ficha(s, pausa, i):
     from bs4 import BeautifulSoup
     pausa()
     r = s.get(FICHA.format(id=i), timeout=60)
-    if r.status_code in (404, 410):
+    if r.status_code in (404, 410, 500):
         return None
     r.raise_for_status()
     sopa = BeautifulSoup(r.text, "html.parser")
@@ -97,7 +97,7 @@ def ler_cabecalho(h1: str):
 def main():
     est = ler_estado(NOME)
     proximo, vazios = est.get("proximo", 1), est.get("vazios", 0)
-    s, pausa, prazo = sessao(), Pausa(1.0), Prazo(minutos_env(40))
+    s, pausa, prazo = sessao(retry_500=False), Pausa(1.0), Prazo(minutos_env(40))
     gravados = 0
     while not prazo.esgotado() and vazios < FIM_APOS_VAZIOS:
         try:

@@ -18,7 +18,7 @@ jobs:
       matrix:
         coletor: [dou, tjsp, sefaz_sp, santos, cnj, sapl]
     env:
-      ATLAS_MINUTOS: "40"
+      ATLAS_MINUTOS: "150"   # carga inicial; depois de completa, cada coletor termina em minutos
     steps:
       - uses: actions/checkout@v4
         if: ${{ inputs.coletor == '' || inputs.coletor == matrix.coletor }}

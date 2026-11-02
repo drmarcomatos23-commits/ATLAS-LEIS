@@ -36,9 +36,11 @@ MESES = {m: i for i, m in enumerate(
      "setembro", "outubro", "novembro", "dezembro"], start=1)}
 
 
-def sessao() -> requests.Session:
+def sessao(retry_500: bool = True) -> requests.Session:
+    """retry_500=False para portais que respondem 500 a ID inexistente (LEGIS Santos, Atos CNJ)."""
     s = requests.Session()
-    retry = Retry(total=4, backoff_factor=1.5, status_forcelist=(429, 500, 502, 503, 504),
+    lista = (429, 500, 502, 503, 504) if retry_500 else (429, 502, 503, 504)
+    retry = Retry(total=4, backoff_factor=1.5, status_forcelist=lista, raise_on_status=False,
                   allowed_methods=("GET", "HEAD"), respect_retry_after_header=True)
     s.mount("https://", HTTPAdapter(max_retries=retry))
     s.mount("http://", HTTPAdapter(max_retries=retry))
