@@ -40,7 +40,8 @@ def trt2(s, pausa) -> int:
             sopa = BeautifulSoup(r.text, "html.parser")
             corpo = sopa.select_one("main, #content, .content, article") or sopa.body
             md = html_para_md(str(corpo))
-            itens = list(re.finditer(rf"^[#*\s]*{rotulo}\s*(?:N[º°o.]*\s*)?(\d+)", md, re.I | re.M))
+            itens = list(re.finditer(rf"^[#*\s]*{rotulo}\s*(?:N[º°o.]*\s*)?(\d+)", md, re.I | re.M)) \
+                or list(re.finditer(r"^\*\*\s*(\d+)\s*[-.–]", md, re.M))  # formato "**12 - Título.**"
             base = {"tribunal": "TRT2", "tipo": tipo, "versao_texto": "página de jurisprudência consolidada do TRT-2",
                     "fonte": BASE_TRT2 + pagina}
             n += gravar(f"jurisprudencia/trt2/{pagina}/{pagina}-compendio.md",
@@ -68,14 +69,29 @@ def trt2(s, pausa) -> int:
     return n
 
 
+TIPOS_CANDIDATOS = ["IRR", "RR", "IAC", "IRDR", "SIRDR", "SUM", "OJ", "PN", "TJP", "CT", "GR", "NT",
+                    "RG", "SV", "PUIL", "IAD", "ARGINC"]
+
+
 def bnp(s, pausa, orgao: str) -> int:
-    """Todos os precedentes do órgão no BNP (paginado). Grava um arquivo por precedente."""
+    """Precedentes do órgão no BNP, tipo a tipo (a API exige a lista de tipos e recusa códigos
+    desconhecidos com HTTP 400 — assim descobrimos quais existem)."""
+    n = 0
+    for tipo in TIPOS_CANDIDATOS:
+        try:
+            n += bnp_tipo(s, pausa, orgao, [tipo])
+        except Exception as e:
+            print(f"[trabalhista] BNP {orgao}/{tipo}: {str(e)[:80]}")
+    return n
+
+
+def bnp_tipo(s, pausa, orgao: str, tipos: list) -> int:
     n, pagina, total, contagem = 0, 1, None, {}
     while True:
         filtro = {"buscaGeral": "", "todasPalavras": "", "quaisquerPalavras": "", "semPalavras": "",
                   "trechoExato": "", "atualizacaoDesde": "", "atualizacaoAte": "", "cancelados": True,
                   "ordenacao": "Text", "nr": "", "pagina": pagina, "tamanhoPagina": 50,
-                  "orgaos": [orgao], "tipos": []}
+                  "orgaos": [orgao], "tipos": tipos}
         pausa()
         r = s.post(BNP, json={"filtro": filtro}, timeout=90, headers={"Accept": "application/json"})
         r.raise_for_status()
@@ -110,7 +126,7 @@ def bnp(s, pausa, orgao: str) -> int:
         pagina += 1
         if pagina > 400:
             break
-    print(f"[trabalhista] BNP {orgao}: total informado {total}; por tipo {contagem}")
+    print(f"[trabalhista] BNP {orgao}/{tipos[0]}: total informado {total}; por tipo {contagem}")
     return n
 
 
