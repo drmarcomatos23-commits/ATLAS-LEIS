@@ -32,16 +32,24 @@ TIPOS = re.compile(r"^(Lei|Lei Complementar|Decreto|Medida Provis[óo]ria|Emenda
                    r"Parecer Normativo|Resolu[çc][ãa]o|Portaria Normativa|S[úu]mula|Conv[êe]nio|"
                    r"Ajuste|Ato Normativo|Provimento|Ac[óo]rd[ãa]o)", re.I)
 TEMAS = re.compile(
-    r"ITBI|ITCMD|holding|sociedade limitada|sociedades? an[ôo]nima|registro empresarial|junta comercial|"
+    r"\b(?:ITBI|ITCMD|holding|sociedade limitada|sociedades? an[ôo]nima|registro empresarial|junta comercial|"
     r"integraliza[çc][ãa]o|ganho de capital|lucro presumido|lucro real|distribui[çc][ãa]o de lucros|"
     r"dividendos|juros sobre (o )?capital|heran[çc]a|sucess[ãa]o|doa[çc][ãa]o|invent[áa]rio|"
     r"registro de im[óo]veis|registros p[úu]blicos|cart[óo]rio|notari|incorpora[çc][ãa]o imobili|"
     r"IBS|CBS|Imposto Seletivo|reforma tribut|Simples Nacional|transa[çc][ãa]o tribut|"
-    r"planejamento tribut|IRPF|IRPJ|CSLL|PIS|Cofins|patrim[ôo]nio de afeta", re.I)
+    r"planejamento tribut|IRPF|IRPJ|CSLL|PIS/Pasep|Cofins|patrim[ôo]nio de afeta)", re.I)
+
+
+REGIONAL = re.compile(r"Regi[ãa]o Fiscal|Delegacia|Alf[âa]ndega|Inspetoria|Equipe|Superintend[êe]ncia Regional", re.I)
 
 
 def relevante(a: dict) -> bool:
     hier, tipo = a.get("hierarchyStr", ""), a.get("artType", "")
+    # atos de unidades regionais (habilitações, Repetro, alfândega) são individuais, não normativos
+    if re.search(r"Valores Mobili", hier) and re.match(r"Ato Declarat", tipo or "", re.I):
+        return False  # credenciamentos individuais da CVM
+    if REGIONAL.search(hier) and not re.match(r"Solu[çc][ãa]o de Consulta", tipo or "", re.I):
+        return False
     texto = " ".join(str(a.get(k, "")) for k in ("title", "titulo", "content", "subTitulo"))
     if TIPOS.match(tipo or "") and ORGAOS.search(hier):
         return True
