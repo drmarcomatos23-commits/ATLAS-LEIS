@@ -204,7 +204,7 @@ def gravar(caminho_rel: str, conteudo: str, coletor: str, resumo: dict) -> bool:
             return False
     destino.write_text(conteudo, encoding="utf-8")
     NOVIDADES.mkdir(exist_ok=True)
-    with open(NOVIDADES / f"{HOJE}.jsonl", "a", encoding="utf-8") as f:
+    with open(NOVIDADES / f"{HOJE}-{coletor}.jsonl", "a", encoding="utf-8") as f:
         f.write(json.dumps({"coletor": coletor, "evento": "nova" if novo else "alterada",
                             "arquivo": caminho_rel, **resumo}, ensure_ascii=False) + "\n")
     return True

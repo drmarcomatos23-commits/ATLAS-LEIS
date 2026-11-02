@@ -27,8 +27,7 @@ def ler(dias: int):
     hoje = dt.date.today()
     itens = []
     for i in range(dias):
-        p = NOVIDADES / f"{hoje - dt.timedelta(days=i)}.jsonl"
-        if p.exists():
+        for p in sorted(NOVIDADES.glob(f"{hoje - dt.timedelta(days=i)}*.jsonl")):
             itens += [json.loads(l) for l in p.read_text(encoding="utf-8").splitlines() if l.strip()]
     return itens
 

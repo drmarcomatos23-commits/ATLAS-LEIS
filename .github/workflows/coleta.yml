@@ -14,7 +14,7 @@ jobs:
     timeout-minutes: 170
     strategy:
       fail-fast: false
-      max-parallel: 1
+      max-parallel: 6
       matrix:
         coletor: [dou, tjsp, sefaz_sp, santos, cnj, sapl]
     env:
