@@ -69,8 +69,8 @@ def trt2(s, pausa) -> int:
     return n
 
 
-TIPOS_CANDIDATOS = ["IRR", "RR", "IAC", "IRDR", "SIRDR", "SUM", "OJ", "PN", "TJP", "CT", "GR", "NT",
-                    "RG", "SV", "PUIL", "IAD", "ARGINC"]
+# códigos aceitos pelo BNP com registros da Justiça do Trabalho (verificado em nov/2026)
+TIPOS_CANDIDATOS = ["IRR", "RR", "IAC", "IRDR", "SIRDR"]
 
 
 def bnp(s, pausa, orgao: str) -> int:
@@ -117,7 +117,7 @@ def bnp_tipo(s, pausa, orgao: str, tipos: list) -> int:
                         "versao_texto": "Banco Nacional de Precedentes do CNJ",
                         "atualizacao_fonte": reg.get("ultimaAtualizacao", ""), "fonte": BNP,
                         "id_fonte": reg.get("id", "")}
-                n += gravar(f"jurisprudencia/{orgao.lower()}/precedentes/{slug(tipo)}-{slug(nr)}.md",
+                n += gravar(f"jurisprudencia/{orgao.lower().replace('trt02', 'trt2')}/precedentes/{slug(tipo)}-{slug(nr)}.md",
                             montar_md(meta, titulo, "\n".join(corpo)), NOME,
                             {"tribunal": orgao, "tipo": nome_tipo, "numero": nr,
                              "ementa": meta["ementa"][:300], "situacao": meta["situacao"]})
@@ -133,7 +133,7 @@ def bnp_tipo(s, pausa, orgao: str, tipos: list) -> int:
 def main():
     s, pausa, n = sessao(), Pausa(1.2), 0
     n += trt2(s, pausa)
-    for orgao in ("TST", "TRT2"):
+    for orgao in ("TST", "TRT02", "TRT2"):  # o código do TRT-2 no BNP varia
         try:
             n += bnp(s, pausa, orgao)
         except Exception as e:
