@@ -14,7 +14,7 @@ from bs4 import BeautifulSoup
 
 from comum import (Pausa, Prazo, gravar, ler_estado, minutos_env, montar_md, registrar_falha,
                    salvar_estado, sessao)
-from santos_do import PASTA, atos, texto
+from santos_do import PASTA, atos, ementa_de, texto
 
 NOME = "peruibe_do"
 LISTA = "https://www.peruibe.sp.gov.br/diario-oficial-do-municipio-dom-e/"
@@ -51,21 +51,22 @@ def processar(s, pausa, url, ano, mes, numero, extra) -> int:
     rp.raise_for_status()
     txt, n, vistos = texto(rp.content), 0, set()
     ed = f"{numero}{'-extra' if extra else ''}"
-    for rotulo, num, trecho in atos(txt):
+    for rotulo, num, trecho, data in atos(txt):
         pasta, tipo = PASTA[rotulo]
+        if data[:4] < str(int(ano) - 1):
+            continue  # menção a norma antiga, não publicação do ato
         if (pasta, num) in vistos:
             continue
         vistos.add((pasta, num))
-        linhas = [l.strip() for l in trecho.splitlines() if l.strip()]
-        ementa = next((l for l in linhas[1:6] if len(l) > 25 and l.upper() == l), "")
-        titulo = f"{tipo} nº {num} – Município de Peruíbe (DOM-E ed. {ed})"
-        meta = {"titulo": titulo, "uf": "SP", "municipio": "Peruíbe", "tipo": tipo, "numero": num,
+        ementa = ementa_de(trecho)
+        titulo = f"{tipo} nº {num}, de {data[8:]}/{data[5:7]}/{data[:4]} – Município de Peruíbe"
+        meta = {"titulo": titulo, "uf": "SP", "municipio": "Peruíbe", "tipo": tipo, "numero": num, "data": data,
                 "ementa": ementa, "publicacao": f"DOM-E Peruíbe, edição {ed} ({mes}/{ano})",
                 "versao_texto": "texto extraído do PDF do Diário Oficial (original da publicação)",
                 "fonte": url, "arquivo": pdfs[0]}
         n += gravar(f"municipais/SP/peruibe/diario-oficial/{ano}/{mes}/edicao-{ed}/{pasta}-{num}.md",
                     montar_md(meta, titulo, trecho), NOME,
-                    {"municipio": "Peruíbe", "tipo": tipo, "numero": num, "data": f"{ano}-{mes}-01",
+                    {"municipio": "Peruíbe", "tipo": tipo, "numero": num, "data": data,
                      "ementa": ementa[:300]})
     return n
 

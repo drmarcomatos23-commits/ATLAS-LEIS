@@ -11,8 +11,8 @@ import re
 import subprocess
 import tempfile
 
-from comum import (Pausa, gravar, ler_estado, montar_md, registrar_falha, salvar_estado, sessao,
-                   texto_pdf)
+from comum import (Pausa, data_extenso, gravar, ler_estado, montar_md, registrar_falha, salvar_estado,
+                   sessao, texto_pdf)
 
 NOME = "santos_do"
 EDICAO = "https://diariooficial.santos.sp.gov.br/edicoes/inicio/download/{data}"
@@ -40,11 +40,29 @@ def atos(txt: str):
     for i, m in enumerate(marcas):
         fim = marcas[i + 1].start() if i + 1 < len(marcas) else len(txt)
         trecho = txt[m.start():min(fim, m.start() + 30000)].strip()
-        # descarta citações ("conforme a Lei nº ...") — o ato publicado tem promulgação/decretação logo depois
-        if not re.search(r"fa[çc]o saber|DECRETA|decreta:|promulgo|sanciono", trecho[:2500], re.I):
+        # descarta citações e republicações parciais: o ato publicado traz a data logo após a epígrafe
+        # ("LEI Nº 4.813 / DE 23 DE OUTUBRO DE 2026") e a promulgação/decretação em seguida
+        data = data_extenso(trecho[:160])
+        if not data or not re.search(r"fa[çc]o saber|DECRETA|decreta:|promulgo|sanciono", trecho[:1500], re.I):
             continue
         rotulo = " ".join(m.group(1).upper().split())
-        yield rotulo, m.group(2).replace(".", ""), trecho
+        yield rotulo, m.group(2).replace(".", ""), trecho, data
+
+
+def ementa_de(trecho: str) -> str:
+    """Bloco em maiúsculas entre a epígrafe/data/projeto e a fórmula de promulgação."""
+    linhas = [l.strip() for l in trecho.splitlines()[1:25] if l.strip()]
+    bloco = []
+    for l in linhas:
+        if re.search(r"Prefeit|faço saber|DECRETA|C[ÂA]MARA MUNICIPAL APROVOU", l, re.I):
+            break
+        if re.match(r"^(DE\s+\d|\(|CARLOS|AUTOR)", l, re.I) or l.endswith(")"):
+            if bloco:
+                break
+            continue
+        if l.upper() == l and len(l) > 3:
+            bloco.append(l)
+    return " ".join(bloco)[:600]
 
 
 def main(dias: int = 10):
@@ -67,15 +85,17 @@ def main(dias: int = 10):
                 continue
             txt, achados = texto(r.content), 0
             vistos = set()
-            for rotulo, numero, trecho in atos(txt):
+            for rotulo, numero, trecho, data in atos(txt):
                 pasta, tipo = PASTA[rotulo]
+                if data < (dia - dt.timedelta(days=120)).isoformat():
+                    continue  # menção a norma antiga quebrada em linha própria, não publicação do ato
                 if (pasta, numero) in vistos:
                     continue
                 vistos.add((pasta, numero))
-                linhas = [l.strip() for l in trecho.splitlines() if l.strip()]
-                ementa = next((l for l in linhas[1:6] if len(l) > 25 and l.upper() == l), "")
-                titulo = f"{tipo} nº {numero} – Município de Santos (DO de {dia:%d/%m/%Y})"
+                ementa = ementa_de(trecho)
+                titulo = f"{tipo} nº {numero}, de {data[8:]}/{data[5:7]}/{data[:4]} – Município de Santos"
                 meta = {"titulo": titulo, "uf": "SP", "municipio": "Santos", "tipo": tipo, "numero": numero,
+                        "data": data,
                         "ementa": ementa, "publicacao": f"Diário Oficial de Santos de {dia:%d/%m/%Y}",
                         "data_publicacao": dia.isoformat(),
                         "versao_texto": "texto extraído do PDF do Diário Oficial (original da publicação)",
@@ -83,7 +103,7 @@ def main(dias: int = 10):
                 total += gravar(f"municipais/SP/santos/diario-oficial/{dia:%Y/%m/%d}/{pasta}-{numero}.md",
                                 montar_md(meta, titulo, trecho), NOME,
                                 {"municipio": "Santos", "tipo": tipo, "numero": numero,
-                                 "data": dia.isoformat(), "ementa": ementa[:300]})
+                                 "data": data, "ementa": ementa[:300]})
                 achados += 1
             print(f"[santos_do] {dia}: {achados} leis/decretos")
             salvar_estado(NOME, {"ultimo": dia.isoformat()})
