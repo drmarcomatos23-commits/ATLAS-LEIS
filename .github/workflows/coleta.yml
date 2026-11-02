@@ -57,6 +57,11 @@ jobs:
           python coletores/boletim.py alertas
           f="_alertas/$(date +%F).md"
           if [ -f "$f" ]; then gh issue create --title "Alerta ATLAS-LEIS $(date +%d/%m/%Y)" --body-file "$f" --label alerta || gh issue create --title "Alerta ATLAS-LEIS $(date +%d/%m/%Y)" --body-file "$f"; fi
+      - name: Índices para o Atlas Contencioso (módulo ATLAS LAW)
+        run: |
+          git clone -q --depth 1 --filter=blob:none --sparse https://github.com/ctresb/leis /tmp/ctresb
+          git -C /tmp/ctresb sparse-checkout set jurisprudencia/tst jurisprudencia/stj jurisprudencia/stf/sumulas-vinculantes jurisprudencia/stf/repercussao-geral
+          CTRESB=/tmp/ctresb python coletores/indices.py
       - name: Boletim semanal (segundas)
         run: |
           if [ "$(TZ=America/Sao_Paulo date +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python coletores/boletim.py semanal; fi
