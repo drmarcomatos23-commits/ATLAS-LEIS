@@ -29,7 +29,7 @@ def ler(dias: int):
     for i in range(dias):
         for p in sorted(NOVIDADES.glob(f"{hoje - dt.timedelta(days=i)}*.jsonl")):
             itens += [json.loads(l) for l in p.read_text(encoding="utf-8").splitlines() if l.strip()]
-    return itens
+    return [n for n in itens if (RAIZ / n["arquivo"]).exists()]  # ignora o que foi depurado
 
 
 def linha(n: dict) -> str:
