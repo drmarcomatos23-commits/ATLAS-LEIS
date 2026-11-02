@@ -4,7 +4,7 @@ on:
     - cron: "17 8 * * *"   # 05:17 em Brasília, todos os dias
   workflow_dispatch:
     inputs:
-      coletor: {description: "Rodar só um coletor (dou, santos_do, tjsp, trabalhista, paginas, sefaz_sp, santos, cnj, sapl)", required: false, default: ""}
+      coletor: {description: "Rodar só alguns coletores, separados por vírgula (dou, santos_do, tjsp, trabalhista, paginas, sefaz_sp, santos, cnj, sapl)", required: false, default: ""}
 permissions:
   contents: write
 concurrency: {group: coleta, cancel-in-progress: false}
@@ -21,17 +21,17 @@ jobs:
       ATLAS_MINUTOS: "150"   # carga inicial; depois de completa, cada coletor termina em minutos
     steps:
       - uses: actions/checkout@v4
-        if: ${{ inputs.coletor == '' || inputs.coletor == matrix.coletor }}
+        if: ${{ inputs.coletor == '' || contains(format(',{0},', inputs.coletor), format(',{0},', matrix.coletor)) }}
       - uses: actions/setup-python@v5
-        if: ${{ inputs.coletor == '' || inputs.coletor == matrix.coletor }}
+        if: ${{ inputs.coletor == '' || contains(format(',{0},', inputs.coletor), format(',{0},', matrix.coletor)) }}
         with: {python-version: "3.12", cache: pip}
-      - if: ${{ inputs.coletor == '' || inputs.coletor == matrix.coletor }}
+      - if: ${{ inputs.coletor == '' || contains(format(',{0},', inputs.coletor), format(',{0},', matrix.coletor)) }}
         run: |
           sudo apt-get install -y -qq antiword poppler-utils >/dev/null
           pip install -r requirements.txt
           python coletores/${{ matrix.coletor }}.py
       - name: Gravar no acervo
-        if: ${{ always() && (inputs.coletor == '' || inputs.coletor == matrix.coletor) }}
+        if: ${{ always() && (inputs.coletor == '' || contains(format(',{0},', inputs.coletor), format(',{0},', matrix.coletor))) }}
         run: |
           git config user.name "atlas-leis-bot"
           git config user.email "atlas-leis-bot@users.noreply.github.com"
