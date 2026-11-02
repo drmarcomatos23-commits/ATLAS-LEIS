@@ -8,11 +8,13 @@ no mesmo formato (cabeçalho YAML + texto) e na mesma estrutura de pastas, para 
 
 | Frente | Fonte | Pasta |
 |---|---|---|
-| Santos | LEGIS – Prefeitura de Santos | `municipais/SP/santos/` |
-| Baixada Santista | SAPL das Câmaras (Praia Grande, Guarujá, Cubatão, Bertioga, Mongaguá, Itanhaém, Peruíbe) | `municipais/SP/<municipio>/` |
-| Cartórios e registro | Atos do CNJ / Corregedoria Nacional (Código Nacional de Normas) | `reguladores/cnj/` |
-| Tributário administrativo | SEFAZ-SP (respostas a consultas), CARF, Receita | *em calibração* |
-| TJ-SP | Súmulas, IRDR, Normas da Corregedoria | *em calibração* |
+| Santos | LEGIS – Prefeitura de Santos; Diário Oficial de Santos (vigia diária) | `municipais/SP/santos/`, `municipais/SP/santos/diario-oficial/` |
+| Baixada Santista | SAPL das Câmaras de Praia Grande e Bertioga; DOM-E de Peruíbe | `municipais/SP/<municipio>/` |
+| Cartórios e registro | Atos do CNJ / Corregedoria Nacional; instruções normativas e manuais do DREI | `reguladores/cnj/`, `reguladores/drei/` |
+| Tributário administrativo | SEFAZ-SP (respostas a consultas, decisões normativas, portarias CAT) | `estaduais/SP/sefaz/` |
+| TJ-SP | Súmulas, enunciados (inclusive Câmaras Empresariais), temas de IRDR | `jurisprudencia/tjsp/` |
+| Trabalhista | TRT-2 (súmulas, OJs, precedentes normativos, teses prevalecentes); precedentes do TST e TRT-2 no BNP/CNJ (IRR, IAC); Normas Regulamentadoras do MTE | `jurisprudencia/trt2/`, `jurisprudencia/tst/precedentes/`, `reguladores/mte/normas-regulamentadoras/` |
+| Federal (novidades) | DOU Seção 1 filtrado pelas áreas do escritório | `dou/` |
 
 ## Como funciona
 - **Coleta diária** (`.github/workflows/coleta.yml`, 05:17 de Brasília): cada coletor retoma de onde parou
