@@ -1,10 +1,10 @@
 # Fontes coletadas pelo ATLAS-LEIS. `upstream: true` = já coberto pelo ctresb/leis (não duplicar).
 sapl:
   - {municipio: "São Vicente", uf: SP, url: "https://sapl.saovicente.sp.leg.br", upstream: true}
-  - {municipio: "Praia Grande", uf: SP, url: "https://sapl.praiagrande.sp.leg.br", ativo: false}
+  - {municipio: "Praia Grande", uf: SP, url: "https://sapl.praiagrande.sp.leg.br"}
   - {municipio: "Guarujá", uf: SP, url: "https://sapl.guaruja.sp.leg.br", ativo: false}
-  - {municipio: "Cubatão", uf: SP, url: "https://sapl.cubatao.sp.leg.br", ativo: false}
-  - {municipio: "Bertioga", uf: SP, url: "https://sapl.bertioga.sp.leg.br", ativo: false}
+  - {municipio: "Cubatão", uf: SP, url: "https://sapl.cubatao.sp.leg.br", ativo: false, obs: "SAPL sem normas cadastradas (nov/2026)"}
+  - {municipio: "Bertioga", uf: SP, url: "https://sapl.bertioga.sp.leg.br"}
   - {municipio: "Mongaguá", uf: SP, url: "https://sapl.mongagua.sp.leg.br", ativo: false}
   - {municipio: "Itanhaém", uf: SP, url: "https://sapl.itanhaem.sp.leg.br", ativo: false}
   - {municipio: "Peruíbe", uf: SP, url: "https://sapl.peruibe.sp.leg.br", ativo: false}

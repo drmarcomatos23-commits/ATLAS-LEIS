@@ -61,17 +61,11 @@ ALVOS = [
 ]
 # Rodada 2: páginas guardadas na íntegra (_relatorios/bruto/) para calibrar os analisadores
 BRUTOS = [
-    "https://egov.santos.sp.gov.br/legis/documents/2864",
-    "https://egov.santos.sp.gov.br/legis/documents/filter",
-    "https://egov.santos.sp.gov.br/legis/topics",
-    "https://diariooficial.santos.sp.gov.br/edicoes/inicio/download/2026-10-30",
-    "https://atos.cnj.jus.br/atos/detalhar/6300",
-    "https://www.in.gov.br/leiturajornal?secao=do1&data=30-10-2026",
-    "https://legislacao.fazenda.sp.gov.br/_api/web/lists?$select=Title,ItemCount,Id,ItemCount&$top=200",
-    "https://legislacao.fazenda.sp.gov.br/Paginas/RespostasDeConsultas.aspx",
-    "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao",
-    "https://www.tjsp.jus.br/Jurisprudencia",
-    "https://www.tjsp.jus.br/NugepNac/Irdr",
+    "https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$orderby=Modified%20desc",
+    "https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$filter=substringof('RC',FileLeafRef)",
+    "https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('RCTema')/items?$top=5",
+    "https://www.in.gov.br/leiturajornal?secao=do1&data=27-10-2026",
+    "https://www.tjsp.jus.br/Enunciados",
 ]
 ALVOS = BRUTOS
 

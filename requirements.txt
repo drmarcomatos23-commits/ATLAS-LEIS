@@ -3,3 +3,5 @@ beautifulsoup4>=4.12
 markdownify>=0.11
 pypdf>=4.0
 pyyaml>=6.0
+docx2txt>=0.8
+striprtf>=0.0.26

@@ -8,12 +8,12 @@ from __future__ import annotations
 
 import re
 
-from comum import (Pausa, Prazo, data_extenso, gravar, html_para_md, ler_estado, minutos_env,
-                   montar_md, registrar_falha, salvar_estado, sessao, slug, texto_pdf)
+from comum import (Pausa, Prazo, data_br, data_extenso, gravar, ler_estado, minutos_env, montar_md,
+                   registrar_falha, salvar_estado, sessao, slug, texto_arquivo)
 
 BASE = "https://egov.santos.sp.gov.br/legis/documents/{id}/view"
 NOME = "santos_legis"
-FIM_APOS_VAZIOS = 300  # IDs seguidos inexistentes = fim da série
+FIM_APOS_VAZIOS = 400  # IDs seguidos inexistentes = fim da série
 
 TIPOS = [
     (r"EMENDA\s+[ÀA]\s+LEI\s+ORG[ÂA]NICA", "emendas-lei-organica", "Emenda à Lei Orgânica"),
@@ -52,55 +52,85 @@ def classificar(texto: str):
             "ementa": ementa, "epigrafe": " ".join(m.group(0).split())}
 
 
-def baixar(s, pausa, i):
+FICHA = "https://egov.santos.sp.gov.br/legis/documents/{id}"
+
+
+def ficha(s, pausa, i):
+    """Metadados da página do documento: título, ementa, publicação, etiquetas e nome do arquivo."""
+    from bs4 import BeautifulSoup
     pausa()
-    r = s.get(BASE.format(id=i), timeout=90, allow_redirects=True)
-    if r.status_code in (404, 410) or not r.content:
+    r = s.get(FICHA.format(id=i), timeout=60)
+    if r.status_code in (404, 410):
         return None
     r.raise_for_status()
-    ct = r.headers.get("content-type", "")
-    if r.content[:4] == b"%PDF" or "pdf" in ct:
-        return texto_pdf(r.content)
-    if "html" in ct:
-        if re.search(r"n[ãa]o encontrad|not found", r.text[:3000], re.I):
-            return None
-        return html_para_md(r.text)
-    return ""
+    sopa = BeautifulSoup(r.text, "html.parser")
+    h1 = sopa.find("h1")
+    if not h1:
+        return None
+    t = lambda sel: (sopa.select_one(sel).get_text(" ", strip=True) if sopa.select_one(sel) else "")
+    arquivo = ""
+    item = sopa.select_one("ul.list-group li div")
+    if item:
+        arquivo = item.find(string=True, recursive=False) or ""
+    return {"h1": " ".join(h1.get_text(" ").split()), "ementa": t("p.descricao"), "info": t("p.info"),
+            "tags": [b.get_text(strip=True) for b in sopa.select("p.tags .badge")],
+            "arquivo": arquivo.strip()}
+
+
+def ler_cabecalho(h1: str):
+    """'2009 » Lei Complementar n.º 667, de 29 de dezembro' -> tipo, número, data."""
+    ano, _, resto = h1.partition("»")
+    ano = ano.strip() if re.fullmatch(r"\d{4}", ano.strip()) else ""
+    resto = resto.strip() or h1
+    m = re.match(r"(.+?)\s+n\.?\s*[ºo°]*\s*([\d.]+)(?:\s*,?\s*de\s+(.+))?$", resto, re.I)
+    rotulo, numero, quando = (m.group(1), m.group(2).replace(".", ""), m.group(3) or "") if m else (resto, "", "")
+    pasta, tipo = "outros", rotulo.strip()
+    for padrao, p_, t_ in TIPOS:
+        if re.fullmatch(padrao, rotulo.strip().upper()):
+            pasta, tipo = p_, t_
+            break
+    data = data_extenso(f"{quando} de {ano}") if quando and ano else None
+    return {"pasta": pasta if numero else "consolidacoes-e-outros", "tipo": tipo, "numero": numero,
+            "data": data or "", "ano": ano or "sem-ano", "titulo": resto + (f" de {ano}" if ano and ano not in resto else "")}
 
 
 def main():
     est = ler_estado(NOME)
     proximo, vazios = est.get("proximo", 1), est.get("vazios", 0)
-    s, pausa, prazo = sessao(), Pausa(1.2), Prazo(minutos_env(40))
+    s, pausa, prazo = sessao(), Pausa(1.0), Prazo(minutos_env(40))
     gravados = 0
     while not prazo.esgotado() and vazios < FIM_APOS_VAZIOS:
         try:
-            texto = baixar(s, pausa, proximo)
+            f = ficha(s, pausa, proximo)
+            if f is None:
+                vazios += 1
+            else:
+                vazios = 0
+                c = ler_cabecalho(f["h1"])
+                pausa()
+                r = s.get(BASE.format(id=proximo), timeout=120)
+                texto = texto_arquivo(r.content, f["arquivo"], r.headers.get("content-type", "")) if r.ok else ""
+                if not texto.strip():
+                    texto = "> Arquivo sem camada de texto (provavelmente digitalizado). Consulte a `fonte`."
+                pub = data_br(f["info"]) or ""
+                meta = {"titulo": c["titulo"], "uf": "SP", "municipio": "Santos", "tipo": c["tipo"],
+                        "numero": c["numero"], "data": c["data"], "ementa": f["ementa"],
+                        "versao_texto": "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação",
+                        "publicacao": f["info"], "data_publicacao": pub, "fonte": FICHA.format(id=proximo),
+                        "arquivo": BASE.format(id=proximo), "id_fonte": f"santos-legis-{proximo}",
+                        "etiquetas": ", ".join(f["tags"])}
+                nome = (f"{c['pasta']}-{c['numero']}-{c['ano']}-legis-{proximo}.md" if c["numero"]
+                        else f"{slug(c['titulo'])[:80]}-legis-{proximo}.md")
+                caminho = f"municipais/SP/santos/{c['pasta']}/{c['ano']}/{nome}"
+                gravados += gravar(caminho, montar_md(meta, c["titulo"], texto), "santos",
+                                   {"municipio": "Santos", "tipo": c["tipo"], "numero": c["numero"],
+                                    "data": c["data"], "ementa": f["ementa"][:300]})
         except Exception as e:
             registrar_falha(NOME, proximo, repr(e))
-            texto = None
-        if texto is None:
-            vazios += 1
-        else:
-            vazios = 0
-            info = classificar(texto) or {"pasta": "_nao-classificados", "tipo": "Não classificado",
-                                          "numero": "", "data": "", "ano": "sem-ano", "ementa": "",
-                                          "epigrafe": f"Documento {proximo} do LEGIS Santos"}
-            titulo = info["epigrafe"].title() if info["numero"] else info["epigrafe"]
-            meta = {"titulo": titulo, "uf": "SP", "municipio": "Santos", "tipo": info["tipo"],
-                    "numero": info["numero"], "data": info["data"], "ementa": info["ementa"],
-                    "versao_texto": "arquivo publicado no LEGIS (Prefeitura de Santos); conferir compilação",
-                    "fonte": BASE.format(id=proximo), "id_fonte": f"santos-legis-{proximo}"}
-            nome_arq = (f"{info['pasta']}-{slug(info['numero'])}-{info['ano']}-legis-{proximo}.md"
-                        if info["numero"] else f"legis-{proximo}.md")
-            caminho = f"municipais/SP/santos/{info['pasta']}/{info['ano']}/{nome_arq}"
-            gravados += gravar(caminho, montar_md(meta, titulo, texto), "santos",
-                               {"municipio": "Santos", "tipo": info["tipo"], "numero": info["numero"],
-                                "data": info["data"], "ementa": info["ementa"][:300]})
         proximo += 1
         if proximo % 50 == 0:
             salvar_estado(NOME, {"proximo": proximo, "vazios": vazios})
-    if vazios >= FIM_APOS_VAZIOS:  # chegou ao fim: volta para o último ID existente e vigia os novos
+    if vazios >= FIM_APOS_VAZIOS:  # chegou ao fim: volta e passa a vigiar os IDs novos
         proximo, vazios = proximo - FIM_APOS_VAZIOS, 0
     salvar_estado(NOME, {"proximo": proximo, "vazios": vazios})
     print(f"[santos] {gravados} documentos gravados; próximo ID {proximo}")

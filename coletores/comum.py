@@ -147,6 +147,43 @@ def texto_pdf(conteudo: bytes) -> str:
         return f"[texto não extraído: {type(e).__name__}]"
 
 
+def texto_arquivo(conteudo: bytes, nome: str = "", tipo: str = "") -> str:
+    """Texto de PDF, DOC (antiword), DOCX, RTF ou HTML, conforme assinatura do arquivo."""
+    import subprocess
+    import tempfile
+    nome, tipo = (nome or "").lower(), (tipo or "").lower()
+    if conteudo[:4] == b"%PDF":
+        return texto_pdf(conteudo)
+    if conteudo[:4] == b"PK\x03\x04":  # docx / odt
+        try:
+            import docx2txt
+            with tempfile.NamedTemporaryFile(suffix=".docx") as f:
+                f.write(conteudo); f.flush()
+                return docx2txt.process(f.name) or ""
+        except Exception as e:
+            return f"[texto não extraído: {type(e).__name__}]"
+    if conteudo[:8] == b"\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1":  # .doc (OLE)
+        with tempfile.NamedTemporaryFile(suffix=".doc") as f:
+            f.write(conteudo); f.flush()
+            for cmd in (["antiword", "-w", "0", f.name], ["catdoc", "-w", f.name]):
+                try:
+                    r = subprocess.run(cmd, capture_output=True, timeout=120)
+                    if r.returncode == 0 and r.stdout.strip():
+                        return r.stdout.decode("utf-8", "replace")
+                except FileNotFoundError:
+                    continue
+        return "[texto não extraído: .doc sem conversor disponível]"
+    if conteudo[:5] == b"{\\rtf":
+        from striprtf.striprtf import rtf_to_text
+        return rtf_to_text(conteudo.decode("latin-1", "replace"))
+    if "html" in tipo or conteudo[:200].lstrip().lower().startswith((b"<!doctype", b"<html")):
+        return html_para_md(conteudo.decode("utf-8", "replace"))
+    try:
+        return conteudo.decode("utf-8")
+    except UnicodeDecodeError:
+        return conteudo.decode("latin-1", "replace")
+
+
 def html_para_md(html: str) -> str:
     from bs4 import BeautifulSoup
     from markdownify import markdownify
