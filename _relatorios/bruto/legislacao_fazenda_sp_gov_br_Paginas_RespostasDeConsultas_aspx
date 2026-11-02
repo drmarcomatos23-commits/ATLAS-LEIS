@@ -1,0 +1,1776 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html dir="ltr" class="ms-isBot" lang="pt-BR">
+    
+    
+    <head><meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <!--<meta charset="UTF-8" />-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" /><meta name="GENERATOR" content="Microsoft SharePoint" /><meta http-equiv="Content-type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" /><meta name="msapplication-TileColor" content="#ffffff" /><meta name="msapplication-TileImage" content="img/ms-icon-144x144.png" /><meta name="theme-color" content="#ffffff" /><meta property="og:image:type" content="image/jpeg" /><meta property="og:image" content="/PublishingImages/Estrutura/brasao250x250.png" />
+        <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.11.1.min.js">//<![CDATA[      
+                            
+                            
+                            
+                            
+                                
+                                
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js">//<![CDATA[
+                                
+                                
+                                
+                                
+                                
+                                
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript" src="https://ajax.aspnetcdn.com/ajax/bootstrap/3.3.5/bootstrap.min.js">//<![CDATA[
+                                       
+                                
+                                
+                                
+                                
+                                
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.8.3/underscore-min.js">//<![CDATA[       
+                                
+                                
+                                
+                                
+                                
+                                
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript">//<![CDATA[
+                                (window.jQuery) || document.write('\x3Cscript type="text/javascript" src="/BibliotecaDeScripts/jquery.min.js">\x3C/script>');
+                                (window.Modernizr) || document.write('\x3Cscript type="text/javascript" src="/Core/lib/modernizr/modernizr.custom.min.js">\x3C/script>');
+                                (window._) || document.write('\x3Cscript type="text/javascript" src="/BibliotecaDeScripts/underscore-min.js">\x3C/script>');
+                                (window.jQuery && window.jQuery.fn && window.jQuery.fn.modal) || document.write('\x3Cscript type="text/javascript" src="/Core/lib/bootstrap/js/bootstrap.min.js">\x3C/script>');               
+                                    
+                                
+                                
+                                
+                                
+                                
+                                
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript">// <![CDATA[ 
+
+var g_SPOffSwitches={};
+// ]]>
+</script>
+<script type="text/javascript" src="/bibliotecadescripts/arquivodeconfiguracao.js"></script>
+<script type="text/javascript" src="/_layouts/15/1046/initstrings.js?rev=FHUCKPAWXbC4ANXXEYQUaw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/init.js?rev=DYE3cedRmoawSt01VBdEbg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/bibliotecadescripts/plugins.js"></script>
+<script type="text/javascript" src="/bibliotecadescripts/pluginmenutopo.js"></script>
+<script type="text/javascript" src="/bibliotecadescripts/pluginmenutopoflutuante.js"></script>
+<script type="text/javascript" src="/bibliotecadescripts/pluginrodapetermos.js"></script>
+<script type="text/javascript" src="/bibliotecadescripts/functions.js"></script>
+<script type="text/javascript" src="/_layouts/15/theming.js?rev=1ynWt6nLEOEdBs3AwvIoMw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/ScriptResource.axd?d=NJmAwtEo3Ipnlaxl6CMhvpIRPnUFWtxS21WKsKMvkREeM_MQwGsq3nBfwUmHnQMQaJd1HA0MkXTKzG_DuSY8LIM-CilnLcnLIhJ59bXK3JNAgUocIbJ9Iw_hLlEQ7zstnK0rSYwzFR9Z9IZCkiHmqIH7jr1HgV7lcA9BM4PSZSs1&amp;t=5c0e0825"></script>
+<script type="text/javascript" src="/_layouts/15/blank.js?rev=E5awR%2Bfykt6gXvqtGE19XA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/1046/strings.js?rev=RCUILfFBD76%2Bl4x%2BdHMpMA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/1046/sp.res.js?rev=be%2Fug4jYeibkDZOaGD0KwQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.runtime.js?rev=gn1bgwGnSSrUbvO1caHCZQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.js?rev=PMf7njZbc8Nm3GKFDpwANA%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.init.js?rev=KQnMQPWHD%2BSGM95KBVXUJg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.ui.dialog.js?rev=1z5KO1B3h6J%2B%2FkJjbDQCbg%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/core.js?rev=vtdjq%2FlvuyzKJJob1Dc1SQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.core.js?rev=gUVctsjfaq%2F1h8zQ6UNkFw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/cui.js?rev=%2FRzCv%2BFQKUBPmgxHY56ekQ%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/clienttemplates.js?rev=pY197cLBjyA9E5D15QUTVw%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/inplview.js?rev=ApSfwlQx8y%2BHO0akuk0N5Q%3D%3DTAG0"></script>
+<script type="text/javascript" src="/_layouts/15/sp.ribbon.js?rev=1hiX7qMXnWVJely4KJv4bA%3D%3DTAG0"></script>
+<script type="text/javascript">RegisterSod("require.js", "\u002f_layouts\u002f15\u002frequire.js?rev=bv3fWJhk0uFGpVwBxnZKNQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("mQuery.js", "\u002f_layouts\u002f15\u002fmquery.js?rev=YiFSlddzACF6APr5AV8JLA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sharing.js", "\u002f_layouts\u002f15\u002fsharing.js?rev=hJGnqDBFlr\u00252FbOXAgOAhAyw\u00253D\u00253DTAG0");RegisterSodDep("sharing.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("~sitecollection/bibliotecadescripts/pluginacessibilidade.js", "\u002fbibliotecadescripts\u002fpluginacessibilidade.js");</script>
+<script type="text/javascript">RegisterSod("userprofile", "\u002f_layouts\u002f15\u002fsp.userprofiles.js?rev=J0M1pzLkfDXcJflabMvTYA\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("followingcommon.js", "\u002f_layouts\u002f15\u002ffollowingcommon.js?rev=oTJm5M3M5tEQNaPADF2qAw\u00253D\u00253DTAG0");RegisterSodDep("followingcommon.js", "userprofile");RegisterSodDep("followingcommon.js", "mQuery.js");</script>
+<script type="text/javascript">RegisterSod("profilebrowserscriptres.resx", "\u002f_layouts\u002f15\u002f1046\u002fprofilebrowserscriptres.js?rev=BAyVfyRBTlXh0W3HITo44g\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("sp.ui.mysitecommon.js", "\u002f_layouts\u002f15\u002fsp.ui.mysitecommon.js?rev=pj3X\u00252BVborHNas1qYiOC1fw\u00253D\u00253DTAG0");RegisterSodDep("sp.ui.mysitecommon.js", "userprofile");RegisterSodDep("sp.ui.mysitecommon.js", "profilebrowserscriptres.resx");</script>
+<script type="text/javascript">RegisterSod("browserScript", "\u002f_layouts\u002f15\u002fnon_ie.js?rev=H1GnnHRdOMP52x4IRrWVuQ\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("datepicker.js", "\u002f_layouts\u002f15\u002fdatepicker.js?rev=hLMLR3QM8e6kLfiVwsSDag\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("jsapiextensibilitymanager.js", "\u002f_layouts\u002f15\u002fjsapiextensibilitymanager.js?rev=Ox9qb9K50FoaMbrMe7x25w\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("ganttsharedapi.generated.js", "\u002f_layouts\u002f15\u002fganttsharedapi.generated.js?rev=\u00252FDVHhOS0nE1bluCuXvt4Gg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("ganttapishim.generated.js", "\u002f_layouts\u002f15\u002fganttapishim.generated.js?rev=j7j\u00252Bks22xL0poFm3RS1xPw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("autofill.js", "\u002f_layouts\u002f15\u002fautofill.js?rev=kP0EVxXTxPJgRu\u00252BveciPOw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("clientpeoplepicker.js", "\u002f_layouts\u002f15\u002fclientpeoplepicker.js?rev=s\u00252FuBhWWcKwDoD0ZB9Fse7A\u00253D\u00253DTAG0");RegisterSodDep("clientpeoplepicker.js", "autofill.js");</script>
+<script type="text/javascript">RegisterSod("clientforms.js", "\u002f_layouts\u002f15\u002fclientforms.js?rev=TC6f\u00252BfFkfLYuPbXuQT250A\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("createsharedfolderdialog.js", "\u002f_layouts\u002f15\u002fcreatesharedfolderdialog.js?rev=HF8falQd95dsiLFKPpemRg\u00253D\u00253DTAG0");RegisterSodDep("createsharedfolderdialog.js", "clientpeoplepicker.js");RegisterSodDep("createsharedfolderdialog.js", "clientforms.js");</script>
+<script type="text/javascript">RegisterSod("dragdrop.js", "\u002f_layouts\u002f15\u002fdragdrop.js?rev=0SYJoqIMMfGDlnnd9DpHdg\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("clientrenderer.js", "\u002f_layouts\u002f15\u002fclientrenderer.js?rev=tFrulgX6\u00252FvyP2PQ6M\u00252BBv2Q\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("srch.resources.resx", "\u002f_layouts\u002f15\u002f1046\u002fsrch.resources.js?rev=Rz9aq8g9\u00252Bt7yKW9jJPxHmw\u00253D\u00253DTAG0");</script>
+<script type="text/javascript">RegisterSod("search.clientcontrols.js", "\u002f_layouts\u002f15\u002fsearch.clientcontrols.js?rev=0kzWZa2ML4l7a7MHCcE1DA\u00253D\u00253DTAG0");RegisterSodDep("search.clientcontrols.js", "clientrenderer.js");RegisterSodDep("search.clientcontrols.js", "srch.resources.resx");</script>
+<link rel="image_src" href="/PublishingImages/Estrutura/brasao250x250.png" />
+        
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+	<script type="text/javascript" src="/BibliotecaDeScripts/commonScripts.js"></script>
+	<script type="text/javascript" src="/Core/lib/jquery/jquery.SPServices-2014.02.min.js"></script>
+	<script type="text/javascript" src="/Core/lib/owl-carousel/owl.carousel.js"></script>
+	<script type="text/javascript" src="/BibliotecaDeScripts/js.cookie.js"></script>
+	<script	type="text/javascript" src="/BibliotecaDeScripts/pluginsMenu3niveis.js"></script>
+	<script	type="text/javascript" src="/BibliotecaDeScripts/carrosselAnos.js"></script>
+	<script	type="text/javascript" src="/BibliotecaDeScripts/carrosselAnosRC.js"></script>
+	<script	type="text/javascript" src="/BibliotecaDeScripts/pluginPesquisaEm.js"></script>
+	<script type="text/javascript" src="/BibliotecaDeScripts/pluginReplacePesqLegis.js"></script>
+	
+	<link rel="stylesheet" type="text/css" href="/Core/stylesheets/main.css"/>
+	<link rel="stylesheet" type="text/css" href="/Core/lib/fontawesome/css/font-awesome.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/Core/stylesheets/PesqLegisHome.min.css" id="CssRegistrationHome"/>
+	<link rel="stylesheet" type="text/css" href="/Core/stylesheets/home-colorblind.min.css" id="CssRegistrationHomeCB"/>
+	<link rel="stylesheet" type="text/css" href="/Core/lib/owl-carousel/assets/owl.carousel.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/Core/lib/owl-carousel/assets/owl.theme.default.min.css"/>
+	<link rel="stylesheet" type="text/css" href="/Core/stylesheets/PesqLegisCarroselAnos.css"/>
+	
+	
+
+        <link rel="canonical" href="https://legislacao.fazenda.sp.gov.br:443/Paginas/RespostasDeConsultas.aspx" /><meta name="google-site-verification" content="5s1Z6Q7QPMMwJwWAgXh7ZvDURGkPEsGrcwyHfeFd5bc" />
+        <title>
+	
+	Respostas De Consultas
+
+</title><link id="CssLink-db71d43d8be24debb273746915e3016a" rel="stylesheet" type="text/css" href="/_layouts/15/1046/styles/Themable/corev15.css?rev=7WmXZNPDDxInuOA6VnPX6A%3D%3DTAG0"/>
+<link id="CssLink-07ec9beb77d14864b27daa29781fadaa" rel="stylesheet" type="text/css" href="/_layouts/15/1046/styles/Themable/searchv15.css?rev=MIM4tXhRCYZ%2FTNFwn0J5yw%3D%3DTAG0"/>
+<link id="CssLink-b6d4fa9d91934d0eb6b2a8a172126391" rel="stylesheet" type="text/css" href="/Core/lib/bootstrap/css/bootstrap.min.css"/>
+<link id="CssLink-7ff578acb0fd42dbbe7a1a07b8ca8212" rel="stylesheet" type="text/css" href="/Core/stylesheets/Master.min2019.css"/>
+<link id="CssLink-0d5a91d3af69463787e580e56a1d4dcb" rel="stylesheet" type="text/css" href="/Core/stylesheets/main-formatstyle.min.css"/>
+<link id="CssLink-4e215fb8830c4dec91efc790f7076203" rel="stylesheet" type="text/css" href="/Core/stylesheets/main-colorblind.css"/>
+<link id="CssLink-d8838e7197b44b06a954cc73be5610e6" rel="stylesheet" type="text/css" href="/Core/stylesheets/colorBlind.css"/>
+<link id="CssLink-7779defe71e74d47a9eb81cea331c6f8" rel="stylesheet" type="text/css" href="/Core/fonts/lato.css"/>
+<link id="CssLink-f829ac0510824cf09452beabb6ec55d0" rel="stylesheet" type="text/css" href="/Core/stylesheets/topo-padrao-govsp.min.css"/>
+<link id="CssLink-afa9e47b590044619a3fa2c443bc4925" rel="stylesheet" type="text/css" href="/Core/stylesheets/barra-contraste-govsp.min.css"/>
+<link id="CssLink-92a4c349c63d4e6d907ef39ef27882ee" rel="stylesheet" type="text/css" href="/Core/stylesheets/rodape-padrao-govsp.min.css"/>
+<style id="SPThemeHideForms" type="text/css">body {opacity:0 !important}</style><link rel="shortcut icon" href="/Core/imgs/favicon/favicon.png" type="image/vnd.microsoft.icon" id="favicon" />
+        <!--RemovidoOMS-->
+       
+   <!-- Global site tag (gtag.js) - Google Analytics -->
+<script type="text/javascript" src="https://www.googletagmanager.com/gtag/js?id=G-0LCMLJ1WTJ">//<![CDATA[
+
+//]]></script>
+
+<script type="text/javascript">//<![CDATA[
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-0LCMLJ1WTJ');
+  
+//]]></script>
+
+       
+       
+        <script type="text/javascript">//<![CDATA[        
+                            
+                            var g_pageLoadAnimationParams = { elementSlideIn: "sideNavBox", elementSlideInPhase2: "contentBox" };
+                            var loadFallbackCss = function (cdnUrl, fallbackUrl, classToTest, propertyToTest, valueToTest) {
+                                var len = document.styleSheets.length;
+                                for (var i = 0; i < len; i++) {
+                                    var sheet = document.styleSheets[i];
+                                    if (sheet && sheet.href && sheet.href.indexOf(cdnUrl) !== -1) {
+                                        var meta = document.createElement('meta');
+                                        meta.className = classToTest;
+                                        document.head.appendChild(meta);
+                                        var value = window.getComputedStyle(meta).getPropertyValue(propertyToTest);
+                                        document.head.removeChild(meta);
+                                        if (value !== valueToTest) {
+                                            document.write('\x3Clink href="' + fallbackUrl + '" rel="stylesheet" type="text/css" />');
+                                            return;
+                                        }
+                                    }
+                                }
+                            };  
+                            
+                       
+                            
+                            
+                            
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        </head>
+    <body onhashchange="if (typeof(_spBodyOnHashChange) != 'undefined') _spBodyOnHashChange();"><form method="post" action="./RespostasDeConsultas.aspx" id="aspnetForm" onsubmit="if (typeof(_spFormOnSubmitWrapper) != &#39;undefined&#39;) {return _spFormOnSubmitWrapper();} else {return true;}">
+<input type="hidden" name="_wpcmWpid" id="_wpcmWpid" value="" />
+<input type="hidden" name="wpcmVal" id="wpcmVal" value="" />
+<input type="hidden" name="MSOWebPartPage_PostbackSource" id="MSOWebPartPage_PostbackSource" value="" />
+<input type="hidden" name="MSOTlPn_SelectedWpId" id="MSOTlPn_SelectedWpId" value="" />
+<input type="hidden" name="MSOTlPn_View" id="MSOTlPn_View" value="0" />
+<input type="hidden" name="MSOTlPn_ShowSettings" id="MSOTlPn_ShowSettings" value="False" />
+<input type="hidden" name="MSOGallery_SelectedLibrary" id="MSOGallery_SelectedLibrary" value="" />
+<input type="hidden" name="MSOGallery_FilterString" id="MSOGallery_FilterString" value="" />
+<input type="hidden" name="MSOTlPn_Button" id="MSOTlPn_Button" value="none" />
+<input type="hidden" name="__REQUESTDIGEST" id="__REQUESTDIGEST" value="noDigest" />
+<input type="hidden" name="MSOSPWebPartManager_DisplayModeName" id="MSOSPWebPartManager_DisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_ExitingDesignMode" id="MSOSPWebPartManager_ExitingDesignMode" value="false" />
+<input type="hidden" name="MSOWebPartPage_Shared" id="MSOWebPartPage_Shared" value="" />
+<input type="hidden" name="MSOLayout_LayoutChanges" id="MSOLayout_LayoutChanges" value="" />
+<input type="hidden" name="MSOLayout_InDesignMode" id="MSOLayout_InDesignMode" value="" />
+<input type="hidden" name="_wpSelected" id="_wpSelected" value="" />
+<input type="hidden" name="_wzSelected" id="_wzSelected" value="" />
+<input type="hidden" name="MSOSPWebPartManager_OldDisplayModeName" id="MSOSPWebPartManager_OldDisplayModeName" value="Browse" />
+<input type="hidden" name="MSOSPWebPartManager_StartWebPartEditingName" id="MSOSPWebPartManager_StartWebPartEditingName" value="false" />
+<input type="hidden" name="MSOSPWebPartManager_EndWebPartEditing" id="MSOSPWebPartManager_EndWebPartEditing" value="false" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="xIgFF0FhlFkeCVYyGZw4saHzJClfQQVUUBt8e9SANVMCS/TeaJeIaU8lwjz6tlnxxVl5LPXyEHVVZ4vCuHemcy6AtCNh+krpdVEbt2jBv/T+qj34pDp3Cd+DmrCFWJtrnT2SgbGWVAmalgxBKVrvhomfAepVDufTm1pvXzxGKu1bV08fq0V4AvPIUz6oMjEXN+l59/EmA6krFnuHv9CxsFCwzY4yY4xTsPyage1cviT2nhTQXbjEHKv8d/jjk9fZwp0c0MsxJjTWYihcebkOs8oqH1maaEp9C+o551XX17eFxJVq1iR6cZAO2W0vCHRS1/f3oGemMuq/zG/eZAkNVOqRRRjlr2KhibKM2u6+MG8ajDEx/cit4PiSFo2vbnq40pjg0jg3+2MGyxoMoyN1qF6wSdRv0hyWjOWXRvFIuSoC5f1uk0Sx08H7dLXJmvSIpOMkhwnqTmL47AHNxN/ydUGImtTAIZRzmTId/jpokwGU4HMzadlPCp5ZzSVoxd5ViWLJl8ol65JRjiuNNwwCzQREyF+4D7/Z8qoQiczZ9DDFCKwdsB7D2ua+UknaewOE5cem1xDBrIfinz53i0BaG9ScbHRngq2nMOaLGBBCzVAl1loJ4fj3z5ic4Vq0aJyxFr6UlBQ+Ul9g9kKn2YXNZydbkShd4Qn/aUFNd5WgQM+Y0I/MEcEGxbvWUZy+UUnoYMIu+wznxNX5wDcGR7XlM4aigE2CEXfmrb5VaZ5hDIRbAOLgRYkYJVEQ0l1XBuFMypEyJyLhMDcDqhdO6ZR2ASdvDJRASC+ZCZ6NNBOGfJ0wsoxdcRbtto20aI7Z2GhnH+RHxz8LytJ0O14FnlT97Rd8Cps6yIOVDK3Qq47d3+4z78AV4cIWdc0WRpcFM0G3XASqOBZ71S9c8dR4UvnW7iwxGIC06UZ1mZd/LyxDG1NWrwFbiVodI6S2KpNLC7kitJEOqYmyL0OCXSOqs4m7P6+Pkf8UyyLsB3ivgP7SJTvxcoB9yj06+bJ+jVddHUZNg5ucanPgjG8SpQg+sftwTvH3VGXg8/RnZhP1YBK2rhvlaneYJ1QBXW+kT8qVQ9wENaVx5nlmCwmeUZ8HSZFWRYigf0OvrY4izRq/XGRm3Q7pMCRRHXXBy8HudjuOdzyViolYKN3G6sJZxTqEsnh+tZIDJFcoxGdsT88bvkPUgCHqMIFcCrshxKiujX3IPJlckR6OFZ0iUouJe83c43aWZDY1UApemjEyxHH+j5foCjW6U8UBjOYzXk7d6LJmziPbkaVoj1SiDEN3FjObJWmxD4NDMgF0/Nd+04LuF3jDpXfgsUcG+NPdFLE3iZcbOyWMSBQAGmU+76R1Vc2ApjrOOdG+ryHObIUOnXambSGtg0AJfc+Bbf1bI/77AIS0lrxPxgCCaaCmPHRkQSNjr9yahOrpZKq6CCzJtEsSBC6RYnkbR3jp02fEACgKGLBDSgk/jtslCEA0hxaJsc7fYIneByxF6+IPbKQn8NhijfOq5K6Jmh9RdzW8rt79I+fWHAbzNXn3A8yA7xepC8n+v5mtlWSZxdvsZeB23N8g+W20kdE2w0d82D+t/PgpL7pAXJiQX7oXkHNEtVgY0k9cG9LMyHAC0EZIVO/bequrYXfOZnOEZAkaJIlhD4TMK5S9099oJQb1Z7hjUqvDxTVl5QT3bj97GSi2tdb39EQSAleKqlCun/TqbUgwGRNmOLfUttE5yKbDY33VxjKuYjdQ8gDACpViGM7Womowsr0e+Agc6vbmu67VUd/LHNsbXoHuvOhz5faBzaNqlaubOJznJEc/kQqR1GI+LdSv06yFM+WKfGEB8pcsfIwcb/VVw8JByuM1IH7nl2btaZQKWtWEzxSLt4Gh4jUeMgWDjwlw/FaFNhl3np7N9HcNfn4TYTh/sKBSIA3O2mLrG01JfX5ypYSz0gng5fVlqbeTkYtgFjOGEyl4RkX5ZzqncW4m/7EViG0cLn+Cy/vbEs4jKB8aXREvRWlO7IWyvPTvLy/lkvCaEaOmlouqttCl76U0XkGf9ue1dqzkrO0rv3vnA5tw04yGqxlfd3ZlAOVMpA0TaewpYdRspPSiize+8fpI8442X87beXzps6ikYaSxMJIFmDay9MgK22KOgJBjdORWD1Cw8prswq314g/OIIIznM13kyrhgtOlNuK20CHo1IRWNwZKgq8pEi6xIydGkBqYXy7+whaxB2wFfFVvZcC2sVMBbwOs5+2qt4/I/F9Rwuqs2HTn/+mIoa/v5re+ULYouy781BscWBbUdPFTdES0+lJOAdCVUwYDYoe6KvHYyIhQtja5mAGscFKO26H8Uq35mMxCKCv0ELgclj1Hltc5butuuiiLm5udTmbyU7riU/CM3hUmlBVIFzH7hwWFdrrjAhGqlaQoUYSxQzu3ZIq7L2Wep6gASSpCS/renbH0fAeuzCklO647dSyYeI3KDGWA78PHXjUJYgUp4s0aR5Gm8Sq3OYZakklsAJ7HTL64cbwCvTAHYLnB6HMFIghCZeJjTbdhCFcxnr6fRTl4TUPlnF8Gydsvs9Ms/nP6vi9YwnH3Stl5B8vW9j25lTdABZm885i0KsxoZlLkxHz7RBNKgky2VdnWbJJYjYykIwwuR5luJYB5G20RVwjzrb3MyTAIHfoQtdrj0IS7USwVFd3lj3Y0yFz7fOY6R/8BOyyS3HRvjdgJPmRGa5btVDtAp7kiOAuIXLNsGwTiojP0AICVAv5fsghNo8NIoM3uCp//edISnMgnRP3uqR4GnwUGPYsGiRvPV3hno1/nzOihZMC0GFJgD2ZwYGm3pkPsdrKhrY6szmOtpjN6LvwBUcqAWMivQrrkFDMw//ygWLWMdVFf7sRuFDt+TKO7Ku9Ix3snQQQh/FWlH018K/7rXWXUXzExkX0444lwP1G/GPQHcBd0k60Eke44CnGndwSpLFt30PmBGbY1zw5hb1tAx4c7wxOi9vYtFLatLR+zTEysf+JaiPNfvCs0" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var MSOWebPartPageFormName = 'aspnetForm';
+var g_presenceEnabled = true;
+var g_wsaEnabled = false;
+
+var g_correlationId = '73e24aa2-1cd8-9038-8be1-cb15831c6e6f';
+var g_wsaQoSEnabled = false;
+var g_wsaQoSDataPoints = [];
+var g_wsaRUMEnabled = false;
+var g_wsaLCID = 1046;
+var g_wsaListTemplateId = 850;
+var g_wsaSiteTemplateId = 'BLANKINTERNET#0';
+var _spPageContextInfo={"webServerRelativeUrl":"/","webAbsoluteUrl":"https://legislacao.fazenda.sp.gov.br","viewId":"","listId":"{f286d0d1-5624-47da-a856-a8571296eb7f}","listPermsMask":{"High":16,"Low":196673},"listUrl":"/Paginas","listTitle":"Páginas","listBaseTemplate":850,"viewOnlyExperienceEnabled":false,"blockDownloadsExperienceEnabled":false,"idleSessionSignOutEnabled":false,"cdnPrefix":"","siteAbsoluteUrl":"https://legislacao.fazenda.sp.gov.br","siteId":"{032a1fc8-0291-4bc5-aeff-7efcca6d2c8c}","showNGSCDialogForSyncOnTS":false,"supportPoundStorePath":true,"supportPercentStorePath":true,"siteSubscriptionId":null,"CustomMarkupInCalculatedFieldDisabled":true,"AllowCustomMarkupInCalculatedField":false,"peoplePickerAutoSearchDelayMilliseconds":0,"peoplePickerRequireExplicitSearch":false,"isSPO":false,"farmLabel":null,"serverRequestPath":"/Paginas/RespostasDeConsultas.aspx","layoutsUrl":"_layouts/15","webId":"{da01092b-4e1b-4efd-b099-1333d8e98925}","webTitle":"Legislação","webTemplate":"53","webTemplateConfiguration":"BLANKINTERNET#0","webDescription":"Início","tenantAppVersion":"0","isAppWeb":false,"webLogoUrl":"_layouts/15/images/siteicon.png","webLanguage":1046,"currentLanguage":1046,"currentUICultureName":"pt-BR","currentCultureName":"pt-BR","currentCultureLCID":1046,"spDocIntelligence":{"isEnabled":false,"isDocSummarizeEnabled":false,"isDocTranslateEnabled":false},"env":null,"nid":0,"fid":0,"serverTime":"2026-11-02T11:17:20.9463856Z","siteClientTag":"1184$$16.0.20326.20190","crossDomainPhotosEnabled":false,"openInClient":false,"Has2019Era":true,"webUIVersion":15,"webPermMasks":{"High":16,"Low":196673},"pageListId":"{f286d0d1-5624-47da-a856-a8571296eb7f}","pageItemId":1358011,"pagePermsMask":{"High":16,"Low":196673},"pagePersonalizationScope":1,"userEmail":"","userId":0,"userLoginName":null,"userDisplayName":null,"isAnonymousUser":true,"isAnonymousGuestUser":false,"isEmailAuthenticationGuestUser":false,"isExternalGuestUser":false,"sideBysideToken":"","systemUserKey":null,"alertsEnabled":true,"siteServerRelativeUrl":"/","allowSilverlightPrompt":"True","themeCacheToken":"/::0:","themedCssFolderUrl":null,"themedImageFileNames":null,"modernThemingEnabled":true,"isSiteAdmin":false,"ExpFeatures":[480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65544,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0],"IsHybridEnabled":false,"SPOnPremFlights":[1737243,1635110,1608625,1615140,1574820,1551268,1554278,1536594,1451530,1437361,1293572,1281075,1266854,1262861,1263396,1261158,1245315,1242554,1241972,1232868,1227765,1225014,1220075,1218539,1175952,1174945,1165662,1159162,1149960,1149522,1113916,1111397,1101858,1099085,1086764,1080816,1079075,1075954,1073830,1073759,95255,1062921,1055593,1052809,1043614,1041859,1040063,1039112,1036486,1035189,1033993,1030381,1030382,1030364,1030362,1029854,1029586,1029565,1029556,1029555,1028671,1025113,1021288,1021275,1021274,1021272,1020637,1020043,1018275,1018016,1012433,1011886,1010592,1009740,1009585,1008744,1007603,1004459,1003886,1002806,1001164,116041,114176,114166,112973,108499,108186,107054,100994,100425,99885,99722,96075,94920],"InternalValidAuthorities":["legislacaoadm.intra.fazenda.sp.gov.br","legislacaoadm.intra.fazenda.sp.gov.br","legislacao.fazenda.sp.gov.br","admlegislacaofinanceira.intra.fazenda.sp.gov.br","admlegislacaofinanceira.intra.fazenda.sp.gov.br","legislacaofinanceira.fazenda.sp.gov.br","portaladm.intra.fazenda.sp.gov.br","portaladm.intra.fazenda.sp.gov.br","portal.fazenda.sp.gov.br"],"CorrelationId":"73e24aa2-1cd8-9038-8be1-cb15831c6e6f","hasManageWebPermissions":false,"isNoScriptEnabled":false,"groupId":null,"groupHasHomepage":true,"groupHasQuickLaunchConversationsLink":false,"departmentId":null,"hubSiteId":null,"hasPendingWebTemplateExtension":false,"isHubSite":false,"isWebWelcomePage":false,"siteClassification":"","hideSyncButtonOnODB":false,"showNGSCDialogForSyncOnODB":false,"sitePagesEnabled":false,"sitePagesFeatureVersion":0,"suiteNavInfo":{"suiteBarBackground":null,"suiteBarText":null,"suiteNavAccentColor":null,"suiteNavAllowCustom":false,"suiteNavAllowOverwrite":false,"suiteNavBrandingLogoNavigationUrl":null,"suiteNavBrandingLogoTitle":null,"suiteNavBrandingLogoUrl":null,"suiteNavBrandingText":null},"DesignPackageId":"00000000-0000-0000-0000-000000000000","groupType":null,"groupColor":"#e3068b","siteColor":"#e3068b","headerEmphasis":0,"navigationInfo":null,"guestsEnabled":false,"MenuData":{"SignInUrl":"/_layouts/15/Authenticate.aspx?Source=%2FPaginas%2FRespostasDeConsultas%2Easpx"},"RecycleBinItemCount":-1,"PublishingFeatureOn":true,"PreviewFeaturesEnabled":false,"disableAppViews":false,"disableFlows":false,"serverRedirectedUrl":null,"formDigestValue":null,"maximumFileSize":15360,"formDigestTimeoutSeconds":0,"canUserCreateMicrosoftForm":false,"canUserCreateVisioDrawing":true,"readOnlyState":null,"isTenantDevSite":false,"preferUserTimeZone":false,"userTimeZoneData":null,"userTime24":false,"userFirstDayOfWeek":null,"webTimeZoneData":null,"webTime24":false,"webFirstDayOfWeek":null,"isSelfServiceSiteCreationEnabled":null,"alternateWebAppHost":"","aadTenantId":"","aadUserId":"","aadInstanceUrl":"","msGraphEndpointUrl":"https://","allowInfectedDownload":true};_spPageContextInfo.updateFormDigestPageLoaded=new Date();_spPageContextInfo.clientServerTimeDelta=new Date(_spPageContextInfo.serverTime)-new Date();if(typeof(define)=='function'){define('SPPageContextInfo',[],function(){return _spPageContextInfo;});}document.onreadystatechange=fnRemoveAllStatus; function fnRemoveAllStatus(){removeAllStatus(true)};Flighting.ExpFeatures = [480216468,1884350801,1158731092,62197791,538521105,335811073,4194306,34614301,268500996,-1946025984,28445328,-2147475455,134291456,65544,288,950272,1282,808326148,134217873,0,0,-1073217536,545285252,18350656,-467402752,6291457,-2147483644,1074794496,-1728053184,1845537108,622628,4102,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0]; (function()
+{
+    if(typeof(window.SP) == "undefined") window.SP = {};
+    if(typeof(window.SP.YammerSwitch) == "undefined") window.SP.YammerSwitch = {};
+
+    var ysObj = window.SP.YammerSwitch;
+    ysObj.IsEnabled = false;
+    ysObj.TargetYammerHostName = "www.yammer.com";
+} )(); var _spWebPartComponents = new Object();_spWebPartComponents["WebPartWPQ1"] = new Object();_spWebPartComponents["WebPartWPQ1"].firstTabId = "Ribbon.Read";_spWebPartComponents["WebPartWPQ1"].contextualGroupCommands = ["LibraryContextualGroup"];_spWebPartComponents["WebPartWPQ1"].hasNonPromotedContextualGroups = true;_spWebPartComponents["WebPartWPQ1"].isDefaultWebPart = false;_spWebPartComponents["WebPartWPQ1"].pageComponentId = "WebPartWPQ1";_spWebPartComponents["WebPartWPQ1"].storageId="404c15c8-2db5-408d-99db-c7e7545c358f";//]]>
+</script>
+
+<script src="/_layouts/15/blank.js?rev=E5awR%2Bfykt6gXvqtGE19XA%3D%3DTAG0" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingCallout', function() { FollowingCallout(); });
+        });
+    })();(function(){
+
+        if (typeof(_spBodyOnLoadFunctions) === 'undefined' || _spBodyOnLoadFunctions === null) {
+            return;
+        }
+        _spBodyOnLoadFunctions.push(function() {
+            SP.SOD.executeFunc('core.js', 'FollowingDocument', function() { FollowingDocument(); });
+        });
+    })();if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();window.__SP_THEMING_EVAL_FIX_DISABLED=false;window.SPThemeUtils && SPThemeUtils.RegisterCssReferences([{"Url":"\u002f_layouts\u002f15\u002f1046\u002fstyles\u002fThemable\u002fcorev15.css?rev=7WmXZNPDDxInuOA6VnPX6A\u00253D\u00253DTAG0","OriginalUrl":"\u002f_layouts\u002f15\u002f1046\u002fstyles\u002fThemable\u002fcorev15.css?rev=7WmXZNPDDxInuOA6VnPX6A\u00253D\u00253DTAG0","Id":"CssLink-db71d43d8be24debb273746915e3016a","ConditionalExpression":"","After":"","RevealToNonIE":"false"},{"Url":"\u002f_layouts\u002f15\u002f1046\u002fstyles\u002fThemable\u002fsearchv15.css?rev=MIM4tXhRCYZ\u00252FTNFwn0J5yw\u00253D\u00253DTAG0","OriginalUrl":"\u002f_layouts\u002f15\u002f1046\u002fstyles\u002fThemable\u002fsearchv15.css?rev=MIM4tXhRCYZ\u00252FTNFwn0J5yw\u00253D\u00253DTAG0","Id":"CssLink-07ec9beb77d14864b27daa29781fadaa","ConditionalExpression":"","After":"","RevealToNonIE":"false"},{"Url":"\u002fCore\u002flib\u002fbootstrap\u002fcss\u002fbootstrap.min.css","OriginalUrl":"\u002fCore\u002flib\u002fbootstrap\u002fcss\u002fbootstrap.min.css","Id":"CssLink-b6d4fa9d91934d0eb6b2a8a172126391","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002fMaster.min2019.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002fMaster.min2019.css","Id":"CssLink-7ff578acb0fd42dbbe7a1a07b8ca8212","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002fmain-formatstyle.min.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002fmain-formatstyle.min.css","Id":"CssLink-0d5a91d3af69463787e580e56a1d4dcb","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002fmain-colorblind.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002fmain-colorblind.css","Id":"CssLink-4e215fb8830c4dec91efc790f7076203","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002fcolorBlind.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002fcolorBlind.css","Id":"CssLink-d8838e7197b44b06a954cc73be5610e6","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002ffonts\u002flato.css","OriginalUrl":"\u002fCore\u002ffonts\u002flato.css","Id":"CssLink-7779defe71e74d47a9eb81cea331c6f8","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002ftopo-padrao-govsp.min.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002ftopo-padrao-govsp.min.css","Id":"CssLink-f829ac0510824cf09452beabb6ec55d0","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002fbarra-contraste-govsp.min.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002fbarra-contraste-govsp.min.css","Id":"CssLink-afa9e47b590044619a3fa2c443bc4925","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"},{"Url":"\u002fCore\u002fstylesheets\u002frodape-padrao-govsp.min.css","OriginalUrl":"\u002fCore\u002fstylesheets\u002frodape-padrao-govsp.min.css","Id":"CssLink-92a4c349c63d4e6d907ef39ef27882ee","ConditionalExpression":"","After":"System.String[]","RevealToNonIE":"false"}]);
+//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="BAB98CB3" />
+        <div id="imgPrefetch" style="display:none">
+<img src="/_layouts/15/images/spcommon.png?rev=44" />
+<img src="/Core/imgs/favicon/favicon.png?rev=44" />
+</div>
+
+        <noscript><div class='noindex'>Você talvez esteja tentando acessar este site de um navegador seguro no servidor. Habilite os scripts e recarregue esta página.</div></noscript>
+        
+        <script type="text/javascript">//<![CDATA[
+                                
+                                var submitHook = function () { return false; }; theForm._spOldSubmit = theForm.submit; theForm.submit = function () { if (!submitHook()) { this._spOldSubmit(); } };
+                                 
+                         
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        
+        
+        <span id="DeltaDelegateControls">
+        
+        
+        </span>
+        <script type="text/javascript">// <![CDATA[ 
+
+
+        var g_Workspace = "s4-workspace";
+        // ]]>
+</script>
+        
+        
+        
+        
+        
+        
+        <div id="TurnOnAccessibility" style="display: none" class="s4-notdlg noindex">
+            <a id="linkTurnOnAcc" href="#" class="ms-TurnOnAcc" onclick="SetIsAccessibilityFeatureEnabled(true);UpdateAccessibilityUI();document.getElementById('linkTurnOffAcc').focus();return false;">
+                Ativar o modo mais acessível
+            </a>
+        </div>
+        <div id="TurnOffAccessibility" style="display: none" class="s4-notdlg noindex">
+            <a id="linkTurnOffAcc" href="#" class="ms-TurnOffAcc" onclick="SetIsAccessibilityFeatureEnabled(false);UpdateAccessibilityUI();document.getElementById('linkTurnOnAcc').focus();return false;">
+                Desativar o modo mais acessível
+            </a>
+        </div>
+        <div class="s4-notdlg s4-skipribbonshortcut noindex">
+            <a href="javascript:;" onclick="document.getElementById(&#39;startNavigation&#39;).focus();" class="ms-SkiptoNavigation" accesskey="Y">
+                Comando para Ignorar Faixa de Opções
+            </a>
+        </div>
+        <div class="s4-notdlg noindex">
+            <a href="javascript:;" onclick="document.getElementById(&#39;mainContent&#39;).focus();" class="ms-SkiptoMainContent" accesskey="X">
+                Ir para o conteúdo principal
+            </a>
+        </div>
+        <div id="TurnOffAnimation" style="display: none;" class="s4-notdlg noindex">
+            <a id="linkTurnOffAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+                Desligar Animações
+            </a>
+        </div>
+        <div id="TurnOnAnimation" style="display: none;" class="s4-notdlg noindex">
+            <a id="linkTurnOnAnimation" href="#" class="ms-accessible ms-acc-button" onclick="ToggleAnimationStatus();return false;">
+                Ligar Animações
+            </a>
+        </div>
+        <a id="HiddenAnchor" href="javascript:;" class="hidden">
+            <div class="hidden">Hidden 
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                
+                
+                
+            
+            </div>
+        </a>
+        <div id="ms-hcTest">
+        </div>
+        <div id="ms-designer-ribbon" class="ms-dialogHidden">
+            <div>
+	
+	<div id="s4-ribbonrow" style="visibility:hidden;display:none"></div>
+
+</div>
+
+
+            
+        </div>
+        <div id="s4-workspace" class="ms-core-overlay header_masterpadrao2019">
+            <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12 caixa-de-pesquisa-settings hidden">
+                
+                
+                
+                <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+	<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ2" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr" id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_sboxdiv"><input type="search" value="Pesquisar..." maxlength="2048" title="Pesquisar..." id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr').search($get('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText" role="combobox" aria-owns="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_AutoCompList" aria-haspopup="true" aria-autocomplete="list" aria-expanded="false" /><a title="Pesquisar" role="button" class="ms-srch-sb-searchLink" id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr').search($get('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_sbox').value);})" href="javascript: {}" aria-label="Pesquisar"><img src="/_layouts/15/images/searchresultui.png?rev=44#ThemeKey=searchresultui" class="ms-srch-sb-searchImg" id="searchImg" alt="Pesquisar" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_AutoCompList" role="listbox" aria-label="Sugestões"></div></div></div></div></div><noscript><div id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_noscript">Parece que seu navegador não possui JavaScript habilitado. Ative o JavaScript e tente novamente.</div></noscript><div id="ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26">
+		
+                
+	</div><div class="ms-clear"></div></div>
+</div>
+                
+                
+            </div>
+            <!-- Perioldo Eleitoral 2022 -->
+            <!-- div class="govsph-logo">
+                                </div -->
+            <!-- header -->
+            <section class="govsp-topo">
+                <div id="govsp-topbarGlobal" class="blu-e">
+                    <div id="topbarGlobal">
+                        <div id="topbarLink" class="govsp-black">
+                            <div class="govsp-portal">
+                                <a href="https://www.saopaulo.sp.gov.br" title="nova guia Site Governo do Estado de São Paulo" target="_blank">
+                                    <img src="https://saopaulo.sp.gov.br/barra-govsp/img/logo-governo-do-estado-sp.png" alt="logomarca Governo de São Paulo" height="38" class="logo" />
+                                </a>
+                            </div>
+                        </div>
+                        <nav class="govsp-navbar govsp-navbar-expand-lg">
+                            <a class="govsp-social" href="http://bit.ly/govspnozap">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-whatsapp.png" alt="Whatsapp Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.flickr.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-flickr.png" alt="Flickr Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.linkedin.com/company/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-linkedin.png" alt="Linkedin Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.tiktok.com/@governosp">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-tiktok.png" alt="TikTok Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.youtube.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-youtube.png" alt="Youtube Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.twitter.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-twitter.png" alt="Twitter Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.instagram.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-insta.png" alt="Instagram Governo do Estado de SP" />
+                            </a>
+                            <a class="govsp-social" href="https://www.facebook.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-facebook.png" alt="Facebook Governo do Estado de SP" />
+                            </a>
+                            <p class="govsp-social">/governosp
+                            
+                            </p>
+                            <a class="govsp-acessibilidade" title="nova guia" href="https://www.saopaulo.sp.gov.br/fale-conosco/comunicar-erros/" target="_blank">
+                                <img class="govsp-acessibilidade" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-error-report.png" alt="Comunicar um erro" />
+                            </a>
+                        </nav>
+                    </div>
+                    <button class="govsp-kebab" id="govsp-kebab" aria-expanded="false">
+                        <img src="https://saopaulo.sp.gov.br/barra-govsp/img/dots-menu.png" alt="Menu" />
+                    </button>
+                    <ul class="govsp-dropdown vs3" id="govsp-dropdown" aria-hidden="true">
+                        <li>
+                            <a class="govsp-social" role="button" href="http://bit.ly/govspnozap">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-whatsapp.png" alt="Whatsapp Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.flickr.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-flickr.png" alt="Flickr Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.linkedin.com/company/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-linkedin.png" alt="Linkedin Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.tiktok.com/@governosp">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-tiktok.png" alt="TikTok Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.twitter.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-twitter.png" alt="Twitter Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.youtube.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-youtube.png" alt="Youtube Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.instagram.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-insta.png" alt="Instagram Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <a class="govsp-social" role="button" href="https://www.facebook.com/governosp/">
+                                <img class="govsp-icon-social" src="https://saopaulo.sp.gov.br/barra-govsp/img/i-facebook.png" alt="Facebook Governo do Estado de SP" />
+                            </a>
+                        </li>
+                        <li>
+                            <p class="govsp-social">/governosp
+                            
+                            </p>
+                        </li>
+                    </ul>
+                </div>
+                <script src="https://saopaulo.sp.gov.br/barra-govsp/js/script-top-v2.js?vs=3.0">//<![CDATA[
+                
+                //]]></script>
+                <noscript>
+          Seu navegador não tem suporte a JavaScript ou está desativado!
+                
+                </noscript>
+            </section>
+            <div class="header-menu-container">
+                <div class="container fill">
+                    <div class="row">
+                        <div class="col-md-12 noindex" id="divMenuTopo">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- end:header -->
+            <article class="wrapper-content">
+                <div class="container fill">
+                    <div id="main">
+                        <div class="block">
+                            <div class="wrapper-breadcrumb noindex">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="content-breadcrumb">
+                                            <p class="font-14px font-steel pVoceEstaEm">
+                                                                    Você está em:      
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                        
+                                                                    
+                                                                    
+                                                                
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                    
+                                                    
+                                                
+                                                <span sitemapproviders="SPSiteMapProvider,SPXmlContentMapProvider" hideinteriorrootnodes="true"><a href="#ctl00_ctl70_SkipLink">Skip Navigation Links</a><span><a title="Início" href="/Paginas/Home.aspx">Legisla&#231;&#227;o</a></span><span> &gt; </span><span><a href="/Paginas/RespostasDeConsultas.aspx">Respostas De Consultas</a></span><a id="ctl00_ctl70_SkipLink"></a></span>
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="wrapper-warnings">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        
+                                        <div class="aviso">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                       <button type="button" class="btn btn-primary btn-lg botaoPesquisa visible-lg" id="btnPesquisaOpiniao" data-toggle="modal" data-target="#myModalPesquisaOpiniao" data-backdrop="non static" data-keyboard="true" style="display:none !important;">
+                                   Pesquisa de Opinião 
+                                    
+                                
+                                </button>
+
+                            <div id="includedContent">
+                            </div>
+                            <!-- contentBody -->
+                            <div id="s4-bodyContainer">
+                                <a id="container-anchor">
+                                    <span class="hidden">Hidden
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                        
+                                        
+                                    
+                                    </span>
+                                </a>
+                                <div id="contentRow">
+                                    <div id="contentBox" aria-live="polite" aria-relevant="all">
+                                        <div id="notificationArea" class="ms-notif-box">
+                                        </div>
+                                        <div id="DeltaPlaceHolderMain">
+	
+                                        
+	
+		
+	<div id="myModal" class="modalNews fade" role="dialog"></div>
+	<div class="row" id="loader" style="height:100%; position:relative; text-align: center;">
+		<div style="margin: auto;">
+			<i class="fa fa-spinner fa-pulse fa-3x"></i>
+		</div>
+	</div>
+
+	<!-- Add all page content inside this div if you want the side nav to push page content to the right (not used if you only want the sidenav to sit on top of the page -->
+	<div id="body" style="display:none;">
+		<div class="row">
+			<div class="col-md-3 col-lg-3" id="dvMenuLateral">
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<div id="lst3lvl"></div>	
+					</div>
+				</div>
+				
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+						<div class="menuVertical">
+							<table id="tblRecentes">
+								<thead>
+									<tr>
+										<th class="plus" colspan="2">
+											<i class="fa fa-2x fa-calendar-plus-o"></i>
+											Atos Publicados recentemente
+										</th>
+									</tr>
+									<tr>
+										<td>Ato</td>
+										<td>Data Publicação</td>
+									</tr>
+								</thead>
+								<tbody></tbody>
+								<tfoot>
+									<tr>
+										<td colspan="2" id="componenteLateral">
+											<a href="/Paginas/vejamais.aspx" class="lmore">
+											+ Veja mais</a>		
+										</td>
+									</tr>
+								</tfoot>
+							</table>
+						</div>	  
+					</div>	
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+						<div class="menuVertical">
+							<table id="tblPopulares">
+								<thead>
+									<tr>
+										<th class="plus" colspan="2">
+											<i class="fa fa-2x fa-search-plus"></i>
+											Atos mais consultados
+										</th>
+									</tr>
+									<tr>
+										<td>Ato</td>
+										<td>Visualizações</td>
+									</tr>
+								</thead>
+								<tbody></tbody>
+								<tfoot>
+									<tr>
+										<td colspan="2" id="componenteLateral" style="text-align:right;border-right:1px solid #ccc">
+											<a href="/Paginas/AtosPopulares.aspx" class="lmore">
+											+ Veja mais</a>
+										</td>
+									</tr>
+								</tfoot>
+							</table>
+						</div>
+					</div>
+				</div>
+				
+				<div class="row">
+								<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">	
+									<div class="menuVertical">
+										<table id="tblRCrecentes">
+											<thead>
+												<tr>
+													<th class="plus" colspan="2">
+														<i class="fa fa-2x fa-calendar-plus-o"></i>
+														RCs Publicadas recentemente
+													</th>
+												</tr>
+												<tr>
+													<td>Ato</td>
+													<td>Data Publicação</td>
+												</tr>
+											</thead>
+											<tbody></tbody>
+											<tfoot>
+												<tr>
+													<td colspan="2" id="componenteLateral">
+														<a href="/Paginas/vejamaisRCRecentes.aspx" class="lmore">
+														+ Veja mais</a>		
+													</td>
+												</tr>
+											</tfoot>
+										</table>
+									</div>	  
+								</div>	
+
+							</div>
+		
+				
+			</div>
+			<div class="col-md-9 col-lg-9">	
+				<div class="row" style="margin-bottom:10px;">
+					<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="padding-left:5px;padding-right:5px;">
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 fundoSearch">
+							<div class="advSearchWrapper">
+								<div class="advSearchIcon">
+									<i class="fa fa-search fa-3x"></i>
+								</div>
+								<div class="advSearchBody" style="">
+									<div>
+										<input type="text" id="searchLegis" Placeholder="Pesquisa na Legislação Tributária">
+										<input type="button" id="btnBuscarSM" value="Buscar" disabled="true">
+										<div id="btnBuscarSMResp" style="display:none"><i class="fa fa-search btnResp"></i></div>
+									</div>
+								</div>
+							</div>
+						</div>					
+						<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 advSearchLinks">
+							<span id="ddlPesquisaEm">								
+							</span>
+							<a href ="/Paginas/Search.aspx#k=*" id="btnAvancada">
+								<i class="fa fa-search-plus"></i>
+								Busca Avançada
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-sd-12 col-md-12 col-lg-12">
+						<h2 class="ms-webpart-titleText" id="titlePage"></h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-sd-12 col-md-12 col-lg-12">
+						<div class="owl-carousel" id="dvCarousel"></div>
+					</div>
+				</div>
+				<div class="row hidden-md hidden-lg" >
+					<div class="col-xs-5 col-sm-5 col-xs-offset-7 col-sm-offset-7">
+						<div id="btnExpand" style="border-radius: 5px; background-color: white; color: #0054a1;font-weight: bold;min-height: 40px;text-align: right;padding-top: 5px;cursor: pointer;">
+							<i class="fa fa-plus" style="margin-right:10px;"></i>
+							<span>Expandir</span>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-xs-12 col-sd-12 col-md-12 col-lg-12">
+									
+					<div class="ms-webpart-zone ms-fullWidth">
+		<div id="MSOZoneCell_WebPartWPQ1" class="s4-wpcell ms-webpartzone-cell ms-webpart-cell-vertical-inline-table ms-webpart-cell-vertical ms-fullWidth " onkeyup="WpKeyUp(event)" onmouseup="WpClick(event)">
+			<div class="ms-webpart-chrome ms-webpart-chrome-vertical ms-webpart-chrome-fullWidth ">
+				<div WebPartID="404c15c8-2db5-408d-99db-c7e7545c358f" HasPers="false" id="WebPartWPQ1" width="100%" class="noindex " allowDelete="false" allowExport="false" style="" ><span></span><table width="100%" cellspacing="0" cellpadding="0" border="0" xmlns:x="http://www.w3.org/2001/XMLSchema" xmlns:d="http://schemas.microsoft.com/sharepoint/dsp" xmlns:asp="http://schemas.microsoft.com/ASPNET/20" xmlns:__designer="http://schemas.microsoft.com/WebParts/v2/DataView/designer" xmlns:SharePoint="Microsoft.SharePoint.WebControls" xmlns:pcm="urn:PageContentManager" xmlns:ddwrt2="urn:frontpage:internal"><tr><td id="script"><iframe src="javascript:false;" id="FilterIframe0" name="FilterIframe0" style="display:none" height="0" width="0" FilterLink="?"></iframe><table summary="Páginas Essa biblioteca do sistema foi criada pelo recurso Publicação para armazenar páginas que são criadas neste site." o:WebQuerySourceHref="https://legislacao.fazenda.sp.gov.br/_vti_bin/owssvr.dll?CS=65001&amp;XMLDATA=1&amp;RowLimit=0&amp;View={404C15C8-2DB5-408D-99DB-C7E7545C358F}" width="100%" border="0" cellspacing="0" dir="none" onmouseover="&#xD;&#xA;                  EnsureSelectionHandler(event,this,0)&#xD;&#xA;                " cellpadding="1" id="onetidDoclibViewTbl0" class="ms-emptyView" xmlns:o="urn:schemas-microsoft-com:office:office"><thead><tr valign="top" class="ms-viewheadertr ms-vhltr"><th class="ms-vh-icon" scope="col"><input type="checkbox" title="Selecionar ou anular seleção de todos os itens" onclick="ToggleAllItems(event,this,0)" onfocus="EnsureSelectionHandlerOnFocus(event,this,0)" /></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="FALSE" FilterDisableMessage="" name="LinkFilenameNoMenu" CTXNum="0" DisplayName="Nome" FieldType="Computed" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=LinkFilenameNoMenu&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort0LinkFilenameNoMenu" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=LinkFilenameNoMenu&amp;SortDir=Asc">Nome<img src="/_layouts/15/images/blank.gif?rev=44" class="ms-hidden" border="0" width="1" height="1" alt=""></a><img src="/_layouts/15/images/blank.gif?rev=44" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=44" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Abrir Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="Title" CTXNum="0" DisplayName="Título" FieldType="Text" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=Title&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort0Title" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=Title&amp;SortDir=Asc">Título<img src="/_layouts/15/images/blank.gif?rev=44" class="ms-hidden" border="0" width="1" height="1" alt=""></a><img src="/_layouts/15/images/blank.gif?rev=44" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=44" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Abrir Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="N_x00ba__x0020_DOE" CTXNum="0" DisplayName="Nº do Ato" FieldType="Number" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=N_x00ba__x0020_DOE&amp;SortDir=Asc" class="ms-vh-div"><div align="right" class="ms-numHeader"><a id="diidSort0N_x00ba__x0020_DOE" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=N_x00ba__x0020_DOE&amp;SortDir=Asc">Nº do Ato<img src="/_layouts/15/images/blank.gif?rev=44" class="ms-hidden" border="0" width="1" height="1" alt=""></a><img src="/_layouts/15/images/blank.gif?rev=44" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=44" border="0" alt=""></div></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Abrir Menu"></a><span> </span></div></th><th class="ms-vh2" nowrap scope="col" onmouseover="OnChildColumn(this)"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="DataPublicacao" CTXNum="0" DisplayName="Data da Publicação" FieldType="DateTime" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=DataPublicacao&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort0DataPublicacao" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=DataPublicacao&amp;SortDir=Asc">Data da Publicação<img src="/_layouts/15/images/blank.gif?rev=44" class="ms-hidden" border="0" width="1" height="1" alt=""></a><img src="/_layouts/15/images/blank.gif?rev=44" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=44" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Abrir Menu"></a><span> </span></div></th><th class="ms-vh2" nowrap scope="col" onmouseover="OnChildColumn(this)"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="DataAto" CTXNum="0" DisplayName="Data do Ato" FieldType="DateTime" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=DataAto&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort0DataAto" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=DataAto&amp;SortDir=Asc">Data do Ato<img src="/_layouts/15/images/blank.gif?rev=44" class="ms-hidden" border="0" width="1" height="1" alt=""></a><img src="/_layouts/15/images/blank.gif?rev=44" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=44" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Abrir Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="" SortDisable="" FilterDisable="" Filterable="" FilterDisableMessage="" name="Tipo" CTXNum="0" DisplayName="Tipo" FieldType="Choice" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=Tipo&amp;SortDir=Asc" class="ms-vh-div"><a id="diidSort0Tipo" class="ms-headerSortTitleLink" onfocus="OnFocusFilter(this)" href="javascript: " onclick="javascript:return OnClickFilter(this,event);" SortingFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=Tipo&amp;SortDir=Asc">Tipo<img src="/_layouts/15/images/blank.gif?rev=44" class="ms-hidden" border="0" width="1" height="1" alt=""></a><img src="/_layouts/15/images/blank.gif?rev=44" alt="" border="0"><img src="/_layouts/15/images/blank.gif?rev=44" border="0" alt=""></div><div class="s4-ctx"><span> </span><a onfocus="OnChildColumn(this.parentNode.parentNode); return false;" class="ms-headerSortArrowLink" onclick="PopMenuFromChevron(event); return false;" href="javascript:;" title="Abrir Menu"></a><span> </span></div></th><th nowrap scope="col" onmouseover="OnChildColumn(this)" class="ms-vh2"><div Sortable="FALSE" SortDisable="" FilterDisable="" Filterable="FALSE" FilterDisableMessage="" name="Ementa" CTXNum="0" DisplayName="Ementa" FieldType="Note" ResultType="" SortFields="View={404c15c8-2db5-408d-99db-c7e7545c358f}&SortField=Ementa&amp;SortDir=Asc" class="ms-vh-div">Ementa</div></th></tr></thead></table></td></tr><tr><td><table width="100%" border="0" dir="none"><tr><td class="ms-vb" colspan="99">Não há nenhum item a ser mostrado neste modo de exibição da lista "Páginas".</td></tr></table></td></tr></table><div id="ECBItems_{f286d0d1-5624-47da-a856-a8571296eb7f}" style="display:none" height="0" width="0"><div><div>Seguir</div><div></div><div>javascript: SP.SOD.executeFunc(&#39;followingcommon.js&#39;, &#39;FollowDoc&#39;, function() { FollowDoc(&#39;{ListId}&#39;, {ItemId}); });</div><div>0x0</div><div>0x0</div><div>ContentType</div><div>0x01</div><div>1100</div><div></div></div><div><div>Detalhes da Conformidade</div><div></div><div>javascript:if (typeof CalloutManager !== &#39;undefined&#39; &amp;&amp; Boolean(CalloutManager) &amp;&amp; Boolean(CalloutManager.closeAll)) CalloutManager.closeAll(); commonShowModalDialog(&#39;{SiteUrl}&#39;+ 
+            &#39;/_layouts/15/itemexpiration.aspx&#39; 
+            +&#39;?ID={ItemId}&amp;List={ListId}&#39;, &#39;center:1;dialogHeight:500px;dialogWidth:500px;resizable:yes;status:no;location:no;menubar:no;help:no&#39;, function GotoPageAfterClose(pageid){if(pageid == &#39;hold&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+ 
+            &#39;/_layouts/15/hold.aspx&#39; 
+            +&#39;?ID={ItemId}&amp;List={ListId}&#39;);  return false;} if(pageid == &#39;audit&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+
+            &#39;/_layouts/15/Reporting.aspx&#39;
+            +&#39;?Category=Auditing&amp;backtype=item&amp;ID={ItemId}&amp;List={ListId}&#39;); return false;} if(pageid == &#39;config&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+
+            &#39;/_layouts/15/expirationconfig.aspx&#39;
+            +&#39;?ID={ItemId}&amp;List={ListId}&#39;); return false;} if(pageid == &#39;tag&#39;) {STSNavigate(unescape(decodeURI(&#39;{SiteUrl}&#39;))+
+            &#39;/_layouts/15/Hold.aspx&#39;
+            +&#39;?Tag=true&amp;ID={ItemId}&amp;List={ListId}&#39;); return false;}}, null);</div><div>0x0</div><div>0x1</div><div>ContentType</div><div>0x01</div><div>898</div><div></div></div><div><div>Editar no Navegador</div><div>/_layouts/15/images/icxddoc.gif?rev=44</div><div>/_layouts/15/formserver.aspx?XsnLocation={ItemUrl}&amp;OpenIn=Browser&amp;Source={Source}</div><div>0x0</div><div>0x1</div><div>FileType</div><div>xsn</div><div>255</div><div></div></div><div><div>Editar no Navegador</div><div>/_layouts/15/images/icxddoc.gif?rev=44</div><div>/_layouts/15/formserver.aspx?XmlLocation={ItemUrl}&amp;OpenIn=Browser&amp;Source={Source}</div><div>0x0</div><div>0x1</div><div>ProgId</div><div>InfoPath.Document</div><div>255</div><div></div></div><div><div>Editar no Navegador</div><div>/_layouts/15/images/icxddoc.gif?rev=44</div><div>/_layouts/15/formserver.aspx?XmlLocation={ItemUrl}&amp;OpenIn=Browser&amp;Source={Source}</div><div>0x0</div><div>0x1</div><div>ProgId</div><div>InfoPath.Document.2</div><div>255</div><div></div></div><div><div>Editar no Navegador</div><div>/_layouts/15/images/icxddoc.gif?rev=44</div><div>/_layouts/15/formserver.aspx?XmlLocation={ItemUrl}&amp;OpenIn=Browser&amp;Source={Source}</div><div>0x0</div><div>0x1</div><div>ProgId</div><div>InfoPath.Document.3</div><div>255</div><div></div></div><div><div>Editar no Navegador</div><div>/_layouts/15/images/icxddoc.gif?rev=44</div><div>/_layouts/15/formserver.aspx?XmlLocation={ItemUrl}&amp;OpenIn=Browser&amp;Source={Source}</div><div>0x0</div><div>0x1</div><div>ProgId</div><div>InfoPath.Document.4</div><div>255</div><div></div></div><div><div>Histórico de Versão do Conjunto de Documentos</div><div>/_layouts/15/images/versions.gif?rev=44</div><div>javascript:SP.UI.ModalDialog.ShowPopupDialog(&#39;{SiteUrl}&#39;+ 
+                &#39;/_layouts/15/DocSetVersions.aspx&#39;
+                + &#39;?List={ListId}&amp;ID={ItemId}&#39;)</div><div>0x0</div><div>0x0</div><div>ContentType</div><div>0x0120D520</div><div>330</div><div></div></div><div><div>Enviar para outro local</div><div>/_layouts/15/images/sendOtherLoc.gif?rev=44</div><div>javascript:GoToPage(&#39;{SiteUrl}&#39; +
+                &#39;/_layouts/15/docsetsend.aspx&#39; 
+                + &#39;?List={ListId}&amp;ID={ItemId}&#39;)</div><div>0x0</div><div>0x0</div><div>ContentType</div><div>0x0120D520</div><div>350</div><div></div></div></div><div class="ms-clear"></div></div>
+			</div>
+		</div>
+	</div>
+									
+					</div>
+				</div>
+			</div>
+		</div>
+		
+			
+		
+		
+	</div>	
+	
+	<script type="text/javascript">
+			jQuery(window).on('load', function(){
+				jQuery('#loader').remove();
+				jQuery('#body').show();
+				
+				var QueryString = getUrlVars();
+				if(QueryString.Tipo!==undefined)
+				{
+				  jQuery("#selPesquisaEm").val(decodeURI(QueryString.Tipo));
+				}
+				else{
+				  if (location.pathname.indexOf("Resposta") !=-1){
+				    jQuery("#selPesquisaEm").val("Respostas de Consultas");
+				  };
+				}
+			});
+		</script>
+
+<script type="text/javascript">
+	var hostAtual = window.location.protocol + "//" + window.location.hostname;
+	var urlCompleta = hostAtual + "/Paginas/RespostasDeConsultas.aspx"
+	if (window.location.href == urlCompleta){window.location.href = urlCompleta +"?StartDate="  + new Date().getFullYear()}
+</script>
+
+
+<div style='display:none' id='hidZone'><menu class="ms-hide">
+		<ie:menuitem id="MSOMenu_Help" iconsrc="/_layouts/15/images/HelpIcon.gif" onmenuclick="MSOWebPartPage_SetNewWindowLocation(MenuWebPart.getAttribute(&#39;helpLink&#39;), MenuWebPart.getAttribute(&#39;helpMode&#39;))" text="Ajuda" type="option" style="display:none">
+
+		</ie:menuitem>
+	</menu></div>
+                                        
+</div>
+                                    </div>
+                                    <div class="ms-hide">
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                        
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- end:contentBody -->
+                            
+                        </div>
+                    </div>
+                </div>
+            </article>
+            <!-- footer -->
+            <footer class="footer-container">
+                <div class="footer-localize-unidades">
+                    <div class="container fill">
+                        <div class="row">
+                            <div class="col-lg-6 col-md-5 col-sm-5 col-xs-12">
+                            </div>
+                            <div class="col-lg-4 col-md-5 col-sm-5 col-xs-12 footer-localize-unidades-margem noindex">
+                                <h3>
+                                                Localize Nossas Unidades                                
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                            
+                                        
+                                        
+                                    
+                                    
+                                    
+                                
+                                </h3>
+                                <div class="header-search-panel" role="search">
+                                    <div class="input-group">
+                                        <!--<input class="form-control header-search-input form-control typeahead font-14px" type="text" placeholder="Digite sua busca..."/>-->
+                                        <!--<span class="flaticon-erase header-search-clear hidden-xs"></span>-->
+                                        <div class="input-group-btn">
+                                            <button class="btn btn-default header-search-btn" type="button" onclick="window.open('http://www.fazenda.sp.gov.br/regionais/')">
+                                                <i class="flaticon-search font-14px header-search-btn-icon">
+                                                </i>
+
+
+    
+    
+    
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                                                                  Buscar
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-2 col-md-2 col-sm-2 col-xs-6">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div id="footer">
+                    <div class="footer-links">
+                        <a id="rodape-anchor">
+                            <span class="hidden">Hidden   
+                                                           
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                    
+                                                
+                                                
+                                            
+                                        
+                                        
+                                    
+                                    
+                                
+                                
+                                
+                            
+                            </span>
+                        </a>
+                        <div class="container fill">
+                            <div class="row">
+                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 margin-rodape-fix noindex">
+                                    <div class="footer-links-container">
+                                        <div id="divRodape">
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="footer-address noindex" style="display:none">
+                        <div class="container fill">
+                            <div class="row">
+                                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 bottom-address noindex">
+                                                Secretaria da Fazenda e Planejamento do Estado de São Paulo - Av. Rangel Pestana, 300 - São Paulo / SP - 01017-911 – CNPJ: 46.377.222/0001-29 - Fale Conosco: 0800-170110                     
+                        
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                        
+                                        
+                                    
+                                    <a href="/Paginas/PoliticaPrivacidade.aspx">Política de Privacidade                 
+                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                        
+                                        
+                                    
+                                    </a>
+                                    <a href="/Paginas/TermoUso.aspx">Termos de Uso                                                              
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                            
+                                                        
+                                                        
+                                                    
+                                                
+                                                
+                                            
+                                            
+                                        
+                                        
+                                        
+                                    
+                                    </a>
+
+
+    
+    
+    
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                                                   | Versão                                                                                                                                                                                                                                                             <span id="versaoAtualPagina">1.0.124.0
+                                            
+                                            
+                                        
+                                        
+                                        
+                                    
+                                    </span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+            <!-- end:footer -->
+            <!-- menuFloating -->
+            <!-- menuFloating -->
+            <div id="menuFloating" class="hidden-xs hidden-sm hidden-md">
+                <div class="container">
+                    <div class="logo noindex" style="font:14px/14px Montserrat, Arial, sans-serif">
+                        <span>
+                                                Governo do Estado de São Paulo                    
+                        
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                            
+                                            
+                                        
+                                    
+                                    
+                                
+                                
+                            
+                            
+                            
+                        
+                        </span>
+
+
+    
+    
+    
+        
+        
+            
+            
+                
+                    
+                    
+                        
+                        
+                        
+                        
+                        
+                        
+                                            Fazenda e Planejamento 
+                                                                                                                                                                                                                                                                                                                                                                                                   </div>
+                    <div class="search">
+                        <div class="internal">
+                            <a href="#" class="btSearch hideText bts">
+                                <span class="hidden">
+                                                        hidden                          
+                                                        
+                                                     
+                                                        
+                                                        
+                                                        
+                                                        
+                                                        
+                                                    
+                                                    
+                                                
+                                            
+                                            
+                                        
+                                        
+                                    
+                                    
+                                    
+                                
+                                </span>
+                            </a>
+                            
+                            
+                            
+                            <div class="ms-webpart-chrome ms-webpart-chrome-fullWidth ">
+	<div WebPartID="00000000-0000-0000-0000-000000000000" HasPers="true" id="WebPartWPQ3" width="100%" class="ms-WPBody noindex " OnlyForMePart="true" allowDelete="false" style="" ><div componentid="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr" id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr"><div id="SearchBox" name="Control"><div class="ms-srch-sb ms-srch-sb-border" id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_sboxdiv"><input type="search" value="Pesquisar..." maxlength="2048" title="Pesquisar..." id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_sbox" autocomplete="off" autocorrect="off" onkeypress="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {if (Srch.U.isEnterKey(String.fromCharCode(event.keyCode))) {$find('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr').search($get('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_sbox').value);return Srch.U.cancelEvent(event);}})" onkeydown="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr');ctl.activateDefaultQuerySuggestionBehavior();})" onfocus="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr');ctl.hidePrompt();ctl.setBorder(true);})" onblur="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {var ctl = $find('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr'); if (ctl){ ctl.showPrompt(); ctl.setBorder(false);}})" class="ms-textSmall ms-srch-sb-prompt ms-helperText" role="combobox" aria-owns="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_AutoCompList" aria-haspopup="true" aria-autocomplete="list" aria-expanded="false" /><a title="Pesquisar" role="button" class="ms-srch-sb-searchLink" id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_SearchLink" onclick="EnsureScriptFunc('Search.ClientControls.js', 'Srch.U', function() {$find('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr').search($get('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_sbox').value);})" href="javascript: {}" aria-label="Pesquisar"><img src="/_layouts/15/images/searchresultui.png?rev=44#ThemeKey=searchresultui" class="ms-srch-sb-searchImg" id="searchImg" alt="Pesquisar" /></a><div class="ms-qSuggest-container ms-shadow" id="AutoCompContainer"><div id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_AutoCompList" role="listbox" aria-label="Sugestões"></div></div></div></div></div><noscript><div id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_noscript">Parece que seu navegador não possui JavaScript habilitado. Ative o JavaScript e tente novamente.</div></noscript><div id="ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27">
+		
+                            
+	</div><div class="ms-clear"></div></div>
+</div>
+                            
+                            
+                        </div>
+                    </div>
+                    <ul class="menu" id="MenuTopoFlutuante">
+                    </ul>
+                </div>
+            </div>
+            <!-- Stard: Rodapé Período Eleitoral 2022 -->
+            <section id="govsp-rodape">
+                <div class="container">
+                    <div class="linha-botoes">
+                        <div class="coluna-4">
+                            <a href="https://www.ouvidoria.sp.gov.br/Portal/Default.aspx" class="btn btn-model">Ouvidoria
+                                
+                                
+                                
+                            
+                            </a>
+                        </div>
+                        <div class="coluna-4">
+                            <a href="http://www.transparencia.sp.gov.br/" class="btn btn-model">Transparência
+                                
+                                
+                                
+                            
+                            </a>
+                        </div>
+                        <div class="coluna-4">
+                            <a href="http://www.sic.sp.gov.br/" class="btn btn-model">SIC
+                                
+                                
+                                
+                            
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="container rodape">
+                    <div class="logo-rodape">
+                        <p>
+                            <a href="https://www.saopaulo.sp.gov.br/">
+                                <img src="https://www.saopaulo.sp.gov.br/barra-govsp/img/logo-rodape-governo-do-estado-sp.png" alt="Logo" width="206" height="38" />
+                            </a>
+                        </p>
+                    </div>
+                </div>
+            </section>
+            <p style="float:right; font-size:10px">Versão 1.0.124.0
+                            
+                        
+                        
+                    
+                    
+                
+                
+                
+            
+            </p>
+            <!-- end: Rodapé Período -->
+            <!-- end:menuFloating -->
+            <!-- end:layer -->
+            <div id="boxAjax">
+            </div>
+        </div>
+        <!--SPM-->
+        
+        
+        <script type="text/javascript">//<![CDATA[
+  window.addEventListener('load', function() {
+    const hash = window.location.hash;
+    if (hash.startsWith('#k=')) {
+      const searchTerm = decodeURIComponent(hash.replace('#k=', ''));
+      gtag('event', 'search_term', {
+        search_term: searchTerm
+      });
+    }
+  });
+//]]></script>
+        
+        <script type="text/javascript">//<![CDATA[
+                                
+                                    SP.SOD.executeFunc('~sitecollection/BibliotecaDeScripts/pluginAcessibilidade.js');
+                        
+                                    $($('#fullscreenmode').find('span')[0]).css('overflow', 'visible');
+                        
+                                    $($('#ms-help').find('span')[0]).css('overflow', 'visible');        
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script>//<![CDATA[ 
+        $(function(){
+          $("#includedContent").load("/BibliotecaDeScripts/TemplateHTML/TemplatePesquisaOpiniao.html"); 
+        });
+       
+    
+        
+                                        
+            
+        
+        //]]></script>
+        <script type="text/javascript">//<![CDATA[//  
+                                      var g_Workspace = "s4-workspace";
+                                //        
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript">//<![CDATA[
+                    
+                      var cookieVersao = Cookies.get('versaoAtualPagina');
+                      var versaoAtualPagina = $('#versaoAtualPagina').text().trim();
+                      
+                     
+                      
+                      if(cookieVersao != versaoAtualPagina){
+                           Cookies.remove("cmtWebAPI");
+                              Cookies.remove("emailApiXML");	
+                             Cookies.set("versaoAtualPagina", versaoAtualPagina);
+                      }
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <script type="text/javascript">//<![CDATA[
+                        
+                                    SP.SOD.executeFunc('~sitecollection/BibliotecaDeScripts/pluginAcessibilidade.js');
+                                    $($('#fullscreenmode').find('span')[0]).css('overflow', 'visible');
+                                    $($('#ms-help').find('span')[0]).css('overflow', 'visible');
+                                    //Remove o botão de Pesquisa de Opinião, caso o usuario já tenha respondido a pesquisa
+                                    //A Verificação é feito através do cookie
+                                    /*if (typeof readCookie('PST.PesquisaOpiniao') === "undefined" || readCookie('PST.PesquisaOpiniao') === "respondido") {
+                                        var elementoPesquisa = document.getElementById('btnPesquisaOpiniao');
+                                        elementoPesquisa.parentNode.removeChild(elementoPesquisa);
+                                    }*/  
+                                        
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <!-- refatorar o script plugins.js -->
+        <!-- Script para Notificações -->
+        <script type="text/javascript">//<![CDATA[
+                  if (window.location.href.indexOf("vejamais") > -1) {
+                                            $('#btnPesquisaOpiniao').remove();   
+				                    }
+
+                                    var url = window.location.href.toLowerCase();
+
+				                    
+				                    
+    // Se estiver na Home
+    if (url.indexOf("/paginas/home.aspx") > -1) {
+        $("#btnPesquisaOpiniao").attr("style", "");
+    } 
+    // Qualquer outra página
+    else {
+       
+        $("#btnPesquisaOpiniao").attr("style", "display:none !important");
+
+
+    }
+
+                
+                                    if (window.location.pathname.indexOf('servicos/ipva') > 0) {
+                                        var body = document.getElementsByTagName('body')[0];
+                                        var script = document.createElement('script');
+                        
+                                        script.type = 'text/javascript';
+                                        script.src = "./pwa-sw-register.js";
+                                        body.appendChild(script);
+                                        script = document.createElement('script');
+                        
+                                        script.type = 'text/javascript';
+                                        script.src = "./service-worker-IPVA.js";
+                                        body.appendChild(script);
+                        
+                                        script.type = 'text/javascript';
+                                        script.src = "https://code.jquery.com/jquery-3.2.1.slim.min.js";
+                                        body.appendChild(script);
+                        
+                        
+                                        script.type = 'text/javascript';
+                                        script.src = "https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js.js";
+                                        body.appendChild(script);
+                        
+                        
+                                        script.type = 'text/javascript';
+                                        script.src = "https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js";
+                                        body.appendChild(script);
+                        
+                                        $(document).ready(function () {
+                                            $('input[id=inlineCheckbox6]').click(function () {
+                                                $('input:checkbox').not(this).prop('checked', this.checked);
+                                                clicarCheckBox();
+                                            });
+                        
+                                            $("#inlineCheckbox1").click(function (e) {
+                                                clicarCheckBox();
+                                            });
+                                            $("#inlineCheckbox2").click(function (e) {
+                                                clicarCheckBox();
+                                            });
+                                            $("#inlineCheckbox3").click(function (e) {
+                                                clicarCheckBox();
+                                            });
+                                            $("#inlineCheckbox4").click(function (e) {
+                                                clicarCheckBox();
+                                            });
+                                            $("#inlineCheckbox5").click(function (e) {
+                                                clicarCheckBox();
+                                            });
+                        
+                                            clicarCheckBox();
+                        
+                                            function clicarCheckBox() {
+                                                var Tags = new Array();
+                        
+                                                Tags.push("IPVA");
+                        
+                                                if ($("#inlineCheckbox1").is(':checked')) {
+                                                    Tags.push("1-2");
+                                                }
+                                                if ($("#inlineCheckbox2").is(':checked')) {
+                                                    Tags.push("3-4");
+                                                }
+                                                if ($("#inlineCheckbox3").is(':checked')) {
+                                                    Tags.push("5-6");
+                                                }
+                                                if ($("#inlineCheckbox4").is(':checked')) {
+                                                    Tags.push("7-8");
+                                                }
+                                                if ($("#inlineCheckbox5").is(':checked')) {
+                                                    Tags.push("9-0");
+                                                }
+                        
+                                                createCookie("TagsNotificacao", Tags, 1);
+                                            };
+                        
+                                            // Create cookie
+                                            function createCookie(name, value, days) {
+                                                var expires;
+                                                if (days) {
+                                                    var date = new Date();
+                                                    date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+                                                    expires = "; expires=" + date.toGMTString();
+                                                }
+                                                else {
+                                                    expires = "";
+                                                }
+                                                document.cookie = name + "=" + value + expires + "; path=/";
+                                            }
+                        
+                                            // Read cookie
+                                            function readCookie(name) {
+                                                var nameEQ = name + "=";
+                                                var ca = document.cookie.split(';');
+                                                for (var i = 0; i < ca.length; i++) {
+                                                    var c = ca[i];
+                                                    while (c.charAt(0) === ' ') {
+                                                        c = c.substring(1, c.length);
+                                                    }
+                                                    if (c.indexOf(nameEQ) === 0) {
+                                                        return c.substring(nameEQ.length, c.length);
+                                                    }
+                                                }
+                                                return null;
+                                            }
+                                            // Erase cookie
+                                            function eraseCookie(name) {
+                                                createCookie(name, "", -1);
+                                            }
+                        
+                                            if (jQuery.browser.chrome) {
+                                                if (typeof readCookie('ApresentaNotificacao') === "undefined" || readCookie('ApresentaNotificacao') !== "true") {
+                                                    if (window.location.pathname == '/servicos/ipva/Paginas/Sobre.aspx') {
+                                                        $('#ModalNotificacao').modal('show');
+                                                        createCookie("ApresentaNotificacao", true, 365);
+                                                    }
+                                                }
+                                            }
+                                        });
+                                    }
+                        
+                                    $("#altocontraste").click(function (event) {
+                                        $("#s4-workspace").toggleClass("colorblind");
+                                        window.sessionStorage["PST.contraste"] = $("#s4-workspace").hasClass("colorblind");
+                                        return false;
+                                    });  
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                                
+                            
+                            
+                        
+                    
+                    
+                
+                
+            
+            
+            
+        
+        //]]></script>
+        <div id="DeltaFormDigest">
+            <script type="text/javascript">//<![CDATA[
+                                        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+                                        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+                                            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+                                        {
+                                            formDigestElement.value = '0xF9CF6E23834CB291F8070ABFCBDD4626F141A485016B177907C569D726841E93B87B441BA67241F3EE09E4A231F15D74FE2435C41CFDFE8DBCD545356058CF3C,25 Mar 2019 21:01:42 -0000';
+                                            g_updateFormDigestPageLoaded = new Date();
+                                        }
+                                   
+                                    
+                                    
+                                    
+                                    
+                                
+                                
+                            
+                        
+                        
+                    
+                    
+                
+                
+                
+            
+            //]]></script>
+        </div>
+        <div id="DeltaFormDigest">
+<script type="text/javascript">//<![CDATA[
+        var formDigestElement = document.getElementsByName('__REQUESTDIGEST')[0];
+        if (!((formDigestElement == null) || (formDigestElement.tagName.toLowerCase() != 'input') || (formDigestElement.type.toLowerCase() != 'hidden') ||
+            (formDigestElement.value == null) || (formDigestElement.value.length <= 0)))
+        {
+            formDigestElement.value = '0xD7BB208E1C9A4933F7FF861C24E43100FF24160C03299DF6756994DB6B76E4DE1D1281F9175F3A62370F70C4C7D778BA1B5ED4C2EA1F945772A9ADB81533D0C8,02 Nov 2026 11:17:20 -0000';_spPageContextInfo.updateFormDigestPageLoaded = new Date();
+        }
+        //]]>
+        </script>
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+
+if (typeof(_spBodyOnLoadFunctionNames) != "undefined") {
+if (_spBodyOnLoadFunctionNames != null) {
+_spBodyOnLoadFunctionNames.push("ExpDataViewGroupOnPageLoad");
+}
+} IsSPSocialSwitchEnabled = function() { return true; };window.SPThemeUtils && SPThemeUtils.ApplyCurrentTheme(true);var _fV4UI = true;
+function _RegisterWebPartPageCUI()
+{
+    var initInfo = {editable: false,isEditMode: false,allowWebPartAdder: false,listId: "{f286d0d1-5624-47da-a856-a8571296eb7f}",itemId: 1358011,recycleBinEnabled: true,enableMinorVersioning: false,enableModeration: true,forceCheckout: true,rootFolderUrl: "\u002fPaginas",itemPermissions:{High:16,Low:196673}};
+    SP.Ribbon.WebPartComponent.registerWithPageManager(initInfo);
+    var wpcomp = SP.Ribbon.WebPartComponent.get_instance();
+    var hid;
+    hid = document.getElementById("_wpSelected");
+    if (hid != null)
+    {
+        var wpid = hid.value;
+        if (wpid.length > 0)
+        {
+            var zc = document.getElementById(wpid);
+            if (zc != null)
+                wpcomp.selectWebPart(zc, false);
+        }
+    }
+    hid = document.getElementById("_wzSelected");
+    if (hid != null)
+    {
+        var wzid = hid.value;
+        if (wzid.length > 0)
+        {
+            wpcomp.selectWebPartZone(null, wzid);
+        }
+    }
+};
+function __RegisterWebPartPageCUI() {
+ExecuteOrDelayUntilScriptLoaded(_RegisterWebPartPageCUI, "sp.ribbon.js");}
+_spBodyOnLoadFunctionNames.push("__RegisterWebPartPageCUI");var __wpmExportWarning='This Web Part Page has been personalized. As a result, one or more Web Part properties may contain confidential information. Make sure the properties contain information that is safe for others to read. After exporting this Web Part, view properties in the Web Part description file (.WebPart) by using a text editor such as Microsoft Notepad.';var __wpmCloseProviderWarning='You are about to close this Web Part.  It is currently providing data to other Web Parts, and these connections will be deleted if this Web Part is closed.  To close this Web Part, click OK.  To keep this Web Part, click Cancel.';var __wpmDeleteWarning='You are about to permanently delete this Web Part.  Are you sure you want to do this?  To delete this Web Part, click OK.  To keep this Web Part, click Cancel.';var offlineBtnText = '';var offlineBtnImg = '';ExecuteOrDelayUntilScriptLoaded(function() {var objStsSync = GetStssyncData('documents','Cliente', '', '/_layouts/15/images/menu');
+if(objStsSync){ offlineBtnText = objStsSync.BtnText;
+offlineBtnImg = objStsSync.BtnImagePath;
+}}, 'strings.js');
+window.CoreJsApiPresent = true;
+window.ExecuteOrDelayUntilScriptLoaded && ExecuteOrDelayUntilScriptLoaded(function()
+{
+    var fnReg = JsApi.ExtensibilityManager._RegisterFilesForNamespace;
+    var ns = 'SP.SPGantt.InstrumentedApi'; var api = 'GanttSharedApi.generated.js'; var shim = 'GanttApiShim.generated.js';
+    RegisterSodDep(shim, api);
+                                  
+    fnReg(ns, api, ns + '.ClientApi', 1);
+    fnReg(ns, shim, ns + '.ShimPlaceholder', 2);
+}, 
+                             'JsApiExtensibilityManager.js');Type.registerNamespace('SP.SPGantt.InstrumentedApi');
+              SP.SPGantt.InstrumentedApi.ExecuteWithJsApiLoaded = function(fn) { var fnEx = window.ExecuteOrDelayUntilScriptLoaded && ExecuteOrDelayUntilScriptLoaded; fnEx && fnEx(function() { JsApi.ExtensibilityManager.ExecuteWithJsApisInNamespaceLoaded('SP.SPGantt.InstrumentedApi', fn); }, 'JsApiExtensibilityManager.js'); };var g_revertDragDropFileErrorHtmlEncodingFix = false; if(typeof g_spPreFetchKeys != 'undefined'){ g_spPreFetchKeys.push('DragDrop.js'); _spBodyOnLoadFunctionNames.push('WPQRegisterDragDropUpload'); g_spDragDropUpload['WebPartWPQ1'] = new SPDragUploadInfo('WebPartWPQ1','https:\u002f\u002flegislacao.fazenda.sp.gov.br','','{F286D0D1-5624-47DA-A856-A8571296EB7F}','\u002fPaginas', false, false, null, null, null, null);}g_spPreFetchKeys.push('sp.core.js');
+            ExecuteOrDelayUntilScriptLoaded(
+                function() 
+                {                    
+                    Srch.ScriptApplicationManager.get_current().states = {"webUILanguageName":"pt-BR","webDefaultLanguageName":"pt-BR","QueryDateTimeCulture":1046,"timeZoneOffsetInHours":-3,"contextUrl":"https://legislacao.fazenda.sp.gov.br","contextTitle":"Legislação","supportedLanguages":[{"id":1025,"label":"Árabe"},{"id":1093,"label":"Bengali"},{"id":1026,"label":"Búlgaro"},{"id":1027,"label":"Catalão"},{"id":2052,"label":"Chinês (Simplificado)"},{"id":1028,"label":"Chinês (Tradicional)"},{"id":1050,"label":"Croata"},{"id":1029,"label":"Tcheco"},{"id":1030,"label":"Dinamarquês"},{"id":1043,"label":"Holandês"},{"id":1033,"label":"Inglês"},{"id":1035,"label":"Finlandês"},{"id":1036,"label":"Francês"},{"id":1031,"label":"Alemão"},{"id":1032,"label":"Grego"},{"id":1095,"label":"Guzerate"},{"id":1037,"label":"Hebraico"},{"id":1081,"label":"Hindi"},{"id":1038,"label":"Húngaro"},{"id":1039,"label":"Islandês"},{"id":1057,"label":"Indonésio"},{"id":1040,"label":"Italiano"},{"id":1041,"label":"Japonês"},{"id":1099,"label":"Kannada"},{"id":1042,"label":"Coreano"},{"id":1062,"label":"Letão"},{"id":1063,"label":"Lituano"},{"id":1086,"label":"Malaio"},{"id":1100,"label":"Malaiala"},{"id":1102,"label":"Marata"},{"id":1044,"label":"Norueguês"},{"id":1045,"label":"Polonês"},{"id":1046,"label":"Português (Brasil)"},{"id":2070,"label":"Português (Portugal)"},{"id":1094,"label":"Punjabi"},{"id":1048,"label":"Romeno"},{"id":1049,"label":"Russo"},{"id":3098,"label":"Sérvio (cirílico)"},{"id":2074,"label":"Sérvio (latino)"},{"id":1051,"label":"Eslovaco"},{"id":1060,"label":"Esloveno"},{"id":3082,"label":"Espanhol (Espanha)"},{"id":2058,"label":"Espanhol (México)"},{"id":1053,"label":"Sueco"},{"id":1097,"label":"Tâmil"},{"id":1098,"label":"Télugo"},{"id":1054,"label":"Tailandês"},{"id":1055,"label":"Turco"},{"id":1058,"label":"Ucraniano"},{"id":1056,"label":"Urdu"},{"id":1066,"label":"Vietnamita"}],"navigationNodes":[{"id":1001,"name":"Tudo","url":"{searchcenterurl}/results.aspx","promptString":"Pesquisar tudo"},{"id":1002,"name":"Pessoas","url":"{searchcenterurl}/peopleresults.aspx","promptString":"Pesquisar pessoas"},{"id":1003,"name":"Conversas","url":"{searchcenterurl}/conversationresults.aspx","promptString":"Pesquisar conversas"},{"id":0,"name":"neste Site","url":"~site/_layouts/15/osssearchresults.aspx?u={contexturl}","promptString":"Pesquisar neste site"}],"webUILanguageDirectory":"pt-BR","showAdminDetails":false,"defaultPagesListName":"Paginas","isSPFSKU":false,"defaultQueryProperties":{"culture":1046,"uiLanguage":1046,"summaryLength":180,"desiredSnippetLength":90,"enableStemming":true,"enablePhonetic":false,"enableNicknames":false,"trimDuplicates":true,"bypassResultTypes":false,"enableInterleaving":true,"enableQueryRules":true,"processBestBets":true,"enableOrderingHitHighlightedProperty":false,"hitHighlightedMultivaluePropertyLimit":-1,"processPersonalFavorites":true},"showSuggestions":true,"showPersonalResults":true,"openDocumentsInClient":false};
+                    Srch.U.trace(null, 'SerializeToClient', 'ScriptApplicationManager state initialized.');
+                }, 'Search.ClientControls.js');var g_clientIdDeltaPlaceHolderMain = "DeltaPlaceHolderMain";
+var g_clientIdDeltaPlaceHolderUtilityContent = "DeltaPlaceHolderUtilityContent";
+
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox.js","resultsPageAddress":"https://portal.fazenda.sp.gov.br/Pesquisa/Paginas/Pesquisa.aspx","serverInitialRender":true,"showDataErrors":true,"states":{},"updatePageTitle":false}, null, null, $get("ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr"));
+                                sb.activate('Pesquisar...', 'ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_sbox', 'ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_sboxdiv', 'ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_NavButton', 'ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_AutoCompList', 'ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_NavDropdownList', 'ctl00_g_c399d3fc_073f_419a_b297_425a69bd0a26_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');function _initTRAWebPartWPQ1()
+{var toolbarData = new Object();toolbarData['ToolbarData'] = "[{'Command':'OpenWithExplorer','ClickScript':'CoreInvoke\\u0028\\u0027NavigateHttpFolder\\u0027,\\u0027https:\\\\u002f\\\\u002flegislacao.fazenda.sp.gov.br\\\\u002fPaginas\\u0027, \\u0027_blank\\u0027\\u0029;','HiddenScript':'!\\u0028SupportsNavigateHttpFolder\\u0028\\u0029\\u0029','LabelText':'Abrir com o Windows Explorer','Description':'Arraste e solte arquivos nesta biblioteca.'},{'Command':'ConnectToClient','ClickScript':'javaScript:ExportHailStorm\\u0028\\u0027documents\\u0027,\\u0027https:\\\\u002f\\\\u002flegislacao.fazenda.sp.gov.br\\u0027,\\u0027{f286d0d1-5624-47da-a856-a8571296eb7f}\\u0027,\\u0027Legisla\\\\u00E7\\\\u00E3o\\u0027,\\u0027P\\\\u00E1ginas\\u0027,\\u0027\\\\u002fPaginas\\u0027,\\u0027\\u0027,\\u0027\\\\u002fPaginas\\u0027\\u0029;','HiddenScript':'!offlineBtnText','Description':'Sincronize itens e torne-os dispon\\u00EDveis offline.'},{'Command':'ExportToSpreadsheet','ClickScript':'javaScript:ExportList\\u0028\\u0027\\\\u002f_vti_bin\\\\u002fowssvr.dll?CS=65001\\\\u0026Using=_layouts\\\\u002f15\\\\u002fquery.iqy\\\\u0026List=\\\\u00257BF286D0D1\\\\u00252D5624\\\\u00252D47DA\\\\u00252DA856\\\\u00252DA8571296EB7F\\\\u00257D\\\\u0026View=\\\\u00257B404C15C8\\\\u00252D2DB5\\\\u00252D408D\\\\u00252D99DB\\\\u00252DC7E7545C358F\\\\u00257D\\\\u0026RootFolder=\\\\u00252FPaginas\\\\u0026CacheControl=1\\u0027\\u0029','LabelText':'Exportar para Planilha','Description':'Analise os itens com um aplicativo de planilhas.'}]";
+toolbarData['ViewDropDownOptions']="{showRepairView : false, showMergeView : false, showEditView: false, showCreateView: false, showApproverView:  false, listId: '{F286D0D1-5624-47DA-A856-A8571296EB7F}', viewId: '{404C15C8-2DB5-408D-99DB-C7E7545C358F}', viewParameters: ''}";
+window['toolbarDataWPQ1'] = toolbarData;
+toolbarData['ViewId']='404c15c8-2db5-408d-99db-c7e7545c358f';
+toolbarData['ViewName']='';
+toolbarData['ViewReadOnly']='false';
+toolbarData['BaseViewId']='1';
+toolbarData['ListId']='f286d0d1-5624-47da-a856-a8571296eb7f';
+toolbarData['ListEnableAttachments']='False';
+toolbarData['ListBaseType']='1';
+toolbarData['ListTemplateType']='850';
+toolbarData['ListPermissions']='{High:16,Low:196673}';
+toolbarData['ListFolderPermissions']='{High:16,Low:196673}';
+toolbarData['ListHasExternalDataSource']='False';
+toolbarData['ServerRelativeWebUrl']='\u002f';
+toolbarData['IsAppWeb']=false;
+SP.Ribbon.PageManager.get_instance().addPageComponent(new SP.Ribbon.DocLibWebPartPageComponent('WebPartWPQ1',toolbarData));
+}
+ExecuteOrDelayUntilScriptLoaded(_initTRAWebPartWPQ1, "sp.ribbon.js");
+          ctx = new ContextInfo();
+          ctx.wpq= "WPQ1";
+          ctx.Templates = {};
+          ctx.ListData = null;
+          ctx.ListSchema = null;
+          ctx.BaseViewID = 1;
+          ctx.ListTemplateType = 850;
+          
+          ctx.existingServerFilterHash = ajaxNavigate.getParam("ServerFilter");
+          if (null != ctx.existingServerFilterHash) {
+            ctx.existingServerFilterHash = ctx.existingServerFilterHash.replace(/-/g, '&').replace(/&&/g, '-');
+            var serverFilterRootFolder = GetUrlKeyValue("RootFolder", true,ctx.existingServerFilterHash);
+            var currentRootFolder = GetUrlKeyValue("RootFolder", true);
+            if("" == serverFilterRootFolder && "" != currentRootFolder)
+            {
+              ctx.existingServerFilterHash += "&RootFolder=" + currentRootFolder;
+            }
+            var uri=new URI(ajaxNavigate.get_href());
+            uri.setFragment("");
+            uri.setQuery(ctx.existingServerFilterHash);
+            STSNavigate(uri.getString());
+          }
+          
+              ctx.listBaseType = 1;
+          
+            ctx.noGroupCollapse = true;
+          
+          ctx.NavigateForFormsPages = true;
+          ctx.BasePermissions = {"ManageLists": false, "ManagePersonalViews": false, "OpenItems": false, "UseClientIntegration": true};
+          ctx.CurrentUserIsSiteAdmin = false;
+          ctx.IsAppWeb = false;
+          ctx.AllowGridMode = false;
+          ctx.inGridMode = false;
+          
+          ctx.listTemplate = "850";
+          ctx.listName = "{F286D0D1-5624-47DA-A856-A8571296EB7F}";
+          ctx.rootFolder = "";
+          ctx.view = "{404C15C8-2DB5-408D-99DB-C7E7545C358F}";
+          ctx.viewTitle = "";
+          ctx.listUrlDir = "/Paginas";
+          ctx.HttpPath = "https://legislacao.fazenda.sp.gov.br/_vti_bin/owssvr.dll?CS=65001";
+          
+          ctx.NoScriptEnabled = false;
+          ctx.HttpRoot = "https://legislacao.fazenda.sp.gov.br";
+          ctx.imagesPath = "/_layouts/15/images/";
+          ctx.PortalUrl = "";
+          ctx.SendToLocationName = "";
+          ctx.SendToLocationUrl = "";
+          
+              ctx.RecycleBinEnabled = 1;
+            
+          ctx.OfficialFileName = "";
+          ctx.OfficialFileNames = "";
+          ctx.WriteSecurity = "1";
+          ctx.SiteTitle = "Legisla\u00E7\u00E3o";
+          ctx.ListTitle = "P\u00E1ginas";
+          if (ctx.PortalUrl == "") ctx.PortalUrl = null;
+          ctx.displayFormUrl = "https://legislacao.fazenda.sp.gov.br/_layouts/15/listform.aspx?PageType=4&ListId=%7BF286D0D1%2D5624%2D47DA%2DA856%2DA8571296EB7F%7D";
+          ctx.newFormUrl = "https://legislacao.fazenda.sp.gov.br/_layouts/15/listform.aspx?PageType=8&ListId=%7BF286D0D1%2D5624%2D47DA%2DA856%2DA8571296EB7F%7D&RootFolder=";
+          ctx.editFormUrl = "https://legislacao.fazenda.sp.gov.br/_layouts/15/listform.aspx?PageType=6&ListId=%7BF286D0D1%2D5624%2D47DA%2DA856%2DA8571296EB7F%7D";
+          ctx.isWebEditorPreview = 0;
+          ctx.ctxId = 0;
+          ctx.isXslView = true;
+          
+                  ctx.FolderRight_AddListItems = "0";
+                
+          if (g_ViewIdToViewCounterMap["{404C15C8-2DB5-408D-99DB-C7E7545C358F}"] == null)
+              g_ViewIdToViewCounterMap["{404C15C8-2DB5-408D-99DB-C7E7545C358F}"]= 0;
+          ctx.CurrentUserId = -1;
+          
+            ctx.isModerated = true;
+          
+            ctx.isForceCheckout = true;
+          
+            ctx.verEnabled = 1;
+          
+            ctx.ContentTypesEnabled = true;
+          
+          ctx.RegionalSettingsTimeZoneBias = "180";
+          
+            ctx.AllowCreateFolder = true;
+          
+          ctx.SiteTemplateId = 53;
+          
+          ctx0 = ctx;
+          g_ctxDict['ctx0'] = ctx;
+      
+        function IsSharePointOpenDocuments( test )
+        {
+          if (test instanceof Array)
+            return false;
+          else
+            return (test != null) && typeof(test) == 'object';
+        }
+        var EditDocumentButton = [];
+        try {EditDocumentButton = new CreateObject("SharePoint.OpenDocuments.3");}
+        catch(err){}
+        if (IsSharePointOpenDocuments(EditDocumentButton))
+          fNewDoc3 = true;
+        else
+        {
+          try {EditDocumentButton = new CreateObject("SharePoint.OpenDocuments.2");}
+          catch(err){}
+          if (IsSharePointOpenDocuments(EditDocumentButton))
+            fNewDoc2 = true;
+          else
+          {
+            try {EditDocumentButton = new CreateObject("SharePoint.OpenDocuments.1");}
+            catch(err){}
+          }
+        }
+        fNewDoc = IsSharePointOpenDocuments(EditDocumentButton);
+      
+                    ExecuteOrDelayUntilScriptLoaded(
+                        function() 
+                        {
+                            if ($isNull($find('ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr')))
+                            {
+                                var sb = $create(Srch.SearchBox, {"delayLoadTemplateScripts":true,"messages":[],"queryGroupNames":["Default"],"renderTemplateId":"~sitecollection/_catalogs/masterpage/Display Templates/Search/Control_SearchBox.js","resultsPageAddress":"/Paginas/Search.aspx","serverInitialRender":true,"states":{},"updatePageTitle":false}, null, null, $get("ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr"));
+                                sb.activate('Pesquisar...', 'ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_sbox', 'ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_sboxdiv', 'ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_NavButton', 'ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_AutoCompList', 'ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_NavDropdownList', 'ctl00_g_c470ea71_dc43_4895_92ba_4a6fe5176d27_csr_SearchLink', 'ms-srch-sbprogress', 'ms-srch-sb-prompt ms-helperText');
+                            }
+                        }, 'Search.ClientControls.js');//]]>
+</script>
+</form><span id="DeltaPlaceHolderUtilityContent"></span></body>
+</html>

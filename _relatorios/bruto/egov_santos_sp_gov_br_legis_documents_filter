@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Legis</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,900;1,300;1,400&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet"> 
+    
+    <link href="https://egov.santos.sp.gov.br/legis/favicon/favicon.png" rel="icon" type="image/png" sizes="80x80" />
+    <link href="https://egov.santos.sp.gov.br/legis/favicon/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32" />
+    <link href="https://egov.santos.sp.gov.br/legis/favicon/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16" />
+    <link rel="shortcut icon" href="https://egov.santos.sp.gov.br/legis/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <link href="https://egov.santos.sp.gov.br/legis/css/app.css" rel="stylesheet">
+            <link href="https://egov.santos.sp.gov.br/legis/css/document.css" rel="stylesheet">
+        
+    <script src="https://egov.santos.sp.gov.br/legis/js/app.js" defer></script>
+            <script src="https://egov.santos.sp.gov.br/legis/js/document-filter.js" defer></script>
+    </head>
+<body>
+    <div id="app" class="container-fluid">
+        <div class="row">
+            <nav class="navbar navbar-expand-sm fixed-top p-0">
+    <div class="col-6 col-sm-3 col-md-2">
+        <a class="navbar-brand px-3" href="//www.santos.sp.gov.br" style="background-image: url('https://egov.santos.sp.gov.br/legis/img/logo-pms.svg');">Prefeitura de Santos</a>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon" data-feather="menu"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/topics">Tópicos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/documents/filter">Documentos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/notices">Comunicados</a>
+            </li>
+            <li class="nav-item">
+        <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/contact"><span data-feather="help-circle"></span> Dúvidas ou Sugestões</a>
+    </li>
+        </ul>
+
+            </div>
+</nav>
+            
+            <header class="w-100 py-4">
+    <div class="container">
+        <form action="https://egov.santos.sp.gov.br/legis/search" method="get">
+            <div class="row align-items-center">
+                <div class="col-5">
+                    <a class="logo" href="https://egov.santos.sp.gov.br/legis/home">
+                        <img src="https://egov.santos.sp.gov.br/legis/img/logo-legis.svg" alt="Logo Legis">
+                        <div class="wrapper">
+                            <span class="name d-block single">Legis</span>                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <select class="form-control" id="topico" name="topico">
+    <option value="">Todos os tópicos</option>
+            
+                
+                <option value="1">Códigos</option>
+            
+                <option value="4">Consolidações</option>
+            
+                <option value="7">Decretos</option>
+            
+                <option value="8">Índices de leis e decretos</option>
+            
+                <option value="2">Lei Orgânica do Município de Santos</option>
+            
+                <option value="5">Leis complementares</option>
+            
+                <option value="6">Leis ordinárias</option>
+            
+                <option value="150">Ordens de Serviço</option>
+            
+                <option value="183">Portarias</option>
+    </select>                </div>
+                <div class="col-5">
+                    <div class="input-group">
+                        <input id="query" name="query" type="text" class="form-control" placeholder="O que você procura?" value="">
+                        <div class="input-group-append">
+                            <button class="btn btn-primary" type="submit" id="btn-buscar">
+                                <span data-feather="search"></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</header>
+            
+            
+                        
+            <div class="container py-3">
+                    <div class="row align-items-center mb-5">
+        <div class="col">
+            <h1>Documentos</h1>
+        </div>
+        <div class="col">
+            <div class="form-group row mb-0">
+                <label for="filter" class="col-3 col-form-label text-right">Filtrar por</label>
+                <div class="col-9">
+                    <select id="filter" class="form-control custom-select">
+                                                    <option value="https://egov.santos.sp.gov.br/legis/documents/filter/downloads"
+                                 selected >
+                                Downloads
+                            </option>
+                                                    <option value="https://egov.santos.sp.gov.br/legis/documents/filter/visits"
+                                >
+                                Visitas
+                            </option>
+                                                    <option value="https://egov.santos.sp.gov.br/legis/documents/filter/updated"
+                                >
+                                Última atualização
+                            </option>
+                                            </select>
+                </div>
+            </div>
+        </div>            
+    </div>
+    <div class="row">
+        <div class="col">
+            <ul class="list-group document-list">
+                                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/55">Estatuto dos Funcionários Públicos Municipais de Santos</a>
+                            <span  class="badge badge-primary badge-pill" ">177451</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/4013">Código de Posturas - (Lei nº 3.531, de 16 de abril de 1968)</a>
+                            <span  class="badge badge-primary badge-pill" ">83673</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/9596">LEI ORGÂNICA DO MUNICÍPIO</a>
+                            <span  class="badge badge-primary badge-pill" ">63347</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/3831">Lei Complementar n.º 752, de 30 de março</a>
+                            <span  class="badge badge-primary badge-pill" ">37680</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/54">ITBI - Imposto sobre Transmissão de Bens Imóveis por Ato Oneroso &quot; inter vivos&quot;</a>
+                            <span  class="badge badge-primary badge-pill" ">34289</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/2378">Lei Complementar nº 542, de 27 de setembro</a>
+                            <span  class="badge badge-primary badge-pill" ">26599</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/692">Decreto nº 3.735, de 1º de junho</a>
+                            <span  class="badge badge-primary badge-pill" ">24188</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/2864">Lei Complementar n.º 667, de 29 de dezembro</a>
+                            <span  class="badge badge-primary badge-pill" ">22682</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/3837">Lei Complementar n.º 758, de 30 de março</a>
+                            <span  class="badge badge-primary badge-pill" ">21914</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/4209">Lei Complementar nº 792, de 14 de janeiro</a>
+                            <span  class="badge badge-primary badge-pill" ">18959</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/3501">Decreto n.º 5.870, de 26 de maio</a>
+                            <span  class="badge badge-primary badge-pill" ">17694</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/2380">Lei Complementar nº 644, de 23 de dezembro</a>
+                            <span  class="badge badge-primary badge-pill" ">17138</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/18">Lei Orgânica da Procuradoria Geral do Município - PGM</a>
+                            <span  class="badge badge-primary badge-pill" ">16590</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/1198">Lei nº 2.252, de 26 de julho</a>
+                            <span  class="badge badge-primary badge-pill" ">16511</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/11064">Decreto n.º 10.644, de 26 de dezembro</a>
+                            <span  class="badge badge-primary badge-pill" ">15724</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/8541">Decreto n.º 9.211, de 09 de fevereiro</a>
+                            <span  class="badge badge-primary badge-pill" ">15442</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/10609">Lei Complementar n.º 1.253, de 03 de abril</a>
+                            <span  class="badge badge-primary badge-pill" ">15046</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/412">Lei Complementar nº 592, de 28 de dezembro</a>
+                            <span  class="badge badge-primary badge-pill" ">13805</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/2928">Decreto n.º 5.489, de 08 de janeiro</a>
+                            <span  class="badge badge-primary badge-pill" ">12901</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/3538">Lei Complementar n.º 730, de 11 de julho</a>
+                            <span  class="badge badge-primary badge-pill" ">12411</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/306">Decreto nº 4.673, de 03 de outubro</a>
+                            <span  class="badge badge-primary badge-pill" ">12223</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/11769">Decreto n.º 11.111, de 22 de dezembro</a>
+                            <span  class="badge badge-primary badge-pill" ">11698</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/498">Lei Complementar nº 555, de 28 de dezembro</a>
+                            <span  class="badge badge-primary badge-pill" ">11437</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/490">Lei Complementar nº 545, de 25 de outubro</a>
+                            <span  class="badge badge-primary badge-pill" ">11297</span>
+                        </li>
+                                            <li class="list-group-item d-flex justify-content-between align-items-center">
+                            <a href="https://egov.santos.sp.gov.br/legis/documents/2869">Lei n.º 2.681, de 13 de janeiro</a>
+                            <span  class="badge badge-primary badge-pill" ">11000</span>
+                        </li>
+                    
+                    <div class="my-5">
+                        <nav>
+        <ul class="pagination">
+            
+                            <li class="page-item disabled" aria-disabled="true" aria-label="&laquo; Anterior">
+                    <span class="page-link" aria-hidden="true">&lsaquo;</span>
+                </li>
+            
+            
+                            
+                
+                
+                                                                                        <li class="page-item active" aria-current="page"><span class="page-link">1</span></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=2">2</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=3">3</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=4">4</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=5">5</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=6">6</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=7">7</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=8">8</a></li>
+                                                                                        
+                                    <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
+                
+                
+                                            
+                
+                
+                                                                                        <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=447">447</a></li>
+                                                                                                <li class="page-item"><a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=448">448</a></li>
+                                                                        
+            
+                            <li class="page-item">
+                    <a class="page-link" href="https://egov.santos.sp.gov.br/legis/documents/filter?page=2" rel="next" aria-label="Próximo &raquo;">&rsaquo;</a>
+                </li>
+                    </ul>
+    </nav>
+
+                    </div>
+                            </ul>
+        </div>
+    </div>
+
+                    </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+</body>
+</html>

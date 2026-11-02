@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <title>Legis</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;0,900;1,300;1,400&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap" rel="stylesheet"> 
+    
+    <link href="https://egov.santos.sp.gov.br/legis/favicon/favicon.png" rel="icon" type="image/png" sizes="80x80" />
+    <link href="https://egov.santos.sp.gov.br/legis/favicon/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32" />
+    <link href="https://egov.santos.sp.gov.br/legis/favicon/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16" />
+    <link rel="shortcut icon" href="https://egov.santos.sp.gov.br/legis/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <link href="https://egov.santos.sp.gov.br/legis/css/app.css" rel="stylesheet">
+            <link href="https://egov.santos.sp.gov.br/legis/css/document.css" rel="stylesheet">
+        
+    <script src="https://egov.santos.sp.gov.br/legis/js/app.js" defer></script>
+            <script src="https://egov.santos.sp.gov.br/legis/js/document-delete.js" defer></script>
+    </head>
+<body>
+    <div id="app" class="container-fluid">
+        <div class="row">
+            <nav class="navbar navbar-expand-sm fixed-top p-0">
+    <div class="col-6 col-sm-3 col-md-2">
+        <a class="navbar-brand px-3" href="//www.santos.sp.gov.br" style="background-image: url('https://egov.santos.sp.gov.br/legis/img/logo-pms.svg');">Prefeitura de Santos</a>
+    </div>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon" data-feather="menu"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/topics">Tópicos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/documents/filter">Documentos</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/notices">Comunicados</a>
+            </li>
+            <li class="nav-item">
+        <a class="nav-link" href="https://egov.santos.sp.gov.br/legis/contact"><span data-feather="help-circle"></span> Dúvidas ou Sugestões</a>
+    </li>
+        </ul>
+
+            </div>
+</nav>
+            
+            <header class="w-100 py-4">
+    <div class="container">
+        <form action="https://egov.santos.sp.gov.br/legis/search" method="get">
+            <div class="row align-items-center">
+                <div class="col-5">
+                    <a class="logo" href="https://egov.santos.sp.gov.br/legis/home">
+                        <img src="https://egov.santos.sp.gov.br/legis/img/logo-legis.svg" alt="Logo Legis">
+                        <div class="wrapper">
+                            <span class="name d-block single">Legis</span>                        </div>
+                    </a>
+                </div>
+                <div class="col-2">
+                    <select class="form-control" id="topico" name="topico">
+    <option value="">Todos os tópicos</option>
+            
+                
+                <option value="1">Códigos</option>
+            
+                <option value="4">Consolidações</option>
+            
+                <option value="7">Decretos</option>
+            
+                <option value="8">Índices de leis e decretos</option>
+            
+                <option value="2">Lei Orgânica do Município de Santos</option>
+            
+                <option value="5">Leis complementares</option>
+            
+                <option value="6">Leis ordinárias</option>
+            
+                <option value="150">Ordens de Serviço</option>
+            
+                <option value="183">Portarias</option>
+    </select>                </div>
+                <div class="col-5">
+                    <div class="input-group">
+                        <input id="query" name="query" type="text" class="form-control" placeholder="O que você procura?" value="">
+                        <div class="input-group-append">
+                            <button class="btn btn-primary" type="submit" id="btn-buscar">
+                                <span data-feather="search"></span>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </div>
+</header>
+            
+            
+                        
+            <div class="container py-3">
+                    <div class="row">
+        <div class="col-10">
+                            <h1 class="mb-4">2009 » Lei Complementar n.º 667, de 29 de dezembro</h1>
+                    </div>
+        <div class="col-2 text-right">
+            <p>
+                10/03/2010 às 16:28<br>
+                <span class="text-secondary">10/03/2010 às 16:26</span>
+            </p>
+        </div>
+    </div>
+    <p class="tags mb-5">
+                <span class="badge badge-pill badge-primary">reforma</span>
+            </p>
+    <p class="descricao">DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL DA PREFEITURA MUNICIPAL DE SANTOS E DÁ OUTRAS PROVIDÊNCIAS.</p>
+    <p class="info mb-5">publicado no DO em 30/12/2009</p>
+    <ul class="list-group">
+        <li class="list-group-item d-flex justify-content-between align-items-center">
+            <div>
+                lc667.doc
+                <span class="badge badge-secondary badge-pill ml-1">
+                    439,5 KB
+                </span>
+            </div>
+            <div>
+                <a class="btn btn-primary" href="https://egov.santos.sp.gov.br/legis/documents/2864/view">
+                    <span data-feather="book-open"></span> Visualizar
+                </a>
+                <a class="btn btn-primary" href="https://egov.santos.sp.gov.br/legis/documents/2864/download">
+                    <span data-feather="download"></span> Download
+                    <span class="badge badge-light">
+                        22682
+                    </span>
+                </a>
+            </div>
+        </li>
+    </ul>
+
+                </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
+</body>
+</html>
