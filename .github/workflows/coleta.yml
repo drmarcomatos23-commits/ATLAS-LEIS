@@ -4,7 +4,7 @@ on:
     - cron: "17 8 * * *"   # 05:17 em Brasília, todos os dias
   workflow_dispatch:
     inputs:
-      coletor: {description: "Rodar só um coletor (dou, tjsp, sefaz_sp, santos, cnj, sapl)", required: false, default: ""}
+      coletor: {description: "Rodar só um coletor (dou, santos_do, tjsp, trabalhista, paginas, sefaz_sp, santos, cnj, sapl)", required: false, default: ""}
 permissions:
   contents: write
 concurrency: {group: coleta, cancel-in-progress: false}
@@ -16,7 +16,7 @@ jobs:
       fail-fast: false
       max-parallel: 6
       matrix:
-        coletor: [dou, tjsp, sefaz_sp, santos, cnj, sapl]
+        coletor: [dou, santos_do, tjsp, trabalhista, paginas, sefaz_sp, santos, cnj, sapl]
     env:
       ATLAS_MINUTOS: "150"   # carga inicial; depois de completa, cada coletor termina em minutos
     steps:
@@ -27,7 +27,7 @@ jobs:
         with: {python-version: "3.12", cache: pip}
       - if: ${{ inputs.coletor == '' || inputs.coletor == matrix.coletor }}
         run: |
-          sudo apt-get install -y -qq antiword >/dev/null
+          sudo apt-get install -y -qq antiword poppler-utils >/dev/null
           pip install -r requirements.txt
           python coletores/${{ matrix.coletor }}.py
       - name: Gravar no acervo

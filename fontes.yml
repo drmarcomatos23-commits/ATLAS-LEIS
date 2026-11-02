@@ -9,3 +9,23 @@ sapl:
   - {municipio: "Itanhaém", uf: SP, url: "https://sapl.itanhaem.sp.leg.br", ativo: false}
   - {municipio: "Peruíbe", uf: SP, url: "https://sapl.peruibe.sp.leg.br", ativo: false}
   - {municipio: "Santos", uf: SP, url: "https://sapl.santos.sp.leg.br", ativo: false}
+
+# Páginas oficiais com listas de atos (coletores/paginas.py)
+paginas:
+  - nome: drei
+    url: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
+    padrao: "arquivos-instrucoes-normativas-em-vigor/.+\\.pdf"
+    pasta: "reguladores/drei/instrucoes-normativas"
+    orgao: "DREI – Departamento Nacional de Registro Empresarial e Integração"
+    tipo: "Instrução Normativa / Manual de Registro"
+    prefixo_titulo: "Instrução Normativa DREI"
+    situacao: "em vigor (segundo a página do DREI)"
+    versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
+  - nome: nrs
+    url: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes"
+    padrao: "normas-regulamentadoras-vigentes/.+"
+    titulo_padrao: "^NR-?\\s*\\d"
+    pasta: "reguladores/mte/normas-regulamentadoras"
+    orgao: "Ministério do Trabalho e Emprego"
+    tipo: "Norma Regulamentadora"
+    versao_texto: "texto atualizado publicado pelo MTE (não substitui o DOU)"

@@ -61,26 +61,10 @@ ALVOS = [
 ]
 # Rodada 2: páginas guardadas na íntegra (_relatorios/bruto/) para calibrar os analisadores
 BRUTOS = [
-    # DREI
-    "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas",
-    "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor",
-    # Peruíbe
-    "https://www.peruibe.sp.gov.br/2017/12/legislacao-municipal-lei-n3-4602017/",
-    "https://www.camaraperuibe.sp.gov.br/",
-    "https://www.peruibe.sp.leg.br/",
+    "https://portallegislativoonline.gcaspp.com/wpHome.aspx?Legislacao,26",
+    "https://camaraperuibe.sp.gov.br/downloads/regimento-interno-e-lei-organica/",
     "https://www.peruibe.sp.gov.br/diario-oficial-do-municipio-dom-e/",
-    # Diário Oficial de Santos
-    "https://diariooficial.santos.sp.gov.br/",
-    "https://diariooficial.santos.sp.gov.br/edicoes/inicio/download/2026-10-29",
-    # Trabalhista
-    "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes",
-    "https://www.tst.jus.br/nugep-sp/tabela-de-recursos-de-revista-repetitivos",
-    "https://www.tst.jus.br/precedentes-normativos",
-    "https://www.tst.jus.br/sumulas",
-    "https://ww2.trt2.jus.br/jurisprudencia",
-    "https://ww2.trt2.jus.br/fileadmin/nugep/jurisconsolidada/Juris_consolidada.pdf",
     "https://www3.mte.gov.br/sistemas/mediador/ConsultarInstColetivo",
-    "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/legislacao",
 ]
 ALVOS = BRUTOS
 
