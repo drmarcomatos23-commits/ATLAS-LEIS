@@ -97,7 +97,7 @@ def enunciados(s, pausa):
     for a in sopa.find_all("a", href=True):
         url = urljoin(ENUNCIADOS, a["href"])
         nome = " ".join(a.get_text(" ").split())
-        if url.lower().endswith(".pdf") and nome and "Enunciad" in (nome + url):
+        if url.lower().endswith(".pdf") and nome and "Enunciad" in (nome + url) and url != EMPRESARIAIS:
             try:
                 n += compendio(s, pausa, url, "Enunciado", "enunciados", nome, "Enunciado")
             except Exception as e:

@@ -35,7 +35,7 @@ jobs:
         run: |
           git config user.name "atlas-leis-bot"
           git config user.email "atlas-leis-bot@users.noreply.github.com"
-          git add -A municipais reguladores jurisprudencia estaduais dou estado _novidades 2>/dev/null || true
+          git add -A -- . ":(exclude)_relatorios"
           git commit -m "Coleta ${{ matrix.coletor }} $(date -u +%F)" || exit 0
           for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
   boletim:
