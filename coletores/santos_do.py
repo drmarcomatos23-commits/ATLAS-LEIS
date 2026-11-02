@@ -50,18 +50,22 @@ def atos(txt: str):
 
 
 def ementa_de(trecho: str) -> str:
-    """Bloco em maiúsculas entre a epígrafe/data/projeto e a fórmula de promulgação."""
-    linhas = [l.strip() for l in trecho.splitlines()[1:25] if l.strip()]
-    bloco = []
+    """Bloco em maiúsculas entre a epígrafe/data/(projeto e autor) e a fórmula de promulgação."""
+    linhas = [l.strip() for l in trecho.splitlines()[1:30] if l.strip()]
+    bloco, parenteses = [], 0
     for l in linhas:
-        if re.search(r"Prefeit|faço saber|DECRETA|C[ÂA]MARA MUNICIPAL APROVOU", l, re.I):
+        if re.search(r"Prefeit|faço saber|DECRETA|C[ÂA]MARA MUNICIPAL APROVOU|usando das atribui", l, re.I):
             break
-        if re.match(r"^(DE\s+\d|\(|CARLOS|AUTOR)", l, re.I) or l.endswith(")"):
-            if bloco:
-                break
+        abre, fecha = l.count("("), l.count(")")
+        if parenteses or abre:  # pula "(PROJETO DE LEI ... – AUTOR: ...)" mesmo quebrado em linhas
+            parenteses = max(0, parenteses + abre - fecha)
+            continue
+        if re.match(r"^DE\s+\d", l, re.I) and not bloco:
             continue
         if l.upper() == l and len(l) > 3:
             bloco.append(l)
+        elif bloco:
+            break
     return " ".join(bloco)[:600]
 
 
