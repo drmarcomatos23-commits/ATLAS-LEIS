@@ -18,9 +18,13 @@ PRIORIDADE = re.compile(
     r"ITBI|ITCMD|holding|integraliza[çc][ãa]o de capital|planejamento sucess|heran[çc]a|doa[çc][ãa]o|"
     r"invent[áa]rio|usufruto|sociedade limitada|registro de im[óo]veis|cart[óo]rio|tabeli|"
     r"incorpora[çc][ãa]o imobili|loca[çc][ãa]o|IPTU|Tema 1348|C[óo]digo Tribut[áa]rio|"
-    r"IBS|CBS|reforma tribut|lucros e dividendos|ganho de capital|transa[çc][ãa]o tribut", re.I)
+    r"IBS|CBS|reforma tribut|lucros e dividendos|ganho de capital|transa[çc][ãa]o tribut|"
+    r"recurso repetitivo|IRR|Norma Regulamentadora|v[íi]nculo de emprego|pejotiza|terceiriza|"
+    r"registro empresarial|DREI", re.I)
 FRENTES = {"santos": "Santos", "sapl": "Baixada Santista (Câmaras)", "cnj": "CNJ / Corregedoria Nacional",
-           "tjsp": "TJ-SP", "sefaz_sp": "SEFAZ-SP", "dou": "Diário Oficial da União"}
+           "tjsp": "TJ-SP", "sefaz_sp": "SEFAZ-SP", "dou": "Diário Oficial da União",
+           "santos_do": "Diário Oficial de Santos", "peruibe_do": "Diário Oficial de Peruíbe",
+           "trabalhista": "Trabalhista (TST, TRT-2)", "paginas": "DREI e Normas Regulamentadoras"}
 
 
 def ler(dias: int):
