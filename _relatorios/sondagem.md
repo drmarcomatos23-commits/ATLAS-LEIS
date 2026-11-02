@@ -1,53 +1,23 @@
 # Sondagem das fontes
 
-## https://egov.santos.sp.gov.br/legis/documents/2864
-- status: 200 · tipo: text/html; charset=UTF-8 · bytes: 6838 · final: https://egov.santos.sp.gov.br/legis/documents/2864
-- título: Legis
-- amostra:  Legis Prefeitura de Santos Tópicos Documentos Comunicados Dúvidas ou Sugestões Legis Todos os tópicos Códigos Consolidações Decretos Índices de leis e decretos Lei Orgânica do Município de Santos Leis complementares Leis ordinárias Ordens de Serviço Portarias 2009 » Lei Complementar n.º 667, de 29 de dezembro 10/03/2010 às 16:28 10/03/2010 às 16:26 reforma DISPÕE SOBRE A ESTRUTURA ORGANIZACIONAL DA PREFEITURA MUNICIPAL DE SANTOS E DÁ OUTRAS PROVIDÊNCIAS. publicado no DO em 30/12/2009 lc667.doc 439,5 KB Visualizar Download 22682 
+## https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$orderby=Modified%20desc
+- status: 200 · tipo: application/json;odata=nometadata;streaming=true;charset=utf-8 · bytes: 8969516 · final: https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$orderby=Modified%20desc
+- amostra: {"odata.nextLink":"https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?%24skiptoken=Paged%3dTRUE%26p_Modified%3d20261101%252015%253a00%253a27%26p_ID%3d1529806&%24top=3&%24orderby=Modified+desc","value":[{"FileSystemObjectType":0,"Id":1508549,"ServerRedirectedEmbedUri":null,"ServerRedirectedEmbedUrl":"","ContentTypeId":"0x010100C568DB52D9D0A14D9B2FDCC96666E9F2007948130EC3DB064584E219954237AF3900DEC2E7F4F9636D44B1EE1A5CCB4FC8C800EDE9DEE9539B594CBFEA35248A572D32","OData__ModerationComments":"Aprova\u00e7\u00e3o autom\u00e1tica","Title":"RICMS/2000 - Integral","Com
 
-## https://egov.santos.sp.gov.br/legis/documents/filter
-- status: 200 · tipo: text/html; charset=UTF-8 · bytes: 19472 · final: https://egov.santos.sp.gov.br/legis/documents/filter
-- título: Legis
-- amostra:  Legis Prefeitura de Santos Tópicos Documentos Comunicados Dúvidas ou Sugestões Legis Todos os tópicos Códigos Consolidações Decretos Índices de leis e decretos Lei Orgânica do Município de Santos Leis complementares Leis ordinárias Ordens de Serviço Portarias Documentos Filtrar por Downloads Visitas Última atualização Estatuto dos Funcionários Públicos Municipais de Santos 177451 Código de Posturas - (Lei nº 3.531, de 16 de abril de 1968) 83673 LEI ORGÂNICA DO MUNICÍPIO 63347 Lei Complementar n.º 752, de 30 de março 37680 ITBI - Imposto sobre Transmissão de Bens Imóveis por Ato Oneroso " inte
+## https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$filter=substringof('RC',FileLeafRef)
+- status: 200 · tipo: text/html; charset=utf-8 · bytes: 247 · final: https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('P%C3%A1ginas')/items?$top=3&$filter=substringof('RC',FileLeafRef)
+- título: Request Rejected
+- amostra: Request Rejected The requested URL was rejected. Please consult with your administrator. Your support ID is: 17380496388071955972 [Go Back]
 
-## https://egov.santos.sp.gov.br/legis/topics
-- status: 200 · tipo: text/html; charset=UTF-8 · bytes: 7044 · final: https://egov.santos.sp.gov.br/legis/topics
-- título: Legis
-- amostra:  Legis Prefeitura de Santos Tópicos Documentos Comunicados Dúvidas ou Sugestões Legis Todos os tópicos Códigos Consolidações Decretos Índices de leis e decretos Lei Orgânica do Município de Santos Leis complementares Leis ordinárias Ordens de Serviço Portarias Tópicos Códigos Posturas, Edificações Consolidações leis e decretos consolidados Decretos ordenados por ano desde 2001 Índices de leis e decretos ordenados por ano desde 1997 Lei Orgânica do Município de Santos Carta Magna Leis complementares ordenadas por ano desde 2001 Leis ordinárias ordenadas por ano desde 1999 Ordens de Serviço Orde
+## https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('RCTema')/items?$top=5
+- status: 200 · tipo: application/json;odata=nometadata;streaming=true;charset=utf-8 · bytes: 2473 · final: https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('RCTema')/items?$top=5
+- amostra: {"odata.nextLink":"https://legislacao.fazenda.sp.gov.br/_api/web/lists/getbytitle('RCTema')/items?%24skiptoken=Paged%3dTRUE%26p_ID%3d6&%24top=5","value":[{"FileSystemObjectType":0,"Id":2,"ServerRedirectedEmbedUri":null,"ServerRedirectedEmbedUrl":"","ContentTypeId":"0x01005D75D0195696C14DB40D00A81A19CED0","Title":"Incid\u00eancia / n\u00e3o incid\u00eancia","IDTema":149.0,"IDTributo":148.0,"Tributo":"ICMS","ComplianceAssetId":null,"ID":2,"Modified":"2022-05-07T06:45:43Z","Created":"2022-05-07T06:45:43Z","AuthorId":30,"EditorId":30,"OData__UIVersionString":"1.0","Attachments":false,"GUID":"f878a
 
-## https://diariooficial.santos.sp.gov.br/edicoes/inicio/download/2026-10-30
-- status: 200 · tipo: text/html; charset=UTF-8 · bytes: 55 · final: https://diariooficial.santos.sp.gov.br/edicoes/inicio/download/2026-10-30
-- amostra: Não foi encontrada nenhuma edição no dia 30/10/2026.
-
-## https://atos.cnj.jus.br/atos/detalhar/6300
-- status: 200 · tipo: text/html; charset=UTF-8 · bytes: 4966 · final: https://atos.cnj.jus.br/atos/detalhar/6300
-- amostra:  Identificação Portaria Nº 279 de 10/09/2025 Apelido --- Temas Ementa Altera Portaria Presidência nº 119/2024, que institui o Comitê Nacional sobre a Pessoa Idosa e suas interseccionalidades para gestão, implementação e aperfeiçoamento da Política Judiciária Nacional sobre a matéria. Situação Vigente Situação STF --- Origem Presidência Fonte DJE/CNJ n. 205/2025, de 19 de setembro de 2025, p. 4-5. Alteração Legislação Correlata Portaria n. 119, de 25 de abril de 2024 Observação / CUMPRDEC / CONSULTA SEI n. 12246/2023 Texto Texto Original Texto Compilado O PRESIDENTE DO CONSELHO NACIONAL DE JUST
-
-## https://www.in.gov.br/leiturajornal?secao=do1&data=30-10-2026
-- status: 200 · tipo: text/html;charset=UTF-8 · bytes: 138336 · final: https://www.in.gov.br/leiturajornal?secao=do1&data=30-10-2026
+## https://www.in.gov.br/leiturajornal?secao=do1&data=27-10-2026
+- status: 200 · tipo: text/html;charset=UTF-8 · bytes: 519916 · final: https://www.in.gov.br/leiturajornal?secao=do1&data=27-10-2026
 - título: Leitura do Jornal - Imprensa Nacional
 - amostra:  Leitura do Jornal - Imprensa Nacional Você precisa habilitar o JavaScript para o funcionamento correto. Ir para o conteúdo Ir para o rodapé Acesso rápido Órgãos do Governo Acesso à Informação Legislação Acessibilidade Órgãos do Governo Acesso à Informação Legislação Acessibilidade Mudar para o modo de alto contraste Acesso GOV.BR Abrir Mega-menu Imprensa Nacional Imprensa Nacional Diário Oficial da União Diário Oficial da União Leitura do Jornal Destaques do Diário Oficial da União Base de Dados de Publicações do DOU Verificação de autenticidade Acesso ao sistema de envio de matérias INCom Co
 
-## https://legislacao.fazenda.sp.gov.br/_api/web/lists?$select=Title,ItemCount,Id,ItemCount&$top=200
-- status: 200 · tipo: application/json;odata=nometadata;streaming=true;charset=utf-8 · bytes: 3908 · final: https://legislacao.fazenda.sp.gov.br/_api/web/lists?$select=Title,ItemCount,Id,ItemCount&$top=200
-- amostra: {"value":[{"Id":"d15d4553-a63d-48ff-b73c-e8fdfa238830","ItemCount":25,"Title":"Acesso R\u00e1pido"},{"Id":"76ab8e07-492a-4f82-b543-2d8578e6fe60","ItemCount":18,"Title":"Apar\u00eancias compostas"},{"Id":"b2ccd60f-3e4f-4bc0-a39a-81355a137487","ItemCount":0,"Title":"appdata"},{"Id":"b79a450e-708e-43da-9d36-7d5dd72fbfad","ItemCount":0,"Title":"appfiles"},{"Id":"bda3614d-c3d2-4dd2-aedf-171475149619","ItemCount":733,"Title":"Ativos do Site"},{"Id":"598ae74d-3cdd-4717-bf66-52943ec0d31a","ItemCount":2,"Title":"Avisos"},{"Id":"39996636-54fb-411b-b454-294cbd5850b9","ItemCount":2,"Title":"Biblioteca de 
-
-## https://legislacao.fazenda.sp.gov.br/Paginas/RespostasDeConsultas.aspx
-- status: 200 · tipo: text/html; charset=utf-8 · bytes: 129050 · final: https://legislacao.fazenda.sp.gov.br/Paginas/RespostasDeConsultas.aspx
-- título: Respostas De Consultas
-- amostra:  Respostas De Consultas Você talvez esteja tentando acessar este site de um navegador seguro no servidor. Habilite os scripts e recarregue esta página. Ativar o modo mais acessível Desativar o modo mais acessível Comando para Ignorar Faixa de Opções Ir para o conteúdo principal Desligar Animações Ligar Animações Hidden Parece que seu navegador não possui JavaScript habilitado. Ative o JavaScript e tente novamente. /governosp /governosp Seu navegador não tem suporte a JavaScript ou está desativado! Você está em: Skip Navigation Links Legislação > Respostas De Consultas Pesquisa de Opinião Hidde
-
-## https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao
-- status: 200 · tipo: text/html; charset=utf-8 · bytes: 475107 · final: https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao
-- título: Normas
-- amostra:  Normas Ir para o conteúdo Ir para a navegação Ir para a busca Ir para o rodapé Botão Menu Departamento Nacional de Registro Empresarial e Integração (DREI) Normas Normas Normas Considerando o amplo arcabouço normativo atinente ao Registro Público de Empresas Mercantis e Atividades Afins, consolidamos as principais normas legais e infralegais que regem o assunto. Links de compartilhamento em redes sociais Compartilhe : Portal Gov.br CRED+ CRED+ Acesso para MEI e MPE (CRED+) Acesso para Instituições Financeiras (CRED+) Apoio às Microempresas e Empresas de Pequeno Porte (PRONAMPE) Crédito Capita
-
-## https://www.tjsp.jus.br/Jurisprudencia
-- status: 200 · tipo: text/html; charset=utf-8 · bytes: 49222 · final: https://www.tjsp.jus.br/Jurisprudencia
-- título: Jurisprudência e Banco de Sentenças
-- amostra:  Jurisprudência e Banco de Sentenças INTRANET | CORREIO ELETRÔNICO | OUVIDORIA Tribunal de Justiça Estado de São Paulo A Justiça próxima do cidadão A Justiça próxima do cidadão INSTITUCIONAL O PODER JUDICIÁRIO Órgãos da Justiça O TJSP Quem Somos Tribunal Pleno Órgão Especial Conselho Superior da Magistratura DIREÇÃO E CÚPULA Presidência Vice-Presidência Corregedoria-Geral da Justiça Decanato Seção de Direito Privado Seção de Direito Público Seção de Direito Criminal Ouvidoria ESCOLAS Escola Judicial dos Servidores Escola Paulista da Magistratura PRIMEIRA INSTÂNCIA Informações Gerais Cálculos J
-
-## https://www.tjsp.jus.br/NugepNac/Irdr
-- status: 200 · tipo: text/html; charset=utf-8 · bytes: 75143 · final: https://www.tjsp.jus.br/NugepNac/Irdr
-- título: Incidentes de Resolução de Demandas Repetitivas
-- amostra:  Incidentes de Resolução de Demandas Repetitivas INTRANET | CORREIO ELETRÔNICO | OUVIDORIA Tribunal de Justiça Estado de São Paulo A Justiça próxima do cidadão A Justiça próxima do cidadão INSTITUCIONAL O PODER JUDICIÁRIO Órgãos da Justiça O TJSP Quem Somos Tribunal Pleno Órgão Especial Conselho Superior da Magistratura DIREÇÃO E CÚPULA Presidência Vice-Presidência Corregedoria-Geral da Justiça Decanato Seção de Direito Privado Seção de Direito Público Seção de Direito Criminal Ouvidoria ESCOLAS Escola Judicial dos Servidores Escola Paulista da Magistratura PRIMEIRA INSTÂNCIA Informações Gerai
+## https://www.tjsp.jus.br/Enunciados
+- status: 200 · tipo: text/html; charset=utf-8 · bytes: 60633 · final: https://www.tjsp.jus.br/Enunciados
+- amostra:  INTRANET | CORREIO ELETRÔNICO | OUVIDORIA Tribunal de Justiça Estado de São Paulo A Justiça próxima do cidadão A Justiça próxima do cidadão INSTITUCIONAL O PODER JUDICIÁRIO Órgãos da Justiça O TJSP Quem Somos Tribunal Pleno Órgão Especial Conselho Superior da Magistratura DIREÇÃO E CÚPULA Presidência Vice-Presidência Corregedoria-Geral da Justiça Decanato Seção de Direito Privado Seção de Direito Público Seção de Direito Criminal Ouvidoria ESCOLAS Escola Judicial dos Servidores Escola Paulista da Magistratura PRIMEIRA INSTÂNCIA Informações Gerais Cálculos Judiciais Cálculos de Custas Processu
