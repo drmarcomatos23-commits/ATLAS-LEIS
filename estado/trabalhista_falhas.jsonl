@@ -1,0 +1,2 @@
+{"data": "2026-11-02", "item": "bnp-TST", "erro": "HTTPError('400 Client Error: BAD REQUEST for url: https://pangeabnp.pdpj.jus.br/api/v1/precedentes')"}
+{"data": "2026-11-02", "item": "bnp-TRT2", "erro": "HTTPError('400 Client Error: BAD REQUEST for url: https://pangeabnp.pdpj.jus.br/api/v1/precedentes')"}
