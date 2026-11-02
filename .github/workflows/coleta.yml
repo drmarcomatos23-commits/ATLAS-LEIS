@@ -38,3 +38,32 @@ jobs:
           git add -A municipais reguladores jurisprudencia estaduais dou estado _novidades 2>/dev/null || true
           git commit -m "Coleta ${{ matrix.coletor }} $(date -u +%F)" || exit 0
           for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
+  boletim:
+    needs: coletar
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install -q requests beautifulsoup4 markdownify pypdf pyyaml
+      - name: Alertas do dia (abre Issue = notificação do GitHub)
+        env: {GH_TOKEN: "${{ github.token }}"}
+        run: |
+          git pull -q
+          python coletores/boletim.py alertas
+          f="_alertas/$(date +%F).md"
+          if [ -f "$f" ]; then gh issue create --title "Alerta ATLAS-LEIS $(date +%d/%m/%Y)" --body-file "$f" --label alerta || gh issue create --title "Alerta ATLAS-LEIS $(date +%d/%m/%Y)" --body-file "$f"; fi
+      - name: Boletim semanal (segundas)
+        run: |
+          if [ "$(TZ=America/Sao_Paulo date +%u)" = "1" ] || [ "${{ github.event_name }}" = "workflow_dispatch" ]; then python coletores/boletim.py semanal; fi
+      - name: Gravar
+        run: |
+          git config user.name "atlas-leis-bot"
+          git config user.email "atlas-leis-bot@users.noreply.github.com"
+          git add -A boletins _alertas 2>/dev/null || true
+          git commit -m "Boletim/alertas $(date -u +%F)" || exit 0
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
