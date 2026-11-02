@@ -1,0 +1,3021 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="">
+    <meta name="description" content="">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+
+    <!-- CSS -->
+    <title>Câmara Municipal de Peruibe</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{word-wrap:normal!important;border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}
+
+/*# sourceURL=/wp-includes/css/dist/block-library/common.min.css */
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+/*# sourceURL=/wp-includes/css/classic-themes.min.css */
+</style>
+
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link rel='stylesheet' id='style.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/style.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='bootstrap.min-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/bootstrap.min.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='animate.min-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/animate.min.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='magnific-popup.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/magnific-popup.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='slick.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/slick.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='structure.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/structure.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='responsive.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/responsive.css?ver=7.1.3' media='all' />
+<link rel='stylesheet' id='main.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/main.css?ver=7.1.3' media='all' />
+<style id="main.css-inline-css">
+:where(a, button, input, textarea, select, summary, [tabindex]:not([tabindex="-1"])):focus-visible{outline:2px solid #4054b2;outline-offset:2px}
+/*# sourceURL=main.css-inline-css */
+</style>
+<link rel='stylesheet' id='font-awesome.min.css-css' href='https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/css/font-awesome.min.css?ver=6.1.1' media='all' />
+<link rel='stylesheet' id='fonts-css' href='https://fonts.googleapis.com/css2?family=Signika:wght@300;400;500;600;700&#038;display=swap&#038;ver=7.1.3' media='all' />
+<style id="portal-pb-pojo-toolbar-offset-inline-css">
+#pojo-a11y-toolbar{top:230px!important;}@media(max-width:767px){#pojo-a11y-toolbar{top:90px!important;}}
+/*# sourceURL=portal-pb-pojo-toolbar-offset-inline-css */
+</style>
+<script id="jquery-core-js" src="https://camaraperuibe.sp.gov.br/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"></script>
+<script id="jquery-migrate-js" src="https://camaraperuibe.sp.gov.br/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"></script>
+<link rel="https://api.w.org/" href="https://camaraperuibe.sp.gov.br/index.php/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://camaraperuibe.sp.gov.br/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 7.1.3" />
+
+        <!-- ícone do site = mesmo arquivo do logo (portal_pb_site_logo_url) -->
+    <link rel="icon" href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/03/Atual-Camara-Peruibe-1-preto-1.png" type="image/png" sizes="any">
+    <link rel="shortcut icon" href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/03/Atual-Camara-Peruibe-1-preto-1.png" type="image/png">
+    <link rel="apple-touch-icon" href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/03/Atual-Camara-Peruibe-1-preto-1.png">
+    <!-- Font Awesome: já carregado em peruibe_wp_styles (FA6 local); evitar segundo CSS no CDN -->
+
+    <style>
+        .font {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            margin-top: -7px;
+        }
+
+        .color {
+            background: linear-gradient(135deg, #607d8b, #546e7a);
+            color: white;
+            position: relative;
+            height: 40px;
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .color .container {
+            max-width: 100%;
+            overflow: hidden;
+        }
+
+        .font {
+            font-family: 'Georgia', 'Times New Roman', serif;
+            margin-top: -7px;
+            color: white;
+        }
+
+        .header-top-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 20px;
+        }
+
+        .date-section {
+            display: flex;
+            align-items: center;
+        }
+
+        .sa-user {
+            display: flex;
+            gap: 15px;
+            justify-content: center;
+            align-items: center;
+            font-family: 'Georgia', 'Times New Roman', serif;
+            margin-top: -7px;
+            position: fixed;
+            top: 13px;
+            right: 75px;
+        }
+
+        .sa-user a {
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            transition: all 0.3s ease;
+        }
+
+        .sa-user a:hover {
+            opacity: 0.8;
+            transform: translateY(-1px);
+        }
+
+        @media (max-width: 991px) {
+            .header-top-content {
+                flex-direction: column;
+                gap: 3px;
+                padding: 3px 0;
+            }
+
+            .date-section {
+                order: 1;
+                justify-content: center;
+                width: 100%;
+            }
+
+            .sa-user {
+                order: 2;
+                display: flex;
+                gap: 6px;
+                justify-content: center;
+                align-items: center;
+                font-family: 'Georgia', 'Times New Roman', serif;
+                font-weight: bold;
+                color: white;
+                position: static;
+                width: 100%;
+                flex-wrap: wrap;
+            }
+
+            .sa-user a {
+                color: white;
+                font-size: 10px;
+                padding: 2px 4px;
+            }
+
+            .color {
+                height: auto;
+                min-height: 35px;
+                padding: 2px 0;
+            }
+
+            .col-lg-3.order-lg-last {
+                display: none !important;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .sa-user {
+                gap: 3px;
+            }
+
+            .sa-user a {
+                font-size: 9px;
+                padding: 1px 3px;
+            }
+
+            .header-top-content {
+                gap: 2px;
+                padding: 2px 0;
+            }
+
+            .color {
+                min-height: 30px;
+            }
+        }
+
+        .sa-menu {
+            background: white;
+            padding: 0;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+            border-bottom: 1px solid rgba(0,0,0,0.05);
+            position: relative;
+        }
+
+        /* Estado inicial do menu mobile */
+        @media (max-width: 991px) {
+            .navbar-collapse {
+                display: none !important;
+            }
+
+            .navbar-collapse.show {
+                display: block !important;
+            }
+        }
+
+        .sa-menu .container {
+            max-width: 1400px;
+            padding: 0 30px;
+            position: relative;
+        }
+
+        .menu-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            width: 100%;
+            position: relative;
+        }
+
+        /* Garantir que o logo não seja sobreposto no desktop */
+        .navbar-brand {
+            padding: 15px 0;
+            position: relative;
+            z-index: 10;
+            flex-shrink: 0;
+        }
+
+        .navbar-brand {
+            padding: 15px 0;
+        }
+
+        .navbar-brand img {
+            height: 100px;
+            transition: all 0.3s ease;
+        }
+
+        .navbar-brand-logo-img {
+            margin-left: -110px;
+        }
+
+        .sa-menu .navbar-nav li a {
+            padding: 0 14px;
+            font-family: 'Signika', sans-serif;
+            font-size: 14px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            height: 100%;
+            min-height: 60px;
+        }
+
+        .sa-menu .navbar-nav li.active>a {
+            color: #607d8b;
+            background: rgba(96,125,139, 0.05);
+        }
+
+        .sa-menu .navbar-nav li a:hover {
+            color: #607d8b;
+            background: rgba(96,125,139, 0.05);
+        }
+
+        /* Garantir que o primeiro item (HOME) não sobreponha o logo */
+        .sa-menu .navbar-nav li:first-child {
+            margin-left: 0;
+        }
+
+        /* Garantir alinhamento vertical consistente dos itens do menu */
+        .sa-menu .navbar-nav {
+            display: flex;
+            align-items: center;
+            height: 100%;
+            margin-left: auto;
+            position: relative;
+            z-index: 5;
+        }
+
+        .sa-menu .navbar-nav li {
+            display: flex;
+            align-items: center;
+            height: 100%;
+            min-height: 60px;
+        }
+
+        .sa-menu .navbar-nav li a {
+            min-height: 60px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .sa-dropdown-menu {
+            background: rgba(255, 255, 255, 0.98) !important;
+            backdrop-filter: blur(10px) !important;
+            -webkit-backdrop-filter: blur(10px) !important;
+            border: 1px solid rgba(255, 255, 255, 0.3) !important;
+            border-radius: 15px !important;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.1) !important;
+            padding: 2px 0 !important;
+            margin-top: 0 !important;
+            min-width: 250px !important;
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(20px);
+            transition: all 0.3s cubic-bezier(0.68, -0.55, 0.265, 1.55) !important;
+            list-style: none !important;
+        }
+
+        .sa-dropdown:focus-within > .sa-dropdown-menu {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+
+        .sa-dropdown-menu a {
+            padding: 4px 16px !important;
+            color: #333 !important;
+            font-weight: 500 !important;
+            transition: all 0.3s ease !important;
+            position: relative !important;
+            display: flex !important;
+            align-items: center !important;
+            gap: 4px !important;
+            font-family: 'Signika', sans-serif !important;
+            font-size: 13px !important;
+            line-height: 1.1 !important;
+            margin: 0 !important;
+            border: none !important;
+        }
+
+        .sa-dropdown-menu a:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 0;
+            height: 2px;
+            background: #607d8b;
+            transition: all 0.3s ease;
+        }
+
+        .sa-dropdown-menu a:hover {
+            background: rgba(96,125,139, 0.05);
+            padding-left: 22px;
+        }
+
+        .sa-dropdown-menu a:hover:before {
+            width: 15px;
+        }
+
+        /* Garantir que todos os itens dos submenus tenham o mesmo espaçamento */
+        .sa-dropdown-menu > li {
+            margin: 0 !important;
+            padding: 0 !important;
+            border: none !important;
+        }
+
+        .sa-dropdown-menu > li:first-child {
+            margin-top: 0 !important;
+        }
+
+        .sa-dropdown-menu > li:last-child {
+            margin-bottom: 0 !important;
+        }
+
+        /* Submenu aninhado (Serviços) */
+        .sa-dropdown-nested {
+            position: relative !important;
+        }
+        .sa-dropdown-submenu {
+            left: 100% !important;
+            top: 0 !important;
+            margin-left: 2px !important;
+            margin-top: 0 !important;
+            min-width: 200px !important;
+        }
+        .sa-dropdown-nested:focus-within > .sa-dropdown-menu {
+            opacity: 1 !important;
+            visibility: visible !important;
+            transform: translateY(0) !important;
+        }
+
+        /* Suprimir flash de menus ao clicar em link de navegação */
+        .sa-menu.sa-nav-navigating .sa-dropdown:focus-within > .sa-dropdown-menu,
+        .sa-menu.sa-nav-navigating .sa-dropdown-nested:focus-within > .sa-dropdown-menu {
+            opacity: 0 !important;
+            visibility: hidden !important;
+            transform: translateY(20px) !important;
+        }
+
+        .navbar-toggler {
+            border: none;
+            padding: 15px;
+            outline: none;
+            position: relative;
+            z-index: 1001;
+            margin-right: 15px;
+        }
+
+        .navbar-toggler:focus {
+            outline: none;
+            box-shadow: none;
+        }
+
+
+
+        .navbar-toggler-icon {
+            display: inline-block;
+            width: 24px;
+            height: 2px;
+            background-color: #607d8b;
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .navbar-toggler-icon:before,
+        .navbar-toggler-icon:after {
+            content: '';
+            position: absolute;
+            width: 24px;
+            height: 2px;
+            background-color: #607d8b;
+            left: 0;
+            transition: all 0.3s ease;
+        }
+
+        .navbar-toggler-icon:before {
+            top: -8px;
+        }
+
+        .navbar-toggler-icon:after {
+            bottom: -8px;
+        }
+
+        .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
+            background: transparent;
+        }
+
+        .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:before {
+            transform: rotate(45deg);
+            top: 0;
+        }
+
+        .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon:after {
+            transform: rotate(-45deg);
+            bottom: 0;
+        }
+
+        @media (max-width: 991px) {
+            .color {
+                height: auto;
+                padding: 10px 0;
+            }
+
+            .color .container {
+                flex-direction: column;
+                gap: 10px;
+                text-align: center;
+            }
+
+            .sa-user {
+                position: static;
+                justify-content: center;
+                width: 100%;
+                gap: 15px;
+                color: white;
+            }
+
+            .sa-user a {
+                font-size: 13px;
+                padding: 8px 12px;
+                color: white;
+            }
+
+            .sa-user a:hover {
+                color: white;
+                opacity: 0.8;
+            }
+
+            .sa-menu .container {
+                padding: 10px 20px;
+            }
+
+            .menu-content {
+                padding: 0;
+            }
+
+            /* Melhorias para o menu mobile */
+            .navbar-collapse {
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                background: white;
+                z-index: 1000;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+                border-top: 1px solid #e9ecef;
+            }
+
+            /* Animação suave para o menu */
+            .navbar-collapse.collapsing {
+                transition: height 0.35s ease;
+            }
+
+            .navbar-collapse.show {
+                display: block !important;
+            }
+
+            .navbar-nav > li > a {
+                font-size: 16px !important;
+                font-weight: 600 !important;
+            }
+
+            .sa-dropdown-menu a {
+                font-size: 14px !important;
+                font-weight: 400 !important;
+            }
+
+            /* Melhor espaçamento */
+            .navbar-nav > li > a,
+            .sa-dropdown > a {
+                padding: 18px 20px !important;
+            }
+
+            .sa-dropdown-menu a {
+                padding: 15px 20px 15px 40px !important;
+            }
+        }
+
+        .sa-menu.scrolled {
+            padding: 0;
+            background: rgba(255, 255, 255, 0.98);
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .sa-menu.scrolled .navbar-brand img {
+            height: 40px;
+        }
+
+        .sa-menu.scrolled .menu-header-selo-img {
+            height: 28px;
+            max-height: 28px;
+        }
+
+        .sa-menu.scrolled .navbar-nav li a {
+            padding: 20px 15px;
+        }
+
+        /* Estilo para quando o menu mobile está aberto */
+        body.no-scroll {
+            overflow: hidden;
+        }
+
+        .acesso-info-selo {
+            display: inline-flex;
+            align-items: center;
+            padding: 0;
+            background: none;
+            border: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .acesso-info-selo:hover {
+            opacity: 0.8;
+        }
+
+        .acesso-info-selo img {
+            vertical-align: middle;
+        }
+
+        @media (max-width: 991px) {
+            .acesso-info-selo {
+                display: none;
+            }
+        }
+
+        .nav-item img.selo-transparencia {
+            height: 24px;
+            margin-left: 10px;
+            vertical-align: middle;
+            transition: all 0.3s ease;
+            position: relative;
+            top: -2px;
+        }
+
+        @media (max-width: 991px) {
+            .nav-item img.selo-transparencia {
+                display: none;
+            }
+        }
+
+        @media (min-width: 992px) {
+            .nav-item {
+                display: flex;
+                align-items: center;
+            }
+
+            .nav-item:last-child {
+                display: flex;
+                align-items: center;
+                gap: 5px;
+            }
+        }
+
+        .selo-container {
+            display: inline-flex;
+            align-items: center;
+            height: 100%;
+            padding-left: 10px;
+            position: relative;
+            z-index: 1;
+            margin-left: 10px;
+        }
+
+        /* Garantir que o item com selo não afete o alinhamento dos outros itens */
+        .nav-item:has(.selo-container) {
+            display: flex;
+            align-items: center;
+            height: 100%;
+        }
+
+        .selo-container img {
+            max-height: 60px;
+            width: auto;
+            object-fit: contain;
+        }
+
+        .nav-item img.selo-transparencia {
+            height: 40px;
+            transition: all 0.3s ease;
+            display: block;
+        }
+
+        @media (max-width: 991px) {
+            .selo-container {
+                display: none;
+            }
+        }
+
+        @media (min-width: 992px) {
+            .nav-item {
+                display: flex;
+                align-items: center;
+            }
+
+            .nav-item:last-child {
+                display: flex;
+                align-items: center;
+            }
+
+            /* Garantir layout correto no desktop */
+            .menu-content {
+                gap: 20px;
+            }
+
+            .navbar-brand {
+                margin-right: 20px;
+            }
+
+            /* Área do menu ocupa o restante da linha; links centralizados (equilibra o logo puxado à esquerda) */
+            .menu-content .navbar-collapse {
+                flex: 1 1 auto;
+                display: flex !important;
+                justify-content: center;
+                min-width: 0;
+            }
+
+            .sa-menu .navbar-nav {
+                flex: 0 1 auto;
+                justify-content: center;
+                flex-wrap: nowrap;
+                margin-left: -20px;
+            }
+
+            /* Evita quebra de linha nos rótulos (ex.: TRABALHOS LEGISLATIVOS, FALE CONOSCO) */
+            .sa-menu .navbar-nav > li {
+                flex-shrink: 0;
+            }
+
+            .sa-menu .navbar-nav > li > a {
+                white-space: nowrap;
+                font-size: 12px;
+                padding-left: 8px;
+                padding-right: 8px;
+                line-height: 1.15;
+            }
+
+            .sa-menu.scrolled .navbar-nav > li > a {
+                padding-top: 20px;
+                padding-bottom: 20px;
+                padding-left: 8px;
+                padding-right: 8px;
+            }
+
+            .menu-header-selos-wrap {
+                flex-shrink: 0;
+                margin-left: 10px;
+                list-style: none;
+                pointer-events: none;
+            }
+
+            .menu-header-selos-wrap .menu-header-selo-link {
+                pointer-events: auto;
+                display: inline-flex;
+                align-items: center;
+                line-height: 0;
+            }
+
+            .menu-header-selos-wrap .menu-header-selo-link:focus {
+                outline: 2px solid #2670e8;
+                outline-offset: 3px;
+                border-radius: 4px;
+            }
+
+            .menu-header-selos {
+                display: inline-flex;
+                align-items: center;
+                gap: 8px;
+            }
+
+            .menu-header-selo-img {
+                height: 40px;
+                width: auto;
+                max-height: 40px;
+                object-fit: contain;
+                display: block;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .sa-dropdown-menu {
+                position: relative !important;
+                background: #f8f9fa !important;
+                border: none !important;
+                box-shadow: none !important;
+                width: 100% !important;
+                padding-left: 20px !important;
+                margin-top: 0 !important;
+                display: none;
+                border-radius: 0 !important;
+            }
+
+            .sa-dropdown-menu.show {
+                display: block !important;
+            }
+
+            .sa-dropdown > a {
+                display: flex !important;
+                justify-content: space-between !important;
+                align-items: center !important;
+                width: 100% !important;
+                padding: 15px 20px !important;
+                border-bottom: 1px solid #e9ecef !important;
+                font-weight: 500 !important;
+            }
+
+            .sa-dropdown > a:after {
+                content: '\f107' !important;
+                font-family: 'Font Awesome 5 Free' !important;
+                font-weight: 900 !important;
+                margin-left: 10px !important;
+                transition: transform 0.3s ease !important;
+            }
+
+            .sa-dropdown > a.active:after {
+                transform: rotate(180deg) !important;
+            }
+
+            #navbarNav {
+                padding: 0;
+                background: white;
+                border-top: 1px solid #e9ecef;
+                max-height: 80vh;
+                overflow-y: auto;
+                position: absolute;
+                top: 100%;
+                left: 0;
+                right: 0;
+                z-index: 1000;
+            }
+
+            /* Garantir que o menu comece fechado */
+            #navbarNav:not(.show) {
+                display: none !important;
+                visibility: hidden !important;
+                opacity: 0 !important;
+            }
+
+            #navbarNav.show {
+                display: block !important;
+                visibility: visible !important;
+                opacity: 1 !important;
+            }
+
+            /* Garantir que todos os dropdowns comecem fechados */
+            .sa-dropdown-menu:not(.show) {
+                display: none !important;
+                visibility: hidden !important;
+                opacity: 0 !important;
+                max-height: 0 !important;
+                overflow: hidden !important;
+            }
+
+            .navbar-nav {
+                width: 100%;
+                margin: 0;
+                padding: 0;
+            }
+
+            .navbar-nav li {
+                width: 100%;
+                border-bottom: 1px solid #e9ecef;
+            }
+
+            .navbar-nav li:last-child {
+                border-bottom: none;
+            }
+
+            .navbar-nav > li > a {
+                padding: 15px 20px !important;
+                display: block !important;
+                width: 100% !important;
+                color: #333 !important;
+                font-weight: 500 !important;
+                border-bottom: 1px solid #e9ecef !important;
+                text-align: left !important;
+            }
+
+            /* Forçar layout vertical no mobile */
+            .navbar-nav,
+            .navbar-nav > li,
+            .sa-dropdown,
+            .sa-dropdown-menu,
+            .sa-dropdown-menu > li {
+                display: block !important;
+                width: 100% !important;
+                float: none !important;
+                clear: both !important;
+            }
+
+            /* Sobrescrever qualquer flexbox que possa estar causando problemas */
+            .sa-menu .navbar-collapse {
+                flex-direction: column !important;
+                align-items: stretch !important;
+                justify-content: flex-start !important;
+            }
+
+            .sa-menu .navbar-nav {
+                display: block !important;
+                flex-direction: column !important;
+                align-items: stretch !important;
+                justify-content: flex-start !important;
+            }
+
+            .sa-menu .navbar-nav > li,
+            .sa-menu .sa-dropdown {
+                display: block !important;
+                flex-direction: column !important;
+                align-items: stretch !important;
+                justify-content: flex-start !important;
+            }
+
+            .sa-menu .sa-dropdown-menu {
+                display: none !important;
+                flex-direction: column !important;
+                align-items: stretch !important;
+                justify-content: flex-start !important;
+            }
+
+            .sa-dropdown-menu a {
+                padding: 12px 20px 12px 40px !important;
+                display: block !important;
+                width: 100% !important;
+                color: #666 !important;
+                font-size: 14px !important;
+                border-bottom: 1px solid #f0f0f0 !important;
+            }
+
+            /* Garantir que os dropdowns abram para baixo no mobile */
+            .sa-dropdown {
+                position: relative !important;
+                width: 100% !important;
+                display: block !important;
+            }
+
+            .sa-dropdown-menu {
+                position: static !important;
+                float: none !important;
+                width: 100% !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                border: none !important;
+                box-shadow: none !important;
+                background: #f8f9fa !important;
+                display: none !important;
+                opacity: 0 !important;
+                visibility: hidden !important;
+            }
+
+            .sa-dropdown-menu.show {
+                display: block !important;
+                opacity: 1 !important;
+                visibility: visible !important;
+            }
+
+            .sa-dropdown-menu > li {
+                display: block !important;
+                width: 100% !important;
+                float: none !important;
+            }
+
+            .sa-dropdown-menu a:hover {
+                background: rgba(96,125,139, 0.05) !important;
+                color: #607d8b !important;
+            }
+
+            .navbar-toggler {
+                border: 2px solid #607d8b !important;
+                border-radius: 5px !important;
+                padding: 8px 12px !important;
+            }
+
+            .navbar-toggler:focus {
+                box-shadow: 0 0 0 0.2rem rgba(96,125,139, 0.25) !important;
+            }
+
+            .menu-content {
+                align-items: center !important;
+            }
+
+            /* Correção para o menu mobile - garantir que abra para baixo */
+            .navbar-collapse {
+                justify-content: flex-start !important;
+                align-items: flex-start !important;
+                flex-direction: column !important;
+            }
+
+            .navbar-nav {
+                flex-direction: column !important;
+                width: 100% !important;
+                display: block !important;
+            }
+
+            .navbar-nav > li {
+                display: block !important;
+                width: 100% !important;
+                float: none !important;
+            }
+
+            .navbar-brand {
+                padding: 10px 0 !important;
+            }
+
+            .navbar-brand img {
+                height: 50px !important;
+            }
+
+            .navbar-brand-logo-img {
+                margin-left: 0 !important;
+            }
+        }
+
+        /* Preloader azul */
+        #preloader .tr-preloader {
+            filter: hue-rotate(200deg) saturate(1.2) brightness(1) !important;
+        }
+    </style>
+</head>
+
+<body>
+        <div id="preloader">
+        <img src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/images/preloader.gif" alt="Image" class="tr-preloader img-fluid">
+    </div>
+
+    <header class="sa-header">
+        <div class="color">
+            <div class="container">
+                <div class="header-top-content">
+                    <div class="date-section">
+                        <div id="date_time" class="font"></div>
+                    </div>
+
+                    <div class="right-content d-flex align-self-center">
+                        <div class="d-flex">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="sa-menu">
+            <nav class="navbar navbar-expand-lg">
+                <div class="container">
+                    <div class="menu-content">
+                        <a class="navbar-brand" href="https://camaraperuibe.sp.gov.br/"><img src="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/03/Atual-Camara-Peruibe-1-preto-1.png" alt="Câmara Municipal de Peruibe" class="navbar-brand-logo-img"></a>
+
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav">
+                                <li class="nav-item sa-dropdown">
+                                    <a href="#">INSTITUCIONAL<span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
+                                    <ul class="sa-dropdown-menu">
+                                        <li><a href="https://camaraperuibe.sp.gov.br/credenciamento-imprensa">Credenciamento de imprensa</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/organizacao-administrativa">Organização Administrativa</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/perguntas-respostas">FAQ - Perguntas e Respostas</a></li>
+                                                                                <li class="sa-dropdown sa-dropdown-nested">
+                                            <a href="#">O Município</a>
+                                            <ul class="sa-dropdown-menu sa-dropdown-submenu">
+                                                <li><a href="https://camaraperuibe.sp.gov.br/historico">História do Município</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/aspectos-gerais">Aspectos Gerais</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/curiosidades">Curiosidades</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/hino">Hino</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/bandeira">Bandeira</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/brasao">Brasão</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/localizacao">Localização</a></li>
+                                            </ul>
+                                        </li>
+                                        <li class="sa-dropdown sa-dropdown-nested">
+                                            <a href="#">Serviços</a>
+                                            <ul class="sa-dropdown-menu sa-dropdown-submenu">
+                                                <li><a href="https://webmail.camaraperuibe.sp.gov.br" target="_blank" rel="noopener">Webmail</a></li>
+                                                <li><a href="https://servidoronline.gcaspp.com/cmperuibe" target="_blank" rel="noopener">Holerite</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/telefones">Telefones</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/wp-admin/" target="_blank" rel="noopener">Web site</a></li>
+                                            </ul>
+                                        </li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/mapa-do-site">Mapa do Site</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item sa-dropdown">
+                                    <a href="#">TRANSPARÊNCIA<span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
+                                    <ul class="sa-dropdown-menu">
+                                        <li><a href="https://radardatransparencia.atricon.org.br/" target="_blank" rel="noopener">Radar da Transparência Pública</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/carta-de-servicos-ao-usuario">Carta de Serviços ao Usuário</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/politica-de-cookies">Política de cookies</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/contas-chefe-do-poder-executivo">Contas Chefe do Poder Executivo</a></li>
+                                        <li><a href="http://transparencia.camaraperuibe.sp.gov.br/home" target="_blank" rel="noopener">Portal da Transparência</a></li>
+                                        <li><a href="http://www.peruibe.sp.gov.br/boletim-oficial/" target="_blank" rel="noopener">BOM</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/prestacao-de-contas">Prestação de Contas</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/julgamento-de-contas">Julgamento de Contas</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/licitacao">Licitações</a></li>
+                                        <li><a href="https://leideacessoonline.gcaspp.com/login.aspx?A27D471F0E1D71FC5E9CE8E86879B506" target="_blank" rel="noopener">e-SIC</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/concurso">Concursos</a></li>
+                                                                                <li class="sa-dropdown sa-dropdown-nested">
+                                            <a href="#">LGPD</a>
+                                            <ul class="sa-dropdown-menu sa-dropdown-submenu">
+                                                <li><a href="https://camaraperuibe.sp.gov.br/lgpd">LGPD</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/politica-de-privacidade">Política de Privacidade e Termo de Uso</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item sa-dropdown">
+                                    <a href="#">VEREADORES<span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
+                                    <ul class="sa-dropdown-menu">
+                                        <li><a href="https://camaraperuibe.sp.gov.br/vereadores">Legislatura atual</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/presidentes">Presidentes</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/mesa-diretora">Mesa Diretora</a></li>
+                                        <li class="sa-dropdown sa-dropdown-nested">
+                                            <a href="#">Comissões</a>
+                                            <ul class="sa-dropdown-menu sa-dropdown-submenu">
+                                                <li><a href="https://camaraperuibe.sp.gov.br/comissoes">Comissões Permanentes</a></li>
+                                                <li><a href="https://camaraperuibe.sp.gov.br/comissoes-especiais">Comissões especiais</a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item sa-dropdown">
+                                    <a href="#">SESSÕES<span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
+                                    <ul class="sa-dropdown-menu">
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/pauta-das-comissoes-permanentes">Pauta das Comissões Permanentes</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/regimento-interno-e-lei-organica">Regimento Interno e Lei Orgânica</a></li>
+                                        <li><a href="https://portallegislativoonline.gcaspp.com/wphome.aspx?Ata,26" target="_blank" rel="noopener">Expediente Ordem do Dia</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/pauta">Pauta</a></li>
+                                        <li><a href="https://camaraperuibe.sp.gov.br/downloads/ata">Ata</a></li>
+                                        <li><a href="https://cmpb.envmeta.app.br/public.php" target="_blank" rel="noopener">Arquivo de Sessões</a></li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item sa-dropdown">
+                                    <a href="#">TRABALHOS LEGISLATIVOS<span><i class="fa fa-angle-down" aria-hidden="true"></i></span></a>
+                                    <ul class="sa-dropdown-menu">
+                                        <li><a href="https://portallegislativoonline.gcaspp.com/wpHome.aspx?Home,26" target="_blank" rel="noopener">Pesquisa Legislação</a></li>
+                                        <li><a href="https://portallegislativoonline.gcaspp.com/wpHome.aspx?Home,26" target="_blank" rel="noopener">Pesquisa Propositura</a></li>
+                                    </ul>
+                                </li>
+                                <li><a href="https://camaraperuibe.sp.gov.br/noticias">NOTÍCIAS</a></li>
+                                <li><a href="https://camaraperuibe.sp.gov.br/fale-conosco">FALE CONOSCO</a></li>
+                                <li><a href="https://cmpb.envsic.app.br/index/" target="_blank" rel="noopener">OUVIDORIA</a></li>
+                                <li><a href="https://pb-enquete.envcloud.app.br/enquetes" target="_blank" rel="noopener">ENQUETES</a></li>
+                                <li class="nav-item menu-header-selos-wrap d-none d-lg-flex align-items-center">
+                                    <span class="menu-header-selos">
+                                        <a href="https://radardatransparencia.atricon.org.br/" class="menu-header-selo-link" target="_blank" rel="noopener noreferrer" aria-label="Radar Nacional da Transparência Pública (Atricon)">
+                                            <img src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/images/sselo1.png" alt="Selo Radar da Transparência Pública" class="menu-header-selo-img" decoding="async" loading="lazy">
+                                        </a>
+                                        <a href="https://camaraperuibe.sp.gov.br/index.php/lei-de-acesso-a-informacao/" class="menu-header-selo-link" aria-label="Lei de Acesso à Informação">
+                                            <img src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/images/sselo2.png" alt="Selo Lei de Acesso à Informação" class="menu-header-selo-img" decoding="async" loading="lazy">
+                                        </a>
+                                    </span>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+    </header>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var navbarToggler = document.querySelector('.navbar-toggler');
+            var navbarCollapse = document.querySelector('#navbarNav');
+            var saMenu = document.querySelector('.sa-menu');
+            var dropdowns = document.querySelectorAll('.sa-dropdown > a');
+
+            // Evitar flash de menus ao clicar em link de navegação
+            document.querySelector('#navbarNav') && document.querySelector('#navbarNav').addEventListener('mousedown', function(e) {
+                var link = e.target.closest('a[href]');
+                if (link && link.getAttribute('href') && link.getAttribute('href') !== '#' && link.getAttribute('href') !== '') {
+                    saMenu && saMenu.classList.add('sa-nav-navigating');
+                }
+            });
+            document.querySelector('#navbarNav') && document.querySelector('#navbarNav').addEventListener('click', function(e) {
+                var link = e.target.closest('a[href]');
+                if (link && link.getAttribute('href') && link.getAttribute('href') !== '#' && link.getAttribute('href') !== '') {
+                    saMenu && saMenu.classList.add('sa-nav-navigating');
+                }
+            });
+
+            // Controle do menu mobile
+            navbarToggler.addEventListener('click', function() {
+                if (navbarCollapse.classList.contains('show')) {
+                    document.body.classList.remove('no-scroll');
+                } else {
+                    document.body.classList.add('no-scroll');
+                }
+            });
+
+            navbarCollapse.addEventListener('hidden.bs.collapse', function() {
+                document.body.classList.remove('no-scroll');
+            });
+
+            navbarCollapse.addEventListener('shown.bs.collapse', function() {
+                document.body.classList.add('no-scroll');
+            });
+
+            // Função para fechar todos os dropdowns
+            function closeAllDropdowns() {
+                document.querySelectorAll('.sa-dropdown-menu').forEach(function(menu) {
+                    menu.classList.remove('show');
+                });
+                document.querySelectorAll('.sa-dropdown > a').forEach(function(link) {
+                    link.classList.remove('active');
+                });
+            }
+
+            // Controle dos dropdowns móveis
+            dropdowns.forEach(function(dropdown) {
+                dropdown.addEventListener('click', function(e) {
+                    if (window.innerWidth <= 991) {
+                        e.preventDefault();
+                        e.stopPropagation();
+
+                        var submenu = this.nextElementSibling;
+                        var isOpen = submenu.classList.contains('show');
+
+                        // Fecha todos os dropdowns
+                        closeAllDropdowns();
+
+                        // Se não estava aberto, abre este dropdown
+                        if (!isOpen) {
+                            submenu.classList.add('show');
+                            this.classList.add('active');
+                        }
+                    }
+                });
+            });
+
+            // Fecha os dropdowns quando clicar fora
+            document.addEventListener('click', function(e) {
+                if (window.innerWidth <= 991) {
+                    if (!e.target.closest('.sa-dropdown')) {
+                        closeAllDropdowns();
+                    }
+                }
+            });
+
+            // Reseta os dropdowns ao redimensionar
+            window.addEventListener('resize', function() {
+                if (window.innerWidth > 991) {
+                    closeAllDropdowns();
+                }
+            });
+        });
+    </script>
+
+    <script>
+        function atualizarData() {
+            const diasSemana = ['Domingo', 'Segunda-feira', 'Terça-feira', 'Quarta-feira', 'Quinta-feira', 'Sexta-feira', 'Sábado'];
+            const meses = ['Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho', 'Julho', 'Agosto', 'Setembro', 'Outubro', 'Novembro', 'Dezembro'];
+
+            const data = new Date();
+            const diaSemana = diasSemana[data.getDay()];
+            const dia = data.getDate();
+            const mes = meses[data.getMonth()];
+            const ano = data.getFullYear();
+
+            document.getElementById('date_time').innerHTML = `${diaSemana}, ${dia} de ${mes} de ${ano}`;
+        }
+
+        atualizarData();
+        setInterval(atualizarData, 1000);
+    </script>
+
+    <script>
+        // Efeito de scroll
+        window.addEventListener('scroll', function() {
+            const menu = document.querySelector('.sa-menu');
+            if (window.scrollY > 50) {
+                menu.classList.add('scrolled');
+            } else {
+                menu.classList.remove('scrolled');
+            }
+        });
+    </script>
+
+<main id="conteudo-principal" class="site-main" tabindex="-1">
+<div class="portal-breadcrumb-wrap"><div class="container"><nav class="portal-breadcrumb" aria-label="Navegação"><ol class="portal-breadcrumb-list"><li class="portal-breadcrumb-item"><a href="https://camaraperuibe.sp.gov.br/">Início</a></li><li class="portal-breadcrumb-item is-current"><span>Regimento Interno e Lei Orgânica</span></li></ol></nav></div></div>
+<!-- Conteúdo importado do banco legado (peruibe_old.Download) -->
+<div class="legislativo-container">
+    <div class="header-section">
+        <div class="container">
+            <div class="section-title">
+                <h1>Regimento Interno e Lei Orgânica</h1>
+                <p class="subtitle">Arquivos disponíveis para download</p>
+            </div>
+        </div>
+    </div>
+    <div class="content-section">
+        <div class="container">
+            <div class="mb-4">
+                <a href="https://camaraperuibe.sp.gov.br/downloads/" class="d-inline-flex align-items-center gap-2 text-decoration-none" style="color: #607d8b;">
+                    <i class="fas fa-arrow-left"></i> Voltar para Downloads
+                </a>
+            </div>
+            <div class="downloads-imported-list d-flex flex-column gap-3">
+                                <div class="d-flex align-items-start gap-3 p-3 bg-white rounded shadow-sm border">
+                                        <div class="flex-shrink-0" style="font-size: 2em; color: #607d8b;"><i class="fas fa-file-pdf"></i></div>
+                    <div class="flex-grow-1">
+                        <h3 class="h6 mb-1 text-dark">Resolução nº 15/2026</h3>
+                                                <p class="mb-1 small text-secondary">Resolução nº 15/2026</p>
+                                                                    </div>
+                    <div class="downloads-item-acoes d-flex flex-column flex-sm-row gap-2 flex-shrink-0 align-self-start">
+                                                <a href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/10/Res.-15-2026-Proj.-Res-15-2026-.pdf" class="btn btn-visualizar" target="_blank" rel="noopener" aria-label="Visualizar Resolução nº 15/2026 (abre em nova aba)">
+                            <i class="fas fa-eye me-1"></i> Visualizar
+                        </a>
+                                                <a href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/10/Res.-15-2026-Proj.-Res-15-2026-.pdf" class="btn" style="background: linear-gradient(135deg, #607d8b, #546e7a); color: #fff; border: none;" target="_blank" rel="noopener" download>
+                            <i class="fas fa-download me-1"></i> Baixar
+                        </a>
+                    </div>
+                </div>
+                                <div class="d-flex align-items-start gap-3 p-3 bg-white rounded shadow-sm border">
+                                        <div class="flex-shrink-0" style="font-size: 2em; color: #607d8b;"><i class="fas fa-file-pdf"></i></div>
+                    <div class="flex-grow-1">
+                        <h3 class="h6 mb-1 text-dark">Lei Orgânica</h3>
+                                                                        <p class="mb-0 small text-muted">09/05/2018</p>
+                                            </div>
+                    <div class="downloads-item-acoes d-flex flex-column flex-sm-row gap-2 flex-shrink-0 align-self-start">
+                                                <a href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/06/Lei-Organica-de-Peruibe-SP.pdf" class="btn btn-visualizar" target="_blank" rel="noopener" aria-label="Visualizar Lei Orgânica (abre em nova aba)">
+                            <i class="fas fa-eye me-1"></i> Visualizar
+                        </a>
+                                                <a href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/06/Lei-Organica-de-Peruibe-SP.pdf" class="btn" style="background: linear-gradient(135deg, #607d8b, #546e7a); color: #fff; border: none;" target="_blank" rel="noopener" download>
+                            <i class="fas fa-download me-1"></i> Baixar
+                        </a>
+                    </div>
+                </div>
+                                <div class="d-flex align-items-start gap-3 p-3 bg-white rounded shadow-sm border">
+                                        <div class="flex-shrink-0" style="font-size: 2em; color: #607d8b;"><i class="fas fa-file-pdf"></i></div>
+                    <div class="flex-grow-1">
+                        <h3 class="h6 mb-1 text-dark">Regimento Interno</h3>
+                                                                        <p class="mb-0 small text-muted">09/05/2018</p>
+                                            </div>
+                    <div class="downloads-item-acoes d-flex flex-column flex-sm-row gap-2 flex-shrink-0 align-self-start">
+                                                <a href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/10/Regimento-Interno-ate-Res.-15.26.pdf" class="btn btn-visualizar" target="_blank" rel="noopener" aria-label="Visualizar Regimento Interno (abre em nova aba)">
+                            <i class="fas fa-eye me-1"></i> Visualizar
+                        </a>
+                                                <a href="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/10/Regimento-Interno-ate-Res.-15.26.pdf" class="btn" style="background: linear-gradient(135deg, #607d8b, #546e7a); color: #fff; border: none;" target="_blank" rel="noopener" download>
+                            <i class="fas fa-download me-1"></i> Baixar
+                        </a>
+                    </div>
+                </div>
+                            </div>
+                                </div>
+    </div>
+</div>
+<style>
+.downloads-imported-list .btn:hover { color: #fff !important; opacity: 0.95; }
+.downloads-imported-list .btn-visualizar { background: #fff; color: #546e7a; border: 1px solid #607d8b; }
+.downloads-imported-list .btn-visualizar:hover { background: #607d8b; }
+.downloads-item-acoes .btn { white-space: nowrap; }
+.downloads-pagination-imported {
+    margin-top: 30px;
+    padding-top: 25px;
+    border-top: 1px solid #e0e0e0;
+}
+.downloads-pagination-imported .pagination-info {
+    color: #666;
+    font-size: 0.95em;
+}
+.downloads-pagination-imported .pagination-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.downloads-pagination-imported .pagination-list li a,
+.downloads-pagination-imported .pagination-list li span {
+    display: inline-block;
+    padding: 10px 16px;
+    min-width: 44px;
+    text-align: center;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 500;
+    color: #607d8b;
+    background: #f0f7f6;
+    border: 1px solid transparent;
+    transition: all 0.2s;
+}
+.downloads-pagination-imported .pagination-list li a:hover {
+    background: #607d8b;
+    color: #fff;
+}
+.downloads-pagination-imported .pagination-list li.active span {
+    background: #607d8b;
+    color: #fff;
+}
+.downloads-pagination-imported .pagination-list li.disabled span {
+    color: #999;
+    background: #eee;
+    cursor: default;
+}
+</style>
+
+<style>
+.legislativo-container {
+    padding: 40px 0;
+}
+
+.header-section {
+    background: linear-gradient(135deg, #607d8b, #546e7a);
+    color: white;
+    padding: 60px 0;
+    text-align: center;
+    margin-bottom: 50px;
+    position: relative;
+}
+
+.header-section .container {
+    position: relative;
+    z-index: 1;
+}
+
+.section-title h1 {
+    font-size: 2.8rem;
+    margin-bottom: 15px;
+    font-weight: 700;
+    color: white;
+    letter-spacing: 1px;
+}
+
+.section-title .subtitle {
+    font-size: 1.2rem;
+    color: rgba(255, 255, 255, 0.9);
+    font-weight: 400;
+    max-width: 700px;
+    margin: 0 auto;
+    line-height: 1.6;
+}
+
+.downloads-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+}
+
+.download-card {
+    background: white;
+    padding: 40px 30px;
+    border-radius: 15px;
+    box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+    transition: all 0.3s ease;
+    text-align: center;
+    border: 2px solid transparent;
+    min-height: 280px;
+}
+
+.download-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 30px rgba(0,81,72,0.2);
+    border-color: #607d8b;
+}
+
+.download-icon {
+    font-size: 3.5em;
+    color: #607d8b;
+    margin-bottom: 20px;
+    transition: all 0.3s ease;
+}
+
+.download-card:hover .download-icon {
+    transform: scale(1.1);
+    color: #546e7a;
+}
+
+.download-card h3 {
+    color: #333;
+    font-size: 1.3em;
+    font-weight: 600;
+    margin: 0 0 15px 0;
+    line-height: 1.4;
+}
+
+.download-card p {
+    color: #666;
+    font-size: 0.95em;
+    margin: 0 0 25px 0;
+    line-height: 1.5;
+}
+
+.download-btn {
+    padding: 12px 30px;
+    background: linear-gradient(135deg, #607d8b 0%, #546e7a 100%);
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    font-size: 0.95em;
+}
+
+.download-btn:hover {
+    background: linear-gradient(135deg, #546e7a 0%, #607d8b 100%);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0,81,72,0.3);
+    color: white;
+    text-decoration: none;
+}
+
+.download-btn i {
+    font-size: 1em;
+}
+
+@media (max-width: 768px) {
+    .header-section {
+        padding: 50px 0;
+    }
+
+    .section-title h1 {
+        font-size: 2.2rem;
+        padding: 0 20px;
+    }
+
+    .section-title .subtitle {
+        font-size: 1.1rem;
+        padding: 0 20px;
+    }
+
+    .downloads-grid {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .download-card {
+        padding: 30px 20px;
+        min-height: 250px;
+    }
+
+    .download-icon {
+        font-size: 3em;
+    }
+
+    .download-card h3 {
+        font-size: 1.2em;
+    }
+
+    .download-card p {
+        font-size: 0.9em;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-section {
+        padding: 40px 0;
+    }
+
+    .section-title h1 {
+        font-size: 1.8rem;
+    }
+
+    .section-title .subtitle {
+        font-size: 1rem;
+    }
+}
+</style>
+
+
+</main><footer class="new-footer">
+
+
+    <div class="container-footer-modern">
+        <div class="footer-main-grid">
+            <!-- Coluna 1: Sobre + Logo -->
+            <div class="footer-col about-col">
+                <div class="footer-logo-modern">
+                    <img src="https://camaraperuibe.sp.gov.br/wp-content/uploads/2026/03/Atual-Camara-Peruibe-1-preto-1.png" alt="Logo Câmara Municipal">
+                </div>
+                <p class="footer-description">
+                    Câmara Municipal de Peruíbe, comprometida com a transparência, democracia e desenvolvimento da nossa cidade.
+                </p>
+                <div class="social-media-modern">
+                    <h4>Siga-nos</h4>
+                    <div class="social-icons-grid">
+                        <a target="_blank" href="https://cmpb.envmeta.app.br/public.php" class="social-btn youtube" title="Sessões Gravadas">
+                            <i class="fab fa-youtube"></i>
+                            <span>Sessões Gravadas</span>
+                        </a>
+                        <a target="_blank" href="https://www.facebook.com/CamaraPeruibe" class="social-btn facebook" title="Facebook">
+                            <i class="fab fa-facebook-f"></i>
+                            <span>Facebook</span>
+                        </a>
+                        <a target="_blank" href="https://twitter.com/camaraperuibe" class="social-btn twitter" title="Twitter">
+                            <i class="fab fa-twitter"></i>
+                            <span>Twitter</span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Coluna 2: Links Rápidos -->
+            <div class="footer-col links-col">
+                <h3 class="footer-title">
+                    <i class="fas fa-link"></i>
+                    Links Rápidos
+                </h3>
+                <ul class="footer-links-list">
+                    <li><a href="https://camaraperuibe.sp.gov.br/"><i class="fas fa-chevron-right"></i> Início</a></li>
+                    <li><a href="https://camaraperuibe.sp.gov.br/vereadores"><i class="fas fa-chevron-right"></i> Vereadores</a></li>
+                    <li><a href="https://camaraperuibe.sp.gov.br/noticias"><i class="fas fa-chevron-right"></i> Notícias</a></li>
+                    <li><a href="https://portallegislativoonline.gcaspp.com/wpHome.aspx?Home,26" target="_blank"><i class="fas fa-chevron-right"></i> Legislação</a></li>
+                    <li><a href="https://transparencia.camaraperuibe.sp.gov.br/home"><i class="fas fa-chevron-right"></i> Transparência</a></li>
+                    <li><a href="https://camaraperuibe.sp.gov.br/downloads/licitacao"><i class="fas fa-chevron-right"></i> Licitações</a></li>
+                    <li><a href="https://camaraperuibe.sp.gov.br/downloads/concurso"><i class="fas fa-chevron-right"></i> Concursos</a></li>
+                </ul>
+            </div>
+
+            <!-- Coluna 3: Contato -->
+            <div class="footer-col contact-col">
+                <h3 class="footer-title">
+                    <i class="fas fa-phone-alt"></i>
+                    Contato
+                </h3>
+                <div class="contact-info-modern">
+                    <div class="contact-item-modern">
+                        <div class="contact-icon-modern">
+                            <i class="fas fa-map-marker-alt"></i>
+                        </div>
+                        <div class="contact-text">
+                            <strong>Endereço</strong>
+                            <p>R. Nilo Soares Ferreira, 37 - Centro<br>Peruíbe - SP<br>CEP: 11770-122</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item-modern">
+                        <div class="contact-icon-modern">
+                            <i class="fas fa-phone"></i>
+                        </div>
+                        <div class="contact-text">
+                            <strong>Telefone</strong>
+                            <p>(13) 3451-3000</p>
+                        </div>
+                    </div>
+
+                    <div class="contact-item-modern">
+                        <div class="contact-icon-modern">
+                            <i class="fas fa-envelope"></i>
+                        </div>
+                        <div class="contact-text">
+                            <strong>E-mail</strong>
+                            <p>comunicacao@camaraperuibe.sp.gov.br</p>
+                        </div>
+                    </div>
+
+                    <div class="footer-map-wrapper">
+                        <a href="https://camaraperuibe.sp.gov.br/localizacao" class="footer-map-link" title="Ver localização completa">
+                            <iframe
+                                class="footer-map-iframe"
+                                src="https://maps.google.com/maps?q=-24.3206,-47.0014&amp;z=15&amp;hl=pt-BR&amp;output=embed"
+                                loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"
+                                allowfullscreen
+                                title="Mapa de localização da Câmara Municipal de Peruíbe">
+                            </iframe>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Coluna 4: Horário -->
+            <div class="footer-col hours-col">
+                <h3 class="footer-title">
+                    <i class="far fa-clock"></i>
+                    Horário de Atendimento
+                </h3>
+                <div class="hours-card-modern">
+                    <div class="hours-item">
+                        <i class="fas fa-calendar-week"></i>
+                        <div>
+                            <strong>Segunda a Sexta-feira</strong>
+                            <p>08:00 - 17:30</p>
+                        </div>
+                    </div>
+                    <div class="hours-item closed">
+                        <i class="fas fa-calendar-times"></i>
+                        <div>
+                            <strong>Sábados e Domingos</strong>
+                            <p>Fechado</p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="quick-actions-modern">
+                    <h4>Acesso Rápido</h4>
+                    <a href="https://camaraperuibe.sp.gov.br/noticias" class="quick-action-btn">
+                        <i class="fas fa-newspaper"></i>
+                        Ver Notícias
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer Bottom -->
+
+    </div>
+</footer>
+
+<!-- Botão Flutuante da Agenda -->
+<div class="agenda-float" id="agendaFloat">
+    <a href="https://camaraperuibe.sp.gov.br/agenda" class="agenda-float-button">
+        <div class="agenda-icon">
+            <i class="fas fa-calendar-alt"></i>
+        </div>
+        <div class="agenda-text" id="agendaText">
+            <strong>ACOMPANHE NOSSA AGENDA</strong>
+            <span>Clique aqui e fique por dentro!</span>
+        </div>
+    </a>
+</div>
+
+<style>
+/* Estilos para garantir o rodapé fixo */
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.sa-main-content {
+    flex: 1 0 auto;
+}
+
+/* ===================================
+   NOVO LAYOUT DO RODAPÉ - MODERNO
+   =================================== */
+.new-footer {
+    background:
+        linear-gradient(135deg, rgba(96, 125, 139, 0.95) 0%, rgba(84, 110, 122, 0.98) 50%, rgba(60, 90, 100, 1) 100%),
+        radial-gradient(circle at top right, rgba(120, 144, 156, 0.1) 0%, transparent 50%),
+        radial-gradient(circle at bottom left, rgba(96, 125, 139, 0.2) 0%, transparent 50%),
+        linear-gradient(180deg, #455a64 0%, #37474f 100%);
+    color: #fff;
+    position: relative;
+    margin-top: 80px;
+    padding: 0;
+    animation: fadeIn 0.6s ease;
+    box-shadow: 0 -10px 40px rgba(0, 0, 0, 0.3);
+}
+
+.new-footer::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg,
+        transparent 0%,
+        rgba(255, 255, 255, 0.8) 25%,
+        rgba(255, 255, 255, 1) 50%,
+        rgba(255, 255, 255, 0.8) 75%,
+        transparent 100%
+    );
+    opacity: 0.9;
+}
+
+.new-footer::after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background:
+        repeating-linear-gradient(
+            0deg,
+            transparent,
+            transparent 2px,
+            rgba(255, 255, 255, 0.02) 2px,
+            rgba(255, 255, 255, 0.02) 4px
+        );
+    pointer-events: none;
+    opacity: 0.3;
+}
+
+.footer-wave-top {
+    position: absolute;
+    top: -50px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.footer-wave-top svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 60px;
+}
+
+.footer-wave-top svg path {
+    fill: #1a1a1a;
+}
+
+.container-footer-modern {
+    max-width: 1400px;
+    width: 90%;
+    margin: 0 auto;
+    padding: 60px 0 0;
+    position: relative;
+    z-index: 1;
+}
+
+.footer-main-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 40px;
+    padding-bottom: 40px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ===================================
+   ESTILOS DAS COLUNAS
+   =================================== */
+.footer-col {
+    animation: slideInUp 0.6s ease forwards;
+    opacity: 0;
+}
+
+.footer-col:nth-child(1) { animation-delay: 0.1s; }
+.footer-col:nth-child(2) { animation-delay: 0.2s; }
+.footer-col:nth-child(3) { animation-delay: 0.3s; }
+.footer-col:nth-child(4) { animation-delay: 0.4s; }
+
+@keyframes slideInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.footer-title {
+    color: #fff;
+    font-size: 1.2rem;
+    font-weight: 800;
+    margin-bottom: 25px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.footer-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 50px;
+    height: 3px;
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0.9), transparent);
+    border-radius: 2px;
+}
+
+.footer-title i {
+    color: #fff;
+    font-size: 1.3rem;
+    filter: drop-shadow(0 0 10px rgba(255, 255, 255, 0.3));
+}
+
+/* ===================================
+   COLUNA 1: SOBRE + LOGO
+   =================================== */
+.footer-logo-modern {
+    margin-bottom: 20px;
+}
+
+.footer-logo-modern img {
+    height: 100px;
+    width: auto;
+    transition: all 0.4s ease;
+    filter:
+        brightness(1.1)
+        drop-shadow(0 4px 15px rgba(0, 0, 0, 0.4))
+        drop-shadow(0 0 20px rgba(120, 144, 156, 0.3));
+}
+
+.footer-logo-modern img:hover {
+    transform: scale(1.05) translateY(-3px);
+    filter:
+        brightness(1.2)
+        drop-shadow(0 8px 25px rgba(0, 0, 0, 0.5))
+        drop-shadow(0 0 30px rgba(120, 144, 156, 0.6));
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.8);
+    line-height: 1.8;
+    margin-bottom: 25px;
+    font-size: 0.95rem;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    border-left: 3px solid rgba(120, 144, 156, 0.5);
+}
+
+.social-media-modern h4 {
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.social-media-modern h4::before {
+    content: '';
+    width: 4px;
+    height: 18px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
+    border-radius: 2px;
+}
+
+.social-icons-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.social-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 12px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 600;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    overflow: hidden;
+}
+
+.social-btn::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+    transform: translate(-50%, -50%);
+    transition: width 0.4s ease, height 0.4s ease;
+}
+
+.social-btn:hover::before {
+    width: 200px;
+    height: 200px;
+}
+
+.social-btn i {
+    font-size: 1.2rem;
+    position: relative;
+    z-index: 1;
+}
+
+.social-btn span {
+    position: relative;
+    z-index: 1;
+}
+
+.social-btn.youtube {
+    background: linear-gradient(135deg, #ff0000, #cc0000);
+    box-shadow: 0 4px 15px rgba(255, 0, 0, 0.3);
+}
+
+.social-btn.facebook {
+    background: linear-gradient(135deg, #1877f2, #0d5dbf);
+    box-shadow: 0 4px 15px rgba(24, 119, 242, 0.3);
+}
+
+.social-btn.instagram {
+    background: linear-gradient(135deg, #f09433, #dc2743);
+    box-shadow: 0 4px 15px rgba(240, 148, 51, 0.3);
+}
+
+.social-btn.twitter {
+    background: linear-gradient(135deg, #1da1f2, #0d8bd9);
+    box-shadow: 0 4px 15px rgba(29, 161, 242, 0.3);
+}
+
+.social-btn:hover {
+    transform: translateY(-5px) scale(1.05);
+    box-shadow: 0 12px 35px rgba(0, 0, 0, 0.5);
+}
+
+.social-btn.youtube:hover {
+    box-shadow: 0 12px 35px rgba(255, 0, 0, 0.6);
+}
+
+.social-btn.facebook:hover {
+    box-shadow: 0 12px 35px rgba(24, 119, 242, 0.6);
+}
+
+.social-btn.instagram:hover {
+    box-shadow: 0 12px 35px rgba(240, 148, 51, 0.6);
+}
+
+.social-btn.twitter:hover {
+    box-shadow: 0 12px 35px rgba(29, 161, 242, 0.6);
+}
+
+/* ===================================
+   COLUNA 2: LINKS RÁPIDOS
+   =================================== */
+.footer-links-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 12px;
+}
+
+.footer-links-list li a {
+    color: rgba(255, 255, 255, 0.7);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 8px 12px;
+    border-radius: 8px;
+    transition: all 0.3s ease;
+    font-size: 0.95rem;
+}
+
+.footer-links-list li a i {
+    color: #fff;
+    font-size: 0.75rem;
+    transition: transform 0.3s ease;
+}
+
+.footer-links-list li a:hover {
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    transform: translateX(5px);
+    padding-left: 18px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+.footer-links-list li a:hover i {
+    transform: translateX(3px);
+}
+
+/* ===================================
+   COLUNA 3: CONTATO
+   =================================== */
+.contact-info-modern {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.contact-item-modern {
+    display: flex;
+    gap: 15px;
+    align-items: flex-start;
+}
+
+.contact-icon-modern {
+    width: 45px;
+    height: 45px;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-shrink: 0;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.contact-icon-modern::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255,255,255,0.3) 0%, transparent 70%);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.contact-item-modern:hover .contact-icon-modern::before {
+    opacity: 1;
+}
+
+.contact-icon-modern i {
+    color: white;
+    font-size: 1.2rem;
+}
+
+.contact-text strong {
+    display: block;
+    color: white;
+    margin-bottom: 5px;
+    font-size: 0.95rem;
+    font-weight: 700;
+}
+
+.contact-text p {
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
+
+.footer-map-wrapper {
+    margin-top: 5px;
+}
+
+.footer-map-link {
+    display: block;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 2px solid rgba(255, 255, 255, 0.2);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: all 0.3s ease;
+    line-height: 0;
+}
+
+.footer-map-link:hover {
+    border-color: rgba(255, 255, 255, 0.45);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.3);
+    transform: translateY(-2px);
+}
+
+.footer-map-iframe {
+    width: 100%;
+    height: 150px;
+    border: 0;
+    display: block;
+    pointer-events: none;
+}
+
+.footer-map-link:hover .footer-map-iframe {
+    filter: brightness(1.05);
+}
+
+/* ===================================
+   COLUNA 4: HORÁRIO + AÇÕES
+   =================================== */
+.hours-card-modern {
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+}
+
+.hours-item {
+    display: flex;
+    gap: 15px;
+    padding: 12px 0;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.hours-item:last-child {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+
+.hours-item i {
+    color: #fff;
+    font-size: 1.5rem;
+    margin-top: 3px;
+}
+
+.hours-item.closed i {
+    color: #dc3545;
+}
+
+.hours-item strong {
+    display: block;
+    color: white;
+    font-size: 0.9rem;
+    margin-bottom: 3px;
+}
+
+.hours-item p {
+    color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+    font-size: 0.85rem;
+}
+
+.quick-actions-modern h4 {
+    color: white;
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 15px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.quick-actions-modern h4::before {
+    content: '';
+    width: 4px;
+    height: 18px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 0.5));
+    border-radius: 2px;
+}
+
+.quick-action-btn {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 12px 18px;
+    background: rgba(255, 255, 255, 0.08);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    position: relative;
+    overflow: hidden;
+}
+
+.quick-action-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    transition: left 0.5s ease;
+}
+
+.quick-action-btn i {
+    font-size: 1.1rem;
+    color: #fff;
+    filter: drop-shadow(0 0 5px rgba(255, 255, 255, 0.2));
+}
+
+.quick-action-btn:hover {
+    background: rgba(255, 255, 255, 0.15);
+    border-color: rgba(255, 255, 255, 0.35);
+    transform: translateX(5px);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+}
+
+.quick-action-btn:hover::before {
+    left: 100%;
+}
+
+/* Área do Servidor - Dropdown */
+.quick-action-dropdown {
+    position: relative;
+    margin-bottom: 10px;
+}
+.quick-action-dropdown .quick-action-btn-toggle {
+    width: 100%;
+    justify-content: space-between;
+    cursor: pointer;
+    border: none;
+    font-family: inherit;
+}
+.quick-action-dropdown .quick-action-btn-toggle:hover {
+    background: linear-gradient(135deg, rgba(255, 255, 255, 0.2), rgba(255, 255, 255, 0.1));
+    border-color: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 8px 20px rgba(255, 255, 255, 0.15);
+    color: #fff;
+}
+.quick-action-dropdown .dropdown-arrow {
+    transition: transform 0.3s ease;
+    font-size: 0.8rem;
+}
+.quick-action-dropdown.open .dropdown-arrow {
+    transform: rotate(180deg);
+}
+.quick-action-dropdown-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    margin-top: 6px;
+    padding: 6px 0;
+    background: linear-gradient(135deg, rgba(84, 110, 122, 0.98), rgba(60, 90, 100, 1));
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 10px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+}
+.quick-action-dropdown.open .quick-action-dropdown-menu {
+    display: block;
+}
+.quick-action-dropdown-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 18px;
+    color: white;
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 600;
+    transition: background 0.2s ease;
+}
+.quick-action-dropdown-item:hover {
+    background: rgba(255, 255, 255, 0.15);
+    color: #fff;
+}
+.quick-action-dropdown-item i {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+/* ===================================
+   FOOTER BOTTOM
+   =================================== */
+.footer-bottom-modern {
+    padding: 25px 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    margin-top: 40px;
+}
+
+.footer-bottom-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.copyright-modern,
+.developer-credit {
+    color: rgba(255, 255, 255, 0.6);
+    margin: 0;
+    font-size: 0.9rem;
+}
+
+.developer-credit i {
+    color: #ff6b6b;
+    animation: pulse 1.5s ease-in-out infinite;
+}
+
+/* Layout Principal do Footer */
+.footer-content {
+    display: none;
+}
+
+/* Estilos antigos escondidos */
+.footer-info-container,
+.footer-logo-section,
+.footer-info-section,
+.footer-app-section,
+.footer-privacy-section {
+    display: none !important;
+}
+
+/* Estilos antigos removidos - Novo layout implementado acima */
+
+/* ===================================
+   RESPONSIVIDADE DO NOVO LAYOUT
+   =================================== */
+@media (max-width: 1200px) {
+    .footer-main-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 35px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container-footer-modern {
+        width: 95%;
+        padding: 40px 0 0;
+    }
+
+    .footer-main-grid {
+        grid-template-columns: 1fr;
+        gap: 30px;
+    }
+
+    .footer-col {
+        text-align: center;
+    }
+
+    .footer-title {
+        justify-content: center;
+    }
+
+    .footer-logo-modern {
+        display: flex;
+        justify-content: center;
+    }
+
+    .footer-logo-modern img {
+        height: 80px;
+    }
+
+    .social-icons-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .footer-links-list li a {
+        justify-content: center;
+    }
+
+    .footer-links-list li a:hover {
+        transform: none;
+        padding-left: 12px;
+    }
+
+    .contact-item-modern {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+    .footer-map-wrapper {
+        width: 100%;
+        max-width: 320px;
+        margin: 10px auto 0;
+    }
+
+    .footer-map-iframe {
+        height: 180px;
+    }
+
+    .footer-bottom-content {
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media (max-width: 576px) {
+    .social-icons-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .social-btn {
+        padding: 14px;
+    }
+
+    .footer-wave-top {
+        top: -30px;
+    }
+
+    .footer-wave-top svg {
+        height: 40px;
+    }
+}
+
+/* Estilos antigos removidos - Novo layout acima */
+
+/* Estilos do Botão Flutuante da Agenda */
+.agenda-float {
+    position: fixed;
+    bottom: 15px;
+    left: 25px;
+    z-index: 1000;
+}
+
+.agenda-float-button {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(135deg, #607d8b 0%, #546e7a 100%);
+    color: white;
+    padding: 15px 25px;
+    border-radius: 50px;
+    text-decoration: none;
+    box-shadow: 0 4px 15px rgba(0,81,72, 0.4);
+    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    gap: 15px;
+    position: relative;
+    overflow: hidden;
+}
+
+.agenda-float-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+    transition: left 0.6s ease;
+}
+
+.agenda-float-button:hover::before {
+    left: 100%;
+}
+
+.agenda-float-button.compact {
+    background: transparent;
+    padding: 0;
+    box-shadow: none;
+}
+
+.agenda-float-button:hover {
+    background: linear-gradient(135deg, #78909c 0%, #607d8b 100%);
+    color: white;
+    text-decoration: none;
+    transform: scale(1.08) translateY(-3px);
+    box-shadow: 0 8px 30px rgba(96, 125, 139, 0.5);
+}
+
+.agenda-float-button.compact:hover {
+    background: transparent;
+    transform: scale(1.1);
+}
+
+.agenda-icon {
+    background: rgba(255,255,255,0.2);
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    animation: pulse 2s infinite;
+}
+
+.agenda-float-button.compact .agenda-icon {
+    background: transparent;
+    width: 45px;
+    height: 45px;
+    border: 2px solid rgba(0,81,72, 0.2);
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.agenda-float-button.compact:hover .agenda-icon {
+    border-color: rgba(0,81,72, 0.4);
+}
+
+.agenda-icon i {
+    font-size: 20px;
+    color: white;
+}
+
+.agenda-float-button.compact .agenda-icon i {
+    font-size: 25px;
+    color: #607d8b;
+}
+
+.agenda-text {
+    display: flex;
+    flex-direction: column;
+    opacity: 1;
+    width: auto;
+    transition: all 0.3s ease;
+}
+
+.agenda-text.hide {
+    opacity: 0;
+    width: 0;
+    margin: 0;
+    padding: 0;
+    display: none;
+}
+
+.agenda-text strong {
+    font-size: 14px;
+    line-height: 1.2;
+}
+
+.agenda-text span {
+    font-size: 12px;
+    opacity: 0.9;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@media (max-width: 768px) {
+    .agenda-float {
+        bottom: 15px;
+        left: 15px;
+    }
+
+    .agenda-float-button {
+        padding: 10px 20px;
+    }
+
+    .agenda-float-button.compact {
+        padding: 0;
+    }
+
+    .agenda-float-button.compact .agenda-icon {
+        width: 40px;
+        height: 40px;
+    }
+
+    .agenda-float-button.compact .agenda-icon i {
+        font-size: 22px;
+    }
+
+    .agenda-text strong {
+        font-size: 12px;
+    }
+
+    .agenda-text span {
+        font-size: 10px;
+    }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const agendaText = document.getElementById('agendaText');
+    const agendaButton = document.querySelector('.agenda-float-button');
+
+    setTimeout(() => {
+        agendaText.classList.add('hide');
+        agendaButton.classList.add('compact');
+    }, 5000);
+
+});
+</script>
+
+
+
+<div id="portal-cookie-banner" class="portal-cookie-banner" role="dialog" aria-labelledby="portal-cookie-banner-title" aria-live="polite" hidden>
+    <div class="portal-cookie-banner__inner">
+        <div class="portal-cookie-banner__text">
+            <p id="portal-cookie-banner-title" class="portal-cookie-banner__title">
+                <i class="fas fa-cookie-bite" aria-hidden="true"></i>
+                Uso de cookies
+            </p>
+            <p class="portal-cookie-banner__desc">
+                Utilizamos cookies para melhorar sua navegação e analisar o tráfego do site. Ao continuar, você concorda com nossa
+                <a href="https://camaraperuibe.sp.gov.br/politica-de-cookies">Política de Cookies</a>,
+                e declara ciência da
+                <a href="https://camaraperuibe.sp.gov.br/politica-de-privacidade">Política de Privacidade</a>
+                e do
+                <a href="https://camaraperuibe.sp.gov.br/politica-de-privacidade">Termo de Uso do Site</a>.
+            </p>
+        </div>
+        <div class="portal-cookie-banner__actions">
+            <button type="button" class="portal-cookie-banner__btn portal-cookie-banner__btn--secondary" id="portal-cookie-banner-policy">
+                Ver políticas
+            </button>
+            <button type="button" class="portal-cookie-banner__btn portal-cookie-banner__btn--primary" id="portal-cookie-banner-accept">
+                Aceitar
+            </button>
+        </div>
+    </div>
+</div>
+
+<div id="portal-cookie-policy-modal" class="portal-cookie-policy-modal" role="dialog" aria-modal="true" aria-labelledby="portal-cookie-policy-modal-title" hidden>
+    <div class="portal-cookie-policy-modal__backdrop" tabindex="-1"></div>
+    <div class="portal-cookie-policy-modal__panel">
+        <button type="button" class="portal-cookie-policy-modal__close" id="portal-cookie-policy-modal-close" aria-label="Fechar">&times;</button>
+        <h2 id="portal-cookie-policy-modal-title" class="portal-cookie-policy-modal__title">Políticas e termos</h2>
+        <p class="portal-cookie-policy-modal__intro">Acesse os documentos do portal:</p>
+        <ul class="portal-cookie-policy-modal__list">
+            <li><a href="https://camaraperuibe.sp.gov.br/politica-de-cookies">Política de Cookies</a></li>
+            <li><a href="https://camaraperuibe.sp.gov.br/politica-de-privacidade">Política de Privacidade</a></li>
+            <li><a href="https://camaraperuibe.sp.gov.br/politica-de-privacidade">Termo de Uso do Site</a></li>
+        </ul>
+    </div>
+</div>
+
+<style>
+.portal-cookie-banner {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 999999;
+    padding: 16px;
+    font-family: 'Signika', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+
+.portal-cookie-banner * {
+    box-sizing: border-box;
+}
+
+.portal-cookie-banner:not([hidden]) {
+    pointer-events: auto;
+}
+
+.portal-cookie-banner__inner {
+    max-width: 1080px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: 16px 24px;
+    padding: 18px 22px;
+    background: linear-gradient(135deg, #fafcfd 0%, #fff 100%);
+    border: 1px solid rgba(84, 110, 122, 0.22);
+    border-radius: 14px;
+    box-shadow: 0 -8px 40px rgba(38, 50, 56, 0.15), 0 4px 20px rgba(38, 50, 56, 0.08);
+}
+
+.portal-cookie-banner__text {
+    flex: 1 1 280px;
+    min-width: 0;
+}
+
+.portal-cookie-banner__title {
+    margin: 0 0 8px;
+    font-size: 1.05rem;
+    font-weight: 700;
+    color: #37474f;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.portal-cookie-banner__title i {
+    color: #607d8b;
+}
+
+.portal-cookie-banner__desc {
+    margin: 0;
+    font-size: 0.92rem;
+    line-height: 1.55;
+    color: #546e7a;
+}
+
+.portal-cookie-banner__desc a {
+    color: #455a64;
+    font-weight: 600;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
+
+.portal-cookie-banner__desc a:hover {
+    color: #607d8b;
+}
+
+.portal-cookie-banner__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-end;
+    flex-shrink: 0;
+}
+
+.portal-cookie-banner__btn {
+    border: none;
+    border-radius: 10px;
+    padding: 11px 20px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-family: inherit;
+    cursor: pointer;
+    transition: transform 0.15s ease, box-shadow 0.15s ease, filter 0.15s ease;
+}
+
+.portal-cookie-banner__btn:active {
+    transform: scale(0.98);
+}
+
+.portal-cookie-banner__btn--primary {
+    background: linear-gradient(135deg, #546e7a, #607d8b);
+    color: #fff;
+    box-shadow: 0 4px 14px rgba(84, 110, 122, 0.35);
+}
+
+.portal-cookie-banner__btn--primary:hover {
+    filter: brightness(1.06);
+    box-shadow: 0 6px 18px rgba(84, 110, 122, 0.4);
+}
+
+.portal-cookie-banner__btn--secondary {
+    background: #fff;
+    color: #455a64;
+    border: 2px solid rgba(96, 125, 139, 0.45);
+}
+
+.portal-cookie-banner__btn--secondary:hover {
+    background: rgba(96, 125, 139, 0.08);
+    border-color: #607d8b;
+}
+
+@media (max-width: 600px) {
+    .portal-cookie-banner {
+        padding: 12px;
+    }
+
+    .portal-cookie-banner__inner {
+        padding: 16px 16px;
+    }
+
+    .portal-cookie-banner__actions {
+        width: 100%;
+        justify-content: stretch;
+    }
+
+    .portal-cookie-banner__btn {
+        flex: 1;
+        min-width: 120px;
+    }
+}
+
+.portal-cookie-policy-modal {
+    position: fixed;
+    inset: 0;
+    z-index: 1000000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 24px;
+    font-family: 'Signika', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    box-sizing: border-box;
+}
+
+.portal-cookie-policy-modal[hidden] {
+    display: none;
+}
+
+.portal-cookie-policy-modal__backdrop {
+    position: absolute;
+    inset: 0;
+    background: rgba(38, 50, 56, 0.45);
+    cursor: pointer;
+}
+
+.portal-cookie-policy-modal__panel {
+    position: relative;
+    z-index: 1;
+    width: 100%;
+    max-width: 420px;
+    padding: 26px 26px 22px;
+    background: linear-gradient(135deg, #fafcfd 0%, #fff 100%);
+    border: 1px solid rgba(84, 110, 122, 0.22);
+    border-radius: 14px;
+    box-shadow: 0 16px 48px rgba(38, 50, 56, 0.22);
+}
+
+.portal-cookie-policy-modal__close {
+    position: absolute;
+    top: 12px;
+    right: 14px;
+    width: 36px;
+    height: 36px;
+    border: none;
+    border-radius: 8px;
+    background: transparent;
+    color: #546e7a;
+    font-size: 1.75rem;
+    line-height: 1;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background 0.15s ease, color 0.15s ease;
+}
+
+.portal-cookie-policy-modal__close:hover {
+    background: rgba(96, 125, 139, 0.12);
+    color: #37474f;
+}
+
+.portal-cookie-policy-modal__title {
+    margin: 0 32px 10px 0;
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: #37474f;
+}
+
+.portal-cookie-policy-modal__intro {
+    margin: 0 0 14px;
+    font-size: 0.92rem;
+    line-height: 1.5;
+    color: #546e7a;
+}
+
+.portal-cookie-policy-modal__list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.portal-cookie-policy-modal__list li {
+    margin: 0 0 10px;
+}
+
+.portal-cookie-policy-modal__list li:last-child {
+    margin-bottom: 0;
+}
+
+.portal-cookie-policy-modal__list a {
+    display: block;
+    padding: 12px 14px;
+    font-size: 0.95rem;
+    font-weight: 600;
+    color: #455a64;
+    text-decoration: none;
+    border-radius: 10px;
+    border: 2px solid rgba(96, 125, 139, 0.35);
+    background: #fff;
+    transition: background 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.portal-cookie-policy-modal__list a:hover {
+    background: rgba(96, 125, 139, 0.08);
+    border-color: #607d8b;
+    color: #37474f;
+}
+</style>
+
+<script>
+(function () {
+    var STORAGE_KEY = 'portal_pb_cookie_consent_v1';
+    var banner = document.getElementById('portal-cookie-banner');
+    var modal = document.getElementById('portal-cookie-policy-modal');
+    if (!banner) return;
+
+    try {
+        if (window.localStorage.getItem(STORAGE_KEY) === '1') {
+            return;
+        }
+    } catch (e) {}
+
+    banner.hidden = false;
+
+    function hideBanner() {
+        banner.hidden = true;
+        try {
+            window.localStorage.setItem(STORAGE_KEY, '1');
+        } catch (e) {}
+    }
+
+    function openPolicyModal() {
+        if (!modal) return;
+        modal.hidden = false;
+        var closeBtn = document.getElementById('portal-cookie-policy-modal-close');
+        if (closeBtn) closeBtn.focus();
+    }
+
+    function closePolicyModal() {
+        if (!modal) return;
+        modal.hidden = true;
+    }
+
+    var accept = document.getElementById('portal-cookie-banner-accept');
+    var policy = document.getElementById('portal-cookie-banner-policy');
+
+    if (accept) {
+        accept.addEventListener('click', hideBanner);
+    }
+    if (policy) {
+        policy.addEventListener('click', openPolicyModal);
+    }
+
+    if (modal) {
+        var backdrop = modal.querySelector('.portal-cookie-policy-modal__backdrop');
+        var closeBtn = document.getElementById('portal-cookie-policy-modal-close');
+        if (backdrop) backdrop.addEventListener('click', closePolicyModal);
+        if (closeBtn) closeBtn.addEventListener('click', closePolicyModal);
+        document.addEventListener('keydown', function (ev) {
+            if (ev.key === 'Escape' && !modal.hidden) {
+                closePolicyModal();
+            }
+        });
+    }
+})();
+</script>
+
+<!-- VLibras: tradução do conteúdo para Língua Brasileira de Sinais (Libras) — gov.br -->
+<div vw class="enabled">
+    <div vw-access-button class="active"></div>
+    <div vw-plugin-wrapper>
+        <div class="vw-plugin-top-wrapper"></div>
+    </div>
+</div>
+<script src="https://vlibras.gov.br/app/vlibras-plugin.js"></script>
+<script>
+    if (window.VLibras && window.VLibras.Widget) {
+        new window.VLibras.Widget('https://vlibras.gov.br/app');
+    }
+</script>
+
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/wp-content/uploads/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/itap/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="popper.min.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/popper.min.js?ver=7.1.3"></script>
+<script id="bootstrap.min.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/bootstrap.min.js?ver=7.1.3"></script>
+<script id="slick.min.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/slick.min.js?ver=7.1.3"></script>
+<script id="theia-sticky-sidebar.min.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/theia-sticky-sidebar.min.js?ver=7.1.3"></script>
+<script id="magnific-popup.min.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/magnific-popup.min.js?ver=7.1.3"></script>
+<script id="carouFredSel.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/carouFredSel.js?ver=7.1.3"></script>
+<script id="validate.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/validate.js?ver=7.1.3"></script>
+<script id="main.js-js" src="https://camaraperuibe.sp.gov.br/wp-content/themes/itap/assets/js/main.js?ver=7.1.3"></script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://camaraperuibe.sp.gov.br/wp-includes/js/wp-emoji-release.min.js?ver=7.1.3"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\u1fac8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=https://camaraperuibe.sp.gov.br/wp-includes/js/wp-emoji-loader.min.js
+</script>
+
+</body>
+</html>
+
