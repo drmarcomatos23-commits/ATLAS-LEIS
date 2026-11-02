@@ -59,15 +59,33 @@ ALVOS = [
     # Precedentes (BNP/CNJ, usado pelo ctresb/leis)
     "https://pangeabnp.pdpj.jus.br/api/v1/precedentes?orgaos=TJSP&tipos=IRDR&pagina=1",
 ]
-for m in BAIXADA:
-    ALVOS.append(f"https://sapl.{m}.sp.leg.br/api/norma/tiponormajuridica/?page_size=100")
-    ALVOS.append(f"https://sapl.{m}.sp.leg.br/api/norma/normajuridica/?page_size=1")
+# Rodada 2: páginas guardadas na íntegra (_relatorios/bruto/) para calibrar os analisadores
+BRUTOS = [
+    "https://egov.santos.sp.gov.br/legis/documents/2864",
+    "https://egov.santos.sp.gov.br/legis/documents/filter",
+    "https://egov.santos.sp.gov.br/legis/topics",
+    "https://diariooficial.santos.sp.gov.br/edicoes/inicio/download/2026-10-30",
+    "https://atos.cnj.jus.br/atos/detalhar/6300",
+    "https://www.in.gov.br/leiturajornal?secao=do1&data=30-10-2026",
+    "https://legislacao.fazenda.sp.gov.br/_api/web/lists?$select=Title,ItemCount,Id,ItemCount&$top=200",
+    "https://legislacao.fazenda.sp.gov.br/Paginas/RespostasDeConsultas.aspx",
+    "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao",
+    "https://www.tjsp.jus.br/Jurisprudencia",
+    "https://www.tjsp.jus.br/NugepNac/Irdr",
+]
+ALVOS = BRUTOS
 
 
 def sondar(s, url):
     out = {"url": url}
     try:
-        r = s.get(url, timeout=45, allow_redirects=True)
+        hdr = {"Accept": "application/json;odata=nometadata"} if "/_api/" in url else {}
+        r = s.get(url, timeout=45, allow_redirects=True, headers=hdr)
+        if url in BRUTOS:
+            b = RAIZ / "_relatorios" / "bruto"
+            b.mkdir(parents=True, exist_ok=True)
+            nome = re.sub(r"[^a-zA-Z0-9]+", "_", url.split("//", 1)[1])[:120]
+            (b / nome).write_bytes(r.content[:2_000_000])
         out.update(status=r.status_code, final=r.url, tipo=r.headers.get("content-type", ""),
                    bytes=len(r.content))
         if r.content[:4] == b"%PDF":
