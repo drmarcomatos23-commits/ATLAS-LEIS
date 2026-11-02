@@ -1,10 +1,11 @@
 ---
-titulo: "Decreto nº 6920 – Município de Peruíbe (DOM-E ed. 800)"
+titulo: "Decreto nº 6920, de 20/07/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6920"
-data:
+data: 2026-07-20
+ementa: "MILEANE SANTOS DACOME RODRIGO DE LIMA SILVA TATIANE MARQUES LUIZ RUTE GOMES PINTO PRISCILA CARVALHO DE ARAUJO SIDNEI SOARES TORQUATO JULIANO DOS SANTOS MIRANDA THAIS MARTINELLI LOBO WILLIAM DE SOUZA PEREIRA JULIANA AMPARO MANTOVANI CONCEICAO APARECIDA RIBEIRO MARCELO ANDRADE DA SILVA SECRETARIA MUNICIPAL DA ADMINISTRAÇÃO SERVIÇO DE MEDICINA DO TRABALHO"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 800 (07/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/07/diario-oficial-do-municipio-dom-e-edicao-800/"
@@ -12,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/07/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6920 – Município de Peruíbe (DOM-E ed. 800)
+# Decreto nº 6920, de 20/07/2026 – Município de Peruíbe
 
 DECRETO N.º 6.920, DE 20 DE JULHO DE 2026 - fls. 1
 

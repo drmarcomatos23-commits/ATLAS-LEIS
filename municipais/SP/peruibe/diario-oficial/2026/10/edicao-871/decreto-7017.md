@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 7017 – Município de Peruíbe (DOM-E ed. 871)"
+titulo: "Decreto nº 7017, de 27/10/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "7017"
-data:
-ementa: "SUPLEMENTAR NO VALOR DE R$"
+data: 2026-10-27
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 350.250,00 (TREZENTOS E CINQUENTA MIL, DUZENTOS E CINQUENTA REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 871 (10/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/10/diario-oficial-do-municipio-dom-e-edicao-871/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/10/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 7017 – Município de Peruíbe (DOM-E ed. 871)
+# Decreto nº 7017, de 27/10/2026 – Município de Peruíbe
 
 DECRETO Nº 7.017, DE 27 DE OUTUBRO DE 2026 - fls. 1
 ABRE

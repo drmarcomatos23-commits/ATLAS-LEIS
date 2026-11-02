@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6994 – Município de Peruíbe (DOM-E ed. 854)"
+titulo: "Decreto nº 6994, de 02/10/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6994"
-data:
-ementa: "SUPLEMENTAR NO VALOR DE R$"
+data: 2026-10-02
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 30.000,00 (TRINTA MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 854 (10/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/10/diario-oficial-do-municipio-dom-e-edicao-854/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/10/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6994 – Município de Peruíbe (DOM-E ed. 854)
+# Decreto nº 6994, de 02/10/2026 – Município de Peruíbe
 
 DECRETO Nº 6.994, DE 02 DE OUTUBRO DE 2026 - fls. 1
 ABRE

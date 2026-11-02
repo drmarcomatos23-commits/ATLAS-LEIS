@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6887 – Município de Peruíbe (DOM-E ed. 776)"
+titulo: "Decreto nº 6887, de 11/06/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6887"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR"
+data: 2026-06-11
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 34.000,00 (TRINTA E QUATRO MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 776 (06/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/06/diario-oficial-do-municipio-dom-e-edicao-776/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/06/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6887 – Município de Peruíbe (DOM-E ed. 776)
+# Decreto nº 6887, de 11/06/2026 – Município de Peruíbe
 
 DECRETO Nº 6.887, DE 11 DE JUNHO DE 2026 - fls. 1
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR

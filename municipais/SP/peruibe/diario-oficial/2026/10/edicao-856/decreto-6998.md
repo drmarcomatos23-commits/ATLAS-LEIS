@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6998 – Município de Peruíbe (DOM-E ed. 856)"
+titulo: "Decreto nº 6998, de 06/10/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6998"
-data:
-ementa: "ALTERA OS ITENS “1” E “2” DA ALÍNEA “C” DO"
+data: 2026-10-06
+ementa: "ALTERA OS ITENS “1” E “2” DA ALÍNEA “C” DO INCISO I DO ARTIGO 1º AO DECRETO Nº 6.756,"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 856 (10/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/10/diario-oficial-do-municipio-dom-e-edicao-856/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/10/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6998 – Município de Peruíbe (DOM-E ed. 856)
+# Decreto nº 6998, de 06/10/2026 – Município de Peruíbe
 
 DECRETO Nº 6.998, DE 06 DE OUTUBRO DE 2026
 Peruíbe Terra da Eterna Juventude

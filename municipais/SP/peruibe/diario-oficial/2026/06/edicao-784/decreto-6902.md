@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6902 – Município de Peruíbe (DOM-E ed. 784)"
+titulo: "Decreto nº 6902, de 23/06/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6902"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO"
+data: 2026-06-23
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 320.000,00 (TREZENTOS E VINTE MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 784 (06/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/06/diario-oficial-do-municipio-dom-e-edicao-784/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/06/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6902 – Município de Peruíbe (DOM-E ed. 784)
+# Decreto nº 6902, de 23/06/2026 – Município de Peruíbe
 
 DECRETO N.º 6.902, DE 23 DE JUNHO DE 2026 - fls. 1
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO

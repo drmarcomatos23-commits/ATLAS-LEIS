@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6948 – Município de Peruíbe (DOM-E ed. 629)"
+titulo: "Decreto nº 6948, de 28/08/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6948"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO"
+data: 2026-08-28
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 210.800,00 (DUZENTOS E DEZ MIL"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 629 (08/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/08/diario-oficial-do-municipio-dom-e-edicao-629-2/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/08/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6948 – Município de Peruíbe (DOM-E ed. 629)
+# Decreto nº 6948, de 28/08/2026 – Município de Peruíbe
 
 DECRETO N.º 6.948, DE 28 DE AGOSTO DE 2026.
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO

@@ -1,10 +1,11 @@
 ---
-titulo: "Decreto nº 6863 – Município de Peruíbe (DOM-E ed. 763)"
+titulo: "Decreto nº 6863, de 21/05/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6863"
-data:
+data: 2026-05-21
+ementa: "02.00.00 02.11.00 02.11.01 PROGRAMA: 0007 12.122.0007.2081 435.3.1.90.11 TOTAL PODER EXECUTIVO SECRETARIA MUNICIPAL DE EDUCAÇÃO NÚCLEOS DE APOIO EDUCACIONAIS EDUCA PERUÍBE GESTÃO DOS NÚCLEOS EDUCACIONAIS VENCIMENTOS E VANTAGENS FIXAS - PESSOAL CIVIL ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 7.000,00 (SETE MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 763 (05/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/05/diario-oficial-do-municipio-dom-e-edicao-763/"
@@ -12,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/05/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6863 – Município de Peruíbe (DOM-E ed. 763)
+# Decreto nº 6863, de 21/05/2026 – Município de Peruíbe
 
 DECRETO N.º 6.863, DE 21 DE MAIO DE 2026 - fls. 1
 

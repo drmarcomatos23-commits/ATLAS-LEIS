@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6921 – Município de Peruíbe (DOM-E ed. 801)"
+titulo: "Decreto nº 6921, de 21/07/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6921"
-data:
-ementa: "SUPLEMENTAR NO VALOR DE R$"
+data: 2026-07-21
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 26.000,00 (VINTE E SEIS MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 801 (07/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/07/diario-oficial-do-municipio-dom-e-edicao-801/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/07/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6921 – Município de Peruíbe (DOM-E ed. 801)
+# Decreto nº 6921, de 21/07/2026 – Município de Peruíbe
 
 DECRETO N.º 6.921, DE 21 DE JULHO DE 2026 - fls. 1
 ABRE

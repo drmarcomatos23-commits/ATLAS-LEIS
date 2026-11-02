@@ -1,10 +1,11 @@
 ---
-titulo: "Decreto nº 6862 – Município de Peruíbe (DOM-E ed. 761)"
+titulo: "Decreto nº 6862, de 19/05/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6862"
-data:
+data: 2026-05-19
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 2.021,54 (DOIS MIL, VINTE E UM REAIS, E CINQUENTA E QUATRO CENTAVOS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 761 (05/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/05/diario-oficial-do-municipio-dom-e-edicao-761/"
@@ -12,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/05/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6862 – Município de Peruíbe (DOM-E ed. 761)
+# Decreto nº 6862, de 19/05/2026 – Município de Peruíbe
 
 DECRETO N.º 6.862, DE 19 DE MAIO DE 2026 - fls. 1
 ABRE CRÉDITO ADICIONAL

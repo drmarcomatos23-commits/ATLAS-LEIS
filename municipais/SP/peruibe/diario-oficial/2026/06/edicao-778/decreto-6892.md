@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6892 – Município de Peruíbe (DOM-E ed. 778)"
+titulo: "Decreto nº 6892, de 15/06/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6892"
-data:
-ementa: "SUPLEMENTAR NO VALOR DE R$"
+data: 2026-06-15
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 90.000,00 (NOVENTA MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 778 (06/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/06/diario-oficial-do-municipio-dom-e-edicao-778/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/06/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6892 – Município de Peruíbe (DOM-E ed. 778)
+# Decreto nº 6892, de 15/06/2026 – Município de Peruíbe
 
 DECRETO Nº 6.892, DE 15 DE JUNHO DE 2026 - fls.
 

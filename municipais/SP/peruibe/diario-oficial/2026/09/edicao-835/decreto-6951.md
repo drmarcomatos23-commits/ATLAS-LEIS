@@ -1,10 +1,11 @@
 ---
-titulo: "Decreto nº 6951 – Município de Peruíbe (DOM-E ed. 835)"
+titulo: "Decreto nº 6951, de 04/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6951"
-data:
+data: 2026-09-04
+ementa: "NOMEIA MEMBROS CONSELHO MUNICIPAL CULTURA MUNICÍPIO PERUÍBE PARA O BIÊNIO 2026/2028."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 835 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-835/"
@@ -12,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6951 – Município de Peruíbe (DOM-E ed. 835)
+# Decreto nº 6951, de 04/09/2026 – Município de Peruíbe
 
 DECRETO N.º 6.951, DE 04 DE SETEMBRO DE 2026 – fls. 1
 NOMEIA

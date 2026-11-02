@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6909 – Município de Peruíbe (DOM-E ed. 788)"
+titulo: "Decreto nº 6909, de 30/06/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6909"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO"
+data: 2026-06-30
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 11.978,73 (ONZE MIL, NOVECENTOS E SETENTA E OITO REAIS E SETENTA E TRÊS CENTAVOS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 788 (07/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/07/diario-oficial-do-municipio-dom-e-edicao-788/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/07/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6909 – Município de Peruíbe (DOM-E ed. 788)
+# Decreto nº 6909, de 30/06/2026 – Município de Peruíbe
 
 DECRETO Nº 6.909, DE 30 DE JUNHO DE 2026 – fls. 1
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO

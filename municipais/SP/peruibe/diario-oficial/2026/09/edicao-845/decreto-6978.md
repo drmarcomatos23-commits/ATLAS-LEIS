@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6978 – Município de Peruíbe (DOM-E ed. 845)"
+titulo: "Decreto nº 6978, de 22/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6978"
-data:
-ementa: "SUPLEMENTAR NO VALOR DE R$"
+data: 2026-09-22
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 25.000,00 (VINTE E CINCO MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 845 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-845/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6978 – Município de Peruíbe (DOM-E ed. 845)
+# Decreto nº 6978, de 22/09/2026 – Município de Peruíbe
 
 DECRETO N.º 6.978, DE 22 DE SETEMBRO DE 2026 - fls. 1
 ABRE

@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6869 – Município de Peruíbe (DOM-E ed. 767)"
+titulo: "Decreto nº 6869, de 27/05/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6869"
-data:
-ementa: "R$ 10.000,00 (DEZ MIL REAIS)."
+data: 2026-05-27
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 10.000,00 (DEZ MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 767 (05/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/05/diario-oficial-do-municipio-dom-e-edicao-767/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/05/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6869 – Município de Peruíbe (DOM-E ed. 767)
+# Decreto nº 6869, de 27/05/2026 – Município de Peruíbe
 
 DECRETO N.º 6.869, DE 27 DE MAIO DE 2026 - fls. 1
 ABRE

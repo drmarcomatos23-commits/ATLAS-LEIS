@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 7014 – Município de Peruíbe (DOM-E ed. 868)"
+titulo: "Decreto nº 7014, de 22/10/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "7014"
-data:
-ementa: "SUPLEMENTAR NO VALOR DE R$"
+data: 2026-10-22
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 5.000,00 (CINCO MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 868 (10/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/10/diario-oficial-do-municipio-dom-e-edicao-868/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/10/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 7014 – Município de Peruíbe (DOM-E ed. 868)
+# Decreto nº 7014, de 22/10/2026 – Município de Peruíbe
 
 DECRETO Nº 7.014, DE 22 DE OUTUBRO DE 2026 - fls. 1
 ABRE

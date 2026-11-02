@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6731 – Município de Peruíbe (DOM-E ed. 844)"
+titulo: "Decreto nº 6731, de 16/12/2025 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6731"
-data:
-ementa: "QUE “DISPÕE SOBRE A NOMEAÇÃO DOS"
+data: 2025-12-16
+ementa: "QUE “DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONSELHO DA CIDADE PARA O QUADRIÊNIO 2025 A 2028”."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 844 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-844/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6731 – Município de Peruíbe (DOM-E ed. 844)
+# Decreto nº 6731, de 16/12/2025 – Município de Peruíbe
 
 DECRETO Nº 6.731, DE 16 DE DEZEMBRO DE 2025
 QUE “DISPÕE SOBRE A NOMEAÇÃO DOS

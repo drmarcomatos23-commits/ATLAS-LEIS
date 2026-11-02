@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6995 – Município de Peruíbe (DOM-E ed. 855)"
+titulo: "Decreto nº 6995, de 05/10/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6995"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO"
+data: 2026-10-05
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 40.000,00 (QUARENTA MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 855 (10/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/10/diario-oficial-do-municipio-dom-e-edicao-855/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/10/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6995 – Município de Peruíbe (DOM-E ed. 855)
+# Decreto nº 6995, de 05/10/2026 – Município de Peruíbe
 
 DECRETO Nº 6.995, DE 05 DE OUTUBRO DE 2026 – fls. 1
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO

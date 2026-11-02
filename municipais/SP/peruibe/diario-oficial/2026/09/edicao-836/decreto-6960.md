@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6960 – Município de Peruíbe (DOM-E ed. 836)"
+titulo: "Decreto nº 6960, de 09/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6960"
-data:
-ementa: "ALTERA DISPOSIÇÕES DO DECRETO Nº"
+data: 2026-09-09
+ementa: "ALTERA DISPOSIÇÕES DO DECRETO Nº 6.497, DE 28 DE ABRIL DE 2025, QUE “DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS DO CONTUR - CONSELHO MUNICIPAL DE TURISMO PARA O BIÊNIO 2025/2027”."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 836 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-836/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6960 – Município de Peruíbe (DOM-E ed. 836)
+# Decreto nº 6960, de 09/09/2026 – Município de Peruíbe
 
 DECRETO Nº 6.960, DE 09 DE SETEMBRO DE 2026 – FLS. 1
 ALTERA DISPOSIÇÕES DO DECRETO Nº

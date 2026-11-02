@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6942 – Município de Peruíbe (DOM-E ed. 825)"
+titulo: "Decreto nº 6942, de 21/08/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6942"
-data:
-ementa: "OUTORGA PERMISSÃO DE USO DE"
+data: 2026-08-21
+ementa: "OUTORGA PERMISSÃO DE USO DE ÁREA A TÍTULO PRECÁRIO A SRA. BIANCA RODRIGUES DE NOVAIS."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 825 (08/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/08/diario-oficial-do-municipio-dom-e-edicao-825/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/08/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6942 – Município de Peruíbe (DOM-E ed. 825)
+# Decreto nº 6942, de 21/08/2026 – Município de Peruíbe
 
 DECRETO Nº 6.942, DE 21 DE AGOSTO DE 2026 - fls. 1
 Peruíbe Terra da Eterna Juventude

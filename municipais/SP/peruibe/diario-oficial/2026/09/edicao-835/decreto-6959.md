@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6959 – Município de Peruíbe (DOM-E ed. 835)"
+titulo: "Decreto nº 6959, de 08/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6959"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR"
+data: 2026-09-08
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 120.000,00 (CENTO E VINTE MIL REAIS). ALTERA OS ITENS DA ALÍNEA “A”, DO INCISO II, DO DECRETO Nº 6.767, DE 09 DE FEVEREIRO"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 835 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-835/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6959 – Município de Peruíbe (DOM-E ed. 835)
+# Decreto nº 6959, de 08/09/2026 – Município de Peruíbe
 
 DECRETO Nº 6.959, DE 08 DE SETEMBRO DE 2026
 

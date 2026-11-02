@@ -1,11 +1,10 @@
 ---
-titulo: "Decreto nº 6968 – Município de Peruíbe (DOM-E ed. 844)"
+titulo: "Decreto nº 6968, de 18/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6968"
-data:
-ementa: "FELIPE ANTÔNIO COLAÇO BERNARDO, PREFEITO MUNICIPAL DA"
+data: 2026-09-18
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 844 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-844/"
@@ -13,7 +12,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6968 – Município de Peruíbe (DOM-E ed. 844)
+# Decreto nº 6968, de 18/09/2026 – Município de Peruíbe
 
 DECRETO N.º 6.968, DE 18 DE SETEMBRO DE 2026 - fls. 1
 

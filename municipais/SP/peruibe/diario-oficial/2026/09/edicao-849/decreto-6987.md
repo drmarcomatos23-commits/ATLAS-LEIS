@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6987 – Município de Peruíbe (DOM-E ed. 849)"
+titulo: "Decreto nº 6987, de 25/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6987"
-data:
-ementa: "PERUIBE TERRA DA ETERNA JUVENTUDE"
+data: 2026-09-25
+ementa: "PERUIBE TERRA DA ETERNA JUVENTUDE ALTERA AS ALÍNEAS “A” E “B” DO INCISO I, DO ARTIGO 1º DO DECRETO Nº 6.821, DE 01 DE ABRIL"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 849 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-849/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6987 – Município de Peruíbe (DOM-E ed. 849)
+# Decreto nº 6987, de 25/09/2026 – Município de Peruíbe
 
 DECRETO Nº 6.987, DE 25 DE SETEMBRO DE 2026
 PERUIBE TERRA DA ETERNA JUVENTUDE

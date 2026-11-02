@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6927 – Município de Peruíbe (DOM-E ed. 809)"
+titulo: "Decreto nº 6927, de 31/07/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6927"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO"
+data: 2026-07-31
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 7.000,00 (SETE MIL REAIS). ▪ COMPARECIMENTO NO DIA 08 DE AGOSTO DE 2026, SÁBADO, À AV. SÃO JOÃO, 545, CENTRO, PERUÍBE-SP (SECRETARIA DE EDUCAÇÃO): INSCRIÇÃO NOME CARGO HORÁRIO 6528918-8 NICOLE S. PINHEIRO CONRADO TÉC. DE ENFERMAGEM 6544685-2 ALINE PEREIRA DA SILVA GENEROSO"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 809 (08/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/08/diario-oficial-do-municipio-dom-e-edicao-809/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/08/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6927 – Município de Peruíbe (DOM-E ed. 809)
+# Decreto nº 6927, de 31/07/2026 – Município de Peruíbe
 
 DECRETO N.º 6.927, DE 31 DE JULHO DE 2026
 

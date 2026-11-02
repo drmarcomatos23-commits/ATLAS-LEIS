@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6975 – Município de Peruíbe (DOM-E ed. 844)"
+titulo: "Decreto nº 6975, de 21/09/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6975"
-data:
-ementa: "ALTERA O ITEM “2” DA ALÍNEA “A” DO INCISO"
+data: 2026-09-21
+ementa: "ALTERA O ITEM “2” DA ALÍNEA “A” DO INCISO II DO ARTIGO 1º AO DECRETO Nº 6.761, DE 02 DE FEVEREIRO DE 2026 QUE “DISPÕE SOBRE A NOMEAÇÃO OS MEMBROS DO CONSELHO MUNICIPAL DA COMUNIDADE NEGRA E PROMOÇÃO DA IGUALDADE RACIAL DE PERUÍBE - CMCNPIRP PARA O BIÊNIO 2026/2028”."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 844 (09/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/09/diario-oficial-do-municipio-dom-e-edicao-844/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/09/DOM-E-
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6975 – Município de Peruíbe (DOM-E ed. 844)
+# Decreto nº 6975, de 21/09/2026 – Município de Peruíbe
 
 DECRETO Nº 6.975, DE 21 DE SETEMBRO DE 2026 – FLS. 1
 

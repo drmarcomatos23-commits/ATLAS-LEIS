@@ -1,10 +1,11 @@
 ---
-titulo: "Decreto nº 6914 – Município de Peruíbe (DOM-E ed. 792)"
+titulo: "Decreto nº 6914, de 06/07/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6914"
-data:
+data: 2026-07-06
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 271.367,63 (DUZENTOS E SETENTA E UM MIL, TREZENTOS E SESSENTA E SETE REAIS E SESSENTA E TRÊS CENTAVOS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 792 (07/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/07/diario-oficial-do-municipio-dom-e-edicao-792/"
@@ -12,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/07/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6914 – Município de Peruíbe (DOM-E ed. 792)
+# Decreto nº 6914, de 06/07/2026 – Município de Peruíbe
 
 DECRETO N.º 6.914, DE 06 DE JULHO DE 2026 - fls. 1
 ABRE

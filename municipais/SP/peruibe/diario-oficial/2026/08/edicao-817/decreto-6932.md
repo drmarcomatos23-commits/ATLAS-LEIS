@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6932 – Município de Peruíbe (DOM-E ed. 817)"
+titulo: "Decreto nº 6932, de 12/08/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6932"
-data:
-ementa: "SECRETARIA DE ADMINISTRAÇÃO"
+data: 2026-08-12
+ementa: "SECRETARIA DE ADMINISTRAÇÃO ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 7.500,00 (SETE MIL E QUINHENTOS REAIS). PORTARIA Nº. 447/2026"
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 817 (08/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/08/diario-oficial-do-municipio-dom-e-edicao-817/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/08/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6932 – Município de Peruíbe (DOM-E ed. 817)
+# Decreto nº 6932, de 12/08/2026 – Município de Peruíbe
 
 DECRETO N.º 6.932, DE 12 DE AGOSTO DE 2026
 

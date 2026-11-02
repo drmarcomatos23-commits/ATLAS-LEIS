@@ -1,11 +1,11 @@
 ---
-titulo: "Decreto nº 6907 – Município de Peruíbe (DOM-E ed. 787)"
+titulo: "Decreto nº 6907, de 29/06/2026 – Município de Peruíbe"
 uf: "SP"
 municipio: "Peruíbe"
 tipo: "Decreto"
 numero: "6907"
-data:
-ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR"
+data: 2026-06-29
+ementa: "ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR DE R$ 90.000,00 (NOVENTA MIL REAIS)."
 versao_texto: "texto extraído do PDF do Diário Oficial (original da publicação)"
 publicacao: "DOM-E Peruíbe, edição 787 (06/2026)"
 fonte: "https://www.peruibe.sp.gov.br/2026/06/diario-oficial-do-municipio-dom-e-edicao-787/"
@@ -13,7 +13,7 @@ arquivo: "https://www.peruibe.sp.gov.br/portal/wp-content/uploads/2026/06/DOM-E_
 baixado_em: 2026-11-02
 ---
 
-# Decreto nº 6907 – Município de Peruíbe (DOM-E ed. 787)
+# Decreto nº 6907, de 29/06/2026 – Município de Peruíbe
 
 DECRETO N.º 6.907, DE 29 DE JUNHO DE 2026 – fls. 1
 ABRE CRÉDITO ADICIONAL SUPLEMENTAR NO VALOR
