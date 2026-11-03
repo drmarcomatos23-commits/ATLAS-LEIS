@@ -1,0 +1,156 @@
+---
+titulo: "Lei Ordinária nº 1377/2019"
+uf: "SP"
+municipio: "Bertioga"
+tipo: "Lei Ordinária"
+numero: "1377"
+data: 2019-11-09
+ementa: "AUTORIZA O PODER EXECUTIVO A ABRIR CRÉDITO ADICIONAL SUPLEMENTAR, POR REMANEJAMENTO, TRANSPOSIÇÃO E TRANSFERÊNCIA DE RECURSOS, NO ORÇAMENTO MUNICIPAL NO VALOR DE R$ 3.505.770,00 (TRÊS MILHÕES, QUINHENTOS E CINCO MIL, SETECENTOS E SETENTA REAIS)."
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bertioga.sp.leg.br/norma/5128"
+arquivo: "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2019/5128/lei-1377-19.pdf"
+id_fonte: "sapl-5128"
+baixado_em: 2026-11-03
+tipo_na_fonte: "Lei Ordinária"
+---
+
+# Lei Ordinária nº 1377/2019
+
+Lei nº 1.377, de 06 de Novembro de 2019
+"Autoriza o Poder Executivo a abrir
+Crédito Adicional Suplementar, por
+remanejamento, transposição e
+transferência de recursos, no orçamento
+municipal no valor de R$ 3.505.770,00
+(três milhões, quinhentos e cinco mil,
+setecentos e setenta Reais)"
+Autoria: Prefeito Caio Matheus
+Processo: 534/2019
+Projeto: 074/2019
+Promulgação: 06/11/2019
+Publicação: BOM 916, de 09/11/2019
+Decreto:
+Alterações:
+Observação:
+Caio Matheus, Prefeito do Município de Bertioga, faço saber que o Plenário aprovou em 2ª
+Discussão e Redação Final na 33ª Sessão Extraordinária, realizada no dia 05 de novembro do
+corrente ano, e que sanciona e promulga a seguinte lei:
+Art. 1º.  Fica o Poder Executivo autorizado a abrir Crédito Adicional
+Suplementar, por remanejamento, transposição e transferência de recursos, no orçamento
+municipal no valor de R$ 3.505.770,00 (três milhões, quinhentos e cinco mil, setecentos e
+setenta reais), destinado às seguintes dotações orçamentárias:
+UNID FUNCIONALPROGRAMÁTICA NATUREZA DADESPESA VÍNCULO FICHA VALOR JUSTIFICATIVA
+01.16.01 04.122.0021.2.024 4.4.90.52.00 01.000.0000 23 R$         60.000,00
+SUBSTITUIÇÃO DE
+MOBILIÁRIO DAS
+DEPENDÊNCIAS
+DO GABINTE DO
+PREFEITO
+01.17.01 04.122.0032.2.022 3.3.90.39.00 01.000.0000 48 R$           7.000,00
+CONTRATAÇÃO
+DE MENOR
+APRENDIZ PARA
+A SECRETARIA DE
+ADMINISTRAÇÃO
+E FINANÇAS
+01.17.01 28.843.0901.0.021 3.2.90.21.00 01.000.0000 73 R$       359.000,00
+PAGAMENTO DE
+COMISSÃO DE
+ESTRUTURAÇÃO
+REFERENTE
+OPERAÇÃO DE
+CRÉDITO
+01.17.01 28.843.0901.0.021 4.6.90.71.00 01.000.0000 74 R$         42.000,00 AMORTIZAÇÃODA DÍVIDA
+
+01.17.01 28.845.0902.0.023 3.3.90.47.00 01.000.0000 76 R$       450.000,00 CONTRIBUIÇÃOAO PASEP
+01.18.01 15.452.0042.2.137 3.3.90.39.00 01.000.0000 107 R$       400.000,00
+DESPESA COM
+CONTRATO DE
+LIMPEZA URBANA
+01.18.01 15.452.0043.2.143 3.3.90.39.00 01.000.0000 108 R$       800.000,00
+DESPESA COM
+CONTRATO DE
+COLETA DE
+RESÍDUOS
+SÓLIDOS
+01.18.02 15.451.0044.2.032 3.3.90.39.00 01.000.0000 123 R$         80.000,00
+DESPESA COM
+ILUMINAÇÃO
+PÚBLICA
+01.24.03 27.812.0115.2.024 3.3.90.39.00 01.000.0000 496 R$       200.000,00
+MANUTENÇÃO
+DOS EVENTOS DO
+VERÃO 2019/2020
+01.17.01 04.128.0039.1.025 4.4.90.40.00 01.000.0000 758 R$       110.777,00
+REVISÃO DE
+CLASSIFICAÇÃO
+DE NATUREZA DE
+DESPESA -
+PROCESSO Nº
+7793/2018
+01.17.01 04.128.0039.1.025 4.4.90.40.00 07.000.0000 758 R$       996.993,00
+REVISÃO DE
+CLASSIFICAÇÃO
+DE NATUREZA DE
+DESPESA -
+PROCESSO Nº
+7793/2018
+ TOTA
+L R$    3.505.770,00
+Art. 2º As despesas com a abertura do Crédito Adicional Suplementar, por
+remanejamento, transposição e transferência de recursos, de que trata o artigo 1º desta Lei
+serão cobertas com recursos oriundos da anulação parcial ou total de dotações orçamentárias,
+conforme segue:
+UNID FUNCIONAL
+PROGRAMÁTIC
+A
+NATUREZA
+DA
+DESPESA
+VÍNCULO FICHA  VALOR RECURSO
+01.16.01 04.122.0021.2.023 3.3.90.39.00 01.000.0000 11 R$            20.000,00 ORDINÁRIO
+01.16.01 04.122.0021.2.024 3.3.90.39.00 01.000.0000 17 R$            40.000,00 ORDINÁRIO
+01.17.01 04.122.0032.2.020 3.3.90.49.00 01.000.0000 45 R$            10.000,00 ORDINÁRIO
+01.17.01 04.122.0032.2.135 3.3.90.39.00 01.000.0000 62 R$               7.000,00 ORDINÁRIO
+01.17.01 04.128.0039.1.025 3.3.90.39.00 01.000.0000 68 R$             76.188,00 ORDINÁRIO
+01.17.01 04.128.0039.1.025 3.3.90.39.00 07.000.0000 68 R$           785.692,00 VINCULADO
+01.18.02 15.451.0044.2.020 3.1.90.11.00 01.000.0000 110 R$             39.000,00 ORDINÁRIO
+01.18.02 15.451.0044.2.020 3.1.90.13.00 01.000.0000 111 R$             10.000,00 ORDINÁRIO
+01.18.02 15.451.0044.2.020 3.3.90.46.00 01.000.0000 114 R$              6.000,00 ORDINÁRIO
+01.18.02 15.451.0044.2.020 3.3.90.49.00 01.000.0000 115 R$               8.000,00 ORDINÁRIO
+01.18.02 15.451.0044.2.020 3.3.90.95.00 01.000.0000 116 R$               5.000,00 ORDINÁRIO
+
+01.18.02 15.451.0044.2.021 3.3.90.36.00 01.000.0000 117 R$             12.000,00 ORDINÁRIO
+01.20.01 08.244.0161.2.020 3.1.90.11.00 01.000.0000 256 R$           200.000,00 ORDINÁRIO
+01.20.01 08.244.0161.2.020 3.1.90.13.00 01.000.0000 257 R$             13.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.020 3.1.90.11.00 01.000.0000 357 R$           454.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.020 3.1.90.13.00 01.000.0000 358 R$             55.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.020 3.1.91.13.00 01.000.0000 361 R$             78.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.020 3.3.90.46.00 01.000.0000 362 R$             22.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.020 3.3.90.49.00 01.000.0000 363 R$             20.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.020 3.3.90.95.00 01.000.0000 364 R$               4.000,00 ORDINÁRIO
+01.22.01 15.451.0091.2.021 3.3.90.36.00 01.000.0000 365 R$             30.000,00 ORDINÁRIO
+01.24.01 23.695.0111.2.020 3.1.90.11.00 01.000.0000 447 R$           270.000,00 ORDINÁRIO
+01.24.01 23.695.0111.2.020 3.1.90.13.00 01.000.0000 448 R$             30.000,00 ORDINÁRIO
+01.24.01 23.695.0111.2.020 3.1.90.16.00 01.000.0000 449 R$             25.000,00 ORDINÁRIO
+01.24.01 23.695.0111.2.020 3.1.91.13.00 01.000.0000 451 R$             78.000,00 ORDINÁRIO
+01.24.01 23.695.0111.2.020 3.3.90.49.00 01.000.0000 453 R$             10.000,00 ORDINÁRIO
+01.24.03 27.812.0115.2.020 3.1.90.11.00 01.000.0000 483 R$             30.000,00 ORDINÁRIO
+01.24.03 27.812.0115.2.020 3.1.90.13.00 01.000.0000 484 R$             10.000,00 ORDINÁRIO
+01.24.03 27.812.0115.2.020 3.3.90.49.00 01.000.0000 489 R$             20.000,00 ORDINÁRIO
+01.25.01 10.122.0121.2.020 3.1.90.13.00 01.000.0000 507 R$            10.000,00 ORDINÁRIO
+01.26.01 15.451.0141.2.020 3.1.90.11.00 01.000.0000 646 R$             90.000,00 ORDINÁRIO
+01.26.01 15.451.0141.2.020 3.1.91.13.00 01.000.0000 650 R$             50.000,00 ORDINÁRIO
+01.26.01 15.451.0141.2.020 3.3.90.46.00 01.000.0000 651 R$             15.000,00 ORDINÁRIO
+01.26.01 15.451.0141.2.020 3.3.90.49.00 01.000.0000 652 R$             13.000,00 ORDINÁRIO
+01.26.01 15.451.1.035 4.4.90.51.00 01.000.0000 674 R$           664.000,00 ORDINÁRIO
+01.29.01 03.092.0152.2.020 3.1.90.11.00 01.000.0000 679 R$             30.000,00 ORDINÁRIO
+01.29.01 03.092.0152.2.020 3.1.90.13.00 01.000.0000 680 R$            20.000,00 ORDINÁRIO
+01.17.01 04.128.0039.1.025 3.3.90.40.00 01.000.0000 751 R$             34.589,00 ORDINÁRIO
+01.17.01 04.128.0039.1.025 3.3.90.40.00 07.000.0000 751 R$           211.301,00 VINCULADO
+TOTAL R$        3.505.770,00
+Art. 3º  Esta Lei entra em vigor na data de sua publicação, revogadas as
+disposições em contrário.
+Bertioga, 06 de Novembro de 2.019.
+Caio Matheus
+Prefeito do Município

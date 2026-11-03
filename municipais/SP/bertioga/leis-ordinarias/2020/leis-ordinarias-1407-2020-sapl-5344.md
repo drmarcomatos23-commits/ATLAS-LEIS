@@ -1,0 +1,67 @@
+---
+titulo: "Lei Ordinária nº 1407/2020"
+uf: "SP"
+municipio: "Bertioga"
+tipo: "Lei Ordinária"
+numero: "1407"
+data: 2020-06-19
+ementa: "Autoriza o Poder Executivo Municipal a abrir Crédito Adicional Especial no orçamento no valor de R$ 625.000,00 (seiscentos e vinte c cinco mil reais)."
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bertioga.sp.leg.br/norma/5344"
+arquivo: "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2020/5344/lei-1407-20.pdf"
+id_fonte: "sapl-5344"
+baixado_em: 2026-11-03
+tipo_na_fonte: "Lei Ordinária"
+---
+
+# Lei Ordinária nº 1407/2020
+
+Lei nº 1.407, de 19 de Junho de 2020
+Autoriza o Poder Executivo Municipal a
+abrir Crédito Adicional Especial no
+orçamento no valor de R$ 625.000,00
+(seiscentos e vinte e cinco mil reais)
+Autor: Caio Matheus – Prefeito do Município
+Caio Matheus, Prefeito do Município de Bertioga, faço saber que o Poder Legislativo
+Municipal aprovou em 2ª Discussão e Redação Final na 13ª Sessão Extraordinária, realizada
+no dia 18 de junho de 2020, e que sanciono e promulgo a seguinte Lei:
+Art. 1º  Fica o Poder Executivo Municipal autorizado a abrir Crédito
+Adicional Especial no orçamento no valor de R$ 625.000,00 (seiscentos e vinte e cinco mil
+reais), destinado à seguinte dotação orçamentária:
+UNID. FUNCIONALPROGRAMÁTICA NATUREZADADESPESA VÍNCULO DOT. VALOR JUSTIFICATIVA
+01.23.01 26.453.0100.2.158 3.3.90.41.00 01.000.0000   R$   625.000,00 
+SUBSÍDIO PARA A
+TARIFA DE
+TRANSPORTE
+PÚBLICO
+        TOTAL R$   625.000,00
+Art. 2º As despesas com a abertura do Crédito Adicional Especial de que
+trata o artigo 1º desta Lei, serão cobertas com recursos oriundos da anulação parcial ou total
+das seguintes dotações orçamentárias:
+UNID. FUNCIONALPROGRAMÁTICA NATUREZADADESPESA VÍNCULO DOT.  VALOR RECURSO
+01.16.01 04.122.0021.2.024 4.4.90.51.00 01.000.0000 20 R$25.000,00  ORDINÁRIO
+01.16.01 04.122.0021.2.024 4.4.90.52.00 01.000.0000 21 R$54.000,00  ORDINÁRIO
+01.16.01 04.126.0021.2.134 4.4.90.52.00 01.000.0000 28 R$7.500,00  ORDINÁRIO
+01.16.02 08.244.0022.2.028 4.4.90.52.00 01.000.0000 35 R$5.000,00  ORDINÁRIO
+01.17.01 04.122.0032.2.024 4.4.90.51.00 01.000.0000 59 R$125.000,00  ORDINÁRIO
+01.17.01 04.122.0032.2.024 4.4.90.52.00 01.000.0000 60 R$40.000,00  ORDINÁRIO
+01.17.01 04.122.0036.2.132 4.4.90.51.00 01.000.0000 66 R$       10.000,00  ORDINÁRIO
+01.21.01 18.541.0181.2.024 4.4.90.52.00 01.000.0000 336 R$11.000,00  ORDINÁRIO
+01.22.01 15.451.0091.2.024 4.4.90.51.00 01.000.0000 383 R$80.000,00  ORDINÁRIO
+01.22.01 15.451.0091.2.024 4.4.90.52.00 01.000.0000 384 R$28.000,00  ORDINÁRIO
+01.23.01 06.181.0101.1.028 4.4.90.52.00 01.000.0000 389 R$12.000,00  ORDINÁRIO
+01.24.01 13.391.0116.2.056 4.4.90.52.00 01.000.0000 446 R$5.000,00  ORDINÁRIO
+
+01.24.01 13.392.0116.2.057 4.4.90.52.00 01.000.0000 453 R$5.000,00  ORDINÁRIO
+01.24.01 23.695.0111.2.024 4.4.90.52.00 01.000.0000 473 R$5.000,00  ORDINÁRIO
+01.24.03 27.812.0115.2.024 4.4.90.52.00 01.000.0000 509 R$7.500,00  ORDINÁRIO
+01.25.01 10.301.0122.2.063 4.4.90.51.00 01.000.0000 551 R$10.000,00  ORDINÁRIO
+01.25.01 10.302.0123.1.089 4.4.90.51.00 01.000.0000 553 R$7.500,00  ORDINÁRIO
+01.29.01 03.092.0152.2.024 4.4.90.52.00 01.000.0000 698 R$7.500,00  ORDINÁRIO
+02.04.01 01.031.0002.2.026 3.3.90.39.00 01.000.0000 724 R$180.000,00  ORDINÁRIO
+        TOTAL R$625.000,00
+Art. 3º  Esta Lei entra em vigor na data de sua publicação, revogadas as
+disposições em contrário.
+Bertioga, 19 de junho de 2020.
+Eng.º Caio Matheus
+Prefeito do Município

@@ -1,0 +1,98 @@
+---
+titulo: "Decreto Executivo nº 254/1996"
+uf: "SP"
+municipio: "Bertioga"
+tipo: "Decreto"
+numero: "254"
+data: 1996-12-24
+ementa: "DISPÕE SOBRE REMANEJAMENTO DE RECURSO ORÇAMENTÁRIO NO VALOR DE R$ 2.154.000,00 CONFORME AUTORIZADO PELA LEI 180/96 ART. 2º."
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bertioga.sp.leg.br/norma/1637"
+arquivo: "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/1996/1637/1637_texto_integral.pdf"
+id_fonte: "sapl-1637"
+baixado_em: 2026-11-03
+tipo_na_fonte: "Decreto Executivo"
+---
+
+# Decreto Executivo nº 254/1996
+
+DECRETO TEMPORÁRIO – VIGÊNCIA EXPIRADA
+DECRETO  Nº 254/96.
+"DISPÕE SOBRE REMANEJAMENTO DE
+RECURSO ORÇAMENTÁRIO NO VALOR
+DE R$ 2.154.000,00 (DOIS MILHÕES
+CENTO E CINQUENTA E QUATRO MIL
+REAIS) CONFORME AUTORIZADO PELA
+LEI 180/96 ARTIGO 2º."
+Arquitº JOSÉ MAURO DEDEMO ORLANDINI,  Prefeito do
+Município de Bertioga, no uso das atribuições que lhe são conferidas por Lei,
+     DECRETA:
+Art. 1º - Fica aberto no Departamento de Finanças da
+Secretaria de Administração,  Finanças e Jurídico da Prefeitura do Município de
+Bertioga, um crédito suplementar, na importância de R$ 2.154.000,00 (dois milhões
+cento e cinquenta e quatro mil reais), conforme discriminado abaixo:
+021000-03070202.117-3111 180.000,00
+031000-03070212.121-3111 312.000,00
+041000-03070212.163-3111 66.000,00
+051000-03070212.212-3111 1.166.000,00
+061000-08070212.253-3111 430.000,00
+Art. 2º - Os valores dos créditos adicionais autorizados no art.
+1º serão cobertos através de anulação parcial ou total até o valor de R$ 2.154.000,00
+(dois milhões cento e cinquenta e quatro mil reais), conforme discriminado abaixo:
+021000-03070202.117-3120 10.000,00
+021000-03070202.117-3131 10.000,00
+031000-03070212.121-3120 40.000,00
+031100-03070212.122-3120 20.000,00
+031100-03070212.123-3120 10.000,00
+031100-03070212.124-3120 10.000,00
+031100-03070212.122-3132 20.000,00
+031200-03080212.147-3132 5.000,00
+031200-03080212.147-3192 30.000,00
+031200-15845002.157-3280 120.000,00
+041000-03070212.163-3120 50.000,00
+041100-03070212.164-3132 10.000,00
+041100-03070212.165-3132 15.000,00
+041100-03070212.166-3132 75.000,00
+041200-03070212.167-3120 59.000,00
+041200-03070212-178-3120 15.000,00
+041200-03070212-169-3132 95.000,00
+041200-10583231.190-4110 200.000,00
+041200-10583231.191-4110 170.000,00
+
+041200-10583231.192-4110 60.000,00
+041200-10583231.197-4110 110.000,00
+041200-10603252.201-3132 20.000,00
+041200-10603271.204-4110 145.000,00
+051000-03070212.212-3120 25.000,00
+051100-03070212.213-3120 150.000,00
+051200-03070212.218-3132 5.000,00
+051200-03070212.221-3132 5.000,00
+051200-03070212.219-4120 60.000,00
+051200-13754282.239-3132 55.000,00
+051200-13754281.230-4110 90.000,00
+051200-13754281.233-4110 65.000,00
+051200-13754281.236-4110 70.000,00
+051200-13754281.240-4110 10.000,00
+061200-08070211.258-4110 35.000,00
+061200-08070211.262-4110 15.000,00
+061200-08070212.263-4120 5.000,00
+061200-08421882.259-3120 100.000,00
+061200-08421881.265-4110 30.000,00
+061200-08472372.282-3120 15.000,00
+061200-08472372.283-3120 10.000,00
+061200-08472392.284-3254 75.000,00
+061200-08482461.285-4110 30.000,00
+061200-11653632.298-3131 5.000,00
+Art. 3º  - Este Decreto entrará em vigor na data de sua
+publicação.
+Art. 4º - Revogam-se as disposições em contrário.
+Registre-se, publique-se e cumpra-se.
+Bertioga, 04 de dezembro de 1996.
+Arquitº JOSÉ MAURO DEDEMO ORLANDINI
+Prefeito do Município
+ERNESTO PEREZ
+Secretário de Administração,
+Finanças e Jurídico.
+Registrado no Livro Competente da
+Secretaria de Administração, Finanças e Jurídico
+Proc. nº   10.141/96

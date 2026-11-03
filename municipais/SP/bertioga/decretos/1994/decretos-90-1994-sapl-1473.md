@@ -1,0 +1,163 @@
+---
+titulo: "Decreto Executivo nº 90/1994"
+uf: "SP"
+municipio: "Bertioga"
+tipo: "Decreto"
+numero: "90"
+data: 1994-04-05
+ementa: "ABRE CRÉDITO ADICIONAL NO VALOR CR$1.397.800.000,00 (HUM BILHÃO, TREZENTOS E NOVENTA E SETE MILHÕES E OITOCENTOS MIL CRUZEIROS REAIS), E DÁ OUTRAS PROVIDÊNCIAS"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bertioga.sp.leg.br/norma/1473"
+arquivo: "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/1994/1473/1473_texto_integral.pdf"
+id_fonte: "sapl-1473"
+baixado_em: 2026-11-03
+tipo_na_fonte: "Decreto Executivo"
+---
+
+# Decreto Executivo nº 90/1994
+
+DECRETO TEMPORÁRIO – VIGÊNCIA EXPIRADA
+DECRETO Nº 090/94
+"ABRE CRÉDITO ADICIONAL NO
+VALOR CR$ 1.397.800.000,00 ( HUM
+BILHÃO TREZENTOS  E   NOVENTA   E
+ SETE MILHÕES E OITOCENTOS MIL
+CRUZEIROS  REAIS),  E DÁ    OUTRAS
+PROVIDÊNCIAS".
+Arquitº JOSÉ MAURO DEDEMO ORLANDINI , Prefeito do
+Município de Bertioga, no uso das atribuições que lhe são conferidas por Lei,
+DECRETA:
+Art 1º  - Fica Aberto no Departamento de Finanças da
+Secretaria de Finanças da Prefeitura do Município de Bertioga, um Crédito
+Adicional Suplementar na importância de CR$ 674.800.000,00 (Seiscentos e
+setenta e quatro milhões e oitocentos mil cruzeiros reais), conforme
+discriminado abaixo:
+021100.03070212.115-3120    CR$     4.000.000,00
+021100.03070212.116-3132    CR$   80.000.000,00
+031200.03070212.157-3132    CR$     5.000.000,00
+061100.10580212.215-3120    CR$   35.000.000,00
+061200.03070212.227-3132    CR$ 300.000.000,00
+061200.03070212.221-3132    CR$   10.000.000,00
+061200.03583232.234-4110    CR$   20.000.000,00
+061600.16070212.257-3132    CR$     8.000.000,00
+061600.16070212.254-3132    CR$   80.000.000,00
+081000.11650212.317-3132    CR$     5.000.000,00
+081000.11650202.314-3113            CR$     5.000.000,00
+091100.08482472.367-4120            CR$   21.400.000,00
+102000.13070212.373-3120    CR$ 100.000.000,00
+105000.15814862.401-4120    CR$     1.400.000,00
+   CR$ 674.800.000,00
+Art. 2º  - Os valores dos Créditos que aludem o art. 1,
+serão dentro das normas vigentes com as anulações parciais das dotações do
+orçamento vigente. Observada a seguinte discriminação:
+021000.0307020211-3131    CR$    4.000.000,00
+
+021100.03070212.120-3132    CR$  10.000.000,00
+021100.03070212.122-3132    CR$    7.000.000,00
+021100.03070212.126-3132   CR$    3.000.000,00
+021100.03070212.124-4120 CR$  30.000.000,00
+021100.03070212.127-3132    CR$  30.000.000,00
+031000.03070202.139-3120    CR$    2.000.000,00
+031000.03070202.140-3120  CR$    2.000.000,00
+031000.03070202.140-3131 CR$    1.000.000,00
+031000.03070202.139-3132    CR$    1.500.000,00
+031000.03070202.140-3132    CR$    1.500.000,00
+031000.03070212.143-3131           CR$    2.500.000,00
+031200.03070212.149-3111    CR$    4.000.000,00
+031200.03070212.149-3113    CR$    1.000.000,00
+031200.03070212.145-3120    CR$    2.000.000,00
+031200.03070212.144-3131    CR$  30.000.000,00
+031200.03070212.148-3131    CR$  20.000.000,00
+031200.03070212.145-3132    CR$    2.000.000,00
+031200.03070212.147-3132    CR$    8.000.000,00
+031200.03072172.154-3131    CR$    4.000.000,00
+031200.03784721.157-3120    CR$    5.000.000,00
+061000.10070202.211-3120    CR$    6.000.000,00
+061000.10070202.211-3131           CR$    3.000.000,00
+061000.10070202.211-3132           CR$    3.000.000,00
+061000.10070202.212-3120    CR$    7.000.000,00
+061000.10070202.212-3131    CR$    3.000.000,00
+061000.10070202.212-3132    CR$    3.000.000,00
+061100.10580212.214-3131    CR$  10.000.000,00
+061100.10580212.215-3131    CR$  18.000.000,00
+061100.10580212.214-3120    CR$  12.000.000,00
+061200.03070021.226-3111    CR$    8.000.000,00
+061200.03070212.217-3120   CR$    6.000.000,00
+061200.03070212.218-3120  CR$  10.000.000,00
+061200.03070212.219-3120    CR$  10.000.000,00
+061200.03070212.220-3131    CR$  12.000.000,00
+061200.03070212.222-3131    CR$  25.000.000,00
+061200.03070212.223-3131    CR$    6.000.000,00
+061200.03070212.217-3132    CR$    7.000.000,00
+061200.03070212.224-3132 CR$    9.000.000,00
+061200.03070212.216-4110    CR$  13.000.000,00
+061200.03070212.218-4120    CR$    6.000.000,00
+061200.03070212.228-4120    CR$  20.000.000,00
+061200.03583232.232-4110    CR$  15.000.000,00
+061200.03603232.226-4110    CR$  13.000.000,00
+061400.03070212.240-3131    CR$    1.000.000,00
+061400.10583232.248-4110    CR$  10.000.000,00
+
+061400.03070212.240-3132    CR$    1.000.000,00
+061400.03070212.242-3132    CR$    1.000.000,00
+061400.03070212.245-3214    CR$    4.500.000,00
+061400.03070212.244-4120    CR$    3.000.000,00
+061400.03070212.245-4313    CR$    2.000.000,00
+061400.10580212.246-4110    CR$     6.000.000,00
+061400.10583232.247-4110    CR$     8.000.000,00
+061500.16910212.250-3131    CR$     8.000.000,00
+061500.16910212.251-3131    CR$     8.000.000,00
+061600.16070212.252-4120    CR$   70.000.000,00
+061600.16070212.253-4120    CR$   15.000.000,00
+061600.16070212.256-4120    CR$     9.000.000,00
+081000.11653632.318-3111 CR$     5.000.000,00
+081100.11070212.323-3111  CR$     2.000.000,00
+081100.11070212.322-3132    CR$     3.000.000,00
+091000.08482472.353-3120    CR$     4.000.000,00
+091100.08480212.356-3111    CR$        900.000,00
+091100.08480212.357-3132    CR$        500.000,00
+091100.08480212.358-3132    CR$        500.000,00
+091100.08480212.360-4110    CR$   10.000.000,00
+091100.08482462.361-3120    CR$        500.000,00
+091100.08482472.363-3120     CR$     2.000.000,00
+091100.08482472.363-3132    CR$     3.000.000,00
+103000.13750212.376-3131    CR$   10.000.000,00
+103000.13750212.375-4110    CR$   60.000.000,00
+103000.13754282.383-3131    CR$     5.000.000,00
+103000.13754282.381-3132    CR$     5.000.000,00
+103000.13754282.383-3132    CR$     2.000.000,00
+103000.13754282.379-4110    CR$   18.000.000,00
+105000.15814862.399-3132    CR$     1.400.000,00
+   CR$ 674.800.000,00
+Art. 3º  - Fica aberto no Departamento de Finanças da
+Secretaria de Finanças da Prefeitura do Município de Bertioga, um Crédito
+Adicional Suplementar, na importância de CR$ 341.000.000,00 (Trezentos e
+quarenta e um milhões de cruzeiros reais), assim discriminados:
+061200.03583232.231-4110    CR$ 280.000.000,00
+061200.03583232.234-4110    CR$   61.000.000,00
+   CR$ 341.000.000,00
+Art. 4º  - Os valores dos créditos autorizados no Art. 3
+serão cobertos através do Superavit Financeiro, no exercício de 1.993.
+Art. 5º  - Fica aberto no Departamento de Finanças da
+Secretaria de Finanças da Prefeitura do Município de Bertioga, um Crédito
+
+Adicional Suplementar na importância de CR$ 382.000.000,00 (Trezentos e
+oitenta e dois milhões de cruzeiros reais), assim discriminados:
+061200.03583232.234-4110        CR$ 287.000.000,00
+061200.03583232.233-4110       CR$     5.000.000,00
+061200.03583232.235-4110               CR$   20.000.000,00
+102000.13070212.373-3120        CR$    3.000.000,00
+103000.13754282.380-4120        CR$  67.000.000,00
+Art. 6º  - Os valores dos créditos autorizados no Art. 5
+serão cobertos através do provável excesso de arrecadação.
+Art. 7º  - Este Decreto entrará em vigor na data de sua
+publicação.
+Art. 8º - Revogam-se as disposições em contrário.
+Registre-se, publique-se e cumpra-se.
+Bertioga, 05 de abril de 1994.
+Arquitº JOSÉ MAURO DEDEMO ORLANDINI
+Prefeito do Município
+Registrado no Livro Competente
+Departamento de Administração
+HÉLCIO GONÇALVES CUNHA
+Diretor de Administração

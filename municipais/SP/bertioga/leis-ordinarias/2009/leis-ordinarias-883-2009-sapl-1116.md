@@ -1,0 +1,3270 @@
+---
+titulo: "Lei Ordinária nº 883/2009"
+uf: "SP"
+municipio: "Bertioga"
+tipo: "Lei Ordinária"
+numero: "883"
+data: 2009-11-16
+ementa: "CONCEDE 'CARTÃO ALIMENTAÇÃO' AOS SERVIDORES PÚBLICOS MUNICIPAIS DOS NIVEIS 1, 2, 3, 4, 5 E 6 EM SUBSTITUIÇÃO DAS CESTAS BÁSICAS"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bertioga.sp.leg.br/norma/1116"
+arquivo: "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2009/1116/1116_texto_integral.pdf"
+id_fonte: "sapl-1116"
+baixado_em: 2026-11-03
+tipo_na_fonte: "Lei Ordinária"
+---
+
+# Lei Ordinária nº 883/2009
+
+Lei nº 372/1999
+“Edita a Planta Genérica de Valores,
+regula a forma de apuração do valor venal
+de imóveis do município para fins fiscais e
+dá outras providências.”
+Autor: Arq. Luiz Carlos Rachid
+Projeto de Lei: nº 039/99
+Processo: nº 556/99
+Publicação: 27/11/99
+Status: Alterada
+Decreto:
+Alterações:
+Alterada pela Lei nº 1248/16
+Alterada pela Lei nº 434/00
+Arquiteto Luiz Carlos Rachid, Prefeito do Município de Bertioga, faço
+saber que a Câmara Municipal de Bertioga, aprovou em Sessão realizada no dia 17 de
+novembro de 1999 e eu sanciono e promulgo a seguinte Lei:
+Art. 1º.  Fica editada, através desta lei, a Planta Genérica de Valores de
+imóveis situados na zona urbana e de expansão urbana do Município de Bertioga, para fins de
+lançamentos de impostos predial urbano e territorial urbano que, devidamente rubricada e
+como Anexo I, faz parte desta lei.
+Art. 2º.  A apuração do valor venal para fins de lançamento do imposto
+predial e territorial urbano, será realizada conforme as normas e métodos aqui fixados.
+Parágrafo Único Fazem parte integrante desta Lei as Tabelas I a IV do
+Anexo II.
+Art. 3º.  Os valores unitários de metro quadrado de construção e de
+terreno serão determinados, em função dos seguintes elementos, calculados em conjunto ou
+separadamente:
+I -  preços correntes dos negócios e das ofertas, praticados no mercado
+imobiliário do município;
+II - custo de reprodução;
+III - custo de substituição;
+IV - locações correntes;
+V - características da região de situação do imóvel;
+VI - outros dados informativos tecnicamente reconhecidos.
+
+Parágrafo Único Os valores unitários, definidos como valores médios
+para os locais e construções serão atribuídos:
+a) faces de quadras, a quadras ou quarteirões, a logradouros ou regiões
+determinadas, relativamente aos terrenos, conforme a Tabela I do Anexo II;
+b) a cada um dos padrões previstos para os tipos de edificação, indicados
+na Tabela IV do Anexo II, relativamente às construções.
+Art. 4º.  Na determinação do valor venal não serão considerados:
+I - o valor dos bens móveis mantidos, em caráter permanente ou
+temporário, no imóvel, para efeito de sua utilização, exploração, aformoseamento ou
+comodidade;
+II -  as vinculações restritivas do direito de propriedade e o estado de
+comunhão.
+Art. 5º.  O valor unitário de metro quadrado de terreno corresponderá:
+I - ao da face de quadra da situação do imóvel;
+II - no caso de imóvel não construído, com duas ou mais esquinas, de duas
+ou mais frentes, ao do logradouro relativo a frente indicado no título de propriedade ou na
+falta deste ao do logradouro de maior valor;
+III - no caso de imóvel construído em terreno com características do inciso
+anterior, ao do logradouro relativo à frente efetiva, ou havendo mais de uma, a frente
+principal;
+IV - no caso de terreno interno ou de fundo, ao do logradouro que lhe dá
+acesso, ou, havendo mais de um logradouro de acesso, ao do logradouro a que haja sido
+atribuído o maior valor;
+V - no caso de terreno encravado, ao do logradouro correspondente à
+servidão de passagem.
+Art. 6º.  A profundidade equivalente do terreno, para aplicação do fator
+de profundidade que trata a Tabela II do Anexo II, será obtida mediante a divisão da área
+total do terreno pela sua testada, ou, no caso de terreno de duas ou mais frentes, pela soma
+das testadas, desprezando-se no resultado a fração de metro.
+§ 1º  No caso de terrenos com uma esquina e construído, será
+adotada a testada correspondente à frente efetiva ou principal do imóvel.
+§ 2º  No caso de terrenos com uma esquina e não construído, será
+adotada a testada correspondente à frente indicada no título de propriedade ou, na falta deste,
+a testada que possua maior valor unitário de metro quadrado de terreno.
+§ 3º  No caso de terrenos com duas ou mais esquinas, construídos ou
+não, será aplicado o fator profundidade igual a 1,000000.
+
+§ 4º  No caso de terrenos, onde existam construções
+pluri-habitacionais, será aplicado o fator profundidade igual a 1,000000.
+§  5º  No caso de terrenos, considerados como Glebas, será aplicado
+o fator profundidade igual a 1,000000.
+§ 6º   No caso de terrenos encravados, terrenos de fundo, terrenos
+internos e terrenos de relevo irregular, será aplicado o fator de profundidade igual a
+0,502400.
+Art. 7º.  O coeficiente de testada será calculado, mediante a apuração da
+raiz quarta da testada do imóvel dividida pela testada de referência.
+§  1º  Fica estabelecido que a testada de referência é igual a 10m.
+§  2º  No caso de terrenos, onde existam construções
+pluri-habitacionais, será  aplicado o coeficiente de testada igual a 1,000000.
+§  3º  No caso de terrenos, considerados como Glebas, será aplicado
+o coeficiente de testada a 1,000000.
+§  4º  No caso de terrenos encravados, terrenos de fundo, terrenos
+internos e terrenos de relevo irregular, será aplicado o coeficiente de testada igual a 1,000000.
+§ 5º  Se a testada do terreno for menor que 5 metros ou  maior  que
+20 metros, será aplicado o coeficiente de testada igual a 1,000000.
+Art 8º.  Para os efeitos desta lei, consideram-se:
+I - terrenos de esquina: aquele em que os prolongamentos de seus
+alinhamentos, quando retos, ou das respectivas tangentes, quando curvos, determinam
+ângulos internos inferiores a 135 graus e superiores a 45 graus,
+II  -   terreno de duas ou mais frentes: aquele que tem mais de uma testada
+para logradouros públicos, sem estar localizado na sua confluência;
+III - terreno encravado: aquele que não se comunica com a via pública,
+exceto por servidão de passagem por outro imóvel;
+IV -  terreno de fundo: aquele que, situado no interior de quadra, se
+comunica com via pública por um corredor de acesso com largura igual ou inferior a quatro
+metros;
+V - terreno interno: aquele localizado em vila, passagem, travessa ou local
+assemelhado, acessório da malha viária do município ou de propriedade de particulares, não
+relacionado na listagem de valores desta lei.
+Art. 9º.  O valor venal do imóvel de terreno resultará da multiplicação
+
+sucessiva, do valor do seu metro quadrado, pela área do terreno, pelo respectivo coeficiente
+de testada previsto no Artigo 6º, deste ato, e ainda pelo fator de profundidade, conforme
+Tabela II do Anexo II.
+Art. 10.  A construção será enquadrada em um dos tipos e padrões,
+estabelecidos na Tabela IV do Anexo II, para resultar no valor venal da construção,
+decorrente da multiplicação sucessiva do valor unitário do metro quadrado da construção,
+constante da Tabela IV do Anexo II, pela área construída do imóvel e ainda pelo fator de
+obsolescência da Tabela III do Anexo II.
+Art. 11.  Para apuração do valor venal do imóvel construído, será
+somado o valor venal do terreno ao valor venal da construção.
+Art. 12.  A área construída será obtida mediante medição dos contornos
+externos das paredes ou pilares, incluindo também a superfície das sacadas, cobertas ou
+descobertas, de cada pavimento.
+§  1º  No caso de coberturas de postos de serviços e assemelhados,
+será considerada como área construída a sua projeção vertical sobre o terreno.
+§  2º  No caso de piscina, a área construída será obtida mediante
+medição dos contornos internos das suas paredes.
+§  3º  Quando a área construída for representada por número que
+contenha fração de decímetro quadrado, será feito o arredondamento para a unidade
+imediatamente inferior.
+Art. 13.  No cálculo de área construída das unidades autônomas de
+prédios em condomínio, será acrescentada à área privativa de cada unidade, a parte
+correspondente às áreas comuns, em função de sua quota parte.
+Art. 14.  Para os efeitos desta lei, as obras paralisadas ou em andamento,
+as edificações condenadas ou em ruína, as construções de natureza temporária e as
+construções de qualquer espécie, inadequadas à sua situação, dimensões, destino ou utilidade,
+não serão consideradas como área construída.
+Art. 15.  O valor unitário de metro quadrado de construção será obtido
+pelo enquadramento da construção num dos tipos da Tabela IV do Anexo  II, em função da
+sua área predominante e no padrão de construção cujas  características mais se assemelham às
+suas condições.
+§  1º  Para fins de enquadramento de unidades autônomas de prédio
+em condomínio num dos padrões de construção previstos na Tabela IV do Anexo II, será
+considerada a área construída correspondente à área total  da unidade autônoma, acrescida da
+respectiva área de garagem, ainda que seja  objeto de lançamento em separado.
+
+§  2º  A unidade autônoma poderá ser enquadrada em padrão diverso
+daquele atribuído ao conjunto a que pertença, desde que apresente benfeitorias que a
+distinguam, de forma significativa, das demais unidades autônomas.
+Art. 16.  A idade de cada prédio, para aplicação do fator de
+obsolescência de que trata a Tabela III do Anexo II, corresponderá  necessariamente a
+diferença entre o exercício fiscal a que se refere o lançamento tributário e o ano do término
+da construção ou, quando anterior, o de sua efetiva ocupação.
+§  1º  A idade de cada prédio será:
+a) reduzida de vinte por cento, nos casos de pequena reforma  ou reforma
+parcial;
+b) contada a partir do ano da conclusão da reforma, quando esta for
+substancial.
+§  2º   Será adotada como idade original de construção, as datas de:
+a) ampliação igual ou superior a 50% (cinquenta por cento) da área  já
+construída;
+b) reconstrução parcial;
+c) lançamento tributário que abranja dois ou mais prédios, concluídos em
+exercícios diversos.
+§  3º   Quando o acréscimo de área edificada em imóvel residencial
+resultar da construção de abrigo para veículos ou de piscina, não será alterada a idade do
+prédio.
+Art. 17.   Toda edificação sofrerá uma depreciação de 7% no valor de
+origem, depois do sexto ano de sua construção.
+§  1º  Em cada período de cinco anos, a edificação sofrerá
+depreciação equivalente a 7%  sobre seu valor de origem, de acordo com a  Tabela III do
+Anexo II.
+§  2º  Nenhuma edificação poderá sofrer uma depreciação superior a
+49% sobre o seu valor de origem, independente do ano de sua  construção.
+Art. 18.  Os valores básicos unitários, definidos como valores médios,
+para os locais e as construções,  são os constantes na Tabela I do Anexo II.
+Art. 19.  Para lançamento e cobrança do  imposto urbano, definido como
+Gleba, pelo Código Tributário do Município, serão observados os valores venais
+estabelecidos em Lei específica.
+
+Art. 20. Enquanto não for publicada a Lei prevista no artigo anterior, a
+Fazenda Municipal deverá observar os mesmos parâmetros, utilizados para o lançamento do
+imposto urbano, relativo ao exercício fiscal de 1998.
+Art. 21. O montante devido anualmente relativo ao imposto  urbano,
+será obtido com aplicação da alíquota correspondente sobre o valor venal do imóvel,
+conforme determinação do Código Tributário do Município.
+Art. 22.  Nos casos singulares de imóveis, para os quais a aplicação dos
+procedimentos previstos nesta Lei possa conduzir a tributação manifestamente injusta ou
+inadequada, poderá ser adotado, a requerimento e a expensas do interessado, processo de
+avaliação especial, sujeito a aprovação do órgão competente pela apuração do crédito
+tributário.
+Art. 23.  Será criada, através de decreto do Chefe do Poder Executivo
+Municipal, uma Comissão Permanente de Avaliação da Prefeitura do Município de Bertioga,
+constituída de servidores técnicos estáveis, para apreciar pedidos nos termos do artigo
+anterior e os feitos “ex offício” pelos órgãos da Administração.
+Art. 24.   Os valores unitários de metro quadrado de terreno e de metro
+quadrado de construção serão expressos em moeda corrente e no processo de cálculo para
+obtenção do valor venal do imóvel construído e não construído, o total será arredondado para
+a unidade monetária imediatamente inferior.
+Art. 25.  As disposições desta lei são extensivas aos imóveis localizados
+nas áreas urbanizáveis e de expansão urbana.
+Art. 26.  O Prefeito Municipal poderá baixar instruções eventualmente
+necessárias à execução da presente lei.
+Art. 27.  Ficam mantidos os códigos de logradouros utilizados pela
+Fazenda Pública do Município de Bertioga, instituídos para seu território por lei do
+Município de Santos.
+Art. 28.  As despesas decorrentes da presente Lei serão suportadas por
+dotações próprias, suplementadas se necessário.
+Art.  29.  Esta lei entrará em vigor na data  de sua publicação e terá
+eficácia a partir de 1º de janeiro de 2000, revogadas as disposições em contrário.
+Bertioga, 17 de novembro de 1999
+Arqº. Luiz Carlos Rachid
+Prefeito do Município
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+02 001 3002 55,36 02 036 3009 59,92
+02 001 3004 52,80 02 036 3011 57,82
+02 001 3009 59,92 02 036 3137 57,82
+02 001 3137 55,36 02 037 3009 59,92
+02 002 3002 61,56 02 037 3010 65,03
+02 002 3009 59,92 02 037 3011 61,56
+02 002 3010 65,03 02 037 3137 61,56
+02 002 3137 61,56 02 038 3010 65,03
+02 026 3003 48,52 02 038 3011 68,67
+02 026 3004 52,80 02 038 3012 68,67
+02 026 3028 49,70 02 038 3137 68,67
+02 026 3030 49,70 02 039 3011 68,67
+02 027 3003 48,52 02 039 3012 68,67
+02 027 3004 52,80 02 039 3013 68,67
+02 027 3005 49,70 02 039 3137 68,67
+02 027 3030 49,70 02 040 3011 68,67
+02 028 3004 52,80 02 040 3013 68,67
+02 028 3005 49,70 02 040 3014 72,50
+02 028 3051 48,52 02 040 3137 68,67
+02 029 3003 48,52 02 041 3011 75,70
+02 029 3005 45,42 02 041 3014 72,50
+02 029 3006 45,42 02 041 3015 75,70
+02 029 3030 48,52 02 041 3137 75,70
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+02 030 3005 45,42 02 042 3008 56,27
+02 030 3007 37,52 02 042 3010 65,03
+02 030 3051 48,52 02 042 3011 59,92
+02 031 3006 48,52 02 043 3010 65,03
+02 031 3030 45,42 02 043 3011 68,67
+02 032 3006 45,42 02 043 3014 75,70
+02 032 3030 45,42 02 044 3011 75,70
+02 033 3005 45,42 02 044 3014 75,70
+02 033 3006 45,42 02 101 3016 13,92
+
+02 034 3005 37,52 02 101 3017 13,60
+02 034 3007 37,52 02 101 3019 13,60
+02 035 3008 56,27 02 101 4263 13,52
+02 035 3011 55,36 02 102 3016 13,92
+02 035 3137 55,36 02 102 3018 13,12
+02 036 3008 56,27 02 102 3019 13,60
+02 102 3020 13,60 02 114 3024 10,72
+02 105 3020 12,56 02 115 3019 11,12
+02 105 3021 12,32 02 115 3020 11,12
+02 105 3022 12,56 02 115 3023 11,52
+02 105 4263 12,72 02 115 30,24 10,72
+02 106 3019 12,56 02 116 3020 10,48
+02 106 3020 12,56 02 116 3022 10,48
+02 106 3021 12,32 02 116 3024 10,72
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+02 106 4263 1312 02 116 3025 10,24
+02 107 3017 12,56 02 117 3019 10,48
+02 107 3018 13,12 02 117 3020 10,48
+02 107 3019 12,56 02 117 3024 10,72
+02 107 3021 12,32 02 117 3025 10,24
+02 108 3017 11,84 02 118 3017 10,48
+02 108 3019 11,84 02 118 3019 10,48
+02 108 3021 12,32 02 118 3024 10,72
+02 108 3023 11,52 02 118 3025 10,24
+02 109 3019 11,84 02 119 3022 10,48
+02 109 3020 11,84 02 119 3024 10,72
+02 109 3021 12,32 02 120 3020 10,00
+02 109 3023 11,52 02 120 3022 10,00
+02 110 3020 11,84 02 120 3025 10,24
+02 110 3021 12,32 02 120 3026 10,24
+02 110 3022 11,84 02 121 3019 10,00
+02 110 3023 11,52 02 121 3020 10,00
+02 111 3021 12,32 02 121 3022 10,24
+02 111 3022 11,84 02 121 3025 10,24
+02 111 3023 11,52 02 121 3026 10,24
+02 112 3022 11,12 02 122 3017 10,00
+
+02 112 3022 11,12 02 122 3017 10,00
+02 112 3023 11,52 02 122 3019 10,00
+02 112 3024 10,72 02 122 3025 10,24
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+02 113 3020 11,12 02 122 3027 9,76
+02 113 3022 11,12 02 125 3016 14,00
+02 113 3023 11,52 02 125 3017 14,64
+02 113 3024 10,72 02 125 3019 14,64
+02 114 3017 11,12 02 200 3014 49,04
+02 114 3019 11,12 02 200 3022 49,04
+02 114 3023 11,52 02 200 3037 49,04
+02 304 3041 7,04 03 010 3030 52,80
+02 305 3041 7,04 03 010 3032 52,80
+02 309 3041 7,04 03 010 3034 52,80
+02 310 3041 7,04 03 011 3014 52,80
+03 001 3002 52,80 03 011 3030 52,80
+03 001 3004 52,80 03 011 3036 52,80
+03 001 3028 52,80 03 012 3002 52,80
+03 001 3029 52,80 03 012 3014 52,80
+03 002 3004 52,80 03 012 3033 52,80
+03 002 3028 52,80 03 012 3035 65,00
+03 002 3029 52,80 03 013 3014 52,80
+03 002 3030 52,80 03 013 3033 52,80
+03 003 3002 52,80 03 013 3034 52,80
+03 003 3009 52,80 03 013 3035 65,00
+03 003 3028 52,80 03 014 3014 52,80
+03 003 3029 52,80 03 014 3030 52,80
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+03 004 3028 52,80 03 014 3035 65,00
+03 004 3029 52,80 03 015 3014 52,80
+03 004 3030 52,80 03 015 3030 52,80
+03 004 3032 52,80 03 015 3035 65,00
+03 005 3002 52,80 03 015 3036 52,80
+03 005 3009 52,80 03 015 3038 52,80
+03 005 3010 52,80 03 016 3030 65,00
+
+03 005 3010 52,80 03 016 3030 65,00
+03 005 3032 52,80 03 016 3035 65,00
+03 007 3002 52,80 03 016 3037 90,00
+03 007 3010 52,80 03 016 3038 65,00
+03 007 3014 52,80 03 017 3014 45,68
+03 007 3137 52,80 03 017 3039 53,28
+03 008 3002 52,80 03 017 3040 49,44
+03 008 3010 52,80 03 018 3014 45,68
+03 008 3014 52,80 03 018 3039 53,28
+03 008 3033 52,80 03 018 3040 49,44
+03 009 3014 52,80 03 018 3042 49,44
+03 009 3032 52,80 03 019 3014 45,68
+03 009 3033 52,80 03 019 3039 53,28
+03 009 3034 52,80 03 019 3042 49,44
+03 010 3014 52,80 03 019 3043 49,44
+03 020 3037 90,00 03 046 3042 45,44
+03 020 3039 53,28 03 046 3045 43,12
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+03 020 3014 56,80 03 046 3048 48,72
+03 021 3037 90,00 03 047 3042 45,44
+03 021 3039 53,28 03 047 3045 43,12
+03 021 3040 56,80 03 047 3047 45,44
+03 021 3042 56,80 03 047 3048 48,72
+03 021 3043 56,80 03 047 3459 45,44
+03 022 3037 90,00 03 048 3014 48,72
+03 022 3039 53,28 03 048 3042 48,72
+03 022 3042 56,80 03 048 3043 48,72
+03 022 3043 56,80 03 048 3048 48,72
+03 024 3037 90,00 03 049 3004 52,80
+03 024 3040 56,54 03 049 3009 52,80
+03 024 3041 56,54 03 049 3030 52,80
+03 024 3044 62,38 03 049 3049 52,80
+03 040 3040 39,84 03 050 3004 52,80
+03 040 3045 43,12 03 050 3009 52,80
+03 040 3046 37,04 03 050 3049 52,80
+03 041 3040 39,84 03 050 3050 52,80
+
+03 041 3040 39,84 03 050 3050 52,80
+03 041 3042 39,84 03 051 3004 52,80
+03 041 3045 43,12 03 051 3005 52,80
+03 041 3046 37,04 03 051 3009 52,80
+03 042 3042 39,84 03 051 3050 52,80
+03 042 3045 43,12 03 052 3004 52,80
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+03 042 3046 37,04 03 052 3005 52,80
+03 042 3047 39,84 03 052 3009 52,80
+03 043 3014 48,72 03 053 3009 52,80
+03 043 3040 48,72 03 053 3030 52,80
+03 043 3048 48,72 03 053 3036 52,80
+03 044 3014 48,72 03 053 3049 52,80
+03 044 3040 48,72 03 054 3005 52,80
+03 044 3042 48,72 03 054 3009 52,80
+03 044 3048 48,72 03 054 3014 52,80
+03 045 3040 45,44 03 054 3036 52,80
+03 045 3045 43,12 03 054 3049 52,80
+03 045 3048 48,72 03 054 3050 52,80
+03 046 3040 45,44 03 055 3005 52,80
+03 055 3009 52,80 03 072 3020 37,04
+03 055 3014 52,80 03 072 3052 37,52
+03 058 3004 52,80 03 073 3018 37,04
+03 058 3028 49,70 03 073 3021 37,04
+03 062 3022 43,60 03 073 3052 37,52
+03 062 3051 42,56 03 076 3040 37,04
+03 063 3020 43,60 03 076 3046 37,04
+03 063 3022 43,60 03 077 3040 37,04
+03 063 3051 52,56 03 077 3042 37,04
+03 064 3018 43,60 03 077 3046 37,04
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+03 064 3020 43,60 03 078 3042 37,04
+03 064 3051 42,56 03 078 3046 37,04
+03 065 3018 43,60 03 080 3022 65,00
+03 065 3021 43,60 03 080 3037 90,64
+
+03 065 3021 43,60 03 080 3037 90,64
+03 065 3051 42,56 03 080 3038 65,00
+03 066 3022 39,84 03 081 3037 90,00
+03 066 3051 42,56 03 082 3037 90,00
+03 066 3052 37,52 03 082 9999 65,00
+03 067 3020 39,84 03 086 3463 37,04
+03 067 3022 39,84 03 086 3464 37,04
+03 067 3051 42,56 03 100 3037 90,00
+03 067 3052 37,52 03 100 3039 48,72
+03 068 3018 39,84 03 100 3041 48,72
+03 068 3020 39,84 03 100 3048 48,72
+03 068 3051 42,56 03 100 3053 36,20
+03 068 3052 37,52 03 200 3054 43,12
+03 069 3018 39,84 03 202 3099 79,24
+03 069 3021 39,84 03 202 4049 79,24
+03 069 3051 42,56 03 202 4051 79,24
+03 069 3052 37,52 03 203 3099 79,24
+03 070 3022 37,04 03 203 4049 79,24
+03 070 3052 37,52 03 203 4052 89,87
+03 071 3020 37,04 03 204 3099 79,24
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+03 071 3022 37,04 03 204 4052 79,24
+03 071 3052 37,52 03 205 3099 79,24
+03 072 3018 37,04 03 205 4052 89,87
+03 072 3019 37,04 03 206 3099 79,24
+03 206 3145 65,00 03 219 3037 80,00
+003 206 4049 65,00 03 219 4060 44,84
+03 207 3099 69,92 03 219 4061 40,89
+03 207 4049 65,00 03 220 3037 80,00
+03 207 4050 65,00 03 220 4061 40,89
+03 207 4053 65,00 03 220 4062 37,66
+03 207 4058 65,00 03 221 3037 80,00
+03 208 3099 79,24 03 221 4062 37,66
+03 208 4053 65,00 03 221 4063 35,29
+03 208 4054 65,00 03 222 3037 80,00
+03 209 3037 89,87 03 222 4063 35,29
+
+03 209 4053 65,00 03 222 4064 32,68
+03 209 4054 65,00 03 223 4049 52,99
+03 210 3037 89,87 03 223 4050 63,14
+03 210 4055 52,99 003 223 4065 50,61
+03 211 3037 80,00 03 224 4049 49,03
+03 211 3057 50,61 03 224 4065 50,61
+03 211 4055 52,99 03 224 4066 44,84
+03 212 3037 80,00 03 225 4049 42,65
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+03 212 3057 50,61 03 225 4066 44,84
+03 212 3058 44,84 03 225 4067 40,89
+03 213 3037 80,00 03 226 4049 38,94
+003 213 3058 44,84 03 226 4067 40,89
+03 213 4056 40,89 03 226 4068 37,66
+03 214 3037 80,00 03 227 4049 37,24
+03 214 3060 37,66 03 227 4068 37,66
+03 214 4056 40,89 03 227 4069 35,29
+03 215 3037 80,00 03 228 4049 34,68
+03 215 3060 37,66 03 228 4069 35,29
+03 215 4057 35,29 03 228 4070 32,68
+03 216 3037 80,00 03 229 4049 32,68
+03 216 4057 25,29 03 229 4070 32,68
+03 217 3037 80,00 03 229 4071 31,58
+03 217 4050 61,74 03 230 4049 34,44
+03 217 4059 50,61 03 230 4071 31,58
+03 218 3037 80,00 03 230 4072 34,44
+03 218 4059 50,61 03 400 3054 7,52
+03 218 4060 44,84 04 001 3014 55,68
+04 001 3039 63,28 05 004 3058 60,51
+04 001 3043 59,44 05 004 3059 53,64
+04 001 3054 59,44 05 004 3141 56,71
+04 002 3037 78,86 05 005 3059 53,64
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+04 002 3039 63,28 05 005 3060 48,05
+
+04 002 3039 63,28 05 005 3060 48,05
+04 002 3043 66,80 05 005 3141 50,27
+04 002 3054 66,80 05 006 3060 48,05
+04 003 3037 78,86 05 006 3061 43,93
+04 003 3044 72,38 05 006 3141 47,31
+04 003 3054 66,54 05 007 3061 43,93
+04 004 3014 55,68 05 007 3062 39,39
+04 004 3043 51,44 05 007 3141 42,87
+04 004 3048 48,72 05 008 3060 48,05
+04 004 3054 51,44 05 008 3062 39,39
+04 005 3014 55,68 05 008 3063 43,93
+04 005 3048 48,72 05 008 3141 43,93
+04 005 3054 51,44 05 009 3060 48,05
+04 007 3054 37,91 05 009 3062 39,39
+04 008 3045 40,08 05 009 3063 43,93
+04 008 3048 48,72 05 010 3059 53,64
+04 008 3054 45,44 05 010 3060 48,05
+04 009 3014 55,68 05 010 3063 50,27
+04 009 3039 63,28 05 010 3141 50,27
+04 009 3054 59,44 05 011 3058 60,51
+04 010 3037 78,86 05 011 3059 53,64
+04 010 3039 63,28 05 011 3063 56,71
+04 010 3054 66,80 05 011 3141 56,71
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+04 060 3054 37,04 05 012 3058 60,51
+04 061 3054 26,80 05 012 3060 48,05
+05 001 3037 89,87 05 012 3063 53,64
+05 001 3055 74,66 05 013 3057 70,54
+05 001 3141 74,66 05 013 3058 60,51
+05 002 3055 74,66 05 013 3063 67,80
+05 002 3057 70,54 05 020 3062 39,39
+05 002 3141 74,66 05 020 4115 27.98
+05 003 3057 70,54 05 020 4119 27,98
+05 003 3058 60,51 05 021 3062 39,39
+05 003 3141 67,80 05 021 4115 27,98
+05 021 4116 27,98 05 032 4131 18,06
+05 021 4119 27,98 05 032 4263 22,49
+
+05 021 4119 27,98 05 032 4263 22,49
+05 022 3062 39,39 02 033 4129 18,90
+05 022 4116 39,39 05 033 4130 18,90
+05 022 4117 37,49 05 033 4131 18,06
+05 023 4116 27,98 05 033 4263 22,49
+05 023 4117 37,49 05 034 4130 18,90
+05 023 4118 27,98 05 034 4131 18,06
+05 023 4119 27,98 05 034 4263 22,49
+05 024 4119 27,98 05 035 4126 17,53
+05 024 4120 25,56 05 035 4130 17,53
+05 024 4121 24,29 05 035 4131 18,06
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+05 025 4119 27,98 06 019 3064 39,78
+05 025 4120 25,56 06 019 3469 40,85
+05 025 4121 24,29 06 019 3470 39,07
+05 026 4121 24,29 06 019 4049 39,78
+05 026 4124 23,02 06 020 3064 39,78
+05 026 4125 22,49 06 020 3065 39,78
+05 027 4121 24,29 06 020 3469 40,85
+05 027 4123 23,02 06 020 3470 39,07
+05 027 4124 23,02 06 021 3065 39,78
+05 027 4125 22,49 06 021 3469 40,85
+05 028 4121 24,29 06 022 3066 39,78
+05 028 4122 23,02 06 022 3067 39,78
+05 028 4123 23,02 06 022 3469 40,85
+05 028 4125 22,49 06 022 3470 39,07
+05 029 4122 23,02 06 023 3067 39,78
+05 029 4127 60,00 06 023 3068 39,78
+05 030 4121 24,29 06 023 3469 40,85
+05 030 4122 23,02 06 023 3470 39,07
+05 030 4157 60,00 06 024 3037 39,07
+05 030 4263 22,49 06 024 3064 38,36
+05 031 4128 18,90 06 024 3470 39,07
+05 031 4131 18,06 06 024 4049 38,36
+05 031 4263 22,49 06 025 3037 39,07
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+06 026 3037 39,07 06 038 3073 25,76
+06 026 3066 38,36 06 038 3074 25,76
+06 026 3067 38,36 06 039 3069 25,05
+06 026 3470 39,07 06 039 3074 25,76
+06 027 3037 39,07 06 039 3075 25,40
+06 027 3067 38,36 06 040 3069 25,05
+06 027 3068 38,36 06 040 3074 25,76
+06 027 3470 39,07 06 040 3076 25,40
+06 028 3037 29,07 06 040 3077 25,40
+06 028 3064 27,30 06 041 3068 25,40
+06 028 3071 26,82 06 041 3069 25,05
+06 029 3037 29,07 06 041 3074 25,76
+06 029 3064 27,30 06 041 3076 25,40
+06 029 3065 27,30 06 042 3069 25,05
+06 029 3070 29,07 06 042 3075 24,81
+06 029 3071 26,82 06 042 4263 24,57
+06 030 3037 29,07 06 043 3069 25,05
+06 030 3066 27,30 06 043 3076 24,81
+06 030 3067 27,30 06 043 3077 24,81
+06 030 3071 26,82 06 043 4263 24,57
+06 031 3037 29,07 06 044 3068 24,81
+06 031 3067 27,30 06 044 3069 25,05
+06 031 3068 27,30 06 044 3076 24,81
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+06 031 3071 26,82 06 044 4263 24,57
+06 032 3071 26,82 06 045 3075 20,00
+06 032 3072 26,59 06 045 3078 20,00
+06 033 3071 26,59 06 045 3079 20,00
+06 033 3072 26,59 06 046 3068 20,00
+06 033 4324 26,59 06 046 3077 20,00
+06 034 3071 26,59 06 046 3078 20,00
+06 034 3073 26,59 06 046 3079 20,00
+
+06 035 3068 26,59 06 047 3075 20,00
+06 035 3071 26,82 06 047 3079 20,00
+06 035 3073 26,59 06 047 3081 20,00
+06 036 3072 25,76 06 048 3075 20,00
+06 037 3073 25,76 06 048 3079 20,00
+06 037 3074 25,76 06 048 3080 20,00
+06 038 3068 25,76 06 048 3081 20,00
+06 049 3068 20,00 12 003 3093 80,00
+06 049 3079 20,00 12 003 3094 80,00
+06 049 3080 20,00 12 004 3089 80,00
+06 049 3081 20,00 12 004 3093 80,00
+06 050 3068 20,00 12 004 3094 80,00
+06 050 3080 20,00 12 004 3095 80,00
+06 050 3081 20,00 12 004 3096 100,00
+11 001 3082 30,08 12 005 3093 80,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+11 001 3083 32,40 12 005 3095 80,00
+11 001 3085 23,76 12 005 3096 100,00
+11 002 3082 30,08 12 005 3097 80,00
+11 002 3083 32,40 12 005 3098 80,00
+11 002 3084 30,08 12 006 3091 80,00
+11 002 3085 30,08 12 006 3092 80,00
+11 003 3083 80,00 12 006 3093 80,00
+11 003 3085 40,08 12 006 3099 90,00
+11 004 3082 40,00 12 007 3091 80,00
+11 004 3085 40,00 12 007 3093 80,00
+11 004 3088 40,00 12 007 3097 80,00
+11 005 3082 40,00 12 007 3099 90,00
+11 005 3085 40,00 12 008 3096 100,00
+11 005 3086 40,00 12 008 3097 80,00
+11 005 3087 40,00 12 008 3098 80,00
+11 005 3088 40,00 12 008 3100 110,00
+11 006 3083 80,00 12 009 3096 110,00
+11 006 3085 40,00 12 009 3100 110,00
+11 006 3086 40,00 12 009 3101 110,00
+11 006 3088 40,00 12 010 3037 90,00
+
+11 006 3088 40,00 12 010 3037 90,00
+12 001 3089 80,00 12 010 3091 80,00
+12 001 3090 80,00 12 010 3102 80,00
+12 001 3109 80,00 12 010 3103 80,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+12 002 3089 80,00 12 011 3037 90,00
+12 002 3090 80,00 12 011 3102 80,00
+12 002 3091 80,00 12 011 3103 80,00
+12 002 3092 80,00 12 011 3104 80,00
+12 002 3093 80,00 12 012 3037 90,00
+12 003 3089 80,00 12 012 3103 80,00
+12 003 3090 80,00 12 012 3104 80,00
+12 012 3105 80,00 12 022 3100 110,00
+12 013 3037 90,00 12 022 3106 90,00
+12 013 3103 80,00 12 022 3107 90,00
+12 013 3105 80,00 12 023 3037 90,00
+12 013 3106 80,00 12 023 3091 70,00
+12 014 3091 80,00 12 023 3102 70,00
+12 014 3099 90,00 12 024 3037 90,00
+12 014 3102 80,00 12 024 3102 80,00
+12 014 3103 80,00 12 024 3104 80,00
+12 015 3099 90,00 12 025 3037 90,00
+12 015 3102 80,00 12 025 3104 80,00
+12 015 3103 80,00 12 025 3105 80,00
+12 015 3104 80,00 12 026 3037 90,00
+12 016 3099 90,00 12 026 3105 80,00
+12 016 3103 80,00 12 026 3106 80,00
+12 016 3104 80,00 12 027 3037 90,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+12 016 3105 80,00 12 027 3106 80,00
+12 017 3099 90,00 12 027 3116 80,00
+12 017 3103 80,00 12 028 3099 90,00
+12 017 3105 80,00 12 028 3103 80,00
+12 017 3106 80,00 12 028 3106 80,00
+12 018 3091 90,00 12 028 3107 80,00
+
+12 018 3091 90,00 12 028 3107 80,00
+12 018 3099 90,00 12 029 3037 90,00
+12 018 3100 110,00 12 029 3103 80,00
+12 018 3102 90,00 12 029 3106 80,00
+12 019 3099 90,00 12 029 3107 80,00
+12 019 3100 110,00 12 031 3108 70,00
+12 019 3102 90,00 12 031 3109 70,00
+12 019 3104 90,00 12 031 3110 70,00
+12 020 3099 90,00 12 031 3111 70,00
+12 020 3100 110,00 12 032 3108 70,00
+12 020 3104 90,00 12 032 3109 70,00
+12 020 3105 90,00 12 032 3110 70,00
+12 021 3099 90,00 12 032 3111 70,00
+12 021 3100 110,00 12 032 3112 70,00
+12 021 3105 90,00 12 032 3130 70,00
+12 021 3106 90,00 12 033 3037 90,00
+12 022 3099 90,00 12 033 3096 90,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+12 033 3415 80,00 12 042 3112 114,87
+12 033 4317 80,00 12 043 3014 60,00
+12 034 3037 90,00 12 043 3091 30,00
+12 034 3089 80,00 12 044 3109 70,00
+12 034 3096 100,00 12 045 3037 90,00
+12 034 3109 80,00 12 045 3109 70,00
+12 035 3091 60,00 12 045 3111 70,00
+12 035 3109 60,00 12 046 3014 60,00
+12 035 3113 60,00 12 046 3082 40,00
+12 036 3109 70,00 12 046 3088 30,00
+12 036 3112 70,00 12 046 3128 30,00
+12 036 3113 70,00 12 046 4316 30,00
+12 036 3114 70,00 12 047 3014 80,00
+12 037 3014 60,00 12 047 3082 40,00
+12 037 3091 70,00 12 047 3083 80,00
+12 037 3112 70,00 12 047 3086 40,00
+12 037 3114 70,00 12 047 3087 40,00
+12 038 3037 90,00 12 047 3088 40,00
+
+12 038 3037 90,00 12 047 3088 40,00
+12 038 3089 80,00 12 047 3096 40,00
+12 038 3090 80,00 12 047 3117 40,00
+12 038 3091 80,00 12 047 3118 40,00
+12 038 3108 80,00 12 047 3119 40,00
+12 038 3109 80,00 12 048 3096 90,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+12 039 3037 90,00 12 048 3122 90,00
+12 039 3091 70,00 12 049 3014 80,00
+12 039 3108 70,00 12 049 3096 80,00
+12 039 3112 70,00 12 049 3121 80,00
+12 040 3091 70,00 12 049 3122 80,00
+12 040 3102 70,00 12 050 3122 60,00
+12 040 3112 70,00 12 051 3414 60,00
+12 041 3414 60,00 12 051 3109 60,00
+12 041 3091 70,00 12 051 3123 60,00
+12 041 3112 70,00 12 051 3124 40,00
+12 042 3014 114,87 12 051 3125 40,00
+12 042 3102 114,87 12 052 3024 30,00
+12 042 3104 114,87 12 052 3025 30,00
+12 042 3105 114,87 12 052 3109 30,00
+12 042 3106 114,87 12 052 3124 40,00
+12 052 3125 30,00 12 070 3100 110,00
+12 052 3126 30,00 12 070 3107 96,81
+12 053 3091 30,00 12 070 3130 96,81
+12 053 3109 30,00 12 071 3099 90,00
+12 053 3126 30,00 12 071 3103 83,38
+12 053 3127 30,00 12 071 3107 83,38
+12 054 3125 30,00 12 071 3130 83,38
+12 054 3109 30,00 12 072 3037 90,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+12 054 3125 30,00 12 072 3103 80,00
+12 054 3128 30,00 12 072 3107 80,00
+12 054 3129 30,00 12 072 3130 80,00
+12 055 3109 30,00 12 073 3037 90,00
+
+12 055 3109 30,00 12 073 3037 90,00
+12 055 3128 30,00 12 073 3115 70,64
+12 055 3129 30,00 12 100 3014 90,00
+12 056 3109 30,00 12 100 3037 90,00
+12 056 3460 30,00 12 100 3041 90,00
+12 057 3109 30,00 13 001 3099 80,00
+12 057 3460 30,00 13 001 3100 100,00
+12 059 3109 70,00 13 001 3130 80,00
+12 060 3011 65,00 13 001 3131 80,00
+12 060 3015 65,00 13 002 3002 80,00
+12 060 3035 65,00 13 002 3099 80,00
+12 060 3136 65,00 13 002 3100 100,00
+12 060 3137 65,00 13 002 3131 80,00
+12 060 3373 65,00 13 003 3002 80,00
+12 061 3011 65,00 13 003 3033 80,00
+12 061 3035 65,00 13 003 3099 80,00
+12 061 3037 90,00 13 003 3100 100,00
+12 061 3136 65,00 13 004 3033 80,00
+12 061 3137 65,00 13 004 3034 80,00
+12 062 3014 114,87 13 004 3099 80,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+12 062 3102 114,87 13 004 3100 100,00
+12 062 3105 114,87 13 005 3030 80,00
+12 062 3106 114,87 13 005 3034 80,00
+12 062 3112 114,87 13 005 3099 80,00
+12 062 3116 114,87 13 005 3100 100,00
+12 065 3358 78,86 13 006 3030 80,00
+12 070 3099 96,95 13 006 3038 80,00
+13 006 3099 80,00 13 016 3020 80,00
+13 006 3100 100,00 13 016 3041 80,00
+13 007 3022 80,00 13 016 3099 80,00
+13 007 3038 80,00 13 016 3103 70,00
+13 007 3099 80,00 13 016 3134 80,00
+13 007 3100 100,00 13 017 3041 80,00
+13 008 3020 80,00 13 017 3099 80,00
+13 008 3022 80,00 13 017 3132 80,00
+
+13 008 3099 80,00 13 017 3134 80,00
+13 008 3100 100,00 13 018 3041 66,00
+13 009 3020 80,00 13 018 3044 62,38
+13 009 3041 80,00 13 018 3132 66,00
+13 009 3099 80,00 13 018 3134 69,83
+13 009 3100 100,00 13 019 3033 70,00
+13 010 3041 80,00 13 019 3034 70,00
+13 010 3099 80,00 13 019 3037 90,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+13 010 3100 100,00 13 019 3103 70,00
+13 010 3132 80,00 13 020 3030 70,00
+13 011 3033 80,00 13 020 3034 70,00
+13 011 3034 80,00 13 020 3037 90,00
+13 011 3099 80,00 13 020 3103 70,00
+13 011 3103 70,00 13 021 3030 70,00
+13 012 3030 80,00 13 021 3037 90,00
+13 012 3034 80,00 13 021 3038 70,00
+13 012 3099 80,00 13 021 3103 70,00
+13 012 3103 70,00 13 022 3022 70,00
+13 013 3030 80.00 13 022 3037 90,00
+13 013 3038 80,00 13 022 3038 70,00
+13 013 3099 80,00 13 022 3103 70,00
+13 013 3103 70,00 13 023 3020 70,00
+13 014 3022 80,00 13 023 3022 70,00
+13 014 3038 80,00 13 023 3037 90,00
+13 014 3099 80,00 13 023 3133 70,00
+13 014 3103 70,00 13 024 3020 70,00
+13 015 3020 80,00 13 024 3037 90,00
+13 015 3022 80,00 13 024 3041 70,00
+13 015 3099 80,00 13 024 3044 70,00
+13 015 3133 70,00 13 024 3103 70,00
+13 025 3002 65,00 13 033 3103 77,67
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+13 025 3033 65,00 13 034 3044 62,38
+
+13 025 3033 65,00 13 034 3044 62,38
+13 025 3035 65,00 13 034 3054 66,00
+13 025 90,00 90,00 13 034 3132 66,00
+13 026 3033 65,00 13 034 3134 69,83
+13 026 3034 65,00 13 035 3037 90,00
+13 026 3035 65,00 13 035 3042 56,54
+13 026 3037 65,00 13 035 3044 62,38
+13 026 3135 65,00 13 035 3054 56,54
+13 027 3030 65,00 13 036 3054 80,00
+13 027 3034 65,00 13 036 3099 80,00
+13 027 3035 65,00 13 036 3132 80,00
+13 027 3037 90,00 13 036 3134 80,00
+13 027 3135 65,00 13 037 3002 52,80
+13 028 3037 90,00 13 037 3014 52,80
+13 028 3040 56,54 13 037 3035 65,00
+13 028 3042 56,54 13 037 3137 52,80
+13 028 3044 62,38 13 038 3002 70,00
+13 029 3054 80,00 13 038 3033 70,00
+13 029 3099 80,00 13 038 3037 90,00
+13 029 3100 100,00 13 038 3103 70,00
+13 029 3132 80,00 13 039 3002 70,00
+13 030 3099 88,39 13 039 3037 90,00
+13 030 3103 77,67 13 039 3109 70,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+13 030 3131 88,39 13 039 3136 70,00
+13 030 3136 83,38 13 040 3002 65,00
+13 031 3099 88,39 13 040 3035 65,00
+13 031 3103 77,67 13 040 3037 90,00
+13 031 3130 83,38 13 040 3137 65,00
+13 031 3131 83,38 13 042 3002 80,00
+13 031 3136 83,38 13 042 3099 80,00
+13 032 3037 90,00 13 042 3103 70,00
+13 032 3103 77,67 13 042 3136 80,00
+13 032 3130 85,82 14 001 3054 80,00
+13 032 3136 75,.92 14 001 3099 80,00
+13 033 3002 83,38 14 001 3100 90,00
+13 033 3033 83,38 14 001 3370 90,00
+
+13 033 3033 83,38 14 001 3370 90,00
+13 033 3099 88.39 14 001 4327 68,08
+14 002 3054 73,38 14 013 3037 90,64
+14 002 3099 80,00 14 013 3750 90,64
+14 002 3134 69,83 14 013 3753 90,64
+14 003 3044 62,38 14 014 3752 90,64
+14 003 3054 66,00 14 014 3753 90,64
+14 003 3134 69,83 14 014 4326 90,64
+14 004 3037 89,87 14 015 3753 20,00
+14 004 3138 89,87 14 015 4076 20,00
+14 004 3141 89,87 14 015 4091 20,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+14 005 3099 92,29 14 015 4092 20,00
+14 005 3138 89,87 14 016 3753 16,00
+14 005 3139 92,29 14 016 4077 16,00
+14 005 3141 89,87 14 016 4078 16,00
+14 006 3099 92,29 14 016 4079 16,00
+14 006 3139 92,29 14 016 4092 20,00
+14 006 3140 89,87 14 017 3753 10,88
+14 006 3141 89,87 14 017 4077 11,28
+14 007 3100 89,87 14 017 4079 10,96
+14 007 3140 89,87 14 018 3753 9,36
+14 007 3141 89,87 14 018 4081 9,36
+14 008 3063 89,87 14 018 4083 9,36
+14 008 3099 92,29 14 019 4081 9,36
+14 008 3100 89,87 14 019 4082 9,36
+14 008 3141 89,87 14 019 4083 9,36
+14 009 3063 89,87 14 020 3753 9,36
+14 009 3099 79,24 14 0020 4082 9,36
+14 009 3100 89,87 14 020 4083 9,36
+14 010 3753 50,00 14 021 3753 16,00
+14 010 3754 50,00 14 021 4084 20,00
+14 010 3755 50,00 14 021 4085 25,00
+14 011 3750 51,44 14 021 4086 12,96
+14 011 3751 51,44 14 022 3753 25,00
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+14 011 3752 55,68 14 022 4075 30,00
+14 011 3753 90,64 14 022 4084 20,00
+14 012 3750 55,68 14 022 4085 25,00
+14 012 3751 55,68 14 023 3753 30,00
+14 012 3752 55,68 14 023 4074 30,00
+14 012 3753 90,64 14 023 4075 30,00
+14 023 4076 30,00 15 008 3099 76,01
+14 023 4087 30,00 15 008 3100 78,85
+14 024 3753 10,88 15 008 3143 78,85
+14 024 4087 9,84 15 008 3144 76,01
+14 025 4067 9,84 15 008 3146 78,85
+14 025 4087 9,84 15 009 3099 76,01
+14 101 3099 68,08 15 009 3100 78,85
+14 102 3099 60,00 15 009 3146 78,85
+14 103 3037 60,00 15 009 3147 78,85
+14 107 3099 68,08 15 010 3099 76,01
+14 114 4273 60,00 15 010 3100 78,85
+14 115 4273 60,00 15 010 3144 76,01
+14 116 4273 60,00 15 010 3147 78,85
+14 117 4273 60,00 15 010 3148 78,85
+14 118 4273 60,00 15 011 3099 76,01
+14 119 7032 60,00 15 011 3144 76,01
+14 122 7032 60,00 15 012 3099 76,01
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+1 124 7032 60,00 15 012 3144 76,01
+15 001 3037 89,87 15 012 3146 50,91
+15 001 3057 70,54 15 012 3147 50,91
+15 001 3063 74,66 15 012 3149 48,07
+15 001 3141 74,66 15 013 3146 45,58
+15 001 4320 74,66 16 001 3150 57,15
+15 002 3037 89,87 16 001 3151 62,05
+15 002 3057 70,54 16 001 3153 62,05
+15 002 3063 74,66 16 002 3150 57,15
+
+15 002 3063 74,66 16 002 3150 57,15
+15 003 3037 89,87 16 002 3151 62,05
+15 003 3063 89,87 16 003 3150 57,15
+15 003 3099 92,29 16 003 3152 50,99
+15 003 3141 89,87 16 003 3153 54,01
+15 004 3037 89,87 16 003 3154 54,01
+15 004 3063 89,87 16 004 3150 57,15
+15 004 3099 79,24 16 004 3152 50,99
+15 007 3099 76,01 16 004 3153 54,01
+15 007 3100 89,87 16 004 3155 54,01
+15 007 3143 78,85 16 005 3152 50,99
+15 007 3144 76,01 16 005 3153 49,99
+15 007 3145 79,24 16 005 3154 49,99
+16 005 3156 47,35 16 016 3155 46,22
+16 005 3157 47,35 16 016 3156 47,35
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+16 006 3152 50,99 16 016 3157 47,35
+16 006 3153 49,99 16 016 3159 46,22
+16 006 3155 49,99 16 016 3161 45,22
+16 006 3156 47,35 16 016 3162 46,22
+16 006 3157 47,35 16 017 3153 44,21
+16 009 3099 78,85 16 017 3154 44,21
+16 009 3100 78,85 16 017 3159 44,21
+16 009 3144 76,01 16 017 3160 44,21
+16 009 3148 78,85 16 017 3161 45,22
+16 010 3099 76,01 16 017 3163 43,33
+16 010 3144 76,01 16 018 3153 44,21
+16 010 3147 50,91 16 018 3155 44,21
+16 010 3148 50,91 16 018 3159 44,21
+16 010 3149 48,07 16 018 3161 45,22
+16 011 3099 76,01 16 018 3162 44,21
+16 011 3148 50,91 16 018 3163 43,33
+16 011 3149 48,07 16 019 3154 42,96
+16 012 3146 45,58 16 019 3155 42,96
+16 012 3147 45,58 16 019 3160 42,96
+16 012 3149 48,07 16 019 3162 42,96
+16 012 4305 44,64 16 019 3163 43,33
+
+16 012 4305 44,64 16 019 3163 43,33
+16 013 3147 45,58 16 019 3164 42,70
+16 013 3148 45,58 16 020 3037 50,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+16 013 3149 48,07 16 020 3154 42,20
+16 013 4305 44,64 16 020 3155 42,70
+16 014 3148 45,58 16 020 3160 42,08
+16 014 3149 48,07 16 020 3162 42,33
+16 014 4305 44,64 16 020 3164 42,70
+16 015 3153 46,22 16 020 3165 41,70
+16 015 3154 46,22 16 022 3064 43,33
+16 015 3156 47,35 16 023 3060 42,74
+16 015 3157 47,35 16 023 3064 43,33
+16 015 3159 46,22 16 023 3065 43,33
+16 015 3160 46,22 16 023 4305 44,64
+16 015 3161 45,22 16 024 3060 42,74
+16 016 3153 46,22 16 024 3065 43,33
+16 024 3066 43,33 17 021 3181 62,05
+16 024 4305 44,64 17 021 3374 62,05
+16 024 4322 42,74 17 021 3375 62,05
+16 026 3067 41,91 17 022 3181 62,05
+16 026 3068 41,91 17 022 3375 62,05
+16 026 3469 40,85 17 022 3379 50,99
+16 026 4305 44,64 17 023 3181 62,05
+16 027 3060 42,74 17 023 3374 62,05
+16 027 3066 41,91 17 023 3375 62,05
+16 027 3067 41,91 17 023 3379 50,99
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+16 027 3469 40,85 17 024 3181 62,05
+16 029 3060 42,74 17 024 3374 62,05
+16 029 3064 41,91 17 024 3376 62,05
+16 029 3065 41,91 17 024 3379 50,99
+16 029 3469 40,85 17 025 3181 62,05
+16 030 3060 42,74 17 025 3376 62,05
+
+16 030 3064 43,33 17 025 3377 62,05
+16 030 4049 43,33 17 025 3379 50,99
+16 030 4305 44,64 17 026 3181 62,05
+16 031 3060 42,74 17 026 3377 62,05
+16 031 3064 41,91 17 026 3378 62,05
+16 031 3469 40,85 17 026 3379 50,99
+16 031 4049 41,91 17 027 3375 50,99
+16 050 3357 89,96 17 027 3379 50,99
+17 001 3160 41,45 17 027 3380 49,99
+17 001 3162 41,45 17 028 3374 50,99
+17 001 3165 41,70 17 028 3375 50,99
+17 001 3166 41,07 17 028 3379 50,99
+17 002 3160 40,82 17 028 3380 49,99
+17 002 3162 40,82 17 029 3374 50,99
+17 002 3166 41,07 17 029 3376 50,99
+17 002 3167 40,69 17 029 3379 50,99
+17 018 3100 62,05 17 029 3380 49,99
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+17 019 3100 62,05 17 030 3376 50,99
+17 020 3100 62,05 17 030 3377 50,99
+17 020 3181 62,05 17 030 3379 50,99
+17 020 3375 62,05 17 030 3380 49,99
+17 021 3100 62,05 17 031 3377 50,99
+17 031 3378 50,99 17 039 3381 49,99
+17 031 3379 50,99 17 039 3382 44,21
+17 031 3380 49,99 17 040 3037 49,99
+17 032 3037 49,99 17 040 3376 44,21
+17 032 3375 49,99 17 040 3377 44,21
+17 032 3380 49,99 17 040 3381 49,99
+17 033 3037 49,99 17 040 3382 44,21
+17 033 3374 49,99 17 041 3037 49,99
+17 033 3375 49,99 17 041 3377 44,21
+17 033 3380 49,99 17 041 3378 44,21
+17 033 3381 49,99 17 041 3381 49,99
+17 034 3037 49,99 17 041 3382 44,21
+17 034 3374 49,99 17 042 3375 44,21
+
+17 034 3374 49,99 17 042 3375 44,21
+17 034 3376 49,99 17 042 3382 44,21
+17 034 3380 49,99 17 042 3383 38,56
+17 034 3381 49,99 17 043 3377 44,21
+17 035 3037 49,99 17 043 3378 44,21
+17 035 3376 49,99 17 043 3382 44,21
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+17 035 3377 49,99 17 043 3383 38,56
+17 035 3380 49,99 17 044 3375 33,91
+17 035 3381 49,99 17 044 3383 38,56
+17 036 3037 49,99 17 044 3384 33,91
+17 036 3377 49,99 17 045 3374 33,91
+17 036 3378 49,99 17 045 3375 33,91
+17 036 3380 49,99 17 045 3383 38,56
+1 036 3381 49,99 17 045 3384 33,91
+17 037 3037 49,99 17 046 3374 33,91
+17 037 3375 44,21 17 046 3376 33,91
+17 037 3381 49,99 17 046 3383 38,56
+17 037 3382 44,21 17 046 3384 33,91
+17 038 3037 49,99 17 047 3376 33,91
+17 038 3374 44,21 17 047 3377 33,91
+17 038 3375 44,21 17 047 3383 38,56
+17 038 3381 49,99 17 047 3384 33,91
+17 038 3382 44,21 17 048 3377 33,91
+17 039 3037 49,99 17 048 3378 33,91
+17 039 3374 44,21 17 048 3383 38,56
+17 039 3376 44,21 17 048 3384 33,91
+17 049 33752 33,91 18 006 3168 65,36
+17 049 3378 33,91 18 006 3169 77,15
+17 049 3384 33,91 18 006 3171 92,61
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+17 049 3385 33,91 18 006 3172 65,36
+17 050 3374 33,91 18 006 3173 92,61
+17 050 3375 33,91 18 006 3175 59,60
+17 050 3384 33,91 18 007 3169 77,15
+
+17 050 3384 33,91 18 007 3169 77,15
+17 050 3385 33,91 18 007 3171 77,15
+17 051 3377 33,91 18 007 3172 65,36
+17 051 3378 33,91 18 007 3173 77,15
+17 051 3384 33,91 18 007 3175 59,60
+17 051 3385 33,91 18 007 3176 65,36
+18 001 3100 92,61 18 008 3169 77,15
+18 001 3168 89,96 18 008 3171 77,15
+18 001 3169 77,15 18 008 3173 77,15
+18 001 3170 89,96 18 008 3174 65,36
+18 001 3171 89,96 18 008 3175 59,60
+18 002 3100 92,61 18 008 3176 65,36
+18 002 3168 89,96 18 008 3278 65,36
+18 002 3169 77,15 18 009 3169 77,15
+18 002 3171 92,61 18 009 3174 65,36
+18 002 3172 92,61 18 009 3175 59,60
+18 003 3100 92,61 18 010 3168 52,96
+18 003 3169 77,15 18 010 3170 52,96,
+18 003 3171 92,61 18 010 3172 65,36
+18 003 3172 92,61 18 010 3175 59,60
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+18 003 3173 92,61 18 010 3177 49,28
+18 003 3174 89,96 18 010 3178 52,96
+18 004 3100 92,61 18 011 3168 52,96
+18 004 3169 77,15 18 011 3172 52,96
+18 004 3171 92,61 18 011 3175 59,60
+18 004 3174 89,96 18 011 3177 49,28
+18 005 3168 65,36 18 012 3172 52,96
+18 005 3169 77,15 18 012 3175 59,60
+18 005 3170 65,36 18 012 3176 51,04
+18 005 3171 92,61 18 012 3177 52,96
+18 005 3173 92,61 18 013 3174 52,96
+18 005 3175 59,60 18 013 3175 59,60
+18 013 3176 52,96 18 023 3177 49,28
+18 013 3177 49,28 18 023 3185 52,96
+18 014 3174 52,96 18 023 3187 59,60
+
+18 014 3174 52,96 18 023 3187 59,60
+18 014 3177 59,60 18 023 3188 52,96
+18 015 3168 49,68 18 025 3100 92,61
+18 015 3170 49,68 18 025 3185 89,11
+18 015 3172 49,68 18 025 3186 85,62
+18 015 3177 49,28 18 026 3185 89,11
+18 015 3179 40,08 18 026 3186 85,62
+18 016 3168 49,68 18 026 3189 77,15
+18 016 3177 49,28 18 027 3182 59,60
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+1 013 3176 52,96 18 023 3177 49,28
+18 023 3177 49,28 18 023 3185 52,96
+18 014 3174 52,96 18 023 3187 59,60
+18 014 3177 59,60 18 023 3188 52,96
+18 015 3168 49,68 18 025 3100 92,61
+18 015 3170 49,68 18 025 3185 89,11
+18 015 3172 49,68 18 025 3186 85,62
+18 015 3177 49,28 18 026 3185 89,11
+18 015 3179 40,08 18 026 3186 85,62
+18 016 3168 49,68 18 026 3189 77,15
+18 016 3177 49,28 18 027 3182 59,60
+1 016 3179 40,08 18 027 3185 65,36
+18 016 3180 49,68 18 027 3189 77,15
+18 017 3174 49,28 18 028 3182 59,60
+18 018 3168 36,08 18 028 3185 52,96
+18 018 3170 36,08 18 028 3190 51,92
+18 018 3179 40,08 18 029 3185 49,28
+18 018 3181 39,20 18 029 3190 51,92
+18 018 3182 36,08 18 029 3191 40,08
+18 019 3168 36,08 18 030 3185 49,28
+18 019 3176 36,08 18 030 3191 40,08
+18 019 3179 40,08 18 030 3192 40,08
+18 019 3183 36,08 18 040 3100 92,61
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+18 019 3187 36,08 18 040 3169 77,15
+
+18 019 3187 36,08 18 040 3169 77,15
+18 020 3168 36,08 18 040 3193 89,96
+18 020 3184 36,08 18 041 3169 77,15
+18 020 3187 36,08 18 041 3175 59,60
+18 021 3100 92,61 18 041 3193 65,36
+18 021 3169 77,15 18 041 3194 65,36
+18 021 3170 89,96 18 042 3195 59,60
+18 021 3185 89,96 18 042 3177 49,28
+18 022 3169 77,15 18 042 3193 52,96
+18 022 3170 65,36 18 042 3195 52,96
+18 022 3185 65,36 18 043 3177 49,28
+18 022 3186 77,15 18 043 3193 49,68
+18 022 3187 59,60 18 044 3100 92,61
+18 023 3170 52,96 18 044 3169 77,15
+18 023 3175 59,60 18 044 3193 89,96
+18 045 3169 77,15 19 009 3424 61,00
+18 045 3175 59,60 19 009 3425 61,00
+18 045 3193 65,36 19 010 3201 61,00
+18 046 3175 59,60 19 010 3202 61,00
+18 046 3193 52,96 19 010 3424 61,00
+18 046 3196 52,96 19 010 3425 61,00
+18 047 3193 49,28 19 011 3202 61,00
+18 050 3100 92,61 19 012 3421 61,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+18 050 3169 77,15 19 012 3422 61,00
+18 050 3200 89,96 19 012 3425 61,00
+18 050 3278 89,96 19 012 3427 61,00
+19 001 3417 65,00 19 013 3420 61,00
+19 001 4251 65,00 19 013 3421 61,00
+19 002 3204 65,00 19 013 3425 61,00
+19 002 3417 65,00 19 013 3427 61,00
+19 002 3418 65,00 19 014 3201 61,00
+19 002 3419 65,00 19 014 3420 61,00
+19 003 3418 65,00 19 014 3425 61,00
+19 003 3419 65,00 19 014 3427 61,00
+19 003 3423 65,00 19 015 3201 61,00
+
+19 003 3423 65,00 19 015 3201 61,00
+19 004 3201 61,00 19 015 3202 61,00
+19 004 3419 61,00 19 015 3425 61,00
+19 004 3420 61,00 19 015 3427 61,00
+19 004 3424 61,00 19 016 3202 61,00
+19 005 3201 61,00 19 017 3423 61,000
+19 005 3202 61,00 19 018 3204 61,00
+19 005 3419 61,00 19 018 3417 61,00
+19 005 3424 61,00 19 018 3419 61,00
+19 006 3202 61,00 19 019 3204 61,00
+19 007 3421 61,00 19 019 3417 61,00
+19 007 3422 61,00 19 019 3419 61,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+19 007 3425 61,00 19 019 4100 61,00
+19 008 3420 61,00 19 030 3357 53,08
+19 008 3421 61,00 19 060 3429 33,04
+19 008 3422 61,00 19 061 4264 33,04
+19 008 3425 61,00 19 061 4265 33,04
+19 009 3201 61,00 19 061 4266 33,04
+19 009 3420 61,00 19 061 4267 33,04
+19 061 4268 41,68 19 084 4102 35,00
+19 062 4263 33,04 19 084 4104 35,00
+19 070 3427 50,00 19 084 4105 35,00
+19 071 3427 50,00 19 085 4102 35,00
+19 071 4113 50,00 19 085 4105 35,00
+19 072 4093 50,00 19 085 4106 35,00
+19 072 4094 50,00 19 086 4093 40,00
+19 072 4097 50,00 19 086 4107 35,00
+19 073 4094 50,00 19 086 4111 35,00
+19 073 4095 50,00 19 087 4107 35,00
+19 073 4097 50,00 19 087 4108 35,00
+19 074 4095 50,00 19 087 4111 35,00
+19 074 4096 50,00 19 088 4108 35,00
+19 074 4097 50,00 19 088 4109 35,00
+19 075 4096 50,00 19 088 4111 35,00
+19 075 4097 50,00 19 089 4109 35,00
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+19 076 4097 50,00 19 089 4110 35,00
+19 077 4093 50,00 19 089 4111 35,00
+19 077 4098 40,00 19 090 4110 35,00
+19 077 4099 50,00 19 090 4111 35,00
+19 078 4093 40,00 19 091 4093 40,00
+19 078 4098 35,00 19 091 4107 35,00
+19 078 4099 35,00 19 091 4111 35,00
+19 078 4102 35,00 19 091 4112 35,00
+19 079 4099 35,00 19 092 4107 35,00
+19 079 4100 35,00 19 092 4108 35,00
+19 079 4102 35,00 19 092 4111 35,00
+19 080 4100 35,00 19 093 4108 35,00
+19 080 4101 35,00 19 093 4109 35,00
+19 080 4102 35,00 19 093 4111 35,00
+19 081 4101 35,00 19 094 4109 35,00
+19 081 4102 35,00 19 094 4110 35,00
+19 082 4093 40,00 19 094 4111 35,00
+19 082 4102 35,00 19 095 4110 35,00
+19 082 4103 35,00 19 095 4111 35,00
+19 083 4102 35,00 19 096 3481 35,00
+19 083 4103 35,00 19 096 4093 40,00
+19 083 4104 35,00 19 096 4112 35,00
+19 097 3481 35,00 90 001 4263 89,96
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+1 120 3419 61,00 90 002 3014 75,70
+19 120 4252 61,00 90 004 4252 29,20
+19 120 4253 61,00 90 004 4263 29,20
+19 120 4255 61,00 90 006 3200 89,96
+19 121 4255 61,00 91 001 3205 10,00
+19 122 4255 61,00 91 001 3206 10,00
+19 123 3427 61,00 91 002 3205 10,00
+19 123 4259 61,00 91 002 3207 10,00
+19 124 3425 65,00 91 003 3208 10,00
+
+19 124 3425 65,00 91 003 3208 10,00
+19 124 3427 65,00 91 003 3216 10,00
+19 124 4255 65,00 91 004 3205 10,00
+19 125 3424 65,00 91 004 3207 10,00
+19 125 3425 65,00 91 004 3209 10,00
+19 125 4255 65,00 91 005 3205 10,00
+19 126 4255 61,00 91 005 3206 10,00
+19 127 4259 50,00 91 005 3210 10,00
+19 128 3424 50,00 91 006 3205 10,00
+19 128 4252 50,00 91 006 3206 10,00
+19 128 4255 50,00 91 006 3210 10,00
+19 128 4259 50,00 91 006 3211 10,00
+19 129 4097 50,00 91 006 3212 10,00
+19 129 4259 50,00 91 006 3213 10,00
+19 130 4259 50,00 91 007 3205 10,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+19 131 4258 50,00 91 007 3211 10,00
+19 131 4259 50,00 91 007 3212 10,00
+19 132 4259 50,00 91 007 3214 10,00
+19 133 4097 50,00 91 008 3205 10,00
+19 133 4259 50,00 91 008 3212 10,00
+19 134 4097 50,00 91 008 3214 10,00
+19 134 4259 50,00 91 009 3205 10,00
+19 135 4251 65,00 91 009 3209 10,00
+19 136 4252 65,00 91 009 3215 10,00
+9 001 3100 92,61 91 010 3205 10,00
+90 001 3198 89,96 91 010 3209 10,00
+90 001 3199 89,96 91 010 3215 10,00
+90 001 3200 89,96 91 010 3216 10,00
+90 001 3278 89,96 91 011 3205 10,00
+91 011 3213 10,00 92 007 4308 40,00
+91 012 3205 10,00 92 008 3224 80,00
+91 012 3213 10,00 92 009 3224 80,00
+91 013 3207 10,00 92 009 3237 40,00
+91 013 3208 10,00 92 010 3224 80,00
+91 013 3216 10,00 92 011 3225 35,00
+
+91 013 3216 10,00 92 011 3225 35,00
+91 014 3205 10,00 92 011 3232 35,00
+91 014 3209 10,00 92 011 4308 35,00
+91 014 3216 10,00 92 012 3225 35,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+91 015 3209 10,00 92 012 3226 35,00
+91 015 3216 10,00 92 012 3232 35,00
+91 103 3208 10,00 92 012 4308 35,00
+92 001 3224 80,00 92 013 3226 35,00
+92 001 3225 40,0 92 013 3227 35,00
+92 001 4308 40,00 92 013 3232 35,00
+92 002 3224 80,00 92 013 4308 35,00
+92 002 3225 40,00 92 014 3227 35,00
+92 002 3226 40,00 92 014 3228 35,00
+92 002 4308 40,00 92 014 3232 35,00
+92 003 3224 80,00 92 014 4308 35,00
+92 003 3226 40,00 92 015 3228 35,00
+92 003 3227 40,00 92 015 3229 35,00
+92 003 4308 40,00 92 015 3232 35,00
+92 004 3224 80,00 92 015 4308 35,00
+92 004 3227 40,00 92 016 3229 35,00
+92 004 3228 40,00 92 016 3230 35,00
+92 004 4308 40,00 92 016 3232 35,00
+92 005 3224 80,00 92 016 4308 35,00
+92 005 3228 40,00 92 017 3230 35,00
+92 005 3229 40,00 92 017 3231 35,00
+92 005 4308 40,00 92 017 3232 35,00
+92 006 3224 80,00 92 017 4308 35,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 006 3229 40,00 92 018 3225 25,00
+92 006 3230 40,00 92 018 3232 25,00
+92 006 4308 40,00 92 018 3233 25,00
+92 007 3224 80,00 92 019 3225 25,00
+92 007 3230 40,00 92 019 3226 25,00
+
+92 007 3231 40,00 92 019 3232 25,00
+92 019 3233 25,00 92 009 3233 25,00
+92 020 3226 25,00 92 029 3237 25,00
+92 020 3227 25,00 92 029 3238 25,00
+92 020 3232 25,00 92 030 3232 25,00
+92 020 3233 25,00 92 030 3233 25,00
+92 021 3227 25,00 92 030 3238 25,00
+92 021 3228 25,00 92 030 3239 25,00
+92 021 3232 25,00 92 031 3232 25,00
+92 021 3233 25,00 92 031 3233 25,00
+92 022 3228 25,00 92 031 3239 25,00
+92 022 3229 25,00 92 032 3225 10,00
+92 022 3232 25,00 92 032 3233 10,00
+92 022 3233 25,00 92 032 3240 10,00
+92 023 3229 25,00 92 033 3225 10,00
+92 023 3230 25,00 92 033 3226 10,00
+92 023 3232 25,00 92 033 3233 10,00
+92 023 3233 25,0 92 033 3240 10,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 024 3230 25,00 92 034 3226 10,00
+92 024 3231 25,00 92 034 3227 10,00
+92 024 3232 25,00 92 034 3233 10,00
+92 024 3233 25,00 92 034 3240 10,00
+92 025 3231 25,00 92 035 3227 10,00
+92 025 3235 25,00 92 035 3228 10,00
+92 025 3233 25,00 92 035 3233 10,00
+92 025 3234 25,00 92 035 3240 10,00
+92 026 3232 25,00 92 036 3228 10,00
+92 026 3233 25,00 92 036 3229 10,00
+92 026 3234 25,00 92 036 3233 10,00
+92 026 3235 25,00 92 036 3240 10,00
+92 027 3232 25,00 92 037 3229 10,00
+92 027 3233 25,00 92 037 3230 10,00
+92 027 3235 25,00 92 037 3233 10,00
+92 027 3236 25,00 92 037 3240 10,00
+92 028 3232 25,00 92 038 3230 10,00
+
+92 028 3232 25,00 92 038 3230 10,00
+92 028 3233 25,00 92 038 3231 10,00
+92 028 3236 25,00 92 038 3233 10,00
+92 028 3237 25,00 92 038 3240 10,00
+92 029 3232 25,00 92 039 3231 10,00
+92 039 3233 10,00 92 049 3228 5,00
+92 039 3234 10,00 92 049 3240 5,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 039 3240 10,00 92 049 4318 5,00
+92 040 3233 10,00 92 050 3228 5,00
+92 040 3234 10,00 92 050 3229 5,00
+92 040 3235 10,00 92 050 3240 5,00
+92 040 3240 10,00 92 050 4318 5,00
+92 041 3233 10,00 92 051 3229 5,00
+92 041 3235 10,00 92 051 3230 5,00
+92 041 3236 10,00 92 051 3240 5,00
+92 041 3240 10,00 92 051 4318 5,00
+92 042 3233 10,00 92 052 3230 5,00
+92 042 3236 10,00 92 052 3231 5,00
+92 042 3237 10,00 92 052 3240 5,00
+92 042 3240 10,00 92 052 4318 5,00
+92 043 3233 10,00 92 053 3231 5,00
+92 043 3237 10,00 92 053 3234 5,00
+92 043 3238 10,00 92 053 3240 5,00
+92 043 3240 10,00 92 053 4318 5,00
+92 044 3233 10,00 92 054 3234 5,00
+92 044 3238 10,00 92 054 3235 5,00
+92 044 3239 10,00 92 054 3240 5,00
+92 044 3240 10,00 92 054 4318 5,00
+92 045 3233 10,00 92 055 3235 5,00
+92 045 3239 10,00 92 055 3236 5,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 045 3240 10,00 92 055 3240 5,00
+92 046 3225 5,00 92 055 4318 5,00
+
+92 046 3225 5,00 92 055 4318 5,00
+92 046 3240 5,00 92 056 3236 5,00
+92 046 4318 5,00 92 056 3237 5,00
+92 047 3225 5,00 92 056 3240 5,00
+92 047 3226 5,00 92 056 4318 5,00
+92 047 3240 5,00 92 057 3237 5,00
+92 047 4318 5,00 92 057 3238 5,00
+92 048 3226 5,00 92 057 3240 5,00
+92 048 3227 5,00 92 057 4318 5,00
+92 048 3240 5,00 92 058 3238 5,00
+92 048 4318 5,00 92 058 3239 5,00
+92 049 3227 5,00 92 058 3240 5,00
+92 058 4318 5,00 92 068 3462 5,00
+92 059 3239 5,00 92 068 4318 5,00
+92 059 3240 5,00 92 069 3235 5,00
+92 059 4318 5,00 92 069 3236 5,00
+92 060 3225 5,00 92 069 3462 5,00
+92 060 3462 5,00 92 069 4318 5,00
+92 060 4318 5,00 92 070 3228 5,00
+92 061 3225 5,00 92 070 3236 5,00
+92 061 3226 5,00 92 070 3237 5,00
+92 061 3462 5,00 92 070 3462 5,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 061 4318 5,00 92 070 4318 5,00
+92 062 3225 5,00 92 071 3237 5,00
+92 062 3226 5,00 92 071 3238 5,00
+92 062 3227 5,00 92 071 3462 5,00
+92 062 3462 5,00 92 071 4318 5,00
+92 062 4318 5,00 92 072 3238 5,00
+92 063 3227 5,00 92 072 3239 5,00
+92 063 3228 5,00 92 072 3462 5,00
+92 063 3462 5,00 92 072 4318 5,00
+92 063 3718 5,00 92 073 3239 5,00
+92 064 3228 5,00 92 073 3462 5,00
+92 064 3229 5,00 92 073 4318 5,00
+92 064 3462 5,00 92 074 3224 80,00
+
+92 064 3462 5,00 92 074 3224 80,00
+92 064 4318 5,00 92 074 3462 40,00
+92 065 3229 5,00 92 074 4308 40,00
+92 065 3230 5,00 92 074 7007 40,00
+92 065 3462 5,00 92 074 7008 40,00
+92 065 4318 5,00 92 074 7009 40,00
+92 066 3230 5,00 92 075 3227 5,00
+92 066 3231 5,00 92 075 3231 5,00
+92 066 3462 5,00 92 075 3237 5,00
+92 066 4318 5,00 92 075 3462 5,00
+92 067 3231 5,00 92 075 4328 5,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 067 3234 5,00 92 076 3233 19,98
+92 067 3462 5,00 92 080 4263 61,50
+92 067 4318 5,00 92 081 3686 61,04
+92 068 3234 5,00 92 081 3687 58,94
+92 068 3235 5,00 92 081 3749 80,00
+92 082 3686 61,04 92 094 3693 42,62
+92 082 3687 58,94 92 095 3686 41,83
+92 082 3749 80,00 92 095 3693 42,62
+92 083 3686 57,99 92 095 3694 40,91
+92 083 3687 58,94 92 096 3686 41,83
+92 083 3688 54,97 92 096 3693 42,62
+92 084 3686 57,99 92 096 3694 40,91
+92 084 3687 58,94 92 097 3686 40,17
+92 084 3688 54,97 92 097 3694 40,91
+92 085 3686 53,09 92 097 3695 38,81
+92 085 3688 54,97 92 098 3686 40,17
+92 085 3689 52,31 92 098 3694 40,91
+92 086 3686 53,09 92 098 3695 38,81
+92 086 3688 54,97 92 099 3686 37,78
+97 086 3689 52,31 92 099 3695 38,81
+92 087 3686 50,51 92 099 3696 37,18
+92 087 3689 52,31 92 100 3686 37,78
+92 087 3690 49,18 92 100 3695 38,81
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 088 3686 50,51 92 100 3696 37,18
+92 088 3689 52,31 92 101 3686 36,58
+92 088 3690 49,18 92 101 3696 37,18
+92 089 3686 47,90 92 101 3697 35,85
+92 089 3690 49,18 92 102 3686 36,58
+92 089 3691 46,78 92 102 3696 37,18
+92 090 3686 47,90 92 102 3697 35,85
+92 090 3690 49,18 92 103 3686 35,12
+92 090 3691 46,78 92 103 3697 35,85
+92 091 3686 45,78 92 103 3698 34,38
+92 091 3691 46,78 92 104 3686 35,12
+92 091 3692 44,01 92 104 3697 35,85
+92 092 3686 43,82 92 104 3698 34,38
+92 092 3692 44,01 92 105 3686 33,78
+92 092 3693 42,62 92 105 3698 34,38
+92 093 3686 45,78 92 105 3699 33,43
+92 093 3691 46,78 92 106 3686 33,78
+92 093 3692 44,01 92 106 3698 34,38
+92 094 3686 43,82 92 106 3699 33,43
+92 094 3692 44,01 92 109 3686 28,65
+92 109 3702 28,65 92 123 3686 22,82
+92 110 3686 28,65 92 123 3708 23,31
+92 110 3702 28,65 92 123 3709 22,52
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 111 3686 28,48 92 124 3686 22,82
+92 111 3702 28,64 92 124 3708 23,31
+92 111 3703 27,85 92 124 3709 22,52
+92 112 3686 28,48 92 125 3686 22,11
+92 112 3702 28,64 92 125 3709 22,52
+92 112 3703 27,85 92 125 3710 21,68
+9 113 3686 27,58 92 126 3686 22,11
+92 113 3703 27,85 92 126 3709 22,52
+92 113 3704 26,90 92 126 3710 21,68
+
+92 113 3704 26,90 92 126 3710 21,68
+92 114 3686 27,58 92 127 3686 21,68
+92 114 3704 26,90 92 127 3710 21,68
+92 115 3686 26,25 92 128 3686 16,92
+92 115 3704 26,90 92 128 3711 17,41
+92 115 3705 25,89 92 128 3712 16,70
+92 116 3686 26,25 92 129 3686 17,41
+92 116 3704 26,90 92 129 3711 17,41
+92 116 3705 25,89 92 130 3686 16,92
+92 117 3686 25,46 92 130 3712 16,70
+92 117 3705 25,89 92 130 3713 16,92
+92 117 3706 25,00 92 131 3712 16,70
+92 118 3686 25,46 92 131 3713 16,92
+92 118 3705 25,89 92 132 3686 16,37
+92 118 3706 25,00 92 132 3712 16.70
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 119 3686 24,67 92 132 3714 16,16
+92 119 3706 25,00 92 133 3686 16,37
+92 119 3707 24,13 92 133 3712 16,70
+92 120 3686 24,67 92 133 3713 16,37
+92 120 3706 25,00 92 133 3712 16,16
+92 120 3707 24,13 92 134 3714 16,16
+92 121 3686 23,88 92 134 3713 16,37
+92 121 3707 24,13 92 134 3714 16,16
+92 121 3708 23,31 92 135 3686 15,88
+92 122 3686 23,88 92 135 3714 16,16
+92 122 3707 24,13 92 135 3715 15,56
+92 122 3708 23,31 92 136 3686 15,88
+92 136 3713 15,88 92 147 3717 14,28
+92 136 3714 16,16 92 147 3718 1452
+92 136 3715 15,56 92 147 3719 14,04
+92 137 3713 15,88 92 148 3686 1428
+92 137 3714 16,16 92 148 3713 14,28
+92 137 3715 15,56 92 148 3718 14,52
+92 138 3715 15,56 92 148 3719 14,04
+92 138 3716 15,04 92 149 3713 14,28
+
+92 138 3717 15,31 92 149 3718 14,52
+92 139 3686 15,31 92 149 3719 14,04
+92 139 3715 15,56 92 150 3717 13,82
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 139 3716 15,04 92 150 3719 14,04
+92 139 3717 15,31 92 150 3720 13,57
+92 140 3686 15,31 92 151 3686 13,82
+92 140 3713 15,31 92 151 3717 13,82
+92 140 3715 15,56 92 151 3719 14,04
+92 140 3716 15,04 92 151 3720 13,57
+92 141 3713 15,31 92 152 3686 13,82
+92 141 3715 15,56 92 152 3713 13,82
+92 141 3716 15,04 92 152 3719 14,04
+92 142 3716 15,04 92 152 3720 13,57
+92 142 3717 14,82 92 153 3713 13,82
+92 142 3718 14,52 92 153 3719 14,04
+92 143 3686 14,82 92 153 3720 13,57
+92 143 3716 15,04 92 154 3717 13,30
+92 143 3717 14,82 92 154 3720 13,57
+92 143 3718 14,52 92 154 3721 13,08
+92 144 3686 14,82 92 155 3686 13,30
+92 144 3713 14,82 92 155 3717 13,30
+92 144 3716 15,04 92 155 3720 13,57
+92 144 3718 14,52 92 155 3721 13,08
+92 145 3713 14,82 92 156 3686 13,30
+92 145 3716 15,04 92 156 3713 13,30
+92 145 3718 14,52 92 156 3720 13,57
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 146 3717 14,28 92 156 3721 13,08
+92 146 3718 14,52 92 157 3713 13,30
+92 146 3719 14,04 92 157 3720 13,57
+
+92 147 3686 14,28 92 157 3721 13,08
+92 158 3717 12,87 92 168 3724 11,67
+92 158 3721 13,08 92 169 3713 11,97
+92 158 3722 12,62 92 169 3723 12,13
+92 159 3686 12,87 92 169 3724 11,67
+92 159 3717 12,87 92 170 3717 11,45
+92 159 3721 13,08 92 170 3724 11,67
+92 159 3722 12,62 92 170 3725 11,23
+92 160 3686 12,87 92 171 3686 11,45
+92 160 3713 12,87 92 171 3717 11,45
+92 160 3721 13,08 92 171 3724 11,67
+92 160 3722 12,62 92 171 3725 11,23
+92 161 3713 12,87 92 172 3686 11,45
+92 161 3721 13,08 92 172 3713 11,45
+92 161 3722 12,62 92 172 3724 11,67
+92 162 3717 12,38 92 172 3725 11,23
+92 162 3722 12,62 92 173 3713 11,45
+92 162 3723 12,13 92 173 3724 11,67
+92 163 3686 12,38 92 173 3725 11,23
+92 163 3717 12,38 92 174 3717 11,02
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 123 3722 12,62 92 174 3725 11,23
+92 163 3723 12,13 92 174 3726 10,83
+92 164 3686 12,38 92 175 3686 11,02
+92 1 3713 12,38 92 175 3717 11,02
+92 164 3722 12,62 92 175 3725 11,23
+92 164 3723 12,13 92 175 3726 10,83
+92 165 3713 12,38 92 176 3686 11,02
+92 165 3722 12,62 92 176 3725 11,23
+92 165 3723 12,13 92 176 3726 10,83
+92 166 3717 11,97 92 176 3728 11,02
+92 166 3723 12,13 92 177 3725 11,23
+92 166 3724 11,67 92 177 3726 10,83
+92 167 3686 11,97 92 177 3728 11,02
+92 167 3717 11,97 92 178 3717 10,61
+
+92 167 3717 11,97 92 178 3717 10,61
+92 167 3723 12,13 92 178 3726 10,83
+92 167 3724 11,67 92 178 3729 10,36
+92 168 3686 11,97 92 179 3686 10,61
+92 168 3713 11,97 92 179 3717 10,61
+92 168 3723 12,13 92 179 3726 10,83
+92 179 3729 10,36 92 190 3732 9,38
+92 180 3686 10,61 92 191 3686 9,33
+92 180 3726 10,83 92 191 3717 9,33
+92 180 3728 10,61 92 191 3731 9,55
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 180 3729 10,36 92 191 3732 9,19
+92 181 3726 10,83 92 192 3686 9,33
+92 181 3728 10,61 92 192 3728 9,33
+92 181 3729 10,36 92 192 3731 9,55
+92 182 3717 10,17 92 192 3732 9,19
+92 182 3729 10,36 92 193 3728 9,33
+92 182 3730 9,96 92 193 3731 9,55
+92 183 3686 10,17 92 193 3732 9,19
+92 183 3717 10,17 92 194 3717 8,95
+92 183 3729 10,36 92 194 3732 9,19
+9 183 3730 9,96 92 194 3733 8,76
+92 184 3686 10,17 92 195 3686 8,95
+92 184 3728 10,17 92 195 3717 8,95
+92 184 3729 10,36 92 195 3732 9,19
+92 184 3730 9,96 92 195 3733 8,76
+92 185 3728 10,17 92 196 3686 8,95
+92 185 3729 10,36 92 196 3728 8,95
+92 185 3730 9,96 92 196 3732 9,19
+92 186 3717 9,79 92 196 3733 8,76
+92 186 3730 9,96 92 197 3728 8,95
+92 186 3731 9,55 92 197 3732 9,19
+92 187 3686 9,79 92 197 3733 8,76
+92 187 3717 9,79 92 198 3717 8,54
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 187 3730 9,96 92 198 3733 8,76
+92 187 3731 9,55 92 198 3734 8,40
+92 188 3686 9,79 92 199 3686 8,54
+92 188 3728 9,79 92 199 3717 8,54
+92 188 3730 9,96 92 199 3733 8,76
+92 188 3731 9,55 92 199 3734 8,40
+92 189 3728 9,79 92 200 3686 8,54
+92 189 3730 9,96 92 200 3728 8,54
+92 189 3731 9,55 92 200 3733 8,76
+92 190 3717 9,19 92 200 3734 8,40
+92 190 3731 9,55 92 201 3728 8,54
+92 201 3733 8,76 92 002 3246 89,11
+92 201 3734 8,40 93 003 310 92,61
+92 202 3717 8,21 93 003 3181 85,62
+92 202 3734 8,40 93 003 3241 85,62
+92 202 3735 8,00 93 003 3246 89,11
+92 203 3686 8,21 93 003 3248 89,11
+92 203 3717 8,21 93 004 3100 92,61
+92 203 3734 8,40 93 004 3181 85,62
+92 203 3735 8,00 93 004 3241 85,62
+92 204 3686 8,21 93 004 3248 89,11
+92 204 3728 8,21 93 004 3249 89,11
+9 204 3734 8,40 93 005 3100 92,61
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+92 204 3735 8,00 93 005 3242 89,11
+92 205 3728 8,21 93 005 3243 85,62
+92 205 3734 8,40 93 005 3249 89,11
+92 205 3735 8,00 93 005 3262 85,62
+92 206 3717 7,86 93 006 3181 72,56
+92 206 3735 8,00 93 006 3241 72,56
+92 206 3736 7,72 93 006 3244 61,44
+
+92 206 3736 7,72 93 006 3244 61,44
+92 207 3686 7,86 93 006 3245 56,48
+92 207 3717 7,86 93 006 3247 61,44
+92 207 3735 8,00 93 007 3181 72,56
+92 207 3736 7,72 93 007 3241 72,56
+92 208 3686 7,86 93 007 3244 61,44
+92 208 3728 7,86 93 007 3245 56,48
+92 208 3735 8,00 93 007 3246 61,44
+92 208 3736 7,72 93 008 3181 72,56
+92 209 3728 7,86 93 008 3241 72,56
+92 209 3735 8,00 93 008 3245 56,48
+92 209 3736 7,72 93 008 3246 61,44
+93 001 3100 92,61 93 008 3248 61,44
+93 001 3181 85,62 93 009 3181 72,56
+93 001 3244 92,61 93 009 3241 72,56
+93 001 3247 92,61 93 009 3245 56,48
+93 002 3100 92,61 93 009 3248 61,44
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 002 3181 85,62 93 009 3249 61,44
+93 002 3241 85,62 93 010 3181 72,56
+93 002 3244 89,11 93 010 3241 72,56
+93 010 3245 56,48 93 019 3253 39,20
+93 010 3249 61,44 93 020 3249 43,20
+93 010 3250 61,44 93 020 3251 48,64
+93 011 3244 48,64 93 020 3252 43,20
+93 011 3245 56,48 93 020 3253 39,20
+93 011 3247 48,64 93 021 3249 43,20
+93 011 3251 48,64 93 021 3250 43,20
+93 012 3244 48,64 93 021 3253 39,20
+93 012 3245 56,48 93 021 3271 48,64
+9 012 3246 48,64 93 021 3273 39,20
+93 012 3251 4864 93 022 3244 39,20
+93 013 3245 56,48 93 022 3247 39,20
+93 013 3246 48,64 93 022 3253 39,20
+93 013 3248 48,64 93 022 3254 39,20
+
+93 013 3248 48,64 93 022 3254 39,20
+93 013 3251 48,64 93 023 3244 39,20
+93 014 3245 56,48 93 023 3246 39,20
+93 014 3248 48,64 93 023 3253 39,20
+93 014 3251 48,64 93 023 3254 39,20
+93 014 3252 48,64 93 025 3248 45,00
+93 015 3245 56,48 93 025 3252 39,20
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+9 015 3249 48,64 93 025 3253 39,20
+93 015 3250 48,64 93 025 3254 39,20
+93 015 3271 48,64 93 026 3249 39,20
+93 016 3244 43,20 93 026 3252 39,20
+93 016 3247 43,20 93 026 3253 39,20
+93 016 3251 43,20 93 026 3254 39,20
+93 016 3253 39,20 93 027 3249 39,20
+93 017 3244 43,20 93 027 3250 39,20
+93 017 3246 43,20 93 027 3253 39,20
+93 017 3251 48,64 93 027 3254 39,20
+93 017 3253 39,20 93 028 3037 55,00
+93 018 3245 56,48 93 028 3244 39,20
+93 018 3249 48,64 93 028 3247 39,20
+93 018 3251 48,64 93 028 3254 39,20
+93 018 3252 48,64 93 029 3037 55,00
+93 019 3248 45,00 93 029 3244 39,20
+93 019 3251 48,64 93 029 3246 39,20
+93 019 3252 43,20 93 029 3254 39,20
+93 030 3037 55,00 93 039 3250 35,97
+93 030 3246 39,20 93 039 3277 33,76
+93 030 3248 45,00 93 040 3244 29,32
+93 030 3254 39,20 93 040 3247 29,32
+93 031 3037 55,00 93 040 3255 33,76
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+
+93 031 3248 45,00 93 040 3257 29,32
+93 031 3252 39,20 93 041 3244 29,32
+93 031 3254 39,20 93 041 3246 29,32
+93 032 3037 55,00 93 041 3255 33,76
+93 032 3249 39,20 93 041 3257 29,32
+93 032 3252 39,20 93 042 3246 29,32
+93 032 3254 39,20 93 042 3248 40,00
+93 033 3037 55,00 93 042 3255 33,76
+93 033 3249 39,20 93 042 3257 29,32
+93 033 3250 39,20 93 043 3248 40,00
+93 033 3254 39,20 93 043 3252 29,32
+93 034 3037 55,00 93 043 3255 33,76
+93 034 3244 35,97 93 043 3257 29,32
+93 034 3247 35,97 93 044 3252 29,32
+93 034 3255 33,76 93 044 3255 33,76
+93 035 3037 55,00 93 044 3256 29,32
+93 035 3244 35,97 93 044 3257 29,32
+93 035 3246 35,97 93 045 3249 29,32
+93 035 3255 33,76 93 045 3250 29,32
+93 036 3037 55,00 93 045 3257 29,32
+93 036 3246 35,97 93 045 3277 33,76
+93 036 3248 45,00 93 046 3244 25,13
+93 036 3255 33,76 93 046 3247 25,13
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 037 3037 55,00 93 046 3257 29,32
+93 037 3248 45,00 93 046 3258 23,65
+93 037 3252 35,97 93 047 3244 25,13
+93 037 3255 33,76 93 047 3246 25,13
+93 038 3037 55,00 93 047 3257 29,32
+93 038 3252 35,97 93 047 3258 23,65
+93 038 3255 33,76 93 048 3248 40,00
+93 038 3256 35,97 93 048 3252 25,13
+93 039 3037 55,00 93 048 3257 29,32
+93 039 3249 35,97 93 048 3258 23,65
+93 049 3252 25,13 93 059 3259 19,71
+
+93 049 3252 25,13 93 059 3259 19,71
+93 049 3256 25,13 93 060 3252 18,73
+93 049 3257 29,32 93 060 3256 18,73
+93 049 3258 23,65 93 060 3259 19,71
+93 050 3249 25,13 93 061 3249 18,73
+93 050 3257 29,32 93 061 3256 18,73
+93 050 3258 23,65 93 061 3259 19,71
+93 051 3244 19,72 93 062 3249 18,73
+93 051 3247 19,71 93 062 3259 19,71
+93 051 3258 23,65 93 064 3100 92,61
+93 051 3259 19,71 93 064 3242 89,11
+93 052 3244 19,71 93 064 3243 89,11
+93 052 3246 19,71 93 064 3262 85,62
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 052 3528 23,65 93 065 3100 92,61
+9 052 3259 19,71 93 065 3261 89,11
+93 052 3260 19,71 93 065 3262 85,62
+93 053 3248 40,00 93 065 3263 89,11
+9 053 3252 19,71 93 066 3100 92,61
+93 053 3258 23,65 93 066 3261 89,11
+93 053 3259 19,71 93 067 3181 70,08
+93 054 3252 19,71 93 067 3242 70,08
+93 054 3256 19,71 93 067 3243 70,08
+93 054 3258 23,65 93 067 3262 72,56
+93 054 3259 19,71 93 068 3242 82,69
+93 054 3259 19,71 93 068 3243 82,69
+93 055 3258 23,65 93 068 3260 82,69
+93 055 3259 19,71 93 068 3262 85,62
+93 056 3244 18,73 93 068 3342 77,15
+93 056 3247 18,73 93 069 3261 82,69
+93 056 3259 19,71 93 069 3262 85,62
+93 057 3244 18,73 93 069 3263 82,69
+93 057 3246 18,73 93 069 3264 77,15
+93 057 3259 19,71 93 069 3265 77,15
+93 068 3246 18,73 93 069 3341 82,69
+
+93 068 3246 18,73 93 069 3341 82,69
+93 058 3248 40,00 93 069 3342 77,15
+93 058 3259 19,71 93 070 3181 59,60
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 059 3248 40,00 93 070 3242 65,36
+93 059 3252 18,73 93 070 3260 70,08
+93 070 3342 77,15 93 082 3181 49,28
+93 071 3261 65,36 93 082 3261 49,28
+93 071 3263 65,36 93 082 3270 51,92
+93 071 3264 77,15 93 083 3189 77,15
+93 071 3265 77,15 93 083 3261 52,96
+93 071 3266 59,60 93 083 3270 51,92
+93 071 3342 77,15 93 085 3242 43,20
+93 072 3189 77,15 93 085 3250 43,20
+93 072 3261 65,36 93 085 3271 48,64
+93 072 3269 65,36 93 085 3273 39,20
+93 074 3181 61,44 93 086 3242 43,20
+93 074 3242 61,44 93 086 3271 48,64
+93 074 3250 61,44 93 086 3272 43,20
+93 074 3267 56,48 93 086 3273 39,20
+93 075 3181 56,48 93 087 3181 49,28
+93 075 3242 54,80 93 087 3271 48,64
+93 075 3268 52,00 93 087 3272 43,20
+93 076 3189 77,15 93 087 3273 39,20
+93 076 3261 77,15 93 087 3275 43,20
+93 076 3263 59,20 93 089 3250 39,20
+93 076 3266 59,60 93 089 3273 39,20
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 076 3269 56,88 93 089 3274 35,52
+93 078 3242 54,80 93 090 3271 39,52
+93 078 3250 54,80 93 090 3272 39,20
+93 078 3267 56,48 93 090 3273 39,20
+
+93 078 3267 56,48 93 090 3273 39,20
+93 078 3268 52,00 93 090 3274 35,52
+93 079 3261 52,96 93 091 3272 39,20
+93 079 3263 52,96 93 091 3273 39,20
+93 079 3269 56,88 93 091 3274 35,52
+93 079 3270 51,92 93 091 3275 39,20
+93 080 3242 48,64 93 092 3181 49,28
+93 080 3250 48,64 93 092 3261 39,20
+93 080 3268 52,00 93 092 3273 39,52
+93 080 3271 48,64 93 092 3274 35,52
+93 081 3242 48,64 93 092 3275 39,20
+93 081 3268 52,00 93 093 3242 39,20
+93 081 3271 48,64 93 093 3250 39,20
+93 081 3272 48,64 93 093 3274 35,52
+9 093 3276 39,20 93 105 3250 35,97
+93 094 3242 39,20 93 105 3277 33,76
+93 094 3272 39,20 93 106 3037 55,00
+93 094 3274 35,52 93 106 3242 35,97
+93 094 3276 39,20 93 106 3272 35,97
+93 095 3272 39,20 93 106 3277 33,76
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 095 3274 35,52 92 107 3037 55,00
+93 095 3275 39,20 93 107 3272 35,97
+93 095 3276 39,20 93 107 3275 35,97
+93 096 3261 39,20 93 107 3277 33,76
+93 096 3274 35,52 93 108 3037 55,00
+93 096 3275 39,20 93 108 3261 35,97
+93 096 3276 39,20 93 108 3275 35,97
+93 097 3181 39,20 93 108 3277 33,76
+93 097 3261 39,20 93 109 3258 29,29
+93 097 3276 39,20 93 110 3181 39,20
+93 099 3037 55,00 93 110 3261 49,28
+93 099 3242 39,20 93 110 3270 51,92
+93 099 3250 39,20 94 001 3100 92,61
+93 099 3276 39,20 94 001 3169 77,15
+
+93 099 3276 39,20 94 001 3169 77,15
+93 100 3037 55,00 94 001 3278 89,96
+93 100 3242 39,20 94 001 3279 89,96
+93 100 3272 39,20 94 002 3100 92,61
+93 100 3276 39,20 94 002 3169 77,15
+93 101 3037 55,00 94 002 3279 89.96
+89 101 3272 39,20 94 002 3280 89,96
+93 101 3275 39,20 94 003 3169 77,15
+93 101 3276 39,20 94 003 3175 59,60
+93 102 3037 55,00 94 003 3278 65,36
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+93 102 3261 39,20 94 003 3279 65,36
+93 102 3275 39,20 94 003 3280 89,96
+93 102 3276 39,20 94 003 3281 65,36
+93 103 3037 55,00 94 003 3282 65,36
+93 103 3181 39,20 94 004 3169 77,15
+93 103 3261 39,20 94 004 3175 59,60
+93 103 3276 39,20 94 004 3279 65,36
+93 105 3037 55,00 94 004 3280 89,96
+93 105 3242 35,97 94 004 3282 65,36
+9 005 3175 59,60 95 009 3285 40,32
+94 005 3177 49.28 95 009 3287 45,36
+94 005 3278 52,96 95 009 3290 40,32
+94 005 3279 52,96 95 009 3302 52,40
+94 005 3281 65,36 95 010 3285 40,32
+94 005 3282 65,36 95 010 3289 40,32
+94 006 3177 49,28 95 010 3302 52,40
+94 006 3279 52,96 95 011 3285 40,32
+94 006 3281 49,28 95 011 3289 40,32
+94 006 3282 65,36 95 011 3291 40,32
+94 006 3283 65,36 95 013 3285 40,32
+94 007 3279 49,68 95 013 3291 40,32
+95 001 3037 60,00 95 013 3292 40,32
+95 001 3181 70,00 95 014 3285 40,32
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 001 3285 60,00 95 014 3291 40,32
+95 001 3302 60,00 95 014 3293 40,32
+95 002 3037 60,00 95 014 3302 52,40
+95 002 3181 70,00 95 015 3285 40,32
+95 002 3285 60,00 95 015 3292 40,32
+95 003 3037 60,00 95 015 3293 40,32
+95 003 3285 60,00 95 015 3302 52,40
+95 003 3286 60,00 95 016 3285 39,28
+95 004 3037 60`,00 95 016 3292 40,32
+95 004 3285 60,00 95 016 3294 33,58
+95 004 3286 60,00 95 017 3284 39,28
+95 004 3302 60,00 95 017 3285 39,28
+95 005 3285 52,33 95 017 3292 40,32
+95 005 3286 51,83 95 017 3302 52,40
+95 005 3287 45,36 95 017 4304 39,28
+95 006 3288 51,83 95 018 3284 39,28
+95 007 3285 52,33 95 018 3285 36,91
+95 007 3287 45,36 95 018 3294 33,58
+95 007 3288 50,15 95 018 3302 52,40
+95 007 3302 52,40 95 018 4304 39,28
+95 008 3285 40,32 95 019 3285 29,94
+95 008 3287 45,36 95 019 3294 33,58
+95 008 3289 40,32 95 019 3295 26,93
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 020 3285 32,31 95 107 3308 60,82
+95 020 3294 33,58 95 109 3037 60,00
+95 020 3296 29,94 95 109 3181 70,00
+95 020 3302 52,40 95 109 3301 60,82
+95 021 3285 29,78 95 109 3302 60,82
+95 021 3295 26,93 95 110 3037 60,00
+95 021 3296 29,94 95 110 3301 53,09
+
+95 021 3296 29,94 95 110 3301 53,09
+95 021 3302 52,40 95 110 3303 51,83
+95 022 3285 24,87 95 110 3304 53,09
+95 022 3295 26,93 95 110 3311 53,09
+95 022 3337 24,24 95 111 3037 60,00
+95 023 3285 24,87 95 111 3301 53,09
+95 023 3295 26,93 95 111 3302 53,09
+95 023 3297 24,24 95 111 3303 51,83
+95 023 3302 52,40 95 112 3037 60,00
+95 101 3100 75,00 95 112 3303 53,09
+95 101 3181 75,00 95 112 3311 53,09
+95 101 3298 75,00 95 114 3298 52,80
+95 101 3309 75,00 95 114 3303 51,83
+9 102 3100 75,00 95 114 3309 52,33
+95 102 3181 75,00 95 114 3310 50,15
+95 102 3298 75,00 95 115 3298 52,33
+95 102 3301 75,00 95 115 3303 51,83
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 104 3037 60,00 95 115 3310 50,15
+95 104 3181 70,00 95 115 3311 52,33
+95 104 3298 60,82 95 116 3303 51,83
+95 104 3299 60,82 95 116 3310 50,15
+95 105 3037 60,00 95 116 3311 52,33
+95 105 3181 70,00 95 116 3312 52,33
+95 105 3299 60,82 95 118 3298 48,22
+95 105 3300 60,82 95 118 3309 48,22
+95 106 3037 60,00 95 118 3310 50,15
+95 106 3181 70,00 95 118 3313 45,36
+95 106 3300 60,82 95 119 3298 48,22
+95 106 3301 60,82 95 119 3310 50,15
+95 107 3037 60,00 95 119 3313 45,36
+95 107 3181 70,00 95 119 3314 48,22
+95 107 3298 60,82 95 120 3310 50,15
+95 120 3313 45,36 95 131 3445 40,32
+95 120 3314 48,22 95 132 3319 40,32
+
+95 120 3314 48,22 95 132 3319 40,32
+95 120 3315 48,22 95 132 3322 40,32
+95 121 3298 43,43 95 132 3445 40,32
+95 121 3309 43,43 95 132 3446 40,32
+92 121 3313 45,36 95 133 3315 40,32
+95 121 3316 40,32 95 133 3319 40,32
+95 122 3298 43,43 95 133 3322 40,32
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 122 3313 45,36 95 133 3446 40,32
+95 122 3316 40,32 95 134 3302 52,40
+95 122 3317 43,43 95 134 3315 40,32
+95 123 3313 45,36 95 134 3319 40,32
+95 123 3315 43,43 95 134 3322 40,32
+95 123 3316 40,32 95 135 3298 40,32
+95 123 3318 43,43 95 135 3309 40,32
+95 126 3298 40,32 95 135 3322 40,32
+95 126 3309 40,32 95 135 3323 40,32
+95 126 3316 40,32 95 136 3298 40,32
+95 126 3319 40,32 95 136 3322 40,32
+95 127 3298 40,32 95 136 3323 40,32
+95 127 3316 40,32 95 136 3444 40,32
+95 127 3319 40,32 95 137 3315 40,32
+95 127 3320 40,32 95 137 3322 40,32
+95 128 3315 40,32 95 137 3323 40,32
+95 128 3316 40,32 95 137 3444 40,32
+95 128 3319 40,32 95 138 3302 52,40
+95 128 3320 40,32 95 138 3315 40,32
+95 129 3302 52,40 95 138 3322 40,32
+95 129 3315 40,32 95 138 3323 40,32
+95 129 3316 40,32 95 139 3298 40,32
+95 129 3319 40,32 95 139 3309 40,32
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+
+95 130 3298 40,32 95 139 3323 40,32
+95 130 3309 40,32 95 139 3325 40,32
+95 130 3319 40,32 95 140 3298 40,32
+95 130 3322 40,32 95 140 3323 40,32
+95 131 3298 40,32 95 140 3325 40,32
+95 131 3319 40,32 95 140 3447 40,32
+95 131 3322 40,32 95 142 3315 40,32
+95 142 3323 40,32 95 153 3328 33,58
+95 142 3325 40,32 95 154 3315 36,91
+95 142 3448 40,32 95 154 3327 39,28
+95 143 3302 52,40 95 154 3328 33,58
+95 143 3315 40,32 95 154 3451 36,91
+95 143 3323 40,32 95 155 3315 36,91
+95 143 3325 40,32 95 155 3327 39,28
+95 144 3298 40,32 95 155 3328 33,58
+95 144 3309 40,32 95 155 3338 36,91
+95 144 3325 40,32 95 157 3298 32,31
+95 144 3326 40,32 95 157 3328 33,58
+95 145 3298 40,32 95 157 3329 29,94
+95 145 3325 40,32 95 157 3458 32,31
+95 145 3326 40,32 95 158 3315 32,31
+95 145 3449 40,32 95 158 3328 33,58
+95 146 3315 40,32 95 158 3329 29,94
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 146 3325 40,32 95 158 3453 32,31
+95 146 3326 40,32 95 159 3315 32,31
+95 146 3449 40,32 95 159 3328 33,58
+95 147 3298 43,24 95 159 3329 29,94
+95 147 3309 43,24 95 159 3338 32,31
+95 147 3326 40,32 95 162 3298 29,78
+95 147 3327 39,28 95 162 3309 29,78
+95 149 3298 43,24 95 162 3329 29,94
+95 149 3326 40,32 95 162 3330 26,93
+95 149 3327 39,28 95 163 3298 29,78
+95 149 3450 43,24 95 163 3329 29,94
+
+95 149 3450 43,24 95 163 3329 29,94
+9 150 3326 40,32 95 163 3330 26,93
+95 150 3327 39,28 95 163 3452 29,78
+95 150 3450 43,24 95 164 3315 29,78
+95 150 3454 43,24 95 164 3329 29,94
+95 151 3315 43,24 95 164 3330 26,93
+95 151 3326 40,32 95 164 3452 29,78
+95 151 3327 39,28 95 165 3315 29,78
+95 151 3338 43,24 95 165 3329 29,94
+95 153 3298 36,91 95 165 3330 26,93
+95 153 3309 36,91 95 165 3338 29,78
+95 153 3327 39,28 95 166 3298 24,87
+9 166 3309 24,87 95 175 3455 24,08
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 166 3330 26,93 95 176 3335 24,87
+95 166 3332 24,24 95 176 3336 24,87
+95 167 3298 24,87 95 176 3337 24,24
+95 167 3330 26,93 95 176 3343 26,93
+95 167 3332 24,24 95 183 3335 32,31
+95 167 3461 24,87 95 184 3296 29,94
+95 168 3330 26,93 95 184 3302 52,40
+95 168 3332 24,24 95 184 3335 24,87
+95 168 3456 24,87 95 184 3337 24,24
+95 168 3461 24,87 95 185 3296 29,94
+95 169 3315 24,87 95 185 3302 52,40
+95 169 3330 26,93 95 185 3335 36,91
+95 169 3332 24,24 95 185 3338 43,24
+95 169 3456 24,87 95 201 4263 43,76
+95 170 3315 24,87 95 202 3037 60,00
+95 170 3330 26,93 95 203 3037 70,00
+95 170 3332 24,24 96 001 3100 92,61
+95 170 3338 34,87 96 001 3262 85,62
+95 171 3298 25,50 96 001 3263 89,11
+95 171 3309 25,50 96 001 3339 89,11
+9 171 3332 24,24 96 001 3340 85,62
+
+9 171 3332 24,24 96 001 3340 85,62
+9 171 3333 24,71 96 001 3341 89,11
+92 172 3298 25,50 96 002 3100 92,61
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+95 172 3332 24,24 96 002 3262 85,62
+95 172 3333 24,71 96 002 3339 89,11
+95 172 3457 25,50 96 002 3340 85,62
+95 173 3315 25,50 96 003 3262 85,62
+95 163 3332 24,24 96 003 3339 82,69
+95 173 3333 24,71 96 003 3340 85,62
+95 173 3457 25,50 96 003 3342 77,15
+95 174 3298 24,08 96 004 3266 59,60
+95 174 3309 24,08 96 004 3339 65,36
+95 174 3333 24,71 96 004 3342 77,15
+95 174 3334 23,92 96 004 3343 59,60
+95 175 3298 24,08 96 005 3263 59,20
+95 175 3333 24,71 96 005 3266 59,60
+95 175 3334 23,92 96 003 3339 59,20
+9 005 3343 59,60 96 025 3191 40,08
+96 005 3344 56,88 96 025 3345 36,08
+96 006 3263 65,36 95 026 3181 39,20
+96 006 3266 59,60 96 026 3191 40,08
+96 006 3339 65,36 96 026 3345 36,08
+96 006 3341 65,36 96 026 3347 36,08
+96 006 3342 77,15 96 028 3182 59,60
+96 006 3343 59,60 96 028 3190 5192
+96 007 3262 85,62 96 028 3345 52,96
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+96 007 3339 82,69 96 029 3182 59,60
+96 007 3340 86,62 96 029 3189 77,15
+96 007 3341 82,69 96 029 3345 65,36
+96 007 3342 77,15 96 029 3347 65,36
+
+96 007 3342 77,15 96 029 3347 65,36
+96 008 3339 59,20 96 029 3348 77,15
+96 008 3343 59,20 96 030 3186 85,62
+96 009 3181 51,92 96 030 3189 77,15
+96 009 3263 56,88 96 030 3345 89,11
+96 009 3341 52,96 96 030 3347 89,11
+96 009 3344 52,96 96 031 3100 92,61
+96 019 3100 92,61 96 031 3186 85,62
+96 019 3182 59,60 96 031 3345 89,11
+96 019 3189 77,15 96 031 3346 92,61
+96 020 3100 92,61 96 031 3347 89,11
+96 020 3186 85,62 96 032 3098 85,62
+96 020 3345 89,11 96 032 3100 92,61
+9 020 3346 89,11 96 032 3346 92,61
+96 021 3186 85,62 96 032 3347 89,11
+96 021 3189 77,15 96 033 3098 85,62
+96 021 3345 89,11 96 033 3347 89,11
+96 022 3182 59,60 96 034 3182 59,60
+96 022 3189 77,15 96 034 3347 65,36
+96 022 3345 65,36 96 034 3349 59,60
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+96 023 3182 59,60 96 035 3182 59,60
+96 023 3190 51,92 96 035 3190 59,60
+96 023 3345 62,96 96 035 3347 52,96
+96 023 3350 51,92 96 035 3350 59,60
+96 025 3181 39,20 96 036 3190 51,92
+96 036 3191 40,08 96 065 3393 8,00
+96 036 3347 49,28 96 066 3392 5,009
+96 036 3351 49,28 96 067 3392 5`,00
+96 037 3191 40,08 96 067 3394 5,00
+96 037 3347 36,08 96 068 3394 5,00
+96 037 3352 36,08 96 068 3395 5,00
+96 038 3098 39,20 96 068 3396 5,00
+96 038 3181 39,20 96 069 3392 5,00
+96 038 3347 36,08 96 069 3394 5,00
+
+96 038 3347 36,08 96 069 3394 5,00
+96 050 3386 5,00 96 069 3396 5,00
+96 051 3387 5,00 96 069 3397 5,00
+96 051 3468 5,00 96 070 3392 5,00
+96 052 3386 5,00 96 070 3393 5,00
+96 052 3387 5,00 96 071 3389 5,00
+96 052 3388 5,00 96 071 3398 5,00
+96 052 3468 5,00 96 072 3392 5,00
+96 053 3386 5,00 96 073 3392 5,00
+96 053 3388 5,00 96 073 3396 5,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+96 053 3389 5,00 96 073 3397 5,00
+96 053 3468 5,00 96 073 3399 5,00
+96 054 3390 5,00 96 073 3400 5,00
+96 054 4325 5,00 96 074 3392 5,00
+96 055 3389 5,00 96 074 3396 5,00
+96 055 3390 5,00 96 074 3399 5,00
+96 055 3468 5,00 96 075 3400 4,00
+96 056 3390 5,00 96 076 3392 4,00
+96 0057 3390 5,00 96 076 3398 4,00
+96 058 3390 5,00 96 076 3401 4,00
+96 059 3391 4,00 96 076 3402 4,00
+96 060 3391 4,00 96 077 3389 4,00
+96 061 3389 4,00 96 077 3398 4,00
+96 061 3391 4,00 96 077 3401 4,00
+96 062 3391 4,00 96 077 3402 4,00
+96 062 3401 4,00 96 078 3402 4,00
+96 063 3389 4,00 96 079 3389 30,00
+96 063 3391 4,00 96 079 3403 10,00
+96 064 3389 8,00 96 081 3392 10,00
+96 065 3392 8,00 96 081 3396 10,00
+96 081 3403 10,00 96 092 3389 10,00
+96 081 3403 10,00 96 092 3392 10,00
+96 081 4263 10,00 96 092 3408 10,00
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+9 082 3389 10,00 96 092 3409 10,00
+96 082 3392 10,00 96 092 4321 10,00
+96 082 3403 10,, 96 093 3389 10,00
+96 082 3404 10,00 96 093 3392 10,00
+96 083 3389 30,00 96 093 3409 10,00
+96 083 3405 10,00 96 093 3410 10,00
+96 084 3389 10,00 96 094 3392 10,00
+96 084 3392 10,00 96 094 3396 10,00
+96 084 3404 10,00 96 084 3409 10,00
+96 084 3406 10,00 96 094 3410 10,00
+96 085 3392 10,00 96 095 3392 10,00
+96 085 3396 10,00 96 095 3396 10,00
+96 085 3404 10,00 96 095 3410 10,00
+96 085 3406 10,00 96 095 3411 10,00
+96 086 3392 10,00 96 096 3389 10,00
+96 086 3396 10,00 96 096 3392 10,00
+96 086 3406 10,00 96 096 3410 10,00
+96 086 3407 10,00 96 096 3411 10,00
+96 087 3389 10,00 96 097 3389 25,00
+96 087 3392 10,00 96 098 3389 8,00
+96 087 3406 10,00 96 098 3411 8,00
+96 087 3407 10,00 96 099 3411 8,00
+96 088 3389 25,00 96 099 3412 8,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+9 089 3389 10,00 96 100 3395 8,00
+96 089 3392 10,00 96 100 3396 8,00
+96 089 3407 10,00 96 100 3411 8,00
+96 089 3408 10,00 96 100 3412 8,00
+96 090 3392 10,00 96 101 3395 8,00
+96 090 3396 10,00 96 101 3413 8,00
+96 090 3407 10,00 96 102 3389 30,00
+
+96 090 3407 10,00 96 102 3389 30,00
+96 090 3408 10,00 96 102 3392 8,00
+96 091 3392 10,00 96 102 3396 8,00
+96 091 3396 10,00 96 102 3405 8,00
+96 091 3408 10,00 96 103 3396 8,00
+96 091 3409 10,00 96 103 3403 8,00
+96 103 3404 8,00 96 113 3392 8,00
+96 103 3405 8,00 96 113 3403 8,00
+96 104 3396 8,00 96 113 3405 8,00
+96 104 3404 8,00 96 114 3389 8,00
+96 104 3405 8,00 96 114 3403 8,00
+96 104 3406 8,00 96 114 3404 8,00
+96 105 3396 8,00 96 114 3405 8,00
+96 105 3405 8,00 96 115 3389 8,00
+96 105 3406 8,00 96 115 3404 8,00
+96 105 3407 8,00 96 115 3405 8,00
+96 106 3396 6,00 96 115 3406 8,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+96 106 3405 6,00 96 116 3389 8,00
+96 106 3407 6,00 96 116 3405 8,00
+96 106 3408 6,00 96 116 3406 8,00
+96 107 3396 6,00 96 116 3407 8,00
+96 107 3405 6,00 96 117 3389 6,00
+96 107 3408 6,00 96 117 3405 6,00
+96 107 3409 6,00 96 117 3407 6,00
+96 108 3396 6,00 96 117 3408 6,00
+96 108 3405 6,00 96 118 3389 6,00
+96 108 3409 6,00 96 118 3405 6,00
+96 108 3410 6,00 96 118 3408 6,00
+96 109 3396 5,00 96 118 3409 6,00
+96 109 3405 5,00 96 119 3389 6,00
+96 109 3410 5,00 96 119 3405 6,00
+96 109 3411 5,00 96 119 3409 6,00
+96 110 3396 5,00 96 119 3410 6,00
+96 110 3405 5,00 96 120 3389 5,00
+
+96 110 3405 5,00 96 120 3389 5,00
+96 110 3411 5,00 96 120 3405 5,00
+96 110 3411 5,00 96 120 3410 5,00
+96 111 3396 5,00 96 120 3411 5,00
+96 111 3405 5,00 96 121 3405 5,00
+96 111 3412 5,00 96 121 3411 5,00
+96 111 3413 5,00 96 122 3389 30,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+9 112 3389 30,00 96 122 3405 10,00
+96 112 3392 8,00 96 201 4276 8,00
+96 112 3405 10,00 96 201 4277 8,00
+96 113 3389 8,00 96 201 4296 8,00
+9 202 4276 8,00 96 213 4296 1,21
+96 202 4277 8,00 96 213 4297 1,21
+96 202 4297 8,00 96 214 4283 1,21
+96 203 4277 8,00 96 214 4284 1,21
+96 203 4278 8,00 96 214 4297 1,21
+96 203 4296 8,00 96 214 4299 1,21
+96 204 4277 8,00 96 215 4285 0,56
+96 204 4278 8,00 96 215 4287 0,56
+96 204 4296 8,00 96 216 4286 0,56
+96 204 4297 8,00 96 216 4288 0,56
+96 205 4276 8,00 96 217 4287 0,56
+96 205 4278 8,00 96 217 4289 0,56
+96 205 4297 8,00 96 218 4288 0,56
+96 205 4298 8,00 96 218 4290 0,56
+96 206 4276 8,00 96 219 4300 0,56
+96 206 4278 8,00 96 220 4289 0,56
+96 206 4298 8,00 96 220 4292 0,56
+96 207 4279 1,21 96 221 4290 0,56
+96 207 4280 1,21 96 221 4293 0,56
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+96 207 4296 1,21 96 222 4300 0,56
+96 208 4279 1,21 96 223 4292 0,56
+
+96 208 4280 1,21 96 223 4294 0,56
+96 208 4296 1,21 96 224 4293 0,56
+96 208 4297 1,21 96 224 4295 0,56
+9 209 4279 1,21 96 225 4297 0,56
+96 209 4281 1,21 96 225 4302 0,56
+96 209 4297 1,21 96 226 4303 0,56
+96 210 4280 1,21 96 227 4286 0,56
+96 210 4282 1,21 96 228 4300 0,56
+96 210 4296 1,21 96 300 3396 8,00
+96 211 4280 1,21 96 001 3353 36,08
+9 211 4282 1,21 97 002 3176 36,08
+96 211 4296 1,21 97 002 3181 31,04
+96 211 4297 1,21 97 002 3200 36,08
+96 212 4281 1,21 97 002 3353 36,08
+96 212 4283 1,21 97 004 3174 49,68
+96 212 4297 1,21 97 004 3176 36,08
+96 213 4282 1,21 97 004 3200 40,08
+97 004 3353 40,08 97 131 3656 434,28
+97 005 3353 49,68 97 132 3654 377,61
+97 006 3174 49,68 97 132 3656 434,28
+97 006 3200 49,68 97 133 3654 377,61
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+97 006 3279 49,68 97 133 3656 434,28
+97 006 3353 49,68 97 133 3657 434,28
+97 007 3278 49,28 97 134 3680 434,28
+97 007 3353 49,68 97 135 3657 192,25
+97 008 3200 49,68 97 135 3658 192,25
+97 008 3278 49,28 97 135 3662 192,25
+97 008 3279 49,68 97 136 3658 192,25
+97 008 3353 49,68 97 139 3659 377,61
+97 009 3177 49,28 97 140 3659 377,61
+9 009 3353 65,60 97 141 3679 377,61
+9 010 3200 65,60 97 142 3680 434,28
+97 010 3278 49,28 97 219 3574 91,48
+97 010 3353 65,60 97 219 3577 110,57
+97 114 3644 192,25 97 220 3577 110,57
+
+97 114 3644 192,25 97 220 3577 110,57
+97 115 3645 192,25 97 221 3574 95,05
+97 116 3645 192,25 97 221 3576 103,18
+97 117 3646 316,01 97 221 3578 93,08
+97 117 3647 260,57 97 222 3574 95,05
+97 118 3645 316,01 97 222 3575 93,08
+97 118 3646 316,01 97 222 3578 93,08
+97 119 3646 377,61 97 223 3574 91,48
+97 120 3683 377,61 97 224 3585 126,59
+97 121 3.682 434,28 97 224 3586 133,80
+Setor Quadra Lograd. Valor
+97 106 3640 R$    666,67
+97 106 3637 R$    634,90
+97 107 3640 R$    666,60
+97 107 3639 R$ 1.174,05
+97 108 3639 R$ 1.350,24
+97 109 3684 R$ 1.350,24
+97 110 3683 R$ 1.350,24
+97 143 3664 R$    597,73
+97 143 3665 R$    597,73
+97 143 3667 R$    597,73
+97 144 3664 R$    988,70
+97 144 3665 R$    597,73
+97 145 3664 R$ 1.174,01
+97 145 3665 R$    597,73
+97 145 3667 R$    597,73
+97 146 3679 R$ 1.174,01
+97 147 3685 R$ 1.174,01
+97 152 3668 R$   597,73
+97 153 3668 R$   597,73
+97 153 3672 R$   597,73
+97 154 3670 R$ 1.174,01
+97 154 3668 R$ 1.174,01
+97 155 3670 R$ 1.174,01
+97 155 3667 R$    597,73
+97 156 3685 R$ 1.174,01
+
+Redação dada pela Lei Municipal 1248/2016
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+97 122 3649 192,25 97 224 3587 188,40
+97 123 3650 316,01 97 225 3586 140,26
+97 123 3651 192,25 97 225 3588 147,59
+
+97 123 3651 192,25 97 225 3588 147,59
+97 124 3650 377,61 97 226 3674 82,17
+97 125 3682 434,28 97 227 3580 98,74
+97 126 3681 434,28 97 227 3583 102,44
+97 127 3655 214,43 97 227 3584 98,74
+97 128 3653 214,43 97 228 3580 92,58
+97 128 3654 377,61 97 228 3581 93,88
+97 129 3654 377,61 97 229 3580 93,88
+97 130 3681 434,28 97 230 3580 93,88
+97 230 3582 106,26 97 282 3570 85,87
+97 231 3579 98,13 97 282 3571 85,87
+97 231 3580 93,88 97 283 3564 85,87
+97 232 3628 133,98 97 291 3601 82,17
+97 232 3630 117,41 97 291 3603 85,87
+97 233 3628 124,37 97 292 3601 82,17
+97 233 3630 133,98 97 292 3602 80,45
+97 234 3626 144,82 97 293 3592 80,45
+97 234 3627 118,40 97 293 3601 82,79
+97 234 3628 135,83 97 294 3592 85,44
+97 235 3628 133,98 97 294 3600 84,08
+97 235 3629 158,25 97 295 3599 83,65
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+97 235 3632 158,25 97 317 3671 110,57
+97 235 3633 127,88 97 318 3572 110,57
+97 236 3628 135,83 97 318 3671 110,57
+97 236 3629 192,25 98 001 4266 33,04
+97 236 3631 147,59 98 001 7008 38,43
+97 237 3624 87,84 98 003 3756 74,48
+97 237 3625 82,05 98 003 3757 31,62
+97 238 3619 91,29 98 003 3758 41,88
+97 238 3622 86,12 98 003 3759 49,94
+97 238 3623 89,14 98 003 3760 58,41
+97 238 3625 89,14 98 003 3761 57,43
+97 239 3619 95,23 98 003 3762 78,57
+97 239 3620 98,74 98 003 3763 96,25
+9 240 3619 95,91 98 003 3764 119,06
+
+9 240 3619 95,91 98 003 3764 119,06
+97 240 3621 89,50 98 003 3765 111,23
+97 268 3555 81,20 98 003 3766 99,30
+97 269 3555 81,19 98 003 3767 113,93
+97 269 3559 84,08 98 003 3768 137,20
+97 270 3559 84,08 98 003 3769 150,51
+97 270 3560 82,73 98 003 3770 119,06
+97 271 3559 84,08 98 003 3771 99,30
+97 272 3561 79,96 98 003 3772 84,38
+97 273 3555 73,20 98 003 3773 88,42
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+97 273 3558 78,66 98 003 3774 66,53
+97 273 3559 76,20 98 003 3775 63,82
+97 282 3564 85,87 98 003 3776 56,04
+98 003 3777 44,35 98 005 3813 54,43
+98 003 3778 31,62 98 005 3814 61,11
+98 003 3779 39,17 98 005 3815 48,04
+98 003 3780 44,47 98 005 3816 47,00
+98 003 3781 51,38 98 005 3817 56,04
+98 003 3782 42,97 98 005 3818 64,51
+98 003 3783 35,65 98 005 3819 76,15
+98 003 3784 29,32 98 005 3820 88,42
+98 003 4046 38,25 98 005 3821 108,69
+98 004 3785 36,35 98 005 3822 135,42
+98 004 3786 41,88 98 005 3823 123,72
+98 004 3787 47,00 98 005 3824 111,23
+98 004 3788 54,41 98 005 3825 130,52
+98 004 3789 44,47 98 005 3826 135,42
+98 004 3790 38,25 98 005 3827 90,84
+98 004 3791 31,62 98 005 3828 68,37
+98 004 3792 44,47 98 005 3829 61,11
+98 004 3793 52,53 98 006 3830 78,57
+98 004 3794 62,67 98 006 3831 70,56
+98 004 3795 61,11 98 006 3832 66,53
+Setor Quadra Lograd Valor Setor Quadra Lograd. Valor
+
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 004 3796 81,16 98 006 3833 56,04
+98 004 3797 83,17 98 006 3834 59,21
+98 004 3798 101,95 98 006 3835 63,82
+98 004 3799 123,72 98 006 3836 84,38
+98 004 3800 119,06 98 006 3837 92,91
+98 004 3801 92,91 98 006 3838 112,09
+98 004 3802 123,72 98 006 3839 122,46
+98 004 3803 130,52 98 006 3840 96,25
+98 004 3804 104,77 98 006 3841 113,93
+98 004 3805 88,42 98 006 3842 130,52
+98 004 3806 92,39 98 006 3843 104,77
+98 004 3807 66,53 98 006 3844 88,42
+98 004 3808 69,70 98 006 3845 84,84
+98 004 3809 54,43 98 007 3846 85,25
+98 004 3810 48,04 98 007 3847 77,18
+98 004 3811 70,56 98 007 3848 74,48
+98 004 4323 86,91 98 007 3849 61,11
+98 005 3812 81,16 98 007 3850 64,28
+98 005 3812 81,16 98 007 3850 64,28
+9 007 3851 62,67 98 010 3889 74,48
+98 007 3852 76,15 98 010 3890 92,39
+98 007 3853 74,48 98 010 3891 90,84
+98 007 3854 90,84 98 010 3892 111,23
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 007 3855 92,39 98 010 3893 113,93
+98 007 3856 119,06 98 010 3894 123,72
+98 007 3857 143,19 98 010 3895 130,52
+98 007 3858 135,42 98 010 4040 89,12
+98 007 3859 104,77 98 010 4047 50,00
+98 007 3860 137,20 98 010 4048 50,00
+98 007 3861 119,06 98 011 3896 26,00
+98 007 3862 99,30 98 011 3897 26,00
+98 007 3863 101,95 98 011 3898 19,00
+98 008 3864 96,25 98 011 3899 19,00
+98 008 3865 90,84 98 011 3900 19,00
+
+98 008 3865 90,84 98 011 3900 19,00
+98 008 3866 78,57 98 011 3901 19,00
+98 008 3867 69,70 98 011 3902 19,00
+98 008 3868 84,38 98 011 3903 26,00
+98 008 3869 81,16 98 011 3904 26,00
+98 008 3870 108,69 98 011 3905 26,00
+98 008 3871 112,09 98 011 3906 26,00
+98 008 3872 123,72 98 011 3907 26,00
+98 008 3873 119,06 98 011 3908 26,00
+98 008 3874 137,20 98 012 3909 26,00
+9 008 3875 108,69 98 012 3910 26,00
+98 009 3876 101,26 98 012 3911 19,00
+98 009 3877 88,42 98 012 3912 19,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 009 3878 72,35 98 012 3913 19,00
+98 009 3879 76,15 98 012 3914 14,25
+98 009 3880 90,84 98 012 3915 14,25
+98 009 3881 111,23 98 012 3916 19,00
+98 009 3882 135,42 98 012 3917 19,00
+98 009 3883 123,72 98 012 3918 26,00
+98 009 3884 119,06 98 012 3919 26,00
+98 010 3885 104,77 98 012 3920 26,00
+98 010 3886 101,26 98 012 3921 26,00
+98 010 3887 84,38 98 012 3922 26,00
+98 010 3888 85,25 98 012 3923 26,00
+98 012 3924 26,00 98 014 3962 19,00
+98 013 3925 26,00 98 014 3963 26,00
+98 013 3926 26,00 98 014 3964 26,00
+98 013 3927 19,00 98 014 3965 26,00
+98 013 3928 19,00 98 014 3966 26,00
+98 013 3929 14,25 98 014 3967 26,00
+98 013 3930 14,25 98 014 3968 26,00
+98 013 3931 19,00 98 014 3969 26,00
+98 013 3932 19,00 98 014 3970 19,00
+98 013 3933 14,25 98 014 3971 26,00
+98 013 3934 14,25 98 015 3973 19,00
+
+98 013 3934 14,25 98 015 3973 19,00
+98 013 3935 14,25 98 015 3974 19,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 013 3936 19,00 98 015 3975 14,25
+98 013 3937 19,00 98 015 3976 14,25
+98 013 3938 19,00 98 015 3977 14,25
+98 013 3939 19,00 98 015 3978 14,25
+98 013 3940 19,00 98 015 3979 14,25
+98 013 3941 26,00 98 015 3980 10,00
+98 013 3942 26,00 98 015 3981 14,25
+98 013 3943 26,00 98 015 3982 19,00
+98 013 3944 19,00 98 015 3983 19,00
+98 013 3945 26,00 98 015 3984 26,00
+98 013 3946 26,00 98 015 3985 26,00
+98 014 3947 19,00 98 015 3986 26,00
+98 014 3948 14,25 98 015 3987 26,00
+98 014 3949 14,25 98 015 3988 26,00
+98 014 3950 10,00 98 015 3989 19,00
+98 014 3951 10,00 98 015 3990 19,00
+98 014 3952 10,00 98 016 3991 19,00
+98 014 3953 10,00 98 016 3992 14,25
+98 014 3954 14,25 98 016 3993 14,25
+98 014 3955 10,00 98 016 3994 14,25
+9 014 3956 10,00 98 016 3995 10,00
+98 014 3957 10,00 98 016 3996 10,00
+98 014 3958 14,25 98 016 3997 10,00
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 014 3959 19,00 98 016 3998 14,25
+98 014 3960 19,00 98 016 3999 14,25
+98 014 3961 19,00 98 016 4000 14,25
+98 016 4001 19,00 98 019 4038 14,25
+98 016 4002 19,00 98 019 4039 14,25
+98 016 4003 19,00 98 019 4040 14,25
+98 016 4004 26,00 98 019 4041 19,00
+
+98 016 4004 26,00 98 019 4041 19,00
+98 016 4005 26,00 98 019 4042 19,00
+98 016 4006 26,00 98 019 4043 19,00
+98 016 4007 26,00 98 019 4044 14,25
+98 016 4008 26,00 98 019 4045 14,25
+98 016 4009 26,00 98 100 4132 11,84
+98 016 4010 19,00 98 100 4133 11,84
+98 016 4048 19,00 98 100 4135 4,96
+98 017 4011 14,25 98 100 4136 7,28
+98 017 4012 10,00 98 100 4137 7,44
+98 017 4013 10,00 98 100 4138 8,64
+98 017 4014 10,00 98 100 4139 11,68
+98 017 4015 10,00 98 100 4140 11,68
+98 017 4016 14,25 98 100 4141 11,84
+98 017 4017 19,00 98 100 4142 10,72
+98 017 4018 19,00 98 100 4143 13,28
+98 017 4019 19,00 98 100 4208 9,44
+9Setor 017Qu
+adra
+4020L
+ograd.
+19,00V
+alor
+98Seto
+r
+100Quad
+ra
+4212Lo
+grad.
+8,24Val
+or
+98 017 4021 19,00 98 100 4213 4,56
+98 017 4022 14,25 98 100 4214 5,12
+98 017 4023 14,25 98 100 4215 3,20
+98 018 4024 10,00 98 101 4146 11,84
+98 018 4025 14,25 98 101 4147 10,00
+98 018 4026 14,25 98 101 4148 10,00
+98 018 4027 19,00 98 101 4150 7,00
+98 018 4028 19,00 98 101 4151 7,00
+98 018 4029 19,00 98 101 4152 4,56
+98 018 4030 19,00 98 101 4153 4,56
+98 018 4031 19,00 98 101 4154 4,56
+98 018 4032 19,00 98 101 4156 4,56
+98 018 4033 14,25 98 101 4157 7,00
+98 018 4034 10,00 98 101 4158 7,00
+98 019 4035 10,00 98 101 4159 10,00
+98 019 4036 10,00 98 101 4160 10,00
+98 019 4037 14,25 98 101 4161 11,84
+98 101 4162 11,84 98 104 4205 35,00
+
+98 101 4209 10,00 98 104 4206 26,00
+98 102 4164 26,00 98 104 4207 35,00
+98 102 4165 26,00 98 104 4216 60,00
+98 102 4166 19,00 98 105 4218 88,88
+98 102 4169 19,00 98 105 4219 115,89
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 102 4170 19,00 98 105 4220 143,19
+98 102 4171 19,00 98 105 4221 119,06
+98 102 4172 14,25 98 105 4224 112,09
+98 102 4173 14,25 98 105 4224 122,46
+98 102 4174 14,25 98 105 4225 143,19
+98 102 4175 19,00 98 105 4226 122,46
+98 102 4210 14,25 98 105 4227 88,42
+98 103 4177 19,00 98 105 4229 99,30
+98 103 4179 19,00 98 105 4230 85,25
+98 103 4180 14,25 98 105 4231 81,16
+98 103 4181 14,25 98 105 4232 69,70
+98 103 4182 14,25 98 105 4234 104,77
+98 103 4183 14,25 98 105 4235 130,52
+98 103 4184 19,00 98 105 4248 113,93
+98 103 4185 19,00 98 106 4250 60,00
+98 103 4186 26,00 98 107 4239 119,06
+98 103 4188 26,00 98 107 4240 92,39
+98 103 4189 19,00 98 107 4241 101,26
+98 103 4190 26,00 98 107 4242 96,25
+98 103 4211 19,00 98 107 4243 119,06
+98 104 4191 40,00 98 107 4244 119,06
+98 104 4192 40,00 98 107 4245 101,26
+98 104 4193 40,00 98 107 4246 123,72
+Setor Quadra Lograd
+.
+Valor Setor Quadra Lograd. Valor
+98 104 4195 40,00 98 107 4272 96,25
+98 104 4196 40,00 98 200 4307 96,25
+98 104 4197 40,00
+98 104 4198 40,00
+
+98 104 4198 40,00
+98 104 4199 40,00
+98 104 4200 40,00
+98 104 4202 35,00
+98 104 4203 35,00
+98 104 4204 35,00
+TABELA II
+FATORES DE PROFUNDIDADE
+profundidade
+equivalente
+até
+fator
+10 0,7071
+11 0,7416
+12 0,7746
+13 0,8062
+14 0,8367
+15 0,8660
+16 0,8944
+17 0,9220
+18 0,9487
+19 0,9747
+20 a 40 1,0000
+41 0,9877
+42 0,9759
+43 0,9645
+44 0,9535
+45 0,9428
+46 0,9325
+47 0,9225
+48 0,9129
+49 0,9035
+50 0,8944
+51 0,8856
+52 0,8771
+53 0,8687
+54 0,8607
+
+54 0,8607
+55 0,8528
+56 0,8452
+57 0,8377
+58 0,8305
+59 0,8234
+60 0,8165
+61 0,8098
+62 0,8032
+63 0,7968
+64 0,7906
+65 0,7845
+66 0,7785
+67 0,7727
+68 0,7670
+69 0,7614
+70 0,7559
+71 0,7506
+72 0,7454
+73 0,7402
+74 0,7352
+75 0,7303
+76 0,7255
+77 0,7207
+78 0,7161
+79 0,7116
+80 0,7071
+acima de 80 0,7071
+TABELA III
+FATOR DE OBSOLESCÊNCIA
+Idade do
+Prédio
+(anos)
+Fator
+até 5 1,00
+de 6 a 10 0,93
+de 11 a 15 0,86
+
+de 11 a 15 0,86
+de 16 a 20 0,79
+de 21 a 25 0,72
+de 26 a 30 0,65
+de 31 a 35 0,58
+mais de 35 0,51
+Tablea IV
+Tipos e Padrões de Construção
+Estacionamentos de Veículos
+Tipo
+Acabamento
+Valor
+Bom 213,15
+Regular 161,16
+    RESIDÊNCIAS
+Tipo Acabamento Valor
+LUXO 626,12
+EXTRA FINO 585,41
+FINO 503,99
+BOM 381,85
+MÉDIA SUPERIOR 324,29
+MÉDIA
+COMERCIAL
+266,73
+REGULAR 209,17
+POPULAR 137,33
+RÚSTICA 77,89
+Redação dada pela lei 434/2000
+Redação Anterior
+APARTAMENTOS
+Tipo Acabamento Valor
+LUXO 723,49
+EXTRA FINO 647,36
+
+EXTRA FINO 647,36
+FINO 571,23
+BOM COM ELEVADOR 495,10
+REG. COM ELEVADOR 302,41
+BOM SEM ELEVADOR 232,20
+REG. SEM ELEVADOR 161,60
+GARAGEM DO PRÉDIO 197,49
+Redação Anterior
+Redação dada pela lei 434/2000
+Escritórios
+Tipo Acabamento Valor
+Luxo 842,70
+Bom com Elevador 649,19
+Reg. com Elevador 562,54
+Bom Sem Elevador 517,76
+Reg. Sem Elevador 397,46
+Bancos e Similares
+Tipo Acabamento Valor
+Bom 643,05
+Regular 493,65
+Lojas
+Tipo Acabamento Valor
+Luxo 778,84
+Bom 559,18
+Regular 429,26
+Popular 322,61
+Supermercados
+Tipo Acabamento Valor
+Luxo 817,79
+Bom 587,14
+Regular 540,72
+
+Hoteis e Similares
+Tipo Acabamento Valor
+Luxo 601,93
+Bom com Elevador 443,53
+Reg. com Elevador 383,37
+Bom sem Elevador 348,38
+Reg. sem Elevador 260,34
+Pensões
+Tipo Acabamento Valor
+Luxo 601,93
+Bom com Elevador 443,53
+Reg. com Elevador 383,37
+Bom sem Elevador 348,38
+Reg. sem Elevador 260,34
+Hoteis
+Tipo Acabamento Valor
+Luxo 866,77
+Bom com Elevador 667,74
+Reg. com Elevador 578,62
+Bom sem Elevador 532,55
+Reg. sem Elevador 408,82
+Bares, Restaurantes e Lanchonetes
+Tipo Acabamento Valor
+Luxo 663,09
+Bom com Elevador 510,82
+Reg. com Elevador 442,63
+Bom sem Elevador 407,41
+Reg. sem Elevador 312,74
+Clínicas Médicas e Dentistas
+Tipo Acabamento Valor
+Luxo 842,70
+
+Bom com Elevador 656,60
+Reg. com Elevador 562,54
+Bom sem Elevador 517,76
+Reg. sem Elevador 397,46
+Mercearias
+Tipo Acabamento Valor
+Luxo 681,36
+Bom 492,09
+Regular 373,12
+Popular 283,00
+Cemitérios
+Tipo Acabamento Valor
+Luxo 663,78
+Bom com Elevador 510,05
+Reg. com Elevador 443,29
+Bom sem Elevador 407,86
+Reg. sem Elevador 312,64
+Escolas e Creches
+Tipo Acabamento Valor
+Luxo 590,66
+Bom 446,62
+Regular 330,45
+Popular 250,82
+Clubes e Agremiações
+Tipo Acabamento Valor
+Luxo 611,07
+Bom 489,99
+Regular 407,15
+Popular 312,76
+Templos
+
+Tipo Acabamento Valor
+Luxo 625,83
+Bom 506,17
+Regular 413,12
+Popular 315,82
+Hospitais e Asilos
+Tipo Acabamento Valor
+Luxo 716,45
+Bom 535,95
+Regular 398,37
+Popular 301,06
+Repartições Públicas
+Tipo Acabamento Valor
+Luxo 778,82
+Bom 583,30
+Regular 467,87
+Popular 377,46
+Postos de Serviços
+Tipo Acabamento Valor
+Bom 244,93
+Regular 207,05
+Armazens
+Tipo Acabamento Valor
+Regular 363,34
+Popular 275,25
+Indústrias Comuns
+Tipo Acabamento Valor
+Regular 363,34
+Popular 275,25
+
+Popular 275,25
+Indústrias Especializadas
+Tipo Acabamento Valor
+Bom 609,00
+Regular 454,16
+Popular 344,06
+Cinemas e Teatros
+Tipo Acabamento Valor
+Luxo 576,83
+Bom 457,22
+Popular 377,45
+Garagens
+Tipo Acabamento Valor
+Com Elevador 244,89
+Com rampa 236,37
+Térrea 218,71
+Academia de Ginásticas
+Tipo Acabamento Valor
+Luxo 707,64
+Bom com Elevador 541,07
+Reg. com Elevador 464,79
+Bom sem Elevador 431,74
+Reg. sem Elevador 333,44
+Policiais
+Tipo Acabamento Valor
+Luxo 778,81
+Bom 583,29
+Regular 467,87
+Popular 377,45
+
+Forças Armadas
+Tipo Acabamento Valor
+Luxo 596,46
+Bom 452,52
+Regular 333,52
+Popular 253,76
+Casa em Série e Condomínios Horizontais
+Tipo Acabamento Valor
+Luxo 723,49
+Bom 495,10
+Regular 302,41
+Lei nº 842, de 22 de Dezembro de 2008
+"Institui o Conselho Municipal da
+Juventude - CONJUV."
+Autoria: Dr. Lairton Gomes Goulart - Prefeito do Município
+Processo: 103/08
+Projeto: 003/08
+Promulgação: 22/12/2008
+Publicação: 24/12/2008  - Boletim Oficial do Município - edição 332
+Decreto:
+Alterações: Alterada pela Lei Municipal 1217/2016
+                    Alterada pela Lei Municipal 987/2011
+DR. LAIRTON GOMES GOULART, Prefeito do Município faço saber que o Poder
+Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 12ª Sessão
+Extraordinária, realizada no dia 16 de dezembro deste  ano e que sanciono e promulgo a
+seguinte Lei:
+CAPÍTULO I
+DO CONSELHO MUNICIPAL DA JUVENTUDE
+Art. 1°.  Fica instituído o Conselho Municipal da Juventude - CONJUV,
+órgão colegiado de caráter consultivo e deliberativo, vinculado ao Gabinete do Prefeito, que
+
+tem suas atribuições, competências, estrutura e funcionamento definidos nesta Lei.
+Art. 2°.  Compete ao Conselho Municipal da Juventude as seguintes
+atribuições:
+I - Estudar, analisar, elaborar, discutir, aprovar e propor políticas públicas
+que permitam e garantam a integração e a participação do jovem no processo social,
+econômico, político e cultural do município;
+II - Colaborar com os órgãos da administração municipal na implementação
+de políticas voltadas ao entendimento das necessidades da juventude;
+III - Desenvolver estudos e pesquisas relativas a juventude, objetivando
+subsidiar o planejamento de estudos de ações públicas deste segmento;
+IV - Estudar, analisar, elaborar, discutir, aprovar e propor a celebração de
+convênios e contratos com outros organismos públicos e privados, visando a elaboração de
+projetos e objetos voltadas para a juventude;
+V - Promover e participar de seminários, cursos, congressos e eventos
+correlatos pala discussão de temas relativos a juventude que contribuam para a
+conscientização e soluções relativas aos problemas enfrentados pelos jovens do município;
+VI - Propor a criação de canais de participação popular junto aos órgãos
+municipais, voltados para o atendimento das questões relativas a juventude;
+VII - Atuar de forma decisiva na defesa dos direitos de organização e
+manifestação juvenil;
+VIII - Promover e incentivar campanhas de conscientização e programas
+educativos, particularmente junto a instituições de ensino e pesquisas, empresas, veículos de
+comunicação e outras entidades, sobre potencialidades, direitos e deveres da juventude;
+IX -  Fomentar o associativismo juvenil, prestando apoio e assistência
+quando solicitado, além de estimular sua participação nos organismos públicos e movimentos
+sociais;
+X - Elaborar e aprovar o seu Regimento interno e normas de
+funcionamento.
+CAPÍTULO II
+DA COMPOSIÇÃO E DOS CONSELHEIROS
+Art. 3º. O Conselho Municipal da Juventude será
+constituído de 14 (quatorze) membros titulares e seus respectivos suplentes,
+designados e nomeados por Decreto Municipal para o mandato de 02 (dois)
+anos, admitida a recondução por uma vez, com a seguinte composição:
+I - 05 (cinco) representantes indicados pelo Poder
+Executivo, sendo:
+a) 01 (um) representante do Gabinete do Prefeito;
+b) 01 (um) representante da Secretaria de Turismo,
+Esporte e Cultura,
+
+c) 01 (um) representante da Secretaria de
+Desenvolvimento Social, Trabalho e Renda,
+d) 02 (dois) representantes de qualquer Secretaria ou
+Diretoria municipal vinculada à atuação local com juventude;
+II - 02 (dois) representantes indicados pelo Poder
+Legislativo;
+III - 07 (sete) representantes da sociedade civil,
+escolhidos mediante eleição direta, sendo:
+a) 03 (três) representantes de instituições/organizações
+com reconhecida atuação local com juventude;
+b) 04 (quatro) jovens cidadãos independentes de
+vinculação com quaisquer organizações e/ou instituições.
+Parágrafo único. Para todos os efeitos compreenderemos
+jovens como todos aqueles com idade entre 15 e 29 anos em conformidade com o
+recomendado pela ONU- Organização das Nações Unidas, ratificado no Brasil
+pela Lei Federal nº  12.852, de 05 de agosto de 2013 (Estatuto da Juventude).
+(NR)
+Redação dada pela Lei Municipal 1217/2016
+Redação dada pela Lei Municipal 987/2011
+Redação anterior
+Parágrafo único. A cada membro efetivo caberá um suplente.
+Art. 4º. O Poder Executivo Municipal providenciará a publicação do edital,
+fartamente divulgado, a fim de noticiar, a tantos quantos venham interessar, a abertura de
+vagas para o Conselho Municipal da Juventude e o respectivo cronograma de preenchimento
+das vagas.
+Art. 5º. O exercício da função de conselheiros não proporcionará qualquer
+tipo de remuneração e nem implicará em vínculo com o Poder Público, sendo considerado de
+relevante serviço público.
+CAPÍTULO III
+DA ESTRUTURA BÁSICA E FUNCIONAMENTO
+Art. 6°. A estrutura básica do Conselho é a seguinte:
+I - Presidência;
+II - Vice-Presidência;
+III - Secretaria Geral.
+Parágrafo único. O Presidente, o Vice Presidente e o Secretário Geral serão
+eleitos pelo voto da maioria simples dos conselheiros, através de votação secreta, havendo
+
+empate, será considerado vencedor o concorrente mais idoso.
+Art. 7°. O Conselho Municipal da Juventude reunir-se-á ordinariamente, de
+forma mensal, podendo ser convocado, extraordinariamente, por solicitação de, no mínimo
+50% (cinqüenta por cento) de seus membros ou pelo Presidente.
+§ 1°. As reuniões do Conselho serão ampla e previamente divulgadas, com
+participação livre a todos os interessados, que terão direito a voz.
+§ 2°. As deliberações e os comunicados de interesse do Conselho deverão
+ser publicados na imprensa oficial do Município.
+Art. 8°.  As decisões do Conselho serão tomadas por maioria simples,
+exigida a presença de metade e mais um de seus membros para deliberar.
+Art. 9°.  O Poder Executivo proporcionará ao Conselho Municipal da
+Juventude o suporte técnico, administrativo e outros meios necessários, garantindo-lhe
+condições para o seu pleno e regular funcionamento.
+Art. 10.  Para o bom desempenho do Conselho poderão ser criadas
+comissões técnicas permanentes ou temporárias para elaboração e acompanhamento de
+projetos e atividades especiais.
+CAPÍTULO VI
+DAS DISPOSIÇÕES GERAIS
+Art. 11.  O Conselho Municipal de Juventude deverá elaborar seu
+Regimento Interno, dispondo sobre seu funcionamento e a competência de seus diretores e
+eventuais comissões especiais internas que vierem a ser instituídas, que, após manifestação da
+Procuradoria Geral do Município será submetido à aprovação por Decreto do Prefeito.
+Art. 12. Esta Lei entra em vigor na data de sua publicação.
+Art. 13. Revogam-se as disposições em contrário.
+Bertioga, 22 de dezembro de 2.008.
+DR. LAIRTON GOMES GOULART
+PREFEITO DO MUNICÍPIO
+
+Lei nº 883, de 16 de Novembro de 2009
+"Concede 'Cartão Alimentação' aos
+servidores públicos municipais dos niveis
+1, 2, 3, 4, 5 e 6 em substituição das cestas
+básicas"
+Autor: Prefeito José Mauro Dedemo Orlandini
+Processo: 825/09
+Projeto: 108/09
+Promulgação: 29/10/2009
+Publicação: Boletim Oficial do Município nº 379 de 21/11/2009
+Decreto:
+Alterações:
+Alterada pela Lei Municipal 1209/2016
+Alterada pela Lei Municipal 1099/2014
+José Mauro Dedemo Orlandini, Prefeito do Município de Bertioga  faço saber que o Poder
+Legislativo aprovou em 2ª Discussão e Redação Final na 19ª Sessão Extraordinária, realizada
+no dia 10 de novembro deste ano e que sanciono e promulgo a seguinte Lei:
+Art. 1º. Esta Lei institui, a partir de 1º de dezembro de 2009, "Cartão de
+Alimentação" em favor dos servidores públicos municipais que se enquadrem nos níveis
+salariais 1, 2, 3, 4, 5 e 6, constantes do Anexo XII da Lei Complementar Municipal nº 01, de
+29 de março de 2001, no valor de R$ 100,00 (cem Reais) por mês em substituição das cestas
+básicas.
+Parágrafo único. O valor previsto no caput será reajustado na mesma data
+e com o mesmo índice do reajuste anual concedido ao funcionalismo público municipal.
+Ver Lei Municipal 1209/2016
+Ver Lei Municipal  1099/2014
+Art. 2º.  O valor concedido a título de "Cartão de Alimentação" não se
+incorpora aos vencimentos dos servidores beneficiados.
+Art. 3º. As despesas decorrentes da execução desta Lei correrão por conta
+de dotação orçamentária própria, suplementada, se necessário.
+Art. 4º. Esta Lei entra em vigor na data de sua publicação, revogando as
+disposições em contrário, em especial as Leis Municipais nº 462, de 24 de agosto de 2001,
+Lei nº 531, de 28 de maio de 2003 e Lei nº 703, de 25 de maio de 2006.
+Bertioga, 11 de Novembro de 2.009.
+
+Arq. Urb. José Mauro Dedemo Orlandini
+Prefeito do Município

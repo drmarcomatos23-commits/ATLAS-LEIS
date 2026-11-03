@@ -1,0 +1,156 @@
+---
+titulo: "Lei Ordinária nº 1249/2016"
+uf: "SP"
+municipio: "Bertioga"
+tipo: "Lei Ordinária"
+numero: "1249"
+data: 2016-12-21
+ementa: "AUTORIZA O PODER EXECUTIVO MUNICIPAL A ABRIR CRÉDITO SUPLEMENTAR NO ORÇAMENTO NO VALOR DE R$ 9.637.846,45"
+versao_texto: "texto integral anexado no SAPL municipal"
+fonte: "https://sapl.bertioga.sp.leg.br/norma/4111"
+arquivo: "https://sapl.bertioga.sp.leg.br/media/sapl/public/normajuridica/2016/4111/4111_texto_integral.pdf"
+id_fonte: "sapl-4111"
+baixado_em: 2026-11-03
+tipo_na_fonte: "Lei Ordinária"
+---
+
+# Lei Ordinária nº 1249/2016
+
+Lei nº 1.227, de 26 de Setembro de 2016
+"Dá nova redação ao artigo 2º da Lei
+Municipalnº 1.225/16 e dá outras
+providências"
+Autoria: Vereador Luís Henrique Capellini
+Processo: 448/2016
+Projeto: 032/2016
+Promulgação: 26/09/2016
+Publicação: BOM 738, de 01/10/2016
+Decreto:
+Alterações:
+Observação:
+José Mauro Dedemo Orlandini, Prefeito do Município de Bertioga, faço saber que o Poder
+Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 11ª Sessão
+Exatraordinária realizada no dia 12 de setembro do corrente ano, e que sanciono e promulgo a
+seguinte Lei:
+Art. 1º.  Introduz o artigo 2º na Lei Municipal nº 1.225/16, que passa a
+vigorar com a redação seguinte:
+"Art. 2º. Os subsídios previstos no artigo anterior, na
+forma do inciso X do art. 37 da Constituição Federal, serão revisados
+anualmente, sempre no mês de março de cada ano, no percentual equivalente ao
+Índice Nacional de Preços ao Consumidor Amplo - IPCA, do período."
+Art. 2°.  As despesas decorrentes da presente Lei onerarão as rubricas
+próprias do orçamento vigente, suplementadas se necessário.
+Art. 3º. Esta Lei entrará em vigor na data de sua publicação, revogando as
+disposições em contrário.
+Bertioga, 26 de setembro de 2016.
+Arq. Urb. José Mauro Dedemo Orlandini
+Prefeito do Município
+
+Lei nº 1.249, de 21 de Dezembro de 2016
+"Autoriza o Poder Executivo Municipal a
+abrir Crédito Adicional Suplementar no
+orçamento no valor de R$ 9.637.846,45
+(nove milhões, seiscentos e trinta e sete
+mil, oitocentos e quarenta e seis reais e
+quarenta e cinco centavos)"
+ Autoria: José Mauro Dedemo Orlandini - Prefeito do Município
+Processo: 621/2016
+Projeto: 066/2016
+Promulgação: 21/12/2016
+Publicação: BOM 752, de 24/12/2016
+Decreto:
+Alterações:
+Observação:
+José Mauro Dedemo Orlandini, Prefeito do Município de Bertioga, faço saber que o Poder
+Legislativo Municipal aprovou em 2ª Discussão e Redação Final na 34ª Sessão Extraordinária
+realizada no dia 20 de dezembro do corrente ano, e que sanciono e promulgo a seguinte Lei:
+Art. 1º  Fica o Poder Executivo Municipal autorizado a abrir Crédito
+Adicional Suplementar no orçamento no valor de R$ 9.637.846,45 (nove milhões, seiscentos
+e trinta e sete mil, oitocentos e quarenta e seis reais e quarenta e cinco centavos), destinados
+às seguintes dotações orçamentárias:
+
+UNID FUNCIONAL PROGRAMÁTICA NATUREZA DA DESPESA VÍNCULO FICHA  VALOR JUSTIFICATIVA
+01.16.01 04.122.0021.2.020 3.1.90.11.00 01.000.0000 3 R$      545.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.16.01 04.122.0021.2.020 3.1.90.13.00 01.000.0000 4 R$         16.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.16.01 04.122.0021.2.020 3.1.91.13.00 01.000.0000 6 R$         71.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.16.01 04.122.0021.2.020 3.3.90.49.00 01.000.0000 8 R$         13.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.1.90.11.00 01.000.0000 35 R$    1.068.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.1.90.13.00 01.000.0000 36 R$           3.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.1.90.16.00 01.000.0000 37 R$           6.246,45  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.1.91.13.00 01.000.0000 38 R$       246.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.3.90.46.00 01.000.0000 39 R$           6.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.3.90.49.00 01.000.0000 40 R$           7.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.17.01 04.122.0031.2.020 3.3.90.95.00 01.000.0000 41 R$              500,00  DESPESA DE FOLHA DE PAGAMENTO
+01.18.01 15.452.0041.2.020 3.1.90.11.00 01.000.0000 75 R$       161.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.18.01 15.452.0041.2.020 3.1.90.13.00 01.000.0000 76 R$         12.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.18.01 15.452.0041.2.020 3.1.90.16.00 01.000.0000 77 R$           2.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.18.01 15.452.0041.2.020 3.1.91.13.00 01.000.0000 78 R$         62.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.18.01 15.452.0041.2.020 3.3.90.49.00 01.000.0000 80 R$           4.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.18.02 15.451.0044.2.020 3.1.90.11.00 01.000.0000 96 R$         12.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.19.01 12.122.0051.2.020 3.1.90.11.00 01.000.0000 112 R$         27.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.19.01 12.122.0051.2.020 3.3.90.49.00 01.000.0000 117 R$           3.500,00  DESPESA DE FOLHA DE PAGAMENTO
+01.19.02 12.368.0052.2.020 3.1.90.11.00 02.000.0000 132 R$       347.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.19.04 12.365.0054.2.020 3.1.91.13.00 01.000.0000 168 R$           6.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.20.01 08.244.0161.2.020 3.1.90.11.00 01.000.0000 218 R$       427.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.20.01 08.244.0161.2.020 3.1.91.13.00 01.000.0000 221 R$         74.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.21.01 18.541.0081.2.020 3.1.90.11.00 01.000.0000 291 R$       402.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.21.01 18.541.0081.2.020 3.1.90.13.00 01.000.0000 292 R$         17.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.21.01 18.541.0081.2.020 3.1.91.13.00 01.000.0000 294 R$         67.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.21.01 18.541.0081.2.020 3.3.90.46.00 01.000.0000 295 R$         17.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.21.01 18.541.0081.2.021 3.3.90.36.00 01.000.0000 298 R$           7.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.22.01 15.451.0091.2.020 3.1.90.11.00 01.000.0000 335 R$       356.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.22.01 15.451.0091.2.020 3.1.91.13.00 01.000.0000 338 R$         76.000,00  DESPESA DE FOLHA
+
+01.22.01 15.451.0091.2.020 3.3.90.49.00 01.000.0000 340 R$           2.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.22.01 15.451.0091.2.020 3.3.90.95.00 01.000.0000 341 R$           4.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.01 06.181.0101.2.020 3.1.90.11.00 01.000.0000 361 R$    1.068.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.01 06.181.0101.2.020 3.1.90.16.00 01.000.0000 363 R$           7.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.01 06.181.0101.2.020 3.1.91.13.00 01.000.0000 364 R$       166.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.01 06.181.0101.2.020 3.3.90.49.00 01.000.0000 366 R$           4.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.03 06.181.0104.2.049 3.1.90.04.00 01.000.0000 386 R$         17.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.04 04.122.0106.2.020 3.1.90.11.00 01.000.0000 393 R$         62.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.23.04 04.122.0106.2.020 3.1.91.13.00 01.000.0000 396 R$         13.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.24.01 04.122.0111.2.020 3.1.90.11.00 01.000.0000 410 R$       293.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.24.01 04.122.0111.2.020 3.1.91.13.00 01.000.0000 413 R$         74.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.24.01 04.122.0111.2.020 3.3.90.46.00 01.000.0000 414 R$         16.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.122.0121.2.020 3.1.90.11.00 01.000.0000 464 R$       441.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.122.0121.2.020 3.1.90.13.00 01.000.0000 465 R$           5.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.122.0121.2.020 3.1.90.16.00 01.000.0000 466 R$           2.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.122.0121.2.020 3.1.91.13.00 01.000.0000 467 R$         55.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.122.0121.2.020 3.3.90.49.00 01.000.0000 469 R$              500,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.301.0123.2.020 3.1.90.11.00 01.000.0000 487 R$       561.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.301.0123.2.020 3.1.90.11.00 02.000.0000 487 R$       270.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.301.0123.2.020 3.1.90.13.00 01.000.0000 488 R$         38.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.301.0123.2.020 3.1.91.13.00 01.000.0000 490 R$       165.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.301.0123.2.020 3.3.90.49.00 01.000.0000 492 R$           9.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.302.0123.2.020 3.1.90.11.00 01.000.0000 501 R$       829.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.302.0123.2.020 3.1.90.13.00 01.000.0000 502 R$           1.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.302.0123.2.020 3.1.91.13.00 01.000.0000 504 R$       218.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.302.0123.2.020 3.3.90.49.00 01.000.0000 506 R$           4.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.303.0123.2.020 3.1.90.11.00 01.000.0000 515 R$       121.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.303.0123.2.020 3.1.91.13.00 01.000.0000 518 R$         21.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.303.0123.2.020 3.3.90.46.00 01.000.0000 519 R$              500,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.304.0123.2.020 3.1.90.11.00 01.000.0000 527 R$       507.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.304.0123.2.020 3.1.90.13.00 01.000.0000 528 R$              100,00  DESPESA DE FOLHA
+
+01.25.01 10.304.0123.2.020 3.1.91.13.00 01.000.0000 530 R$       114.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.304.0123.2.020 3.3.90.46.00 01.000.0000 531 R$              500,00  DESPESA DE FOLHA DE PAGAMENTO
+01.25.01 10.304.0123.2.020 3.3.90.49.00 01.000.0000 532 R$           5.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.26.01 15.451.0141.2.020 3.1.90.11.00 01.000.0000 568 R$       186.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.26.01 15.451.0141.2.020 3.1.91.13.00 01.000.0000 571 R$         32.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.27.01 03.092.0151.2.020 3.1.90.11.00 01.000.0000 591 R$       199.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.27.01 03.092.0151.2.020 3.1.90.13.00 01.000.0000 592 R$           2.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.27.01 03.092.0151.2.020 3.1.91.13.00 01.000.0000 594 R$         38.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.27.01 03.092.0151.2.020 3.3.90.46.00 01.000.0000 595 R$           6.000,00  DESPESA DE FOLHA DE PAGAMENTO
+01.27.01 03.092.0151.2.021 3.3.90.36.00 01.000.0000 597 R$         20.000,00  DESPESA DE FOLHA DE PAGAMENTO
+TOTAL  R$   9.637.846,45
+
+Art. 2º As despesas com a abertura do Crédito Adicional Suplementar de
+que trata o artigo 1º desta Lei serão cobertas por anulação parcial ou total das seguintes
+dotações orçamentárias:
+Art. 3º. Esta Lei entra em vigor na data de sua publicação, retroagindo seus
+efeitos ao dia 15 de dezembro de 2016.
+Art. 4º. Revogam-se as disposições em contrário.
+Bertioga, 21 de dezembro de 2016.
+Arq. Urb. José Mauro Dedemo Orlandini
+Prefeito do Município
