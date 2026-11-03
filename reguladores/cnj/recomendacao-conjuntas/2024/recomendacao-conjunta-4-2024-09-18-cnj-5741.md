@@ -1,0 +1,50 @@
+---
+titulo: "Recomendação Conjunta Nº 4 de 18/09/2024"
+orgao: "CNJ – Presidência"
+tipo: "Recomendação Conjunta"
+numero: "4"
+data: 2024-09-18
+ementa: "Recomenda aos juízes e membros do Ministério Público que deem preferência e especial atenção à tramitação de inquéritos e ações envolvendo a punição de infrações ambientais, inclusive questões que envolvam medidas cautelares, tais como buscas e apreensões e prisões preventivas."
+situacao: "Vigente"
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "DJe/CNJ n. 224/2024, de 19 de setembro de 2024, p. 2."
+fonte: "https://atos.cnj.jus.br/atos/detalhar/5741"
+arquivo: "https://atos.cnj.jus.br/files/original1350152024091966ec2c17e111e.pdf"
+id_fonte: "cnj-5741"
+baixado_em: 2026-11-03
+---
+
+# Recomendação Conjunta Nº 4 de 18/09/2024
+
+**O PRESIDENTE DO CONSELHO NACIONAL DE JUSTIÇA (CNJ)**, o **PRESIDENTE DO CONSELHO NACIONAL DO MINISTÉRIO PÚBLICO (CNMP)**, o **CORREGEDOR NACIONAL DE JUSTIÇA** e o **CORREGEDOR NACIONAL DO MINISTÉRIO PÚBLICO**, no uso de suas atribuições legais e regimentais, e tendo em vista o contido no processo SEI/CNJ nº 13012/2024,
+
+**CONSIDERANDO** a situação pública e notória de multiplicidade de focos de incêndio espalhados por boa parte do Brasil, que já afeta milhões de pessoas em centenas de municípios;
+
+**CONSIDERANDO** a expressiva degradação da qualidade do ar – classificada como a pior do mundo em São Paulo/SP entre os dias 9 e 12 de setembro de 2024 –, decorrente da fumaça que já cobre 60% (sessenta por cento) do território nacional e alguns países vizinhos;
+
+**CONSIDERANDO** que o contexto atual tem relação não apenas com o quadro de emergência climática, mas também com queimadas possivelmente criminosas, especialmente nos biomas Amazônia e Pantanal, que, por suas características naturais, não favorecem combustões espontâneas, diferentemente do bioma Cerrado;
+
+**CONSIDERANDO** a atribuição das Presidências do CNJ e do CNMP para praticar, em caso de urgência, ato administrativo de competência do Plenário, submetendo-o ao referendo deste na primeira sessão que se seguir [(art. 6º, XXVI, do Regimento Interno do CNJ](https://atos.cnj.jus.br/atos/detalhar/124) e [art. 12, XXVIII, do Regimento Interno do CNMP](https://www.cnmp.mp.br/portal/images/noticias/2022/junho/web-Regimento_Interno_do_CNMP_2022.pdf)), bem como as atribuições do Corregedor Nacional de Justiça e do Corregedor Nacional do Ministério Público para expedir recomendações ([art. 8º, X, do Regimento Interno do CNJ](https://atos.cnj.jus.br/atos/detalhar/124) e [art. 18, X, do Regimento Interno do CNMP](https://www.cnmp.mp.br/portal/images/noticias/2022/junho/web-Regimento_Interno_do_CNMP_2022.pdf));
+
+**RESOLVEM**:
+
+Art. 1º Recomendar aos juízes e membros do Ministério Público que deem preferência e especial atenção à tramitação de inquéritos e ações envolvendo a punição de infrações ambientais, inclusive questões que envolvam medidas cautelares, tais como buscas e apreensões e prisões preventivas.
+
+Art. 2º Esta Recomendação entra em vigor na data da sua publicação.
+
+Ministro **Luís Roberto Barroso**
+
+Presidente do Conselho Nacional de Justiça
+
+Procurador-Geral **Paulo Gustavo Gonet Branco**
+
+Presidente do Conselho Nacional do Ministério Público
+
+Ministro **Mauro Campbell Marques**
+
+Corregedor Nacional de Justiça
+
+Procurador **Ângelo Fabiano Farias da Costa**
+
+Corregedor Nacional do Ministério Público

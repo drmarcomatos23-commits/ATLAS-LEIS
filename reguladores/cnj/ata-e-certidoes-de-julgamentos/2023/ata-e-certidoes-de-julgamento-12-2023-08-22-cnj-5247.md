@@ -1,0 +1,1888 @@
+---
+titulo: "Ata e Certidões de Julgamento Nº 12 de 22/08/2023"
+orgao: "CNJ – Presidência"
+tipo: "Ata e Certidões de Julgamento"
+numero: "12"
+data: 2023-08-22
+ementa: "Ata da 12ª Sessão Ordinária de 2023 (22 de agosto de 2023)"
+situacao: "Vigente"
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "DJe/CNJ nº 209/2023, em 06/09/2023, p. 2-23"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/5247"
+arquivo: "https://atos.cnj.jus.br/files/original1619112023090664f8a67f8f541.pdf"
+id_fonte: "cnj-5247"
+baixado_em: 2026-11-03
+---
+
+# Ata e Certidões de Julgamento Nº 12 de 22/08/2023
+
+**ATA DA 12ª SESSÃO ORDINÁRIA (22 de agosto de 2023)**
+
+Às nove horas e trinta e dois minutos do dia vinte e dois de agosto de dois mil e vinte e três, reuniu-se o plenário do Conselho Nacional de Justiça - CNJ, em sua sede, localizada no Setor Administração Federal - SAF Sul, Quadra 2, Lotes 5/6, Brasília/DF. Presentes a Presidente Conselheira Rosa Weber, Conselheiro Luis Felipe Salomão, Conselheiro Luiz Philippe Vieira de Mello Filho, Conselheiro Mauro Pereira Martins, Conselheira Salise Monteiro Sanchotene, Conselheiro Richard Paulro Pae Kim, Conselheiro Marcio Luiz Coelho de Freitas, Conselheiro Giovanni Olsson, Conselheiro João Paulo Santos Schoucair, Conselheiro Marcos Vinícius Jardim Rodrigues, Conselheiro Marcello Terto e Silva, Conselheiro Mário Henrique Aguiar Goulart Ribeiro Nunes Maia e Conselheiro Luiz Fernando Bandeira de Mello Filho. A Conselheira Jane Granzoto Torres da Silva participou por videoconferência. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presente o Secretário-Geral do Conselho Nacional de Justiça Gabriel da Silveira Matos. Presenteso Subprocurador-Geral da República Alcides Martins e o Conselheiro Federal da Ordem dos Advogados do Brasil Mansour Elias Karmouche. Verificado o quórum regimental, a Presidente Conselheira Rosa Weber declarou aberta a Sessão e submeteu a ata da 11ª Sessão Ordinária de 2023 à aprovação, que foi aprovada à unanimidade. A Ministra Rosa Weber fez uso da palavra: “Senhoras e senhores Conselheiros, eu relembro que, no dia 21 de julho passado, assinei Portaria 189, visando à instituição de um grupo de trabalho para elaboração de estudos e propostas para a melhoria da atuação do Poder Judiciário no processamento de ações judiciais que discutam posse, propriedade e titulação envolvendo comunidades quilombolas e, com os objetivos explicitados, esse grupo de trabalho será, segundo designei, presidido pelo Conselheiro Vieira de Mello Filho. Em função desta portaria, quando percorri cinco capitais da República, fazendo o lançamento dos mutirões carcerários, estando em Salvador, fomos eu e a equipe que me acompanhava visitar o quilombo Quingoma, nas cercanias de Salvador. E lá estavam reunidas lideranças quilombolas de outros quilombos e, também, até de outros estados, onde tivemos conhecimentos de todas as dificuldades que enfrentam essas comunidades. O Conselheiro Schoucair também estava em Salvador naquele dia e, depois, no mesmo dia, em contato com o Governador do Estado da Bahia, o Governador Jerônimo, externei a ele a minha enorme preocupação com o que vira, com a pobreza, com as dificuldades enfrentadas. Especificamente, conheci a chamada Mãe Bernadete, uma senhora de 72 anos, que nos relatou sua história e o assassinato do filho. Uma defensora e uma lutadora pelos direitos humanos, inclusive sob, teoricamente, proteção policial, com câmeras de vídeo instaladas na sua casa há alguns anos. Mãe Bernadete foi barbaramente assassinada há alguns dias e, paradoxalmente, o nome da mãe Bernadete era Bernadete Pacífico. Eu faço esse registro para dizer que eu não esquecerei e que o Conselho Nacional de Justiça vai continuar se empenhando e gestionando no sentido do esclarecimento desse bárbaro assassinato.” Em seguida, a Presidente Ministra Rosa Weber submeteu ao Plenário a análise das propostas de boas práticas, apresentadas pelos magistrados e servidores do Poder Judiciário, visando à publicação no Portal CNJ de Boas Práticas. No Eixo Planejamento e Gestão Estratégica: Painel Central de Processos e Riscos, do Tribunal Regional do Trabalho da 18ª Região; Governança na construção do Portfólio de iniciativas estratégicas, do Tribunal Regional Federal da 5ª Região; e Alinhamento Estratégico no STJ, do Superior Tribunal de Justiça. No Eixo Transparência: Portal de Transparência de Licitações e Contratos, do Tribunal Regional do Trabalho da 4ª Região; e Banco de Dados de Imóveis, do Tribunal Regional do Trabalho da 4ª Região. No Eixo Infância e Juventude: Comunidade Jurídico-Trabalhista do Projeto Pescar, do Tribunal Regional do Trabalho da 4ª Região. No Eixo Gestão Processual: Execução Paradigma, do Tribunal Regional do Trabalho da 3ª Região; Núcleo de Apoio Processual ao Primeiro Grau de Jurisdição, do Tribunal Regional Eleitoral de Tocantins. No Eixo Justiça e Cidadania: Ações Sociais e Inclusivas do Centro de Memória, do Tribunal Regional do Trabalho da 9ª Região. No Eixo Acesso à Justiça: Citação Inclusiva - anexo de visual law e legal design, do Tribunal Regional Federal da 2ª Região. As propostas de boas práticas foram aprovadas à unanimidade. Em seguida, deu início ao julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+ATO NORMATIVO 0005171-59.2023.2.00.0000
+
+Relatora: CONSELHEIRA SALISE SANCHOTENE
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Assunto: Proposta - Alteração - Resolução nº 351/CNJ - Política de Prevenção e Enfrentamento do Assédio Moral, do Assédio Sexual e da Discriminação.
+
+**Decisão:** *“O Conselho, por unanimidade,* *aprovou a Resolução, nos termos do voto da Relatora.* *Votou a Presidente. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+ATO NORMATIVO 0005083-21.2023.2.00.0000
+
+Relator: CONSELHEIRO VIEIRA DE MELLO FILHO
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Assunto: Proposta - Ato normativo - Transparência - Poder Judiciário.
+
+**Decisão:** *“Após o voto do Relator, no sentido da aprovação da* *Resolução, no que foi acompanhado pelo Conselheiro Mário Goulart Maia, pediu vista regimental o Conselheiro Luis Felipe Salomão**. Aguardam os demais. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+Manifestou-se o Presidente da Associação dos Juízes Federais, Juiz Nelson Gustavo Mesquita Ribeiro Alves. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0004665-83.2023.2.00.0000
+
+Relatora: CONSELHEIRA JANE GRANZOTO
+
+Requerente:
+
+VANESSA ZIMPEL
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO – TJMT
+
+Interessado:
+
+JOÃO GABRIEL SILVA TIRAPELLE
+
+Advogados:
+
+FELIPE DE SÁ - OAB PR60336
+
+ANDRESSA DE LIZ SAMPAIO - OAB PR68759
+
+PAULO HENRIQUE GAIVA MUZZI - OAB MT8337/O
+
+Assunto: TJMT - Provimento nº 77/CN - Irregularidade - Interino - 1º Ofício da Comarca de Paranatinga - MT.
+
+*(Ratificação de liminar)*
+
+**Decisão:** *“O Conselho, por unanimidade,* *ratificou a liminar, nos termos do voto da Relatora.* *Votou a Presidente. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+RECLAMAÇÃO DISCIPLINAR 0010416-56.2020.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerente:
+
+THIAGO PHILETO PUGLIESE
+
+Requerido:
+
+MARIO ALBERTO SIMÕES HIRS
+
+Interessada:
+
+ASSOCIAÇÃO DOS MAGISTRADOS DA BAHIA - AMAB
+
+Advogados:
+
+THIAGO PHILETO PUGLIESE - OAB BA24720
+
+ETIDES YURI PEREIRA QUEIROS - OAB BA38406
+
+WALTER JOSÉ FAIAD DE MOURA – OAB DF17390
+
+SIMONE MARTINS DE ARAÚJO MOURA - OAB DF17540
+
+ANTONIO VICTOR DA COSTA HIDD MENDES PEREIRA - OAB DF62768
+
+Assunto: TJBA - Apuração - Infração disciplinar - Desembargador.
+
+**Decisão:** *“Após o voto do Relator, no sentido da instauração de processo administrativo disciplinar em desfavor do magistrado, sem afastamento da função; e do voto do Conselheiro Mário Goulart Maia, que votava pelo arquivamento da reclamação disciplinar, pediu vista regimental o Conselheiro João Paulo Schoucair. Aguardam os demais**.* *Ausente, em razão a vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023.”*
+
+Sustentaram oralmente: pelo Requerido, o Advogado Etides Yuri Pereira Queiros – OAB/BA 38.406; pela Interessada Associação dos Magistrados Brasileiros – AMB, a Advogada Ana Luísa Vogado de Oliveira – OAB/DF 59.275; e pela Interessada Associação dos Magistrados da Bahia – AMAB, o Advogado Walter José Faiad de Moura – OAB/DF 17.390. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+RECLAMAÇÃO DISCIPLINAR 0006418-80.2020.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerentes:
+
+OSMAR BRINA CORRÊA LIMA & SÉRGIO MOURÃO CORRÊA LIMA ADVOGADOS
+
+SÉRGIO MOURÃO CORRÊA LIMA
+
+Requerida:
+
+MARIA DAS GRAÇAS SILVA ALBERGARIA DOS SANTOS COSTA
+
+Interessada:
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS – AMB
+
+Advogados:
+
+SÉRGIO MOURÃO CORRÊA LIMA - OAB MG64026
+
+DELIO MOTA DE OLIVEIRA JUNIOR - OAB MG140148
+
+ARTUR ANDRADE SANTOS - OAB MG154847
+
+HUGO MOREIRA BARBOSA - OAB MG192472
+
+JOSE FRANCISCO REZEK - OAB SP249131
+
+ANA DE OLIVEIRA FRAZAO VIEIRA DE MELLO - OAB DF12847
+
+RODRIGO LOBO MARIANO - OAB DF50493
+
+SAMARA DE OLIVEIRA SANTOS LÉDA - OAB DF23867
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+TAINAH MACEDO COMPAN TRINDADE - OAB DF46898
+
+LUCAS DUMONT AVILA GARAVINI - OAB DF65664
+
+MARIA CLARA CUNHA FARIAS - OAB DF66215
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+ALINE CRISTINA BENÇÃO - OAB DF74199
+
+Assunto: TJMG - Apuração - Conduta - Desembargadora - Descumprimento - Decisões - Órgão Especial - Destituição - Síndico - Massa falida - Processo nº 1.0024.18.001.987-9/016.
+
+**Decisão:** *“O Conselho, por unanimidade,* *decidiu pela instauração de processo administrativo disciplinar em desfavor da magistrada, aprovando desde logo a portaria de instauração do PAD, nos termos do voto do Relator.* *Votou a Presidente. Declarou impedimento o Conselheiro Vieira de Mello Filho. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+Sustentaram oralmente: pela Interessada Associação dos Magistrados Brasileiros – AMB, a Advogada Aline Cristina Benção – OAB/DF 74.199; e, pela Requerida, a Advogada Samara de Oliveira Santos Léda – OAB/DF 23.867. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0001738-52.2020.2.00.0000
+
+Relator: CONSELHEIRO VIEIRA DE MELLO FILHO
+
+Requerentes:
+
+RÔMULO GOBBI DO AMARAL
+
+DIOGO NEGRISOLI OLIVEIRA
+
+Requerido:
+
+TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO - TRF 1
+
+Interessados:
+
+NEWTON PEREIRA RAMOS NETO
+
+NAIBER PONTES DE ALMEIDA
+
+ASSOCIAÇÃO DOS JUÍZES FEDERAIS DO BRASIL – AJUFE
+
+ASSOCIAÇÃO DOS JUÍZES FEDERAIS DA 1ª REGIÃO – AJUFER
+
+SHAMYL CIPRIANO
+
+Advogados:
+
+PEDRO HENRIQUE CARNEIRO DA COSTA REZENDE - DF59372
+
+MARCELO JOSÉ BULHÕES MAGALHÃES - DF54229
+
+CARLOS FERNANDO MATHIAS DE SOUZA - DF00530
+
+CAMILLA ROSE EWERTON FERRO RAMOS - OAB MA7414
+
+ADRIANA PONTE LOPES SIQUEIRA - OAB DF41476
+
+HUGO PEDRO NUNES FRANCO - OAB DF62356
+
+Assunto: TRF 1ª Região - Desconstituição - Decisão - Corte Especial Administrativa - Processo nº 0026468-96.2017.4.01.8000 - Ato Presi nº 9592374 - Resolução nº 9279864 - Extinção - Vara Federal de Guajará-Mirim - Impugnação - Remoção - Ex officio - Magistrados - 5ª Vara Federal da Seção Judiciária do Maranhão e 2ª Vara Federal da Seção Judiciária de Goiás - Violação - Antiguidade - Art. 31 da LOMAN - Suspensão - Concurso - Edital de remoção ASMAG JF 002/2020.
+
+(Vista regimental ao Conselheiro Luis Felipe Salomão)
+
+**Decisão:** adiado.
+
+PEDIDO DE PROVIDÊNCIAS 0007779-98.2021.2.00.0000
+
+Relator: CONSELHEIRO MÁRIO GOULART MAIA
+
+Requerente:
+
+FRANCISCO JOSÉ DE CARVALHO NETO
+
+Requerido:
+
+TRIBUNAL REGIONAL DO TRABALHO DA 16ª REGIÃO - TRT 16
+
+Advogado:
+
+WALTER JOSÉ FAIAD DE MOURA - OAB DF17390
+
+Assunto: TRT 16ª Região - Desconstituição - § 3º do artigo 12 do Regimento Interno - Ilegalidade - Ciclos - Antiguidade - Elegibilidade - Desembargadores - Escolha - Presidente - Vice-presidente - Violação - Artigo 102 da LOMAN.
+
+(Vista regimental ao Conselheiro Luis Felipe Salomão)
+
+**Decisão:** adiado.
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0007487-79.2022.2.00.0000
+
+Relator: CONSELHEIRO MAURO PEREIRA MARTINS
+
+Requerentes:
+
+EDUARDO POMPERMAIER SILVEIRA
+
+MARCELO ARTUR MIRANDA CHADA
+
+RODRIGO PACHECO FERNANDES
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL – TJRS
+
+Interessados:
+
+ARTUR CÉSAR DE SOUZA
+
+MARCOS COSTA SALOMÃO
+
+JÉVERSON LUÍS BOTTEGA
+
+Advogados:
+
+EDUARDO POMPERMAIER SILVEIRA - OAB RS55574
+
+MARCIO ANTONIO BUENO – OAB SP26953
+
+ARIANE CRISTINA VILALTA – OAB SP274434
+
+BRUNA CORRÊA BUENO FERNANDES – OAB SP353160
+
+GEOVANIA TATIBANA DE SOUZA - OAB PR16175
+
+KAROLINE FERREIRA MARTINS - OAB DF49100
+
+LUIZ FERNANDO VIEIRA MARTINS - OAB RS53731
+
+MARCUS VINICIUS FURTADO COÊLHO - OAB PI2525
+
+JANAINA LUSIER CAMELO DINIZ - OAB DF49264
+
+WILSON COELHO MENDES - OAB DF56700
+
+SIMONE LAVOR DO REGO LOBAO - OAB PI14808
+
+GUSTAVO BATISTA DOS SANTOS - OAB DF60832
+
+LAÍSE RABÊLO CABRAL - OAB DF38540
+
+SAUL TOURINHO LEAL - OAB DF22941
+
+AYRES BRITTO CONSULTORIA JURÍDICA E ADVOCACIA – OAB DF2154/13-R.S
+
+Assunto: TJRS - Edital nº 002/2019 - CECPODNR - Concurso Público de Provas e Títulos para a Outorga de Delegação de Serviços Notariais e Registrais do Estado do Rio Grande do Sul - Ata nº 97 - Nulidade - Prova Oral - Registro - Audiovisual - Anulação - Parcial - Problemas Técnicos - Reaplicação.
+
+**Decisão:** retirado.
+
+PEDIDO DE PROVIDÊNCIAS 0008609-69.2018.2.00.0000
+
+Relator: CONSELHEIRO MAURO PEREIRA MARTINS
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ – TJPI
+
+Interessados:
+
+SINDICATO DOS SERVIDORES DO PODER JUDICIÁRIO DO ESTADO DO PIAUÍ
+
+MARIA DO CARMO CARVALHO RIBEIRO E SILVA
+
+SINDICATO DOS OFICIAIS DE JUSTIÇA AVALIADORES DO ESTADO DO PIAUÍ
+
+JORGE HENRIQUE PIRES BRANDÃO
+
+JOSÉ RIBAMAR SOUSA JUNIOR
+
+JOSÉ CLEUTON BATISTA DE SÁ
+
+ZELINDA ELIZA MARTINS MOURA
+
+JUAREZ CHAVES DE AZEVEDO
+
+DIDIENE NIRVANA DA SILVA FEITOSA
+
+DUNSHEE SOARES DE CASTRO FILHO
+
+EDUVIRGES GOMES FERREIRA
+
+JUREMA ASSUNÇÃO BEMVINDO LIMA DIAS
+
+GENEROSA MAGALHÃES DE ALMEIDA RAMOS
+
+TANIA DO SOCORRO DA ROCHA MARTINS
+
+ALMIRALICE ASSUNÇÃO BEMVINDO
+
+LUCY ROSANE ASSUNÇÃO BEMVINDO MARTINS DE MIRANDA
+
+LUIS AMERICO CAMPELO
+
+MARIA DAS GRAÇAS NERES BARROS
+
+MARIA DO ROSARIO DE FATIMA BASTOS MOURA
+
+OZILENE VELOSO PEREIRA
+
+PEDRO GEORGI DE MELO FALCÃO
+
+MARCOS ANTÔNIO RIBEIRO DE SOUSA ALMEIDA
+
+MARIA DAS GRAÇAS SOARES CAMPELO LIMA
+
+MARIA DA GRAÇA SOARES CAMPELO LIMA
+
+MARIA INEZ RIBEIRO BARRADAS
+
+MARIA VALNICE DE MOURA
+
+ROSALVI DA SILVA RIBEIRO
+
+VANIA SADY RIBEIRO DE SOUSA ALMEIDA
+
+ALBANISA DA SILVA LEITE
+
+ALCEU PEREIRA DIAS
+
+ALESSANDRA LEAL VALE MONTEIRO
+
+ANTONIA ADRIANA DOS ANJOS
+
+ANTONIO BARBOSA NETO
+
+ANTONIO BENJAMIM DE CARVALHO
+
+BENEDITO DA SILVA MOURA
+
+EVELINY NOGUEIRA RODRIGUES
+
+FRANCISCA DE ARAUJO PAIVA
+
+FRANCISCA RODRIGUES CAVALCANTE PEREIRA
+
+FRANCISCO ALMEIDA DE MORAIS
+
+FRANCISCO DE PAIVA DIAS
+
+FRANCISCO MELO LIMA FILHO
+
+FRANCISCO NUNES FEITOSA
+
+FRANCY MARY DOS SANTOS DOURADO
+
+FILOMENA MAIA PINHEIRO
+
+FRANCISCO DAS CHAGAS ARCANJO FILHO
+
+FRANCISCO DE MOURA LUZ
+
+FRANCISCO JOSÉ DE CARVALHO
+
+GEORGE RAIMUNDO DO NASCIMENTO
+
+GILMAR DE ARAUJO SEPULVIDA
+
+HELENA MARIA VARETTO PEREIRA
+
+JOSIANE GIL DA SILVA
+
+KARIELLO MOREIRA MOUSINHO
+
+MARIA DE FÁTIMA MAZZA DE CASTRO COSTA
+
+MARIA DO CARMO ALMEIDA ALVES
+
+MARIA DO SOCORRO NUNES DA SILVA
+
+MARIA INES LEAL VIEIRA
+
+MARIA JANETE BATISTA CARNEIRO
+
+RENILDO BARBOSA ESTEVÃO
+
+VALDIMIR EVANGELISTA DE SOUSA
+
+ABRAÃO LINCOLN DO AMARAL MACHADO
+
+ADAONILDE ASSUNÇÃO BENVINDO
+
+ADRIANA RIBEIRO TORRES DE SOUZA
+
+ANA ODORICO DE OLIVEIRA
+
+ANA VALERIA DE SOUSA NUNES
+
+ANGELA MARIA OLIVEIRA ARAÚJO
+
+ANTÔNIA DE FÁTIMA DE ARAÚJO
+
+ANTONIO ARAÚJO LUZ NETO
+
+ANTONIO FRANCISCO DE SOUSA E SILVA
+
+ANTÔNIO JOSÉ FERNANDES
+
+ANTONIO LIMA VIEIRA
+
+AURICELIA MARIA CAMPELO
+
+CARLOS ALBERTO DE ARAÚJO RUBIM
+
+CARLOS DE ARAUJO LUZ
+
+CARMEM DOLORES EVANGELISTA FERREIRA
+
+CEICILENE EVANGELISTA DE SOUSA RIBEIRO COSTA
+
+CELI CARDOSO DE FARIAS
+
+CERES MARIA DE CARVALHO RIBEIRO BARROS
+
+CLARICE RESENDE DA SILVA
+
+CLEMÊNCIA DE SOUSA MOURA SOARES
+
+CARLOS EUGENIO DE SOUSA
+
+CARLOTA CARDOSO DE ARAÚJO
+
+CONCEIÇÃO DE MARIA BRAGA DE SALES
+
+CELECINA MARIA CLEMENTINO SANTOS
+
+CLEOMAR BENTO DE MIRANDA
+
+CLEUDIR PERREIRA DA SILVA
+
+CONCEIÇÃO DE MARIA TEIXEIRA SOARES
+
+CRISTINA MARIA SARAIVA GUEDES
+
+CELIO BUENOS AIRES DOS PASSOS
+
+CESA MARIA PINHEIRO DA COSTA
+
+CÍCERO ALVES LOPES
+
+CLÁUDIO ROBERTO DE OLIVEIRA SINIMBU
+
+DAYSA MÔNICA BUENO DE ALMEIDA
+
+DORACI CESAR DE BRITO MEDEIROS
+
+ECIONE SANTOS ARAUJO
+
+EDNA MARIA SALES CARDOSO TAJRA
+
+EDVALDO NUNES CRONEMBERGER
+
+ELIETE GOMES FERREIRA DIAS
+
+EXPEDITA GONÇALVES DE SOUSA
+
+GENEMARCIA FONSECA DE OLIVEIRA PINHEIRO
+
+HALNEIK ALVES DE ALENCAR
+
+HAROLDO FELIPE DA COSTA
+
+HELDER DE ARAUJO LUZ
+
+HILDECY RIBEIRO DE SANTANA
+
+IARA FERNANDES PACHECO
+
+JOÃO BATISTA DE CARVALHO
+
+JOAQUIM DA SILVA REGO
+
+KELSILANDIA MARIA LEAL DUARTE ANTAO
+
+LEDA MARIA ARAUJO OLIVEIRA
+
+LEOLINDA ARAUJO RODRIGUES SILVA
+
+LEONTINA DE JESUS DIAS LIMA
+
+LIA RACHEL RIBEIRO GONÇALVES IBIAPINA ANDRADE
+
+LUIZA NARLETE SOUSA DA CRUZ
+
+LUDEMILA NASCIMENTO SOUSA LIMA
+
+MARCIA MARIA CRONEMBERGER CHAVES
+
+MARCIA MARIA MATOS SOUSA
+
+MARCIA REJANE FURTADO COELHO VIANA
+
+MARIA AMELIA DE ANDRADE BRANDAO MARTINS
+
+MARIA BERNADETE DA MOTA LIMA UCHOA
+
+MARIA DA CRUZ PEREIRA DOS SANTOS
+
+MARIA DAS GRAÇAS NERY
+
+MARIA DE FÁTIMA MENESES DOS SANTOS OLIVEIRA
+
+MARIA DE JESUS ALVES DO NASCIMENTO
+
+MARIA DE NAZARÉ SOUSA CARVALHO DAMASCENO
+
+MARIA DO ESPÍRITO SANTO DA SILVA FIGUEIREDO PIAUIENSE
+
+MARIA DO PERPETUO SOCORRO MOREIRA SOARES
+
+MARIA DO ROSARIO SOUSA RODRIGUES
+
+MARIA DO SOCORRO COSTA DE OLIVEIRA
+
+MARIA DO SOCORRO CASTRO DA ROCHA RIBEIRO
+
+MARIA DO SOCORRO DE MACEDO
+
+MARIA DOS REMÉDIOS DE SOUZA PAIVA MARQUES
+
+MARIA DOS REMÉDIOS RIBEIRO
+
+MARIA DULCE RIBEIRO GONÇALVES IBIAPINA GURGUEL CAMPOS
+
+MARIA ESPÍRITO SANTO NUNES
+
+MARIA HILDETE MARTINS MIRANDA
+
+MARIA JOSÉ DE SOUSA SILVA
+
+MARIA JOSÉ SOUSA SÁ
+
+MARIA LUIZA MARGARIDA DO AMARAL AVELAR
+
+MARIA MADALENA ARAUJO DA CRUZ
+
+MARIA MARLENE DE CASTRO GONÇALVES
+
+MARIA ROSILDA FERREIRA DA SILVA
+
+MARIA SELMA SALES DE ARAÚJO
+
+MARILENA MENDES BEZERRA
+
+MARINALVA DE SANTANA RIBEIRO
+
+MARTA MARIA OLIVEIRA ARAÚJO
+
+MÔNICA LEITE MARTINS MAGALHÃES
+
+OLGA MARIA MOREIRA ARRAIS
+
+ORISVALDINA CAPUCHU GOMES
+
+PAULO HENRIQUE DE CARVALHO COUTINHO
+
+PLINIO ANDRADE CORREIA
+
+QUINTINO MANOEL RODRIGUES
+
+RITA DE CÁSSIA DDE CARVALHO ABREU
+
+RITA DE CASSIA UCHOA LEAL
+
+RITA MARIA DE SOUSA ALMEIDA
+
+RITA SOARES LIMA
+
+ROBERTO TOBLER SARAIVA
+
+RONALD DO VALE MIRANDA
+
+ROSSANA MARIA GONDIM UCHOA ARAÚJO
+
+RAIMUNDO JOSÉ PEREIRA MASCARENHAS
+
+RITA DE CASSIA LAGES VERAS
+
+ROLMES JOSÉ DA SILVA
+
+ROSANGELA MARIA DOS SANTOS ALVES PEREIRA
+
+ROSILENE ALVES LOPES
+
+RAIMUNDO NONATO DE ANDRADE GOMES
+
+RAIMUNDO NONATO VIEIRA DA SILVA
+
+RAUSTHE SANTOS DE MOURA
+
+RIBAMAR BENEDITO DA SILVA
+
+ROBERVAL CONRADO LIMA
+
+ROMERIA RUBIA LOPES DA SILVA OLIVEIRA
+
+ROSIMAR FERREIRA DOS SANTOS SOUSA
+
+REGINA LUCIA DA COSTA OLIVEIRA
+
+RAIMUNDO SILVA VIEIRA
+
+REINALDO LIRA RABELO
+
+REJANE MARIA SILVA OLIVEIRA
+
+ROSEMEIRE COSTA MELO BARROS
+
+SEVERINO GOMES DE OLIVEIRA FILHO
+
+SILVANA MARIA SILVA DE CARVALHO
+
+SILVIA VERAS SANTOS DE ARAUJO
+
+SUZANA RODRIGUES DE HOLANDA
+
+TARSIS DAYLAN SEPULVEDA COELHO BRITO
+
+TERESA CRISTINA SA DE SOUSA
+
+THOMAS EMMERSON SALES CARDOSO
+
+VANESSA PIRES BRANDAO BOAVISTA
+
+VERA LUCIA ARRAIS NUNES CRONEMBERGER
+
+VERONICA MARIA MELO DO NASCIMENTO CHAVES
+
+YARA SALOME ARAUJO DA CUNHA
+
+ALCIDES GUIMARÃES DE ARAÚJO
+
+EDMUNDO RODRIGUES BELO
+
+EVA EXCELSA PEREIRA BARROS
+
+GILSON DE CARVALHO DANTAS FILHO
+
+HORÁCIO COELHO FERREIRA
+
+JOÃO DE OLIVEIRA SOUSA
+
+JOAQUIM PEREIRA DE SALES NETO
+
+JOSÉ CRISTOVÃO BARROS DA SILVA
+
+JOSÉ DJALMA DOS SANTOS
+
+JOSÉ EDVALDO LEAL
+
+JOSÉ FLÁVIO RIBEIRO
+
+JOSÉ OALDO DE SOUSA
+
+JOSÉ RIBAMAR DE SOUSA
+
+JOSÉ SÁ CARVALHO NETO
+
+JOSE WILSON NUNES LUZ
+
+LEONIDAS CAMELO DE OLIVEIRA
+
+LUCIANA MARIA LEAL
+
+LUCIRENE HOLANDA RODRIGUES
+
+LUIZ CARVALHO RIBEIRO
+
+LIANA MARIA DOS SANTOS BARROSO
+
+LINDALVA DE SOUSA SILVA
+
+LUIZ CARLOS DE ABREU
+
+LEINA ALVES DA SILVA
+
+LUCIA MARIA DE MELO OLIVEIRA MOURA
+
+MANOEL BARROS PESSOA
+
+MANOEL MARCOS ALENCAR FERREIRA
+
+MARIA APARECIDA PEREIRA MORAIS
+
+MARIA ARABELA PASSOS MATOS
+
+MARIA DA CONCEIÇÃO OLIVEIRA BRITO
+
+MARIA FRANCISCA DE SOUSA
+
+MARIA JOSÉ DA FONSECA VELOSO
+
+MARIA JOSÉ SOARES MONTEIRO PEREIRA
+
+MARIA NAIR DE JESUS MARTINS
+
+MARIA RODRIGUES LOPES NETA
+
+PAULO BENVINDO DA SILVA
+
+SANDRA MARIA DE GUADALUPE ALMEIDA VILAR PINTO
+
+SANDRO HENRIQUE REIS DE SOUSA
+
+VALDINAR SOARES DE MELO
+
+VICENTE DE PAULA CONRADO LIMA
+
+VITALINA LACERDA RODRIGUES MARQUES
+
+WEBER WILSON FIGUEIREDO DA SILVA
+
+ZULMA NOGUEIRA BARBOSA PEREIRA
+
+ALESSANDRA SALES CARDOSO
+
+ALEXANDRE EULÁLIO DE PÁDUA
+
+ANA MARIA BATISTA ARÊAS
+
+ANA MARIA FERREIRA BONA SOARES
+
+ANA RUTH ALVES BATISTA
+
+ANTONIA IZA DA SILVA SANTOS
+
+ANTONIA MARIA DA SILVA
+
+DENISE FERNANDES DOS SANTOS
+
+DORIS CUNHA DO REGO MELLO
+
+DOUGLAS ALEXANDRE DE SANTIAGO CARVALHO
+
+FRANCINALDO MONTEIRO DA SILVA
+
+FRANCISCA RODRIGUES DA SILVA
+
+FRANCISCO EDUARDO DA SILVA
+
+GERSON DE ANDRADE ALENCAR
+
+GILBERTO DE OLIVEIRA CARDOSO
+
+JOÃO BATISTA DA SILVA
+
+JOSÉ BARBOSA SOARES
+
+JOSÉ MARIA DO BONFIM JÚNIOR
+
+JOSÉ NILSON BARBOSA MENDES
+
+KALINA SARAIVA DE LIMA
+
+MANOEL ALBINO VIEIRA FILHO
+
+MARCIA BRITO NOGUEIRA
+
+MARCILIO MATOS SOUSA
+
+MARIA CASSIA DOS SANTOS
+
+MARIA CRUZ DA SILVA SANTOS
+
+MARIA DA CONCEIÇÃO MOURAO SANTOS
+
+MARIA DA CONCEIÇÃO RIBEIRO BATISTA
+
+MARIA DAS DORES OLIVEIRA SANTOS
+
+MARIA DE NASARE DA SILVA SOUSA
+
+MARIA DO AMPARO SOUSA LIMA
+
+MARIA DO LIVRAMENTO LIMA
+
+MARIA DO PERPÉTUO SOCORRO MELO CARVALHO
+
+MARIA DO SOCORRO MIRANDA LOPES
+
+MARIA DO SOCORRO PEREIRA XAVIER
+
+MAURILIO PINHEIRO DOS SANTOS
+
+NAIR FERRAZ DE CARVALHO MOURÃO
+
+NEREIDA SADY RIBEIRO DE SOUSA
+
+SONIA MARIA BRITO LIMA
+
+SORAIA MARTINS VIANA
+
+SUZANA DE SALES NUNES FERREIRA
+
+URBANO PEREIRA DE OLIVEIRA
+
+VERA MARIA COSTA TORRES NORONHA
+
+VERBENA ELANE VERAS LIMA RODRIGUES
+
+VERITAS IBIAPINA E SILVA
+
+ZELIA DE OLIVEIRA MOURA
+
+ADRIANA CASTELLO BRANCO LAGES REBELLO E CASTRO
+
+AGAMENON ALVES DA CRUZ
+
+AIAS SARAIVA DE CARVALHO
+
+AIRTON PINHEIRO LUZ
+
+ALDA GARDÊNIA COSTA ALENCAR DE SOUZA
+
+ALDENORA DE ARAUJO CUNHA
+
+ALONCIO DE SOUSA BRITO
+
+ALTAMIRO FERREIRA DE SOUSA
+
+AMINTAS LOPES CASTELO BRANCO JUNIOR
+
+AMELIA LUIZA BENVINDO ROCHA
+
+ANA MARCIA VELOSO
+
+ANA REGIA MOREIRA DA SILVA
+
+ANTÔNIA FONTINELES DE SAMPAIO
+
+ANTÔNIA NILVA LOIOLA COELHO
+
+ANTÔNIO HONORATO DE ARAUJO
+
+ANTÔNIO VALDINO LUSTOSA FILHO
+
+ARIOVALDO MARTINS DO LAGO
+
+ARISTIDES AUGUSTO DIAS NETO
+
+BENEDITO DE SOUSA BARBOSA
+
+DALBA MARIA MARTINS DANTAS
+
+DIANA CRISTINA LUSTOSA DE VASCONCELOS LIMA
+
+DILMAN ANDRADE DE CARVALHO
+
+DOMINGOS DE SOUSA AMORIM
+
+EVA SOARES TORRES
+
+EVANDRO NUNES DIOGENES
+
+EVANGELISTA ANTONIO DA LUZ
+
+EVERALDO DE MOURA ROCHA
+
+FRANCISCA DAS CHAGAS CARVALHO COSTA
+
+FRANCISCA MARIA DE ALBUQUERQUE SILVA
+
+FRANCISCA ROSA DE ABREU OLIVEIRA
+
+FRANCISCO DAS CHAGAS CARDOSO
+
+FRANCISCO ISRAEL DIAS DE OLIVEIRA
+
+FRANCISCO JOSÉ DE OLIVEIRA ALCANTARA
+
+GENESIO ALVES DA SILVA
+
+GERALDO SOARES DA COSTA
+
+GILDINHA MARIA DA SILVA
+
+GILMAR RIBEIRO DIAS DE MACEDO
+
+GONÇALA MELÃO FERNANDES DA SILVA
+
+HELIO ANGELINO BASTOS
+
+IRACEMA LEAL LEAO GUIMARAES
+
+IRISMAR DE MOURA SOUSA
+
+ISABEL CRISTINA LIMA CARVALHO
+
+IVETE MARIA REIS DANTAS ARRAES
+
+IVETE SANTOS LUZ LEAL
+
+INACIO LIMA DA SILVA FILHO
+
+IRENO LUCIANO RODRIGUES
+
+IVONE ARAUJO LIMA
+
+JACEIRA MARTINS ARAUJO ARRAIS DE SANTANA
+
+JAQUELINE RODRIGUES ANDRADE
+
+JOÃO BATISTA DE MORAIS
+
+JOÃO BATISTA RODRIGUES DOS SANTOS
+
+JOÃO FRANCISCO TOMAZ DA SILVA
+
+JOÃO LUIS DOS SANTOS OLIVEIRA
+
+JOAQUIM DE SOUSA PAZ
+
+JOSÉ DURVAL FERREIRA NETO
+
+JOSÉ HIRAN BARBOSA LIMA
+
+JOSÉ OLIMPIO PEREIRA DA SILVA
+
+JOSÉ VALDY DE CARVALHO
+
+JUCELHA MARIA DOS SANTOS SOUSA LIMA
+
+JULIO CESAR RIBEIRO DA CRUZ
+
+MARIA APARECIDA ALVES GOMES
+
+MARIA AUSENIR DOS SANTOS
+
+MARIA DA CONCEIÇÃO CARDOSO SOUSA
+
+MARIA DE ANDRADE LIRA
+
+MARIA DIAS RIBEIRO
+
+MARIA DO CARMO ALMEIDA ALVES
+
+MARIA DO PERPETUO SOCORRO SOARES BEZERRA LOIOLA
+
+MARIA DO PERPETUO SOCORRO PEREIRA DE CARVALHO
+
+MARIA DO SOCORRO ALVES BORGES CAMPELO
+
+MARIA DO SOCORRO FERREIRA DOS SANTOS SARAIVA
+
+MARIA DO SOCORRO RODRIGUES
+
+MARIA ELIZABETE SERAFIM MEIRELES
+
+MARIA JOSÉ BELEZA CARVALHO
+
+MARIA LUCIA DOS SANTOS
+
+MARIA LUCILIA DE ARAUJO SARAIVA
+
+MARIA LUCINEIDE DA CRUZ SILVA
+
+MARIA MARLENE DOS SANTOS
+
+MARIA MEDIANEIRA LUZ MARTINS
+
+MARIA NUNES SOARES
+
+MARIA REGINA BONFIM MOREIRA GONÇALVES
+
+MARIA VALDINA DA SILVA MARTINS
+
+MARIA ZENIA DE ALMEIDA SANTOS CUNHA
+
+NILVAN CESAR DO NASCIMENTO
+
+NILVIA REGO GOMES DA SILVA
+
+NILZA BARBOSA GUIMARÃES
+
+PAULO SERGIO RODRIGUES LEITE
+
+SILVESTRE JOSE DE SOUSA
+
+SONIA MARIA ALVES DOS SANTOS SOARES
+
+SUELI DIAS NOGUEIRA
+
+TERESINHA DE JESUS DOS SANTOS
+
+VALDIRENE DE SOUSA BANDEIRA
+
+VANDA ALVES FEITOSA DE SOUSA
+
+VANDA LUSTOSA BRANDÃO
+
+VANDINEIDE FERREIRA GOMES ALVES
+
+VICENTE VALENTIM DA SILVA NETO
+
+WALBERT BRITO SILVEIRA
+
+WILSON DIAS DOS REIS
+
+ABDERVAL PEREIRA DE SA
+
+ADAILTON DE SOUSA RIBEIRO
+
+ADEVAL MARIA BORGES
+
+ALAIR ROCHA CRISPINHO
+
+ANA RITA AVELINO DA SILVA
+
+ANANIAS DE SOUSA FILHO
+
+ANTÔNIO AIRTON DE SOUSA
+
+ANTÔNIO AVELINO ARAUJO SANTOS
+
+ANTÔNIO GONÇALVES DE ALMONDES
+
+ANTÔNIO RODRIGUES DO LIVRAMENTO
+
+ANTÔNIO SOARES DE CARVALHO DANTAS
+
+DEUSDETE BENEDITO DA SILVA
+
+DONIZETTI RIBEIRO SOARES
+
+EDMILSON BARBOSA DE ALENCAR
+
+EDMILSON JOSÉ DE OLIVEIRA
+
+ELIAS BENEDITO DA SILVA
+
+EURIPEDES FERREIRA NETO
+
+EUDO DE ARAÚJO FORTES
+
+EULINO PIRES SILVA
+
+EURIDES DE LIMA VERAS
+
+EVA DE JESUS SANTOS RODRIGUES DE CARVALHO
+
+EVANEIDE OLIVEIRA DA SILVA
+
+ELESBÃO SAMPAIO BARBOSA
+
+FRANCISCO ALBERTO RODRIGUES SOARES
+
+FRANCISCO ALVES DE CASTRO
+
+FRANCISCO DAS CHAGAS MARQUES DE AQUINO
+
+FRANCISCO DAS CHAGAS MESSIAS
+
+FRANCISCO DE ASSIS DA SILVA CHAVES
+
+FRANCISCO SOARES TIMOTEO FILHO
+
+HERALDO JOSÉ DOS ANJOS
+
+JOAQUIM ALVES DA SILVA
+
+JOAQUIM PEDRO DA LUZ
+
+JOSÉ AVELINO DE SOUSA
+
+MARIA DE LOURDES ALVES
+
+MARIA DE LOURDES FIGUEIREDO DA COSTA
+
+MARIA DO SOCORRO SALES ROCHA
+
+MARIA GLEUBA GONÇALVES MONTEIRO MARTINS
+
+MARIA IRACI LUZ ARAÚJO
+
+NELMI RIBEIRO DOS SANTOS
+
+OCILIO NUNES DO NASCIMENTO
+
+OSVALDO ALVES DOS REIS
+
+SYDNEY SOUSA DA SILVA
+
+TARCISIO ALVES DUARTE
+
+UILTON DE ARAUJO BRITO
+
+ANA NEUMA SILVA BARROS
+
+ANTÔNIO LOPES DE CARVALHO NETO
+
+ANTÔNIO PEREIRA DA SILVA
+
+ASSUNÇÃO DE MARIA MAIA TORRES
+
+BENEDITO DIAS CARNEIRO
+
+CARLOS DE MOURA REGO
+
+CARMOSA MARIA DE LIMA
+
+CELESTE MARIA OLIVEIRA
+
+CELIA MARIA CAVALCANTE
+
+CELMA REGINA DE SOUSA HOLANDA
+
+CLAUDIA REGINA SILVA DOS SANTOS
+
+FRANCISCA ALVES DA COSTA MOREIRA
+
+FRANCISCO DAS CHAGAS CAMPELO E SILVA
+
+FRANCISCO DE ASSIS PIRES DE SOUSA
+
+FRANCISCO DE FÁTIMA SILVA
+
+GALDISA RODRIGUES SOARES FERNANDES
+
+GILBERTO DA SILVA DIAS
+
+GILVANETE VIEIRA MARTINS
+
+JACIRA BRIGIDA DE ALMEIDA REGO
+
+JOANA CALHAZ COELHO PEREIRA
+
+JOSÉ ANCHIETA PEREIRA DOS SANTOS
+
+JOSE DA CRUZ DUARTE FILHO
+
+JOSÉ WAGNER SALES BEZERRA
+
+JOSEFA EMILIA NETA PEREIRA SOARES
+
+JOSELIA RIBEIRO LUSTOSA
+
+JUVENAL CARDOSO DE OLIVEIRA
+
+MANOEL LUIS DA SILVA PASSOS
+
+MARIA DA PAZ DE FREITAS
+
+MARIA DE LOURDES MARTINS REBELO TORQUATO
+
+MARIA DEUZA FERREIRA DE ARAÚJO
+
+MARIA DILMA DE BARROS COSTA
+
+MARIA DO CARMO RODRIGUES DE MOURA
+
+MARIA DO SOCORRO GOMES DE SOUSA BRITO
+
+MARIA MARLENE DAS NEVES
+
+MARIA SALVADORA NUNES DE SOUSA
+
+MARTA MARIA MARQUES PEREIRA
+
+MAURA REJANE MOREIRA FREITAS
+
+MAURIA AIRES MIRANDA
+
+NEIDIVAN AMORIM DOS SANTOS
+
+NEUMARIA OLIVEIRA DA SILVA
+
+ODETE TORRES DO NASCIMENTO
+
+ODIVAL NUNES CORREIA
+
+OSSY CARREIRO VARÃO MOURA
+
+PAULO HENRIQUE DE ANDRADE VIEIRA SANTOS
+
+PAULO HENRIQUE SANTOS NOGUEIRA
+
+PEDRO CAMPELO DA FONSECA NETTO
+
+PEDRO PEREIRA DA SILVA NETO
+
+SANCHA MARIA PASSOS MATTOS
+
+SILVANA CASTELO BRANCO SENA MELO DE ARAÚJO LIMA
+
+SUZETE RODRIGUES DE CARVALHO
+
+TERCIO VIEIRA DE OLIVEIRA
+
+TERESINHA DE JESUS CUNHA MELO
+
+VERA LUCIA DA ROCHA VALE
+
+MARIA LUIZA DE FRANCA ARAUJO
+
+MARTA REGINA RIBEIRO
+
+PEDRO DA SILVA
+
+ERNESTO JOSÉ BATISTA ARÊAS
+
+FERNANDA GALAS VAZ
+
+FRANCISCO DAS CHAGAS RIBEIRO DOS SANTOS
+
+JOSÉ ALBERTO DA COSTA NETO
+
+SEBASTIÃO DE MORAIS MACHADO
+
+MARIA DOS REMEDIOS MELO
+
+Advogados:
+
+DIOGO JOSENNIS DO NASCIMENTO VIEIRA – OAB PI8754
+
+WILDSON DE ALMEIDA OLIVEIRA SOUSA – OAB PI5845
+
+LUCAS FELIPE AIRES BANDEIRA ALVES – OAB PI13248
+
+RAIMUNDO NONATO MARQUES TEIXEIRA - OAB PI7779
+
+IARA RAQUEL RODRIGUES VERAS – OAB PI7162
+
+ANTONIO FILHO DE OLIVEIRA - OAB PI11956
+
+DANIELLI MARTINS MOURA BARRETO - OAB PI5144
+
+JOSÉ AUGUSTO CUTRIM GOMES JÚNIOR - OAB PI17336
+
+JUAREZ CHAVES DE AZEVEDO JÚNIOR - OAB PI8699
+
+ANA MARIA MONTEIRO CAMPELO - OAB PI17140
+
+Assunto: TJPI - Apuração - Transposições Funcionais - Descumprimento - Súmula Vinculante nº 43.
+
+**Decisão:** *“O Conselho, por unanimidade,* *julgou procedente o pedido para, no âmbito do Tribunal de Justiça do Estado do Piauí, desconstituir os enquadramentos de servidores de nível médio para nível superior realizados, nos termos do voto do Relator.* *Votou a Presidente. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+Sustentaram oralmente: pelo Interessado Pedro Georgi de Melo Falcão, a Advogada Ana Maria Monteiro Campelo - OAB/PI 17.140; e, pelo Interessado Sindicato dos Servidores do Poder Judiciário do Estado do Piauí, o Advogado José Norberto Lopes Campelo - OAB/PI 2.594. Às doze horas e vinte e quatro minutos, a Sessão foi suspensa. Às catorze horas e dezesseis minutos, a Sessão foi reaberta e prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+PEDIDO DE PROVIDÊNCIAS 0006185-83.2020.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerente:
+
+CORREGEDORIA NACIONAL DE JUSTIÇA
+
+Requerido:
+
+LUCIANO AMERICO GALVAO FILHO
+
+Interessada:
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS - AMB
+
+Advogados:
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+TAINAH MACEDO COMPAN TRINDADE CUNHA - OAB DF46898
+
+LUCAS DUMONT AVILA GARAVINI - OAB DF65664
+
+MARIA CLARA CUNHA FARIAS - OAB DF66215
+
+GUSTAVO ALESSANDRO VILARINHO DE ARAUJO - OAB DF59732
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+Assunto: TJAL - Cumprimento - Resolução nº 135/CNJ.
+
+**Decisão:** *“O Conselho, por unanimidade,* *determinou a instauração de revisão disciplinar, nos termos do voto do Relator.* *Votou a Presidente. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+Sustentaram oralmente: pelo Requerido, a Advogada Samara de Oliveira Santos Léda – OAB/DF 23.867; pela Interessada Associação dos Magistrados Brasileiros – AMB, o Advogado Alexandre Pontieri – OAB/SP 191.828; e, pela Interessada Associação Alagoana de Magistrados – ALMAGIS, o Advogado Lucas Almeida de Lopes Lima – OAB/AL 12623-A. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+RECLAMAÇÃO DISCIPLINAR 0003165-84.2020.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerente:
+
+CORREGEDORIA NACIONAL DE JUSTIÇA
+
+Requerido:
+
+DIVONCIR SCHREINER MARAN
+
+Interessados:
+
+RODRIGO PEDRINI MARCOS
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS – AMB
+
+Advogados:
+
+ANDRE LUIZ BORGES NETTO - OAB MS5788
+
+PAULO HENRIQUE ROSSETO DE SOUZA - OAB MS21478
+
+LUDMILLA CAROLINE GOMES BARBOSA - OAB MS20505
+
+MARTINHO LUTERO MENDES - OAB MS10718
+
+THIAGO ANDRADE SIRAHATA - OAB MS16403
+
+FREDERICO COUTINHO BATISTA - OAB MS18195
+
+JONATHAN SPADA - OAB MS22508
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+TAINAH MACEDO COMPAN TRINDADE CUNHA - OAB DF46898
+
+LUCAS DUMONT AVILA GARAVINI - OAB DF65664
+
+MARIA CLARA CUNHA FARIAS - OAB DF66215
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+Assunto: TJMS - Apuração - Infração disciplinar - Desembargador - Habeas Corpus nº 1404522-80.2020.8.12.0000 - Prisão domiciliar - Grupo de risco - Coronavírus - Covid-19 - Recomendação nº 62/CNJ.
+
+**Decisão:** *“Após o voto do Relator, determinando* *a instauração de processo administrativo disciplinar em desfavor do magistrado requerido, no que foi acompanhado pelo Conselheiro Mauro Pereira Martins, pediu vista regimental o Conselheiro Luiz Fernando Bandeira de Mello. Aguardam os demais.* *Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+Sustentaram oralmente: pelo Requerido, o Advogado André Luiz Borges Netto – OAB/MS 5.788; e, pela Interessada Associação dos Magistrados Brasileiros – AMB, a Advogada Ana Luísa Vogado de Oliveira – OAB/DF 59.275. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+CONSULTA 0002272-25.2022.2.00.0000
+
+Relatora: CONSELHEIRA SALISE SANCHOTENE
+
+Requerente:
+
+CONSELHO DA JUSTIÇA FEDERAL - CJF
+
+Requerido:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Assunto: CJF - Ofício 0323129/CJF - Teto Remuneratório - Cumulação - Pensão - Remuneração - Proventos - Resoluções nºs 13/CNJ e 14/CNJ - Repercussão Geral STF - Recuso Extraordinário 602-584/DF.
+
+**Decisão:** *“O Conselho, por unanimidade, respondeu a consulta**, nos termos do voto da Relatora.* *Votou a Presidente. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+PROCESSO ADMINISTRATIVO DISCIPLINAR 0000605-38.2021.2.00.0000
+
+Relator: CONSELHEIRO LUIZ FERNANDO BANDEIRA DE MELLO
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+WASHINGTON LUIZ DAMASCENO FREITAS
+
+Interessados:
+
+MINISTÉRIO PÚBLICO FEDERAL – MPF
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS - AMB
+
+Advogados:
+
+MILTON GONÇALVES FERREIRA NETTO - OAB AL9569
+
+RAPHAEL CARVALHO DA SILVA - OAB DF68822
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+SAMARA DE OLIVEIRA SANTOS LÉDA - OAB DF23867
+
+TAINAH MACEDO COMPAN TRINDADE - OAB DF46898
+
+LUCAS ALMEIDA DE LOPES LIMA - OAB AL12623-A
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+Assunto: TJAL - Portaria nº 3, de 26 de janeiro de 2021 - Apuração - Infração disciplinar - Desembargador - Decisão - Liminar - Plantão Judiciário - Agravo de Instrumento nº 0804775-72.2015.8.02.0000 - Resolução nº 71/CNJ.
+
+(Vista regimental ao Conselheiro Vieira de Mello Filho)
+
+**Decisão:** *“Após o voto do Conselheiro Vistor, o Conselho decidiu:*
+
+*I - por unanimidade, rejeitar as preliminares e julgar procedente a imputação;*
+
+*II - por maioria, pela aplicação da pena de* *aposentadoria compulsória**, nos termos do voto do Conselheiro Vieira de Mello Filho**. Vencidos, quanto à dosimetria da pena, os Conselheiros Luiz Fernando Bandeira de Mello (Relator), Richard Pae Kim e João Paulo Schoucair, que votavam pela aplicação da pena de disponibilidade. Lavrará o acórdão o Conselheiro Vieira de Mello Filho.* *Votou a Presidente. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023.”*
+
+PEDIDO DE PROVIDÊNCIAS 0007348-64.2021.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+MAURÍCIO CAMATTA RANGEL
+
+Interessada:
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS – AMB
+
+Advogados:
+
+FLÁVIO CHEIM JORGE - OAB ES262-A
+
+LUDGERO FERREIRA LIBERATO DOS SANTOS - OAB ES21748-A
+
+VINÍCIUS DE SOUZA SANT’ANNA - OAB ES20759-A
+
+ROBSON HALLEY COSTA RODRIGUES – OAB DF67827 – CE27422
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+RODRIGO LOBO MARIANO - OAB DF50493
+
+SAMARA DE OLIVEIRA SANTOS LÉDA - OAB DF23867
+
+TAINAH MACEDO COMPAN TRINDADE CUNHA - OAB DF46898
+
+ISABELLA SARMENTO FERREIRA - OAB DF73098
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+REBECCA ARAÚJO ROSA – OAB CE36137
+
+LUIZ EDUARDO SANTOS E SILVA – OAB CE47552
+
+PEDRO HENRIQUE SOARES MATIAS – OAB CE48087
+
+Assunto: TJES - Cumprimento - Resolução nº 135/CNJ - Processo nº 0000097-93.2021.2.00.0808.
+
+(Vista regimental ao Conselheiro Marcos Vinicius Jardim Rodrigues)
+
+**Decisão:** *“Após o voto do Conselheiro Marcos Vinícius Jardim Rodrigues, no sentido do arquivamento do pedido de providências, com expedição de ofícios à Ordem dos Advogados do Brasil - Seccional do Espírito Santo e Ministério Público do Estado do Espirito Santo para providências cabíveis, pediu vista regimental o Conselheiro Vieira de Mello Filho. Aguardam os demais. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023”*
+
+Prestou esclarecimento de fato, o Advogado Robson Halley Costa Rodrigues – OAB/CE 27.422. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+RECLAMAÇÃO DISCIPLINAR 0006253-33.2020.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerente:
+
+CORREGEDORIA NACIONAL DE JUSTIÇA
+
+Requerido:
+
+DOUGLAS DE MELO MARTINS
+
+Interessados:
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS – AMB
+
+ASSOCIAÇÃO DOS MAGISTRADOS DO MARANHÃO – AMMA
+
+Advogados:
+
+SIDNEY FILHO NUNES ROCHA - OAB MA5746-A
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+SAMARA DE OLIVEIRA SANTOS LÉDA - OAB DF23867
+
+TAINAH MACEDO COMPAN TRINDADE - OAB DF46898
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+IZABELLE RHAISSA FURTADO MOREIRA - OAB MA17579
+
+ROCHA, SILVA E MADEIRA ADVOGADOS ASSOCIADOS – OAB MA370
+
+Assunto: TJMA - Apuração - Conduta - Infração disciplinar - Magistrado - Concessão - Entrevista - Televisão local - Imputação - Graves acusações - Ministro Presidente - STF - CNJ - Ofício Gabinete Conjunto nº 1/2020/GAB-ADV1/GAB-CID CD/GAB-CID SEN.
+
+(Vista regimental ao Conselheiro Mário Goulart Maia)
+
+**Decisão:** *“Após o voto do Conselheiro Mário Goulart Maia, abrindo divergência, no sentido do arquivamento da reclamação disciplinar, pediu vista regimental o Conselheiro Richard Pae Kim. Aguardam os demais. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023”*
+
+REVISÃO DISCIPLINAR 0000574-47.2023.2.00.0000
+
+Relatora: CONSELHEIRA SALISE MONTEIRO SANCHOTENE
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requeridos:
+
+NOÉ PACHECO DE CARVALHO
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ – TJPI
+
+Interessadas:
+
+ORDEM DOS ADVOGADOS DO BRASIL SECÇÃO PIAUÍ
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS – AMB
+
+ASSOCIAÇÃO NACIONAL DOS MAGISTRADOS ESTADUAIS - ANAMAGES
+
+Advogados:
+
+JOSÉ NORBERTO LOPES CAMPELO - OAB PI2594
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+SAMARA DE OLIVEIRA SANTOS LÉDA - OAB DF23867
+
+TAINAH MACEDO COMPAN TRINDADE CUNHA - OAB DF46898
+
+GUSTAVO ALESSANDRO VILARINHO DE ARAÚJO - OAB DF59732
+
+LUCAS ALMEIDA DE LOPES LIMA - OAB AL12623-A
+
+MARIA CLARA CUNHA FARIAS - OAB DF66215
+
+CLARIANA FERNANDES ALMEIDA - OAB PI19395
+
+RODRIGO LOBO MARIANO - OAB DF50493
+
+FELLIPE MATHEUS DA CUNHA GONÇALVES - OAB DF59728
+
+GUSTAVO ALESSANDRO VILARINHO DE ARAUJO - OAB DF59732
+
+ALBERTO EMANUEL ALBERTIN MALTA - OAB DF46056
+
+ANA LUISA VOGADO DE OLIVEIRA - OAB DF59275
+
+MATHAEUS LAZARINI DE ALMEIDA - OAB DF60712
+
+NATALIE ALVES LIMA - OAB DF65667
+
+CRISTOVAM DIONÍSIO DE BARROS CAVALCANTI JUNIOR – OAB MG130440-A
+
+ROBERTA JANAÍNA TAVARES OLIVEIRA – OAB PI3841
+
+Assunto: TJPI - Revisão - PADMAG 0757171- 61.2021.8.18.0000 - Penalidade - Censura - Juiz - Concessão - Liberdade provisória, sem cobrança de fiança - Filho - Processo nº 0800910-97.2021.8.18.0028 - Impedimento.
+
+(Vista regimental à Presidente Ministra Rosa Weber)
+
+**Decisão:** *“Após o voto da Presidente, o Conselho decidiu, por maioria:*
+
+*I - julgar procedente a revisão disciplinar para rever a pena fixada na origem. Vencido, neste ponto, o Conselheiro Mário Maia, que julgava improcedente a revisão disciplinar;*
+
+*II - aplicar a pena de remoção compulsória ao magistrado, nos termos do art. 21, parágrafo único, da Resolução CNJ 135/2011. Vencidos os Conselheiros Salise Sanchotene (Relatora), Jane Granzoto, Marcio Luiz Freitas, Luis Felipe Salomão, Vieira de Mello Filho e a Presidente, que convertiam a pena de censura em pena de disponibilidade. Lavrará o acórdão o Conselheiro Marcello Terto.* *Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023.”*
+
+Às dezessete horas e um minuto, a Sessão foi suspensa. Às dezessete horas e vinte e cinco minutos, a Sessão foi reaberta e prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+RECLAMAÇÃO DISCIPLINAR 0003649-31.2022.2.00.0000
+
+Relator: CONSELHEIRO LUIS FELIPE SALOMÃO
+
+Requerente:
+
+CORREGEDORIA NACIONAL DE JUSTIÇA
+
+Requerido:
+
+GILSON SOARES LEMES
+
+Advogado:
+
+WALTER JOSÉ FAIAD DE MOURA - OAB DF17390
+
+Assunto: TJMG - Presidência - Escritório de Representação - Licitação - Lei n. 8.666/1993.
+
+(Vista regimental ao Conselheiro João Paulo Schoucair)
+
+**Decisão:** *“O Conselho decidiu, por maioria, pela instauração de processo administrativo disciplinar, aprovando desde logo a portaria de instauração do PAD, nos termos do voto do Relator. Vencidos os Conselheiros Richard Pae Kim, Vieira de Mello Filho, Giovanni Olsson, Mário Goulart Maia, Luiz Fernando Bandeira de Mello e João Paulo Schoucair, que julgavam improcedente o pedido. Votou a Presidente. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023.”*
+
+ATO NORMATIVO 0005298-94.2023.2.00.0000
+
+Relator: CONSELHEIRO VIEIRA DE MELLO FILHO
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Assunto: Proposta - Alteração - Resolução nº 81/CNJ - Concursos públicos de provas e títulos, para a outorga das Delegações de Notas e de Registro, e minuta de edital - Resolução nº 203/CNJ - Reserva - Cotas -  negros -  Concursos públicos para provimento de cargos efetivos e de ingresso na magistratura.
+
+**Decisão:** *“O* *Conselho decidiu, por unanimidade:*
+
+*I -* *incluir em pauta o presente procedimento, nos termos do § 1º do artigo 120 do Regimento Interno;*
+
+*II -* *aprovar a Resolução, nos termos do voto do Relator.* *Votou a Presidente. Presidiu o julgamento a Ministra Rosa Weber. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Plenário, 22 de agosto de 2023.”*
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0004814-60.2015.2.00.0000
+
+Relator: CONSELHEIRO MÁRIO GOULART MAIA
+
+Requerentes:
+
+CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL – CFOAB
+
+ORDEM DOS ADVOGADOS DO BRASIL SECÇÃO PIAUÍ
+
+Requerido:
+
+TRIBUNAL REGIONAL FEDERAL DA 1ª REGIÃO - TRF 1
+
+Interessados:
+
+UNIÃO FEDERAL
+
+ADVOCACIA-GERAL DA UNIÃO - PROCURADORIA-GERAL FEDERAL
+
+RECORRENTE:
+
+ASSOCIAÇÃO DOS JUÍZES FEDERAIS DA 1ª REGIÃO – AJUFER
+
+Advogados:
+
+OSWALDO PINHEIRO RIBEIRO JUNIOR - OAB DF16275
+
+RAFAEL BARBOSA DE CASTILHO - OAB DF19979
+
+RUI MAGALHÃES PISCITELLI - OAB DF36056
+
+FÁBIO MEDINA OSÓRIO – OAB RS64975
+
+PAULO ROBERTO CHUERY – OAB DF20449
+
+Assunto: TRF 1ª Região - Apuração - Irregularidade - Resoluções PRESI nºs 20, 22, 23 e 25 - Impedimento - Peticionamento Eletrônico - Sistema e-Proc - Tramitação - Processo Físico - Mitigação - Direito de Petição - Necessidade - Desconstituição - Invalidação - Normas.
+
+(Vista regimental à Conselheira Jane Granzoto)
+
+**Decisão:** *“Após o voto da Conselheira Vistora, o Conselho, por unanimidade, deu provimento aos recursos interpostos pelo Conselho Federal da OAB e pela União e negou provimento ao recurso interposto pela AJUFER, para tornar sem efeito as Resoluções PRESI nº 20, 22, 23 e 25, todas de 2015, do Tribunal Regional Federal da 1ª Região, nos termos do voto do Relator. Votou a Presidente. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023.”*
+
+RECURSO ADMINISTRATIVO NO PEDIDO DE PROVIDÊNCIAS 0004235-68.2022.2.00.0000
+
+Relator: CONSELHEIRO MÁRIO GOULART MAIA
+
+Requerente:
+
+ARTHUR LACHTER
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS – TJDFT
+
+Advogados:
+
+JOÃO VICTOR DE ARAÚJO TOCANTINS - OAB DF67219-A
+
+KAUÊ DE BARROS MACHADO - OAB DF30848-A
+
+Assunto: TJDFT - Autorização - Afastamento - Magistrado - Feriado - Dia do perdão - Yom Kipur - Religião -  Judaísmo - Necessidade -  Compensação - Violação - Liberdade - Crença - Processos nºs 0020664/2019 e 0010969/2020.
+
+(Vista regimental à Conselheira Salise Sanchotene)
+
+**Decisão:** *“Após o voto da Conselheira Vistora, o Conselho, por unanimidade, deu parcial provimento ao recurso**, nos termos do voto do Relator.* *Votou a Presidente. Ausente, circunstancialmente, o Conselheiro Luis Felipe Salomão. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 8 de agosto de 2023.”*
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0007438-38.2022.2.00.0000
+
+Relator: CONSELHEIRO MAURO PEREIRA MARTINS
+
+Requerente:
+
+GUSTAVO HENRIQUE MOREIRA DO VALLE
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL – TJRS
+
+Interessados:
+
+GUILHERME AUGUSTO FACCENDA
+
+EDUARDO POMPERMAIER SILVEIRA
+
+ALI NASSER HUDA
+
+ALINNE CARDOSO DA SILVA
+
+CICERO OLIVEIRA LECZINIESKI
+
+FRANCIELE PETRY
+
+IURI FERREIRA BITTENCOURT
+
+LUIZA OLIVEIRA GUEDES
+
+PRICILA KRAHL
+
+RAFAEL CUNHA GARCIA
+
+ROGERIO FERNANDO PIRES DA SILVA FILHO
+
+TALLYS OLIVEIRA SILVA ARAÚJO
+
+MARCOS COSTA SALOMÃO
+
+JÉVERSON LUÍS BOTTEGA
+
+Advogados:
+
+CLAUDIR FIDELIS FACCENDA - OAB RS80364
+
+JAYSON CAOVILLA VENDRUSCULO - OAB RS80568
+
+RAMÃNNA DAMÁZIO - OAB RS106694
+
+VICENTE FIDELIS FACCENDA - OAB RS116674
+
+EDUARDO POMPERMAIER SILVEIRA - OAB RS55574
+
+HELEN CAROLINE CARDOSO SANTOS - OAB SE6387
+
+LUIZ FERNANDO VIEIRA MARTINS - OAB RS53731
+
+MARCUS VINICIUS FURTADO COÊLHO - OAB PI2525
+
+SAUL TOURINHO LEAL - OAB DF22941
+
+AYRES BRITTO CONSULTORIA JURÍDICA E ADVOCACIA – OAB DF2154/13-R.S
+
+Assunto: TJRS - Edital nº 002/2019 - CECPODNR - Concurso Público de Provas e Títulos para a Outorga de Delegação de Serviços Notariais e Registrais do Estado do Rio Grande do Sul - Nulidade - Prova Oral - Registro - Audiovisual - Anulação - Parcial - Problemas Técnicos - Reaplicação.
+
+**Decisão:** *“Após o voto do Relator, negando provimento ao recurso, pediu vista regimental o Conselheiro Marcello Terto. Aguardam os demais. Ausentes, circunstancialmente, os Conselheiros Luis Felipe Salomão e Vieira de Mello Filho. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023”*
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0000359-71.2023.2.00.0000
+
+Relator: CONSELHEIRO MAURO PEREIRA MARTINS
+
+Requerente:
+
+MARCOS COSTA SALOMÃO
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO GRANDE DO SUL – TJRS
+
+Interessados:
+
+EDUARDO POMPERMAIER SILVEIRA
+
+RODRIGO PACHECO FERNANDES
+
+JULIANA FRIEDRICH FARAJ ROMAGNA GRASSO
+
+JULIAN CRISTOPHER BELOTTO
+
+TALLYS OLIVEIRA SILVA ARAÚJO
+
+JÉVERSON LUÍS BOTTEGA
+
+ANTÔNIO LUIS CARBONARI
+
+Advogados:
+
+LUIZ FERNANDO VIEIRA MARTINS - OAB RS53731
+
+MARCUS VINICIUS FURTADO COÊLHO - OAB PI2525
+
+EDUARDO POMPERMAIER SILVEIRA - OAB RS55574
+
+MARCIO ANTONIO BUENO - OAB SP26953
+
+ARIANE CRISTINA VILALTA - OAB SP274434
+
+BRUNA CORRÊA BUENO FERNANDES - OAB SP353160
+
+GILIANE GREGÓRIO QUERINO DA SILVA - OAB SC39367
+
+VANESSA VITORINO ALVES MAITO - OAB PR70238
+
+SAUL TOURINHO LEAL - OAB DF22941
+
+VINICIUS GUISOLFI - OAB RS70331
+
+AYRES BRITTO CONSULTORIA JURÍDICA E ADVOCACIA – OAB DF2154/13-R.S
+
+Assunto: TJRS - Concurso Público de Provas e Títulos para a Outorga de Delegação de Serviços Notariais e Registrais do Estado do Rio Grande do Sul - Edital nº 002/2019 - CECPODNR - Nulidade - Prova oral - Grupo C - Falha Técnica - Gravação - Áudio - Reaplicação - Ilegalidade - Cassação - Atas nº 97/2022 e 98/2022.
+
+**Decisão:** *“Após o voto do Relator, negando provimento ao recurso, pediu vista regimental o Conselheiro Marcello Terto. Aguardam os demais. Ausentes, circunstancialmente, os Conselheiros Luis Felipe Salomão e Vieira de Mello Filho. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento a Ministra Rosa Weber. Plenário, 22 de agosto de 2023”*
+
+O Conselheiro Federal da Ordem dos Advogados do Brasil Mansour Elias Karmouche externou a solidariedade da Ordem dos Advogados do Brasil com relação ao assassinato da Mãe Bernadete e noticiou que o Conselho Federal emitiu nota de repúdio, cobrando das autoridades uma enérgica resposta ao crime. Anunciou, ainda, antecipada saudade pelo fim da gestão da Ministra Rosa Weber e agradeceu a experiência de trabalhar junto com os Conselheiros e Sua Excelência. O Subprocurador-Geral da República Alcides Martins subscreveu as manifestações do Dr. Mansour Elias Karmouche e enalteceu o trabalho realizado pelo Conselho Nacional de Justiça. A Ministra Rosa Weber relembrou que na última quarta-feira foi feita a aposição ao museu do Supremo Tribunal Federal do nome do Ministro Sepúlveda Pertence. Às dezoito horas e quarenta e sete minutos, a Presidente Ministra Rosa Weber agradeceu a presença de todos e a Sessão foi encerrada definitivamente.
+
+Ministra **Rosa Weber**
+
+Presidente

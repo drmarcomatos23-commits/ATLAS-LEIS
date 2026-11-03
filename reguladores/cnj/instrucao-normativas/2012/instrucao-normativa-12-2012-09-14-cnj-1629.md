@@ -1,0 +1,64 @@
+---
+titulo: "Instrução Normativa Nº 12 de 14/09/2012"
+orgao: "CNJ – Diretoria-Geral"
+tipo: "Instrução Normativa"
+numero: "12"
+data: 2012-09-14
+ementa: "Dispõe sobre os critérios e procedimentos para a emissão de atestados de capacidade técnica no âmbito do Conselho Nacional de Justiça."
+situacao: "Vigente"
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "BS/CNJ nº 10, de 5/10/2012"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/1629"
+arquivo: "https://atos.cnj.jus.br/files//instrucao_normativa/instrucao_normativa_12_14092012_08112012134651.pdf"
+id_fonte: "cnj-1629"
+baixado_em: 2026-11-03
+---
+
+# Instrução Normativa Nº 12 de 14/09/2012
+
+## Instrução Normativa n.º 12, de 14 de setembro de 2012
+
+Dispõe sobre os critérios e procedimentos para a emissão de atestados de capacidade técnica no âmbito do Conselho Nacional de Justiça.
+
+Publicado no Boletim de Serviço n.º 10, de 5/10/2012
+
+[Download do documento original](http://www.cnj.jus.br/images/atos_adm/in_dg/in_12_2012.pdf)
+
+INSTRUÇÃO NORMATIVA Nº 12, DE 14 DE SETEMBRO DE 2012.
+
+Dispõe sobre os critérios e procedimentos para a emissão de atestados de capacidade técnica no âmbito do Conselho Nacional de Justiça.
+
+O DIRETOR-GERAL DO CONSELHO NACIONAL DE JUSTIÇA, no uso das atribuições legais que lhe confere a alínea b do inciso XI do art. 3º da Portaria n.º 112/Presidência, de 04 de junho de 2010,
+
+R E S O L V E:
+
+Art.1º A emissão de atestados de capacidade técnica, no âmbito do Conselho Nacional de Justiça – CNJ, observará os critérios e os procedimentos estabelecidos nesta Instrução Normativa.
+
+Art. 2º. O atestado deverá ser solicitado ao Gabinete do Diretor-Geral, por meio de requerimento formal, do qual deve constar a razão social da contratada, o número da inscrição no CNPJ, o objeto contratado, o número do contrato e o modelo desejado.
+
+Parágrafo único. O pedido deverá ser protocolizado e, ao final, será apensado ao processo principal de contratação.
+
+Art. 3º. Após a autuação, o processo será encaminhado ao gestor do contrato para que se manifeste formalmente sobre a concessão ou não do atestado na forma pretendida.
+
+§ 1º Em caso de aplicação de penalidades na vigência do contrato, as ocorrências deverão constar da manifestação do gestor e do atestado.
+
+§ 2º Caso o procedimento de aplicação de penalidade não tenha sido concluído, o atestado deverá detalhar a execução contratual e as ocorrências em apuração.
+
+Art. 4º. O atestado descreverá o objeto contratado pelo CNJ, contendo, no que couber: especificações técnicas, quantitativos, prazos, desempenho do contratado, gestores e responsáveis técnicos.
+
+Art. 5º. Nos contratos que não sejam de duração continuada, o atestado somente será emitido após o recebimento definitivo do objeto.
+
+Art. 6º. Será juntada cópia do atestado emitido aos autos principais do processo de contratação.
+
+Art. 7º. Compete ao Diretor-Geral a emissão de atestado de capacidade técnica, subsidiado pelas informações prestadas pelo gestor do contrato.
+
+Art. 8º. Os casos omissos serão resolvidos pelo Diretor-Geral.
+
+Art. 9º. Revogam-se as disposições em contrário.
+
+Art. 10. Esta Instrução Normativa entra em vigor na data de sua assinatura.
+
+Miguel Augusto Fonseca de Campos
+
+Diretor-Geral

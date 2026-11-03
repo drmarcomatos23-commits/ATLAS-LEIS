@@ -1,0 +1,40 @@
+---
+titulo: "Recomendação Nº 34 de 27/02/2019"
+orgao: "CNJ – Corregedoria"
+tipo: "Recomendação"
+numero: "34"
+data: 2019-02-27
+ementa: "Recomenda todos os membros dos Tribunais de Justiça dos Estados, Tribunais Regionais Federais e Tribunais Regionais do Trabalho do país, que tenham cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, cujo nome figure nas listas para a escolha de seus integrantes oriundos das vagas destinadas ao quinto constitucional da OAB e do Ministério Público, que se abstenham de participar da sessão e de votar."
+situacao: "Vigente"
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "DJe/CNJ nº 40/2019, em 28/02/2019, p. 3"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/2844"
+arquivo: "https://atos.cnj.jus.br/files//recomendacao/recomendacao_34_27022019_28022019160440.pdf"
+id_fonte: "cnj-2844"
+baixado_em: 2026-11-03
+---
+
+# Recomendação Nº 34 de 27/02/2019
+
+**O CORREGEDOR NACIONAL DE JUSTIÇA**, usando de suas atribuições constitucionais, legais e regimentais e
+
+**CONSIDERANDO** que a vedação do nepotismo não exige a edição de lei formal para coibir a prática, já que a proibição decorre diretamente dos princípios contidos no [art. 37, caput, da Constituição Federal](http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm);
+
+**CONSIDERANDO** que a [súmula vinculante n° 13 do Supremo Tribunal Federal](http://www.stf.jus.br/portal/jurisprudencia/menuSumario.asp?sumula=1227) dispõe que a nomeação de cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, da autoridade nomeante ou de servidor da mesma pessoa jurídica investido em cargo de direção, chefia ou assessoramento, para o exercício de cargo em comissão ou de confiança ou, ainda, de função gratificada na administração pública direta e indireta em qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, compreendido o ajuste mediante designações recíprocas, viola a Constituição Federal;
+
+**CONSIDERANDO** que a [Resolução CNJ nº 07/2005](https://atos.cnj.jus.br/atos/detalhar/187), que "disciplina o exercício de cargos, empregos e funções por parentes, cônjuges e companheiros de magistrados e de servidores investidos em cargos de direção e assessoramento, no âmbito dos órgãos do Poder Judiciário” teve sua constitucionalidade declarada pelo STF no julgamento da [ADC 12](http://portal.stf.jus.br/processos/detalhe.asp?incidente=2358461);
+
+**RESOLVE:**
+
+Art. 1º **RECOMENDAR** a todos os membros dos Tribunais de Justiça dos Estados, Tribunais Regionais Federais e Tribunais Regionais do Trabalho do país, que tenham cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, cujo nome figure nas listas para a escolha de seus integrantes oriundos das vagas destinadas ao quinto constitucional da OAB e do Ministério Público, que se abstenham de participar da sessão e de votar.
+
+Parágrafo único – Os membros dos Tribunais que não sejam cônjuge, companheiro ou parente em linha reta, colateral ou por afinidade, até o terceiro grau, inclusive, dos indicados, poderão participar da sessão e votar normalmente.
+
+Art. 2º Esta recomendação entra em vigor na data de sua publicação.
+
+Ministro **HUMBERTO MARTINS**
+
+Corregedor Nacional de Justiça
+
+Republicada com alteração de texto por força da decisão proferida no pedido de Providências n.º 0000754-05.2019.2.00.0000, publicada no DJE  de 15 de fevereiro de 2019.

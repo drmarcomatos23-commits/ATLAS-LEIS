@@ -1,0 +1,38 @@
+---
+titulo: "Ato CNJ 6673"
+orgao: "CNJ"
+tipo: "Ato CNJ 6673"
+data:
+ementa: "MAPA ANUAL E INFORMAÇÕES AO CNJ. ART. 85, RES. 303/2019. RPVs EMITIDAS NO EXERCÍCIO DA COMPETÊNCIA FEDERAL DELEGADA. RESPONSABILIDADE DO TRIBUNAL REGIONAL FEDERAL PELOS DADOS E INFORMAÇÕES PRESTADAS AO CNJ. 1. As RPVs expedidas pelos juízes estaduais, no âmbito da competência federal delegada, são realizadas nos sistemas próprios do Tribunal Regional Federal, que registra os requisitórios e realiza o processamento até o pagamento. 2. O art. 85 da Resolução 303/2019 exige o envio ao CNJ dos bancos de dados, e do consequente Mapa Anual, relativamente aos precatórios, não abrangendo as Requisições de Pequeno Valor – RPVs emitidos no exercício da competência federal delegada. 3. Desnecessidade do TJGO enviar ao CNJ os dados e prestar informações relativos às RPVs expedidas pelos juízes estaduais no exercício de competência federal delegada, seja porque não há previsão de envio destes dados, seja porque mesmo se adotada tal exigência, o TJGO não é o tribunal expedidor destas RPVs e sim o TRF da 1a Região como previsto na Lei de Diretrizes Orçamentárias da União."
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/6673"
+id_fonte: "cnj-6673"
+baixado_em: 2026-11-03
+---
+
+# Ato CNJ 6673
+
+MAPA ANUAL E INFORMAÇÕES AO CNJ. ART. 85, RES. 303/2019. RPVs EMITIDAS NO EXERCÍCIO DA COMPETÊNCIA FEDERAL DELEGADA. RESPONSABILIDADE DO TRIBUNAL REGIONAL FEDERAL PELOS DADOS E INFORMAÇÕES PRESTADAS AO CNJ.
+
+1. As RPVs expedidas pelos juízes estaduais, no âmbito da competência federal delegada, são realizadas nos sistemas próprios do Tribunal Regional Federal, que registra os requisitórios e realiza o processamento até o pagamento. 2. O art. 85 da Resolução 303/2019 exige o envio ao CNJ dos bancos de dados, e do consequente Mapa Anual, relativamente aos precatórios, não abrangendo as Requisições de Pequeno Valor – RPVs emitidos no exercício da competência federal delegada. 3. Desnecessidade do TJGO enviar ao CNJ os dados e prestar informações relativos às RPVs expedidas pelos juízes estaduais no exercício de competência federal delegada, seja porque não há previsão de envio destes dados, seja porque mesmo se adotada tal exigência, o TJGO não é o tribunal expedidor destas RPVs e sim o TRF da 1a Região como previsto na Lei de Diretrizes Orçamentárias da União.
+
+RELATÓRIO:
+
+Trata-se de Expediente encaminhado via e-mail por servidor da Central de Controle, Automação e Expedição de Requisições de Pequeno Valor do Tribunal de Justiça de Goiás direcionada ao Fórum Nacional de Precatórios (FONAPREC). O PA-Sei foi encaminhado, pelo MM. Conselheiro Presidente do FONAPREC, para manifestação técnica com base no art. 8º, inciso X do Regimento Interno do FONAPREC. Conforme bem relatado no despacho de encaminhamento do presente expediente, “a dúvida trazida versa sobre o envio de informações consolidadas ao CNJ a respeito da expedição e processamento de RPVs de natureza federal, tendo em vista que nas comarcas de competência delegada, o TJGO utiliza o sistema do TRF da 1ª Região para efetivar o processamento dessas RPVs, em que figuram como executadas a União, ou suas autarquias e entidades públicas. Em síntese, as dúvidas são as seguintes: i) Acerca do relatório de informações do Mapa Anual, previsto no art. 85, da Resolução CNJ nº 303/2019, especificamente sobre as requisições de pequeno valor, além de manter em banco de dados,deve ser enviado o csv via sistema de precatórios ao CNJ? ii) Sobre a prestação dessas informações perante o CNJ, para fins de cumprimento da Resolução CNJ nº 303/2019, deve o TJGO prestar informações a respeito da expedição e pagamento de RPVs ao CNJ ou o TRF da 1ª Região já o faz? (Nesse ponto, a preocupação é que caso haja a obrigação de prestar informações de RPV ao CNJ isso ocorra de forma duplicada, pelo TJGO e pelo TRF da 1ª Região). Este é o relatório. Passo a opinar.
+
+PARECER:
+
+As questões apresentadas estão relacionadas com a manutenção dos bancos de dados permanentes, previstos no art. 85 da Resolução CNJ nº 303/2019, bem como com o envio de banco de dados ao CNJ sempre relacionados às requisições de pagamento de pequeno valor RPVs emitidas nos feitos judiciais pelos juízes estaduais no âmbito da denominada competência federal delegada. Como pontuou o próprio órgão requerente, as RPVs expedidas pelos juízes estaduais vinculados ao TJGO, no âmbito da competência federal delegada, são realizadas nos sistemas próprios do Tribunal Regional Federal da 1ª Região, que registra tais requisitórios e realiza o processamento até o pagamento.
+
+Compete ao juiz estadual tão somente elaborar o alvará de levantamento do depósito realizado pelo TRF em conta bancária individualizada aberta especialmente para essa finalidade instituição financeira oficial. Para melhor elucidar o tema posto no questionamento, confira se a norma do art. 85 da Resolução CNJ nº 303/2019: Art. 85. Os tribunais manterão banco de dados permanente contendo as seguintes informações acerca dos precatórios expedidos : (…) § 1º Das informações apontadas nos incisos deste artigo, o tribunal extrairá os dados necessários à composição de mapa anual que espelhe a situação da dívida em 31 de dezembro, a ser publicado até 31 de março do ano seguinte em seu sítio eletrônico, referente à situação dos precatórios sob sua responsabilidade, por ente devedor, constando as seguintes informações compiladas:(redação dada pela Resolução n. 448, de 25.3.2022) (…) (grifei) Do texto normativo se extrai que os bancos de dados exigidos pelo Conselho Nacional de Justiça, e o consequente Mapa Anual, dizem respeito tão somente a precatórios, não abrangendo as Requisições de Pequeno Valor – RPVs emitidas no âmbito da competência federal delegada. Neste diapasão,respondendo objetivamente ao item i acima transcrito do expediente apresentado, entendo que não há necessidade do TJGO enviar ao CNJ os dados relativos às RPVs expedidas pelos juízes estaduais no exercício de competência federal delegada, seja porque não há previsão de envio dos dados de RPVs, seja porque mesmo se adotada tal exigência, o TJGO não é o tribunal expedidor destas RPVs e sim o TRF da 1ª Região como previsto na Lei de Diretrizes Orçamentárias da União. Da mesma forma é a resposta ao questionamento constante do item ii do expediente acima transcrito. O TJGO não necessita prestar informações a respeito da expedição e pagamento de RPVs ao CNJ relativamente às requisições emitidas pelos juízes estaduais no exercício da competência federal delegada, uma vez que o TJGO não é o tribunal expedidor destas RPVs e sim o TRF da 1ª Região como previsto na Lei de Diretrizes Orçamentárias da União. Havendo necessidade de prestar informações sobre essas RPVs ao CNJ, o TRF da 1ª Região é o tribunal responsável por ser o órgão expedidor da RPV à entidade federal devedora, possuindo todos os elementos da requisição em seus sistemas e base de dados.
+
+CONCLUSÕES:
+
+Diante do contexto fático descrito, opino no sentido de responder ao expediente apresentado nos termos acima explicitados . Submeto o presente Parecer Técnico ao Comitê Nacional do FONAPREC opinando, salvo melhor juízo acerca do tema, pelo encaminhamento da matéria como proposto neste voto.
+
+Brasília, 21 de outubro de 2022.
+
+Miguel Angelo de Alvarenga Lopes
+
+Membro do Comitê Nacional - FONAPREC

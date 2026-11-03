@@ -1,0 +1,27 @@
+---
+titulo: "Ata e Certidões de Julgamento Nº 1 de 14/06/2005"
+orgao: "CNJ – Presidência"
+tipo: "Ata e Certidões de Julgamento"
+numero: "1"
+data: 2005-06-14
+ementa: "Ata da 1ª Sessão Ordinária, de 14 de Junho de 2005."
+situacao: "Vigente"
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "-"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/1596"
+arquivo: "https://atos.cnj.jus.br/files/original183252202110256176f854ad91c.pdf"
+id_fonte: "cnj-1596"
+baixado_em: 2026-11-03
+---
+
+# Ata e Certidões de Julgamento Nº 1 de 14/06/2005
+
+CONSELHO NACIONAL DE JUSTIÇA 
+ATA DA 1ª SESSÃO ORDINÁRIA
+
+Às dezessete horas do dia 14 de junho
+
+de 2005, reuniu-se o Conselho Nacional de Justiça - CNJ, na sede do Supremo Tribunal Federal, em Brasília, presentes o Ministro NELSON JOBIM (Presidente), Ministro ANTÔNIO DE PÁDUA RIBEIRO (Corregedor), Ministro VANTUIL ABDALA, Desembargador MARCUS ANTONIO DE SOUZA FAVER, Juiz JIRAIR ARAM MEGUERIAN, Juiz DOUGLAS ALENCAR RODRIGUES, Juiz de Direito CLÁUDIO LUIZ BUENO DE GODOY, Juíza Federal GERMANA DE OLIVEIRA MORAES, Juiz do Trabalho PAULO LUIZ SCHMIDT, Procurador EDUARDO KURTZ LORENZONI, Procuradora RUTH LUIS SCHOLTE CARVALHO, Advogado OSCAR OTAVIO COIMBRA ARGOLLO, Advogado PAULO LUIZ NETO LÔBO, Dr. ALEXANDRE DE MORAES e Dr. JOAQUIM DE ARRUDA FALCÃO NETO. Presente também o Doutor ROBERTO ANTONIO BUSATO, presidente do Conselho Federal da OAB.
+
+Ausente, justificadamente, o Procurador-Geral da República, Doutor CLAUDIO FONTELES. Aberta a sessão, o Presidente prestou esclarecimentos sobre a composição da mesa. Foi designado para secretariar a sessão o juiz federal Flávio Dino, juiz auxiliar da presidência do Conselho. O Presidente passou a tratar sobre aspectos práticos relativos à instalação do Conselho. Informou que o Conselho Nacional de Justiça está instalado na Cobertura do Anexo 11 do Supremo Tribunal Federal. Conta com rubrica específica no orçamento. do Supremo para o ano em curso e, para o exercício de 2006, contará com orçamento próprio no Orçamento Geral da União. Foi cadastrado como unidade orçamentária no Sistema Integrado de Dados Orçamentários - SIDOR e inscrito no Cadastro Nacional de Pessoa Jurídicas - CNPJ sob o número 07.421.906/0001-29. Foi também criado o endereço eletrônico [presidencia@cnj.gov.br](mailto:presidencia@cnj.gov.br). O CNJ contará com quadro de pessoal, objeto de projeto de lei a ser encaminhado pelo STF, que detém competência legislativa para tanto. Enquanto não dispuser do mencionado quadro, a Secretaria do Supremo colocará à disposição servidores, sem prejuízo das requisições de que trata a Emenda Constitucional 45/2004. Está prevista também a criação do Departamento de Pesquisas Judiciárias, vinculado ao Conselho. Quanto à remuneração, a idéia inicial, ainda em exame no STF, que detém a competência legislativa, é que os membros do CNJ perceberão mensalmente o equivalente ao subsídio de Ministro do STJ. Enquanto não for estabelecido em lei o valor do subsídio, perceberão o equivalente à remuneração de Ministro do STJ com 35% de Adicional por Tempo de Serviço. Os conselheiros magistrados manterão os vínculos com suas respectivas instituições, apenas afastando-se quando houver necessidade, conforme será definido no Regimento Interno e em cada Tribunal. Foi franqueada a palavra aos conselheiros, sem que houvesse oposição quanto ao informado. Ato contínuo, foram examinadas as seguintes matérias: a) regimento interno: Foi apresentado o texto-base, elaborado pela assessoria da presidência, já enviado anteriormente aos conselheiros. Deliberou-se adotar a seguinte metodologia: as emendas deverão ser apresentadas até as 18 horas do dia 17 de junho de 2005, por intermédio do e-mail [presidencia@cnj.gov.br](mailto:presidencia@cnj.gov.br). Designado como relator o Juiz Paulo Schmidt, que emitirá parecer até o próximo dia 23 de junho, enviando aos conselheiros. Estes poderão pedir destaques para votação até o meio-dia de 27 de junho. Fica convocada para 28 de junho, às 14 h0ras, a 2\_ reunião do CNJ, para votação do regimento interno. b) comissões: aprovada a proposta do Presidente para a criação de comissões temáticas, sem prejuízo de debate posterior, a saber: estatística e relatórios semestrais, composta pelos conselheiros Jirair Meguerian e Joaquim Falcão; informatização - Douglas Rodrigues e Oscar Argollo; especialização de varas. câmaras e turmas - Cláudio Godoy e Paulo Lôbo; juizados especiais - Germana Moraes e Eduardo Lorenzoni; regulamentação da Emenda Constitucional nº 45 - Paulo Schmidt e Alexandre de Moraes; fundos, depósitos iudiciais e custas - Marcus Faver e Ruth Carvalho. c) férias coletivas de magistrados - alcance do art. 93, inciso XII da Constituição Federal, alterado pela EC nº 45/2004. O conselheiro Paulo Lobo formulou proposta por escrito e sustentou-a oralmente, no sentido da auto-aplicabilidade. O CNJ, por unanimidade, declarou ser o preceito auto-aplicável e portanto em vigor, ficando situações excepcionais para apreciação posterior, caso a caso. Quanto ao tema, fizeram uso da palavra o Presidente, Nelson Jobim, o Corregedor, Pádua Ribeiro, os conselheiros Vantuil Abdala, Paulo Lôbo, Marcus Faver, Cláudio Godoy, Alexandre de Moraes, Douglas Rodrigues, Jirair Meguerian, Eduardo Lorenzoni, Oscar Argollo e o presidente da OAB, Roberto Antonio Busato. A sessão encerrou-se às dezenove horas e trinta minutos e dela lavrou-se esta ata, que vai assinada pelos presentes.

@@ -1,0 +1,502 @@
+---
+titulo: "Ata e Certidões de Julgamento Nº 329 de 20/04/2021"
+orgao: "CNJ – Presidência"
+tipo: "Ata e Certidões de Julgamento"
+numero: "329"
+data: 2021-04-20
+ementa: "Ata da 329ª Sessão Ordinária de 20 de abril de 2021"
+situacao: "Vigente"
+revogada: false
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "DJe/CNJ nº 114/2021, em 05/05/2021, p. 9-14"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/3957"
+arquivo: "https://atos.cnj.jus.br/files/original1748112021060460ba675b39ffa.pdf"
+id_fonte: "cnj-3957"
+baixado_em: 2026-11-03
+---
+
+# Ata e Certidões de Julgamento Nº 329 de 20/04/2021
+
+**ATA DA 329ª SESSÃO ORDINÁRIA (20 de abril de 2021)**
+
+Às catorze horas e trinta e três minutos do dia vinte de abril de dois mil e vinte e um, reuniu-se o plenário do Conselho Nacional de Justiça - CNJ, por videoconferência, em razão da pandemia do COVID-19. Presentes o Presidente Conselheiro Luiz Fux, Conselheira Maria Thereza de Assis Moura, Conselheiro Emmanoel Pereira, Conselheiro Luiz Fernando Tomasi Keppen, Conselheiro Rubens de Mendonça Canuto Neto, Conselheira Tânia Regina Silva Reckziegel, Conselheiro Mário Augusto Figueiredo de Lacerda Guerreiro, Conselheira Candice Lavocat Galvão Jobim, Conselheira Flávia Moreira Guimarães Pessoa, Conselheira Ivana Farina Navarrete Pena, Conselheiro Marcos Vinícius Jardim Rodrigues, Conselheiro André Luis Guimarães Godinho, Conselheira Maria Tereza Uille Gomes e Conselheiro Luiz Fernando Bandeira de Mello Filho. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presentes **o Secretário-Geral do Conselho Nacional de Justiça Valter Shuenquener de Araújo. Presentes** o Subprocurador-Geral da República Alcides Martins e o Conselheiro Federal da Ordem dos Advogados do Brasil Francisco Queiroz Caputo Neto. Verificado o quórum regimental, o Presidente Conselheiro Luiz Fux declarou aberta a Sessão, saudou os Conselheiros e Conselheiras, o Subprocurador-Geral da República Alcides Martins, o Conselheiro Federal da Ordem dos Advogados do Brasil Francisco Queiroz Caputo Neto e o **Secretário-Geral do Conselho Nacional de Justiça Valter Shuenquener de Araújo** e submeteu a ata da 328ª Sessão Ordinária à aprovação, que foi aprovada à unanimidade. Em seguida, deu início ao julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+ATO NORMATIVO 0007427-48.2018.2.00.0000
+
+Relator: CONSELHEIRO MARCOS VINÍCIUS JARDIM RODRIGUES
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA – CNJ
+
+Requerido:
+
+CONSELHO NACIONAL DE JUSTIÇA – CNJ
+
+Interessado:
+
+ASSOCIAÇÃO DOS NOTÁRIOS E REGISTRADORES DO BRASIL - ANOREG-BR
+
+Advogados:
+
+ANDRÉ MACEDO DE OLIVEIRA - OAB DF15014
+
+FELIPE BLANCO GARCIA GUIMARÃES FLEURY – OAB SP315269
+
+GIOVANI TRINDADE CASTANHEIRA MENICUCCI - OAB DF27340
+
+DIXMER VALLINI NETTO - OAB DF17845
+
+MAURÍCIO GARCIA PALLARES ZOCKUN – OAB SP156594
+
+Assunto: CNJ - Ofício nº 017/2018/GAB - Resolução nº 215/CNJ - Proposta de alteração - Plena divulgação do faturamento das serventias extrajudiciais.
+
+(Vista regimental ao Conselheiro Mário Guerreiro)
+
+**Decisão:** *“Após o voto do Conselheiro vistor, o Conselho, por unanimidade, aprovou a Resolução, nos termos do voto do Relator, que acatou as observações do Conselheiro Mário Guerreiro.**Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento o Ministro Luiz Fux. Plenário, 20 de abril de 2021.”*
+
+PROCESSO ADMINISTRATIVO DISCIPLINAR 0001625-98.2020.2.00.0000
+
+Relatora: CONSELHEIRA FLÁVIA PESSOA
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA
+
+Requerido:
+
+MARIA DA GRAÇA OSÓRIO PIMENTEL LEAL
+
+Interessado:
+
+MINISTÉRIO PÚBLICO FEDERAL
+
+Advogado:
+
+JOÃO DANIEL JACOBINA BRANDAO DE CARVALHO – OAB BA 22113
+
+ELIEL CERQUEIRA MARINS – OAB BA 44683
+
+Assunto: TJBA - Portaria nº 3, de 21 de fevereiro de 2020 - Reclamação Disciplinar nº 0000014-23.2014.2.00.0000 - Apuração - Infração disciplinar - Desembargadora - Apresentação - Declarações falsas - Receita Federal.
+
+*(Prorrogação de prazo)*
+
+(Vista regimental ao Conselheiro Luiz Fernando Tomasi Keppen)
+
+**Decisão: *“Após o voto do Conselheiro vistor, o Conselho, por maioria, acolheu a alegação de prescrição e julgou extinto o feito. Vencidas as Conselheiras Maria Thereza de Assis Moura e Marcos Vinícius Jardim Rodrigues. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento o Ministro Luiz Fux. Plenário, 20 de abril de 2021.”***
+
+O Conselheiro Luiz Fernando Tomasi Keppen noticiou o falecimento do Ex-Secretário do Tribunal de Justiça do Estado do Paraná José Alvacir Guimarães e a Conselheira Tânia Reckziegel noticiou o falecimento do Ex-Presidente da Ordem dos Advogados do Brasil, Seccional Mato Grosso do Sul, Doutor Geraldo Escobar Pinheiro, ambos decorrentes da COVID-19. Os Conselheiros externaram pesar. Em seguida, prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+REVISÃO DISCIPLINAR 0009289-54.2018.2.00.0000
+
+Relatora: CONSELHEIRA MARIA TEREZA UILLE GOMES
+
+Requerente:
+
+NATHANAEL CÔNSOLI
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO CEARÁ - TJCE
+
+Advogados:
+
+DIEGO BARBOSA CAMPOS -  OAB DF27185
+
+FERNANDO BARBOSA – OAB CE41156
+
+Assunto: TJCE - Revisão - Processo Administrativo Disciplinar nº 8501202-73.2012.8.06.0026 - Pena - Absolvição.
+
+(Vista regimental à Conselheira Ivana Farina Navarrete Pena)
+
+**Decisão:** *“O Conselho decidiu: I - por unanimidade, admitir a sustentação oral do Requerente, em razão da divergência apresentada, a fim de garantir o uso da palavra, nos termos do art. 125, §1º, RICNJ, e do Requerido por paridade; II - após o voto da Conselheira Ivana Farina Navarrete Pena, que: a) quanto à preliminar, divergia da Relatora, no sentido de reconhecer o vitaliciamento do autor e, caso a matéria seja acolhida pela maioria do Plenário, pela devolução da questão ao Tribunal de Justiça do Estado do Ceará, para que fosse apreciada na forma de seu Regimento Interno e, b) quanto ao mérito, julgava improcedente o pedido, conceder vista regimental ao Conselheiro Emmanoel Pereira. Aguardam os demais. Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento o Ministro Luiz Fux. Plenário, 20 de abril de 2021.”*
+
+Sustentou oralmente pelo Requerente, o Advogado Robson Halley Costa Rodrigues - OAB CE 27.422, nos termos do artigo 125, §1º, do RICNJ. Sustentou oralmente pelo Tribunal de Justiça do Estado do Ceará, o magistrado Ricardo Alexandre da Silva Costa. Às dezesseis horas e vinte minutos, a Sessão foi suspensa por breves minutos. Às dezessete horas, a Sessão foi reaberta e prosseguiu-se no julgamento dos processos pautados, cujos resultados foram registrados abaixo:
+
+PROCESSO ADMINISTRATIVO DISCIPLINAR 0002803-24.2016.2.00.0000
+
+Relator: CONSELHEIRO LUIZ FERNANDO TOMASI KEPPEN
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA - CNJ
+
+Requerido:
+
+AMADO CILTON ROSA
+
+Interessado:
+
+MINISTÉRIO PÚBLICO FEDERAL - MPF
+
+Advogados:
+
+GAUTHAMA CARLOS COLAGRANDE FORNACIARI DE PAULA – OAB SP220282
+
+AMANDA GUIMARÃES ROSA – OAB SP341967
+
+ISABELA LABRE MONIZ DE ARAGÃO FARIA – OAB SP389211
+
+JOÃO DANIEL RASSI – OAB SP156685
+
+RENATA CESTARI FERREIRA - OAB SP248617
+
+Assunto: TJTO - Portaria nº 9 PAD, de 14 de junho de 2016.
+
+**Decisão:** *“O Conselho, por unanimidade, julgou parcialmente procedente o pedido para aplicar a pena de aposentadoria compulsória ao Desembargador, com proventos proporcionais ao tempo de serviço, nos termos do voto do Relator**. Ausente, circunstancialmente, o Conselheiro Rubens Canuto.* *Ausente, em razão da vacância do cargo, o representante do Ministério Público da União. Presidiu o julgamento o Ministro Luiz Fux. Plenário, 20 de abril de 2021.”*
+
+Fez uso da palavra o Subprocurador-Geral da República Alcides Martins. Sustentou oralmente pelo Requerido, o Advogado João Daniel Rassi - OAB/SP 156.685.
+
+REVISÃO DISCIPLINAR 0003399-71.2017.2.00.0000
+
+Relator: CONSELHEIRO MÁRIO GUERREIRO
+
+Requerente:
+
+OTÁVIO HENRIQUE DE SOUSA LIMA
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - TJSP
+
+Advogado:
+
+ROGÉRIO LAURIA MARCAL TUCCI - OAB SP306139
+
+JOSÉ ROGÉRIO CRUZ E TUCCI – OAB SP53416
+
+TUCCI ADVOGADOS ASSOCIADOS – OAB SP3287
+
+Assunto: TJSP - Necessidade - Revisão Disciplinar - Processos Administrativos nº 124.076/2015 e 143.865/2015.
+
+(Vista regimental à Conselheira Candice L. Galvão Jobim)
+
+**Decisão:** adiado.
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0005442-15.2016.2.00.0000
+
+Relator: CONSELHEIRO RUBENS CANUTO
+
+Requerentes:
+
+MARCELLO HOLLAND NETO
+
+ASSOCIAÇÃO NACIONAL DOS MAGISTRADOS ESTADUAIS – ANAMAGES
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO – TJSP
+
+Advogados:
+
+DANIEL CALAZANS PALOMINO TEIXEIRA - OAB MG128887
+
+CRISTOVAM DIONÍSIO DE BARROS CAVALCANTI JUNIOR - OAB MG130440
+
+Assunto: TJSP - Necessidade - Declaração - Sem Efeito - Portaria nº 9.341 - Restabelecimento - Vencimentos Integrais - Pena - Disponibilidade - Extinta - PCA 2896-55.2014.
+
+*(Questão de ordem)*
+
+**Decisão:** adiado.
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0008817-19.2019.2.00.0000
+
+Relator: CONSELHEIRO RUBENS CANUTO
+
+Requerentes:
+
+PAOLA APARECIDA TUZANI ALVES PINTO 
+
+LEO JORIO VASCONCELOS
+
+CARLA ALMEIDA DORELLA GONCALVES
+
+ANDRESA ANTONIAZZI
+
+LETICIA REIS DE CASTRO
+
+Requeridos:
+
+CONSELHO SUPERIOR DA JUSTIÇA DO TRABALHO – CSJT
+
+TRIBUNAL REGIONAL DO TRABALHO DA 3ª REGIÃO - TRT 3
+
+Advogados:
+
+GETULIO RAMOS PIMENTEL JUNIOR - OAB ES28633
+
+RODRIGO ÁVILA GUEDES KLIPPEL - OAB ES31920
+
+ALESSANDRO DANTAS COUTINHO - OAB ES11188
+
+Assunto: TRT 3ª Região - CSJT - Suspensão - Nomeações - Concurso público destinado ao provimento de vagas e formação de cadastro reserva de cargos/áreas/especialidades de nível superior e médio - Edital nº 01/2015 - Transformação - Cargo - Analista Judiciário - Área Administrativa.
+
+**Decisão:** adiado.
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0005088-48.2020.2.00.0000
+
+Relator: CONSELHEIRO MÁRIO GUERREIRO
+
+Requerentes:
+
+BRUNO MONTENEGRO RIBEIRO DANTAS
+
+DANIELA DO NASCIMENTO COSMO
+
+TIAGO NEVES CAMARA
+
+RAFAEL BARROS TOMAZ DO NASCIMENTO
+
+Requerido:
+
+TRIBUNAL REGIONAL ELEITORAL DO RIO GRANDE DO NORTE - TRE-RN
+
+Interessados:
+
+ANA MARIA MARINHO DE BRITO
+
+DEMETRIO DEMEVAL TRIGUEIRO DO VALE NETO
+
+DEONITA ANTUZIA DE SOUSA ANTUNES
+
+EMANUEL TELINO MONTEIRO
+
+JANAINA LOBO DA SILVA MAIA
+
+LARISSA ALMEIDA NASCIMENTO
+
+MARIA CRISTINA MENEZES DE PAIVA VIANA
+
+TATHIANA FREITAS DE PAIVA MACEDO
+
+JOSÉ RICARDO DAHBAR ARBEX
+
+Advogado:
+
+ROBERTO DE CASTRO PIMENTA - OAB DF52316
+
+CASTRO PIMENTA ADVOGADOS – OAB DF5309/20
+
+Assunto: TRE-RN - Desconstituição - Parcial - Resolução nº 04/2019 - Ilegalidade - Designação - Juízes Eleitorais - Rodízio - Magistrados - Comarcas diversas - Sede - Zonas Eleitorais - Descumprimento - Resolução TSE nº 21.018/02 - Consulta TSE nº 744 - Precedentes do CNJ - PCA nº 0009262-08.2017.2.00.0000 - PCA nº 0009208-2018.2.00.0000.
+
+**Decisão:** adiado.
+
+REVISÃO DISCIPLINAR 0006118-94.2015.2.00.0000
+
+Relator: CONSELHEIRO ANDRÉ GODINHO
+
+Requerente:
+
+WENDELL KARIELLI GUEDES SIMPLICIO
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO – TJMT
+
+Advogados:
+
+VALBER DA SILVA MELO – OAB MT8927
+
+FILIPE MAIA BROETO NUNES – OAB MT23948
+
+FERNANDO CESAR DE OLIVEIRA FARIA – OAM MT27469/O
+
+Assunto: TJMT - Sindicância nº 17/2007 - Processo Administrativo Disciplinar nº 2/2011 - Revisão - Pena - Aposentadoria compulsória.
+
+**Decisão:** adiado.
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0003708-87.2020.2.00.0000
+
+Relatora: CONSELHEIRA CANDICE L. GALVÃO JOBIM
+
+Requerente:
+
+FERNANDA LOURES DE OLIVEIRA
+
+Requeridos:
+
+TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL E DOS TERRITÓRIOS – TJDFT
+
+COMISSÃO PERMANENTE DE APOIO AO CONCURSO PARA SERVIDORES E PARA DELEGAÇÃO DE SERVIÇOS DE NOTAS E REGISTRO - CACSD DO TRIBUNAL DE JUSTIÇA DO DISTRITO FEDEERAL E TERRITÓRIOS
+
+Interessada:
+
+FABIANA PERILLO DE FARIAS
+
+Advogados:
+
+WALTER JOSÉ FAIAD DE MOURA - OAB DF17390
+
+ADEMAR BORGES DE SOUSA FILHO - OAB DF29178
+
+PEDRO HENRIQUE CARNEIRO DA COSTA REZENDE - OAB DF59372
+
+GECYCLAN RODRIGUES SANTANA - OAB ES13408
+
+RAFAEL DE ALENCAR ARARIPE CARNEIRO - OAB DF25120 E OAB SP 409548
+
+GILSON LANGARO DIPP - OAB RS5122
+
+OTÁVIO MADEIRA SALES LIMA – OAB DF17390
+
+SIMONE MARTINS DE ARAÚJO MOURA – OAB DF17540
+
+Assunto: TJDFT - Concurso Público para Outorga de Delegações de Serventias Extrajudiciais de Notas e de Registro do Distrito Federal - Edital nº 1/2018 - Suspensão - Audiência - Escolha - Serventias - Desconstituição - Decisão - SEI 0002869/2020 - Cumprimento - Três anos - Atividade Jurídica - Exercício - Advocacia.
+
+**Decisão:** adiado.
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0001390-34.2020.2.00.0000
+
+Relatora: CONSELHEIRA TÂNIA REGINA SILVA RECKZIEGEL
+
+Requerente:
+
+FEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGURANÇA E TRANSPORTE DE VALORES - FENAVIST
+
+Requeridos:
+
+TRIBUNAL SUPERIOR DO TRABALHO – TST
+
+CONSELHO SUPERIOR DA JUSTIÇA DO TRABALHO – CSJT
+
+CORREGEDORIA GERAL DA JUSTIÇA DO TRABALHO – CGJT
+
+Advogados:
+
+ÉDER MACHADO LEITE - OAB DF20955
+
+JULIANO RICARDO DE VASCONCELLOS COSTA COUTO - OAB DF13802
+
+GABRIELA BRANCO DA SILVA - OAB DF44330
+
+ANA CAROLINA DIAS MALTA – OAB DF 42875
+
+DANIEL MOURA SEIFFERT – OAB DF56587
+
+GUSTAVO CASTELLO BRANCO PORTES COSTA COUTO – OAB DF62900
+
+IZABELA CRISTINA LOTTI GOMES – OAB DF 49759
+
+OSCAR FUGIHARA KARNAL – OAB DF51458
+
+Assunto: TST - CST - CGJT - Desconstituição - Ato Conjunto nº 1/2019 - Seguro Garantia Judicial - Fiança Bancária - Substituição - Depósito Recursal - Garantia - Execução Trabalhista - Irregularidade - Limitação - Utilização - Seguro Garantia.
+
+**Decisão:** adiado.
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0002261-64.2020.2.00.0000
+
+Relator: CONSELHEIRO ANDRÉ GODINHO
+
+Requerente:
+
+SERGIO ROBERTO MARINHO FORTES DO REGO
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PIAUÍ - TJPI
+
+Assunto: TJPI - Desconstituição - Decisão plenária - Edital nº 18/2019 - Providências - Participação - Magistrado - Certame - Promoção por merecimento - 3ª Vara da Comarca de Campo Maior - Entrância final.
+
+**Decisão:** adiado.
+
+RECURSO ADMINISTRATIVO NO PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0002734-21.2018.2.00.0000
+
+Relator: CONSELHEIRO ANDRÉ GODINHO
+
+Requerente:
+
+MINISTÉRIO PÚBLICO DO ESTADO DO PARÁ
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PARÁ – TJPA
+
+Recorrentes:
+
+ASSOCIAÇÃO DOS MAGISTRADOS DO ESTA DO PARÁ – AMEPA
+
+ASSOCIAÇÃO DOS AMGISTRADOS BRASILEIROS - AMB
+
+Advogados:
+
+RICARDO NASSER SEFER – OAB PA 14800
+
+RODRIGO COSTA LOBATO – OAB PA 20167
+
+EMILIANO ALVES AGUIAR – OABDF 24628
+
+ALBERTO PAVIE RIBEIRO – OABDF 7077
+
+GORDILHO, PAVIE E AGUIAR ADVOGADOS – OAB DF85/87
+
+ALEXANDRE PONTIERI - OAB SP191828
+
+SAMARA DE OLIVEIRA SANTOS LÉDA - OAB DF23867
+
+Assunto: TJPA - Desconstituição - Previsão - Regimento Interno - Resolução nº 13/2016 - Autorização - Instauração - Inquérito Policial - Pessoa com Foro Privilegiado - Controvérsia - Prévia Manifestação - Procedimento Administrativo - Medida Liminar - Suspensão - Exigência Prevista - Intimação - Requerimento - Determinação - Acolhimento.
+
+**Decisão:** adiado.
+
+REVISÃO DISCIPLINAR 0003954-83.2020.2.00.0000
+
+Relator: CONSELHEIRO MÁRIO GUERREIRO
+
+Requerente:
+
+ORDEM DOS ADVOGADOS DO BRASIL - SECÇÃO DE MATO GROSSO
+
+Requeridos:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MATO GROSSO – TJMT
+
+ALEXANDRE MEINBERG CEROY
+
+Advogados:
+
+ROMÁRIO DE LIMA SOUSA - OAB MT 18881
+
+LEONARDO PIO DA SILVA CAMPOS - OAB MT 7202
+
+ANDRÉ STUMPF JACOB GONÇALVES - OAB MT 5362
+
+LIGIMARI GUELSI - OAB MT12582/O
+
+MAURICIO MAGALHÃES FARIA NETO - OAB MT 15436
+
+CLÁUDIA ALVES SIQUEIRA - OAB MT 6217
+
+Assunto: TJMT - Revisão - Pedido de Providências nº 0049886-29.2016.8.11.0000 - Apuração - Conduta – Magistrado.
+
+**Decisão:** adiado.
+
+PROCEDIMENTO DE CONTROLE ADMINISTRATIVO 0000100-91.2014.2.00.0000
+
+Relatora: CONSELHEIRA TÂNIA REGINA SILVA RECKZIEGEL
+
+Requerente:
+
+CONSELHO NACIONAL DE JUSTIÇA – CNJ
+
+Requerido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO – TJSP
+
+Interessada:
+
+ASSOCIAÇÃO PAULISTA DE MAGISTRADOS – APAMAGIS
+
+Advogados:
+
+IGOR SANT'ANNA TAMASAUSKAS - OAB SP173163
+
+PIERPAOLO CRUZ BOTTINI - OAB SP163657
+
+Assunto: TJSP - Procedimento de Controle Administrativo 489 - Revisão de Ato Administrativo - Aplicação - Resoluções 13/CNJ e 14/CNJ.
+
+**Decisão:** retirado.
+
+Às dezessete horas e cinquenta e oito minutos, o Presidente Ministro Luiz Fux agradeceu aos Conselheiros e Conselheiras e a Sessão foi encerrada definitivamente.
+
+Ministro **Luiz Fux**
+
+Presidente

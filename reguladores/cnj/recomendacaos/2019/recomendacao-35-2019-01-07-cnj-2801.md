@@ -1,0 +1,45 @@
+---
+titulo: "Recomendação Nº 35 de 07/01/2019"
+orgao: "CNJ – Corregedoria"
+tipo: "Recomendação"
+numero: "35"
+data: 2019-01-07
+ementa: "Recomenda abstenção de exercício de funções, ainda que de caráter honorífico, consultivo e sem remuneração, em conselhos, comitês, comissões ou assemelhados, de natureza política ou de gestão administrativa de serviços vinculados a Poder ou órgãos estranhos ao Poder Judiciário, inclusive em Conselhos de Segurança Pública"
+situacao: "Revogado"
+revogada: true
+versao_texto: "texto do portal Atos do CNJ (compilado quando disponível)"
+publicacao: "DJe/CNJ nº 2/2019, de 08/01/2019, p. 15"
+fonte: "https://atos.cnj.jus.br/atos/detalhar/2801"
+arquivo: "https://atos.cnj.jus.br/files//recomendacao/recomendacao_35_07012019_08012019151705.pdf"
+id_fonte: "cnj-2801"
+baixado_em: 2026-11-03
+alteracao: "Recomendação nº 35, de 27 de fevereiro de 2019. Portaria nº 2, de 14 de janeiro de 2021."
+---
+
+# Recomendação Nº 35 de 07/01/2019
+
+~~**O CORREGEDOR NACIONAL DE JUSTIÇA**, usando de suas atribuições constitucionais, legais e regimentais e~~
+
+~~**CONSIDERANDO** o papel institucional do CNJ de aperfeiçoar o trabalho do sistema judiciário brasileiro e de cumprir o Estatuto da Magistratura, expedindo atos normativos, provimentos e recomendações;~~
+
+~~**CONSIDERANDO** a competência do Corregedor Nacional de Justiça de expedir recomendações destinadas ao aperfeiçoamento das atividades do Poder Judiciário (RICNJ, art. 8º, X);~~
+
+~~**CONSIDERANDO** que a Constituição Federal dispõe que aos juízes é vedado exercer, ainda que em disponibilidade, outro cargo ou função, salvo uma de magistério (art. 95, parágrafo único, inciso I);~~
+
+~~**CONSIDERANDO** que o CNJ, no Pedido de Providências n. 775/2006, decidiu pela “prevalência do princípio da dedicação exclusiva, indispensável à função judicante. Não pode o magistrado exercer comércio ou participar, como diretor ou ocupante de cargo de direção, de sociedade comercial de qualquer espécie/natureza ou de economia mista (art. 36, I, da LOMAN). Também está impedido de exercer cargo de direção ou de técnico de pessoas jurídicas de direito privado (art. 44 do Código Civil, c/c o art. 36, II, da LOMAN). Ressalva-se apenas a direção de associação de classe ou de escola de magistrados e o exercício de um cargo de magistério. Não pode, consequentemente, um juiz ser presidente ou diretor de Rotary, de Lions, de APAEs, de ONGs, de Sociedade Espírita, Rosa-Cruz, etc., vedado também ser Grão-Mestre da Maçonaria; síndico de edifício em condomínio; diretor de escola ou faculdade pública ou particular, entre outras vedações”;~~
+
+~~**CONSIDERANDO** que a confiança do público no sistema judicial, na autoridade moral e na independência do Judiciário é de suma importância em uma sociedade democrática moderna e que a independência e a imparcialidade pressupõem o total desprendimento dos magistrados, de fato e na aparência, de embaraços políticos e a abstenção do envolvimento em conflitos de forças políticas dentro de estabelecimentos políticos ou governamentais próprio das atividades dos Poderes Executivo e Legislativo;~~
+
+~~**CONSIDERANDO** que o Código de Ética da Magistratura, em seu art. 21, estabelece que “o magistrado não deve assumir encargos ou contrair obrigações que perturbem ou impeçam o cumprimento apropriado de suas funções específicas, ressalvadas as acumulações permitidas constitucionalmente,”~~
+
+~~**RESOLVE:**~~
+
+~~**Art. 1º** **RECOMENDAR** a todos os magistrados brasileiros, exceto aos ministros do STF, que se abstenham de exercer funções, ainda que de caráter honorífico, consultivo e sem remuneração, em conselhos, comitês, comissões ou assemelhados, de natureza política ou de gestão administrativa de serviços vinculados a Poder ou órgãos estranhos ao Poder Judiciário, inclusive em Conselhos de Segurança Pública.~~
+
+~~**Art. 2º** **DETERMINAR** que as corregedorias locais deem ciência da presente recomendação aos juízes a elas vinculados, bem como que exerçam fiscalização do cumprimento de seu teor.~~
+
+~~**Art. 3º** Esta recomendação entra em vigor na data de sua publicação.~~
+
+~~Ministro **HUMBERTO MARTINS**~~
+
+~~Corregedor Nacional de Justiça~~
