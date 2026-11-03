@@ -1,0 +1,47 @@
+---
+titulo: "Lei nº 2.249, de 07 de julho de 2004"
+uf: "SP"
+municipio: "Santos"
+tipo: "Lei Ordinária"
+numero: "2249"
+data: 2004-07-07
+ementa: "DECLARA DE UTILIDADE PÚBLICA ENTIDADE QUE ESPECIFICA."
+versao_texto: "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação"
+publicacao: "Publicada no Diário Oficial de Santos - D.O.S. em 08/07/2004."
+data_publicacao: 2004-07-08
+fonte: "https://egov.santos.sp.gov.br/legis/documents/1137"
+arquivo: "https://egov.santos.sp.gov.br/legis/documents/1137/view"
+id_fonte: "santos-legis-1137"
+baixado_em: 2026-11-03
+etiquetas: "utilidade, liga, divina, providência"
+---
+
+# Lei nº 2.249, de 07 de julho de 2004
+
+LEI N.º 2.249
+DE 07 DE JULHO DE 2004.
+
+                        DECLARA DE UTILIDADE PÚBLICA ENTIDADE QUE ESPECIFICA.
+
+                        BETO MANSUR, Prefeito Municipal de Santos, faço saber que a Câmara Municipal aprovou em sessão realizada em 03 de junho de 2004 e eu sanciono e promulgo a seguinte:
+
+LEI N.º 2.249
+
+                        Art. 1.º Fica declarada de utilidade pública a Liga Beneficente Nossa Senhora da Divina Providência.
+
+                        Art. 2.º As despesas com a execução desta lei correrão por dotações orçamentárias próprias, suplementadas se necessário.
+
+                        Art. 3.º Esta lei entra em vigor na data da publicação.
+
+                        Registre-se e publique-se.
+                        Palácio “José Bonifácio”, em 07 de julho de 2004.
+
+                             |                                                        |BETO MANSUR                                                                    |
+|                                                        |Prefeito Municipal                                                             |
+
+                        Registrada no livro competente.
+                        Departamento de Registro de Atos Oficiais da Secretaria Municipal de Assuntos Jurídicos, em 07 de julho de 2004.
+
+                           ROBERTO M. DE LUCA DE O. RIBEIRO
+
+                            Chefe do Departamento

@@ -1,0 +1,116 @@
+---
+titulo: "Lei nº 2.063, de 11 de novembro de 2002"
+uf: "SP"
+municipio: "Santos"
+tipo: "Lei Ordinária"
+numero: "2063"
+data: 2002-11-11
+ementa: "ALTERA DISPOSITIVO DA LEI N.º 736, DE 10 DE JUNHO DE 1991, QUE\r\n\nDISPÕE SOBRE A POLÍTICA DE ATENDIMENTO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE NOS TERMOS DA LEI FEDERAL N.º 8.069, DE 13 DE JULHO DE 1990."
+versao_texto: "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação"
+publicacao: "Publicada no Diário Oficial de Santos - D.O.S. em 12/11/2002."
+data_publicacao: 2002-11-12
+fonte: "https://egov.santos.sp.gov.br/legis/documents/1354"
+arquivo: "https://egov.santos.sp.gov.br/legis/documents/1354/view"
+id_fonte: "santos-legis-1354"
+baixado_em: 2026-11-03
+etiquetas: "política, direitos, criança, adolescente"
+---
+
+# Lei nº 2.063, de 11 de novembro de 2002
+
+PA:.:93984/2002-27
+Publicada no Diário Oficial em 12/ 11/2002.
+1
+/(,1
+’(’(129(0%52’(
+
+$/7(5$’,6326,7,92’$/(,1’(’(-81+2
+’(  48( ’,63ﬁ( 62%5( $ 32/¸7,&$ ’(
+$7(1’,0(172 ’26 ’,5(,726 ’$ &5,$1d$ ( ’2
+$’2/(6&(17( 126 7(5026 ’$ /(, )(’(5$/ 1
+’(’(-8/+2’(
+
+%(720$1685, Prefeito Municipal de Santos, faço saber que
+a Câmara Municipal aprovou em sessão realizada em 28 de outubro de 2002 e eu sanciono e
+promulgo a seguinte:
+
+/(,1
+
+$UW  O artigo 9.º da Lei n.º 736, de 10 de junho de 1991,
+passa a vigorar com a seguinte redação:
+‡$UW  2 &RQVHOKR 0XQLFLSDO GRV ’LUHLWRV GD &ULDQoD H GR
+$GROHVFHQWHpFRPSRVWRSRUYLQWHHGRLVPHPEURVVHQGR
+, –  XP UHSUHVHQWDQWH GD 6HFUHWDULD 0XQLFLSDO GH $omR
+&RPXQLWiULDH&LGDGDQLD
+,, –  XP UHSUHVHQWDQWH GD 6HFUHWDULD 0XQLFLSDO GH
+(GXFDomR
+,,,–XPUHSUHVHQWDQWHGD6HFUHWDULD0XQLFLSDOGH6D~GH
+,9–XPUHSUHVHQWDQWHGD6HFUHWDULD0XQLFLSDOGH&XOWXUD
+9–XPUHSUHVHQWDQWHGD6HFUHWDULD0XQLFLSDOGH(VSRUWHV
+9, –  XP UHSUHVHQWDQWH GR ’HSDUWDPHQWR GH $VVXQWRV
+&RPXQLWiULRVGD=RQD1RURHVWH–6HFUHWDULD0XQLFLSDOGH*RYHUQR
+9,, –  UHSUHVHQWDQWH GR ’HSDUWDPHQWR GH $VVXQWRV
+&RPXQLWiULRVGRV0RUURV–6HFUHWDULD0XQLFLSDOGH*RYHUQR
+9,,,–TXDWURUHSUHVHQWDQWHVGDV6HFUHWDULDVGR(VWDGRFRP
+DWXDomRQDiUHDGDFULDQoDHGRDGROHVFHQWHHLQWHUIDFHQD5HJLmR0HWURSROLWDQDGD%DL[DGD
+6DQWLVWD
+,;   UHSUHVHQWDQWH GDV HQWLGDGHV GH DWHQGLPHQWR GLUHWR D
+FULDQoDVGHDDQRV
+;   UHSUHVHQWDQWH GDV HQWLGDGHV GH DWHQGLPHQWR GLUHWR D
+FULDQoDVGHDDQRV
+;,–XPUHSUHVHQWDQWHGDVHQWLGDGHVGHDWHQGLPHQWRGLUHWR
+DDGROHVFHQWHVGHDDQRV
+;,,   UHSUHVHQWDQWH GDV HQWLGDGHV GH DWHQGLPHQWR GLUHWR D
+FULDQoDVHDGROHVFHQWHVSRUWDGRUHVGHQHFHVVLGDGHVHVSHFLDLV
+;,,,UHSUHVHQWDQWHGDVHQWLGDGHVGHHVWXGRHSHVTXLVD
+
+PA:.:93984/2002-27
+Publicada no Diário Oficial em 12/ 11/2002.
+2
+;,9   UHSUHVHQWDQWH GDV HQWLGDGHV VLQGLFDLV RX RXWUDV
+RUJDQL]Do}HVGHWUDEDOKDGRUHV
+;9UHSUHVHQWDQWHGDLQLFLDWLYDSULYDGD
+;9,UHSUHVHQWDQWHGHRUJDQL]Do}HVGHSDLV
+;9,,UHSUHVHQWDQWHGHPRYLPHQWRVGHGHIHVDGRVGLUHLWRVGD
+FULDQoDHGRDGROHVFHQWH
+;9,,,–GRLVUHSUHVHQWDQWHVGHPRYLPHQWRVHRUJDQL]Do}HV
+VRFLDLV
+  2V FRQVHOKHLURV UHSUHVHQWDQWHV GR 3RGHU 3~EOLFR VHUmR
+LQGLFDGRV SHORV UHVSRQViYHLV GRV yUJmRV TXH FRPS}HP R &RQVHOKR GHQWUH SHVVRDV FRP
+SRGHU GH GHFLVmR QR kPELWR GR UHIHULGR yUJmR GR TXDO p UHSUHVHQWDQWH QR SUD]R GH TXLQ]H
+GLDVDSyVDQRWLILFDomRSHOR&RQVHOKR
+2VPHPEURVGDVRFLHGDGHFLYLOVHUmRHOHLWRVSHORYRWRGDV
+HQWLGDGHV QmR JRYHUQDPHQWDLV TXH FRPS}HP R )yUXP 0XQLFLSDO GD &ULDQoD H GR
+$GROHVFHQWHPHGLDQWHDVVHPEOpLDVFRQYRFDGDVSRUHVWHQRSUD]RHVWDEHOHFLGRQRSDUiJUDIR
+DQWHULRU
+$GHVLJQDomRGRVPHPEURVGR&RQVHOKRFRPSUHHQGHUiD
+GRVUHVSHFWLYRVVXSOHQWHV
+$IXQomRGHPHPEURGR&RQVHOKRpJUDWXLWDHFRQVLGHUDGD
+GHLQWHUHVVHS~EOLFRUHOHYDQWH
+  2V PHPEURV GR &RQVHOKR H RV UHVSHFWLYRV VXSOHQWHV
+H[HUFHUmRPDQGDWRGHGRLVDQRVDGPLWLQGRVHDUHFRQGXomRSRUPDLVGRLVSHUtRGRVQR
+Pi[LPR
+  $ QRPHDomR H SRVVH GRV FRQVHOKHLURV IDUVHi SHOD
+’LUHWRULDGR&RQVHOKRHPH[HUFtFLR
+
+$UWEsta lei entra em vigor na data da publicação.
+Registre-se e publique-se.
+Palácio “José Bonifácio”, em 11 de novembro de 2002.
+
+%(720$1685
+3UHIHLWR0XQLFLSDO
+
+Registrada no livro competente.
+Departamento de Registro de Atos Oficiais da Secretaria
+Municipal de Assuntos Jurídicos, em 11 de novembro de 2002.
+
+
+ROBERTO M. DE LUCA DE O. RIBEIRO
+&KHIHGR’HSDUWDPHQWR
+
+PA:.:93984/2002-27
+Publicada no Diário Oficial em 12/ 11/2002.
+3
+
+%(720$1685
+3UHIHLWR0XQLFLSDO
