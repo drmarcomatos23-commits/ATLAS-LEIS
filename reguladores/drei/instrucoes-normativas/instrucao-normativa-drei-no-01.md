@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/IN_DREI_MEMP_1_2026_texto_principal.pdf/@@display-file/file"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-03
 ---
 
 # Instrução Normativa DREI Nº 01
