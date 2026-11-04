@@ -9,8 +9,8 @@ situacao: "Admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-iac-3"
-baixado_em: 2026-11-03
-atualizacao_fonte: "02/11/2026"
+baixado_em: 2026-11-04
+atualizacao_fonte: "03/11/2026"
 ---
 
 # Incidente de assunção de competência nº 3 do TST
@@ -48,6 +48,6 @@ Admitido
   "questao": "É válida a supressão, pelo Banco do Estado do Pará, da parcela complemento de gratificação paga por força de norma coletiva, da remuneração do empregado que a tenha percebido por mais de dez anos ou daquele destituído de cargo de confiança que tenha continuado a\nexercer as mesmas atividades, com idênticas responsabilidades?",
   "situacao": "Admitido",
   "tipo": "IAC",
-  "ultimaAtualizacao": "02/11/2026"
+  "ultimaAtualizacao": "03/11/2026"
 }
 ```

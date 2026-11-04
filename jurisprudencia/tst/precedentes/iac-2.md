@@ -9,8 +9,8 @@ situacao: "Acórdão Publicado (RE Pendente)"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-iac-2"
-baixado_em: 2026-11-03
-atualizacao_fonte: "02/11/2026"
+baixado_em: 2026-11-04
+atualizacao_fonte: "03/11/2026"
 ---
 
 # Incidente de assunção de competência nº 2 do TST
@@ -61,6 +61,6 @@ Acórdão Publicado (RE Pendente)
   "situacao": "Acórdão Publicado (RE Pendente)",
   "tese": "É inaplicável ao regime de trabalho temporário, disciplinado pela Lei n.º 6.019/74, a garantia de estabilidade provisória à empregada gestante, prevista no art. 10, II, b, do Ato das Disposições Constitucionais Transitórias. Observação NUGEP: Em face do acórdão proferido pelo Pleno do TST no Incidente de Assunção de Competência n.º TST-5639-31.2013.5.12.0051 (IAC 2), houve interposição de recurso extraordinário, tendo o Vice-Presidente denegado seguimento ao recurso, conforme decisão publicada no DEJT em 1º/12/2020, contra a qual foi interposto o ARE 1.331.863, cujo provimento foi negado, no STF, pelo Exmo. Ministro Nunes Marques, Relator, em decisão publicada no DJE em 2/12/2022. Interposto agravo regimental, que se encontra pautado para sessão virtual da Segunda Turma do STF (agendada para: 16/8/2024 a 23/8/2024). <br>",
   "tipo": "IAC",
-  "ultimaAtualizacao": "02/11/2026"
+  "ultimaAtualizacao": "03/11/2026"
 }
 ```
