@@ -1,0 +1,82 @@
+---
+titulo: "Decreto n.º 8.270, de 13 de novembro de 2018"
+uf: "SP"
+municipio: "Santos"
+tipo: "Decreto"
+numero: "8270"
+data: 2018-11-13
+ementa: "ABRE CRÉDITO SUPLEMENTAR NA IMPORTÂNCIA DE R$ 8.116.397,91 (OITO MILHÕES, CENTO E\r\nDEZESSEIS MIL, TREZENTOS E NOVENTA E SETE REAIS E NOVENTA E UM CENTAVOS) AUTORIZADO\r\nPELO ART. 5.º, INCISO II E III DA LEI N.º 3.413, DE 22 DE DEZEMBRO DE 2017 E DÁ OUTRAS\r\nPROVIDÊNCIAS."
+versao_texto: "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação"
+publicacao: "Publicado no D.O de 14/11/2018"
+data_publicacao: 2018-11-14
+fonte: "https://egov.santos.sp.gov.br/legis/documents/7106"
+arquivo: "https://egov.santos.sp.gov.br/legis/documents/7106/view"
+id_fonte: "santos-legis-7106"
+baixado_em: 2026-11-04
+etiquetas: "Suplementação"
+---
+
+# Decreto n.º 8.270, de 13 de novembro de 2018
+
+DECRETO N.º 8.270
+DE 13 DE NOVEMBRO DE 2018
+
+ABRE  CRÉDITO  SUPLEMENTAR  NA  IMPORTÂNCIA  DE  R$  8.116.397,91  (OITO  MILHÕES,  CENTO  E
+DEZESSEIS MIL, TREZENTOS E NOVENTA E SETE REAIS E NOVENTA E UM CENTAVOS) AUTORIZADO
+PELO  ART.  5.º,  INCISO  II  E  III  DA  LEI  N.º  3.413,  DE  22  DE  DEZEMBRO  DE  2017  E  DÁ  OUTRAS
+PROVIDÊNCIAS.
+PAULO ALEXANDRE BARBOSA, Prefeito Municipal de Santos, usando das atribuições que lhe são conferidas por
+lei,
+DECRETA:
+Art.  1º -  Fica  aberto  no  Departamento  de  Controle  Financeiro  da  Secretaria  Municipal  de  Finanças,  Crédito
+Suplementar na importância de R$ 8.116.397,91 (oito milhões, cento e dezesseis mil, trezentos e noventa e sete
+reais e noventa e um centavos) autorizado pelo art. 5.º, inciso II e III da Lei nº 3.413, de 22 de dezembro de 2017,
+destinado a suplementar as seguintes dotações do orçamento vigente:
+14.10.12.361.0020.2020.319000 EDUCACAO BASICA     1.113.000,00
+14.10.12.365.0020.2021.319000 EDUCACAO BASICA     2.050.000,00
+14.10.12.361.0020.2020.339000 EDUCACAO BASICA     150.000,00
+15.10.10.301.0057.2121.339000 ATENCAO BASICA     452.563,86
+15.10.10.301.0057.3150.449000 ATENCAO BASICA     100.000,00
+15.10.10.302.0058.2111.339000 MEDIA E ALTA COMPLEXIDADE    1.000.000,00
+15.10.10.302.0058.2554.339000 MEDIA E ALTA COMPLEXIDADE    1.000.000,00
+15.10.10.302.0058.2537.339000 MEDIA E ALTA COMPLEXIDADE    207.963,49
+15.10.10.302.0058.2117.339000 MEDIA E ALTA COMPLEXIDADE    736.878,58
+15.10.10.302.0058.2133.339000 MEDIA E ALTA COMPLEXIDADE    14.051,15
+16.10.08.122.0084.2017.319000 ADMINISTRACAO GERAL - SEAS    600.000,00
+16.11.08.244.0085.2026.339000 GESTAO ADMINISTRATIVA    16.000,00
+17.12.16.482.0100.1460.449000 ADMINISTRACAO E FISCALIZACAO DE OBRAS   500.000,00
+20.10.13.392.0046.2173.339000 PROMOCAO DA CULTURA    10.000,00
+23.10.18.542.0052.2920.339000 CONTROLE, PRESERVACAO E RECUPERACAO AMBIENTAL  40.000,00
+27.10.06.181.0101.2019.339000 GESTAO DE ACOES MUNICIPAIS EM SEGURANCA  26.200,63
+27.10.06.181.0101.2019.449000 GESTAO DE ACOES MUNICIPAIS EM SEGURANCA  84.323,16
+49.10.04.122.0078.2017.319000 GESTÃO E APOIO ADMINISTRATIVO    6.960,00
+49.10.04.122.0078.4010.339000 GESTÃO E APOIO ADMINISTRATIVO    8.457,04
+TOTAL         8.116.397,91
+
+Art. 2º - As despesas decorrentes da abertura do Crédito Suplementar de que trata o artigo anterior serão cobertas
+com recursos oriundos da anulação parcial das seguintes dotações orçamentárias:
+15.10.10.302.0058.2338.335000 MEDIA E ALTA COMPLEXIDADE    100.000,00
+16.11.08.244.0066.2205.339000 PROTECAO SOCIAL ESPECIAL    16.000,00
+17.10.15.451.0100.2263.339000 ADMINISTRACAO E FISCALIZACAO DE OBRAS   8.457,04
+23.10.18.542.0052.1920.449000 CONTROLE, PRESERVACAO E RECUPERACAO AMBIENTAL  10.000,00
+24.10.28.846.0000.0036.319000 OPERACOES ESPECIAIS     1.311.980,87
+29.10.15.452.0103.1262.449000 SERVICOS PUBLICOS     6.960,00
+49.10.04.122.0078.2017.339000 GESTÃO E APOIO ADMINISTRATIVO    1.950.000,00
+49.10.04.122.0078.2017.339100 GESTÃO E APOIO ADMINISTRATIVO    713.000,00
+49.11.28.843.0000.0023.329000 OPERACOES ESPECIAIS     2.300.000,00
+49.11.28.843.0000.0023.469000 OPERACOES ESPECIAIS     1.700.000,00
+TOTAL         8.116.397,91
+Art. 3º - Este decreto entra em vigor na data da publicação, revogadas as disposições em contrário.
+Registre-se e publique-se.
+Palácio "José Bonifácio", em 13 de novembro de 2018.
+
+PAULO ALEXANDRE BARBOSA
+Prefeito Municipal
+
+MAURICIO LUÍS FRANCO
+Secretário de Finanças
+Registrado no livro competente.
+Departamento de Registro de Atos Oficiais do Gabinete do Prefeito Municipal, em 13 de novembro de 2018.
+
+THALITA FERNANDES VENTURA
+Chefe do Departamento

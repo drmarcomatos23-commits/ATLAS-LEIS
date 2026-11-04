@@ -1,0 +1,86 @@
+---
+titulo: "Decreto n.º 7.966, de 27 de dezembro de 2017"
+uf: "SP"
+municipio: "Santos"
+tipo: "Decreto"
+numero: "7966"
+data: 2017-12-27
+ementa: "ABRE CRÉDITO SUPLEMENTAR NA IMPORTÂNCIA DE R$ 1.971.586,10 (UM MILHÃO, NOVECENTOS E SETENTA E UM MIL, QUINHENTOS E OITENTA E SEIS REAIS E DEZ CENTAVOS) AUTORIZADO PELO ART. 5.º, INCISO II E III DA LEI N.º 3.337, DE 29 DE DEZEMBRO DE 2016 E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação"
+publicacao: "Publicado no D.O. de 27/12/17."
+fonte: "https://egov.santos.sp.gov.br/legis/documents/6691"
+arquivo: "https://egov.santos.sp.gov.br/legis/documents/6691/view"
+id_fonte: "santos-legis-6691"
+baixado_em: 2026-11-04
+etiquetas: "suplementar, suplementação"
+---
+
+# Decreto n.º 7.966, de 27 de dezembro de 2017
+
+DECRETO N.º 7.966
+DE 27 DE DEZEMBRO DE 2017
+
+ABRE  CRÉDITO  SUPLEMENTAR  NA  IMPORTÂNCIA  DE  R$  1.971.586,10  (UM  MILHÃO,
+NOVECENTOS  E  SETENTA  E  UM  MIL,  QUINHENTOS  E  OITENTA  E  SEIS  REAIS  E  DEZ
+CENTAVOS)  AUTORIZADO  PELO  ART.  5.º,  INCISO  II  E  III  DA  LEI  N.º  3.337,  DE  29  DE
+DEZEMBRO DE 2016 E DÁ OUTRAS PROVIDÊNCIAS.
+PAULO  ALEXANDRE  BARBOSA, Prefeito  Municipal  de  Santos,  usando  das  atribuições  que  lhe são
+conferidas por lei,
+DECRETA:
+Art. 1º - Fica aberto no Departamento de Controle Financeiro da Secretaria Municipal de Finanças, Crédito
+Suplementar na importância de R$ 1.971.586,10 (um milhão, novecentos e setenta e um mil, quinhentos e
+oitenta e seis reais e dez centavos) autorizado pelo art. 5.º, inciso II e III da Lei nº 3.337, de 29 de dezembro de
+2016, destinado a suplementar as seguintes dotações do orçamento vigente:
+14.10.12.365.0020.2021.319000 EDUCACAO BASICA    846.586,01
+14.10.12.361.0020.2074.339000 EDUCACAO BASICA    1.125.000,00
+16.11.08.244.0085.1120.449000 GESTAO ADMINISTRATIVA    0,09
+TOTAL        1.971.586,10
+
+Art. 2º -  As despesas decorrentes da abertura do Crédito Suplementar de que trata o artigo anterior serão
+cobertas com recursos oriundos da anulação parcial das seguintes dotações orçamentárias:
+
+16.11.08.243.0064.2225.339000 PROTECAO SOCIAL BASICA    90.178,13
+16.11.08.244.0064.2204.335000 PROTECAO SOCIAL BASICA    6.051,50
+16.11.08.244.0064.2204.339000 PROTECAO SOCIAL BASICA    20.200,98
+16.11.08.244.0064.2205.339000 PROTECAO SOCIAL BASICA    18.420,00
+16.11.08.244.0064.2264.339000 PROTECAO SOCIAL BASICA    4.000,00
+16.11.08.244.0066.2205.339000 PROTECAO SOCIAL ESPECIAL   43.140,00
+16.11.08.244.0066.2225.339000 PROTECAO SOCIAL ESPECIAL   171.076,35
+16.11.08.244.0066.2226.335000 PROTECAO SOCIAL ESPECIAL   48.308,33
+16.11.08.244.0066.2226.339000 PROTECAO SOCIAL ESPECIAL   34.007,50
+16.11.08.244.0066.2227.335000 PROTECAO SOCIAL ESPECIAL   2.826,40
+16.11.08.244.0066.2227.339000 PROTECAO SOCIAL ESPECIAL   96.250,67
+16.11.08.244.0085.2026.339000 GESTAO ADMINISTRATIVA    198.965,68
+16.11.08.244.0085.2149.339000 GESTAO ADMINISTRATIVA    8.227,74
+16.11.08.244.0085.2151.339000 GESTAO ADMINISTRATIVA    14.686,30
+16.11.08.244.0085.2196.339000 GESTAO ADMINISTRATIVA    4.000,00
+16.11.08.244.0085.2201.339000 GESTAO ADMINISTRATIVA    20.457,55
+16.11.08.244.0085.2264.339000 GESTAO ADMINISTRATIVA    2.000,00
+16.11.08.244.0085.4010.339000 GESTAO ADMINISTRATIVA    1.000,00
+16.11.08.244.0064.2204.449000 PROTECAO SOCIAL BASICA    6.000,00
+16.11.08.244.0066.2226.449000 PROTECAO SOCIAL ESPECIAL   5.000,00
+16.11.08.244.0066.2227.449000 PROTECAO SOCIAL ESPECIAL   23.695,00
+16.11.08.244.0085.1120.449000 GESTAO ADMINISTRATIVA    7.425,00
+
+16.11.08.244.0085.2199.449000 GESTAO ADMINISTRATIVA    10.000,00
+16.11.08.244.0085.2201.449000 GESTAO ADMINISTRATIVA    10.668,88
+17.12.16.482.0100.1460.449000
+ADMINISTRACAO E FISCALIZACAO DE
+OBRAS 0,09
+29.10.15.542.0103.2195.339000 SERVICOS PUBLICOS    1.125.000,00
+TOTAL        1.971.586,10
+
+Art. 3º - Este decreto entra em vigor na data da publicação, revogadas as disposições em contrário.
+Registre-se e publique-se.
+Palácio "José Bonifácio", em 27 de dezembro de 2017.
+
+PAULO ALEXANDRE BARBOSA
+Prefeito Municipal
+
+MAURICIO LUÍS FRANCO
+Secretário de Finanças
+Registrado no livro competente.
+Departamento de Registro de Atos Oficiais do Gabinete do Prefeito Municipal, em 27 de dezembro de 2017.
+
+THALITA FERNANDES VENTURA MARTINS
+Chefe do Departamento

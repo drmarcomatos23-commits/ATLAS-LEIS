@@ -1,0 +1,257 @@
+---
+titulo: "Decreto n.º 8.347, de 29 de janeiro de 2019"
+uf: "SP"
+municipio: "Santos"
+tipo: "Decreto"
+numero: "8347"
+data: 2019-01-29
+ementa: "APROVA REGULAMENTO PARA PARTICIPAÇÃO NO CARNAVAL SOLIDÁRIO  SANTOS - 2019."
+versao_texto: "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação"
+publicacao: "Publicado no D.O de 30/01/19."
+fonte: "https://egov.santos.sp.gov.br/legis/documents/7237"
+arquivo: "https://egov.santos.sp.gov.br/legis/documents/7237/view"
+id_fonte: "santos-legis-7237"
+baixado_em: 2026-11-04
+etiquetas: "Carnaval solidário"
+---
+
+# Decreto n.º 8.347, de 29 de janeiro de 2019
+
+DECRETO Nº 8.347
+DE 29 DE JANEIRO DE 2019
+
+APROVA REGULAMENTO PARA PARTICIPAÇÃO NO CARNAVAL SOLIDÁRIO – SANTOS - 2019.
+
+PAULO ALEXANDRE BARBOSA, Prefeito Municipal de Santos, usando das atribuições que lhe são conferidas por lei,
+
+DECRETA:
+
+Art. 1º Fica aprovado o Regulamento para participação no “Carnaval Solidário - Santos  2019”, constante do anexo do presente decreto.
+
+Art. 2º Este decreto entra em vigor na data da publicação.
+
+Registre-se e publique–se.
+Palácio “José Bonifácio”, em 29 de janeiro de 2019.
+
+PAULO ALEXANDRE BARBOSA
+Prefeito Municipal
+
+Registrado no livro competente.
+Departamento de Registro de Atos Oficiais do Gabinete do Prefeito Municipal, em 29 de janeiro de 2019.
+
+THALITA FERNANDES VENTURA
+Chefe do Departamento
+
+REGULAMENTO PARA PARTICIPAÇÃO NO CARNAVAL SOLIDÁRIO – SANTOS – 2019
+
+CAPÍTULO I
+DAS DISPOSIÇÕES GERAIS
+
+Art. 1º A Prefeitura Municipal de Santos realizará o Carnaval Solidário – Santos 2019, nos dias 22 e 23 de fevereiro de 2019, na Passarela do Samba “Drausio da Cruz”, entre as avenidas Afonso Schmidt e Nossa Senhora de Fátima, no Bairro Areia Branca, Zona Noroeste, local conhecido como “Estradão”, sendo o evento regido pelo presente Regulamento.
+
+Art. 2º O evento será acessório e integrado à estrutura e à programação do Desfile Oficial das Escolas de Samba – Carnaval Santos 2018.
+
+Art. 3º As unidades de alimentação rápida serão exploradas, diretamente, por entidades beneficentes, selecionadas na forma deste Regulamento por uma Comissão Coordenadora, assim composta:
+I – Selley Storino – Fundo Social de Solidariedade de Santos;
+II – Alex Torres da Silva – Secretaria Municipal de Cultura;
+III – Paulo Aguina – Secretaria Municipal de Serviços Públicos.
+
+CAPÍTULO II
+DAS INSCRIÇÕES
+
+Art. 4º As inscrições das entidades beneficentes interessadas serão realizadas na sede do Fundo Social de Solidariedade, no dia 31 de janeiro de 2019, no horário das 9 às 12 horas e das 14 às 17 horas.
+
+Parágrafo único. A inscrição importará na aceitação de todas as condições previstas neste Regulamento.
+
+Art. 5º Para a inscrição, exigir-se-á da entidade interessada o seguinte:
+I – ser sediada em Santos;
+II – ser entidade certificada nos termos da Lei Federal nº 12.101, de 27 de novembro de 2009;
+III – não ter fins lucrativos;
+IV – realizar atendimento direto e permanente, e não eventual ou casual, à população de Santos que se encontra em dificuldades sociais e pessoais em decorrência de desajuste social, pobreza, enfermidade grave e necessidades especiais;
+V – não possuir qualquer impedimento quanto à participação em eventos promovidos pela Prefeitura Municipal de Santos;
+VI – estar adimplente com prestação de contas de recursos públicos, municipais ou não, transferidos a qualquer título ou forma pela Prefeitura Municipal de Santos, bem como não possuir débito relativo à mesma;
+VII – declarar que, até dez dias antes do início do evento, possuirá todo insumo necessário para ofertar os produtos mencionados no inciso XI do artigo 16 deste Regulamento, permitindo à Comissão Coordenadora constatar sua existência;
+
+§ 1º A entidade interessada deverá, no ato da inscrição, preencher ficha, informando como se processa o atendimento que presta aos usuários e o local de armazenamento dos insumos mencionados no inciso VII deste artigo.
+
+§ 2º A entidade interessada deverá, no ato da inscrição, apresentar o balanço anual e contabilidade geral da entidade, registrando o excedente financeiro na eventual participação no Carnaval Solidário – Santos 2018.
+
+Art. 6º A Comissão Coordenadora fará publicar no Diário Oficial do Município a relação das entidades inscritas.
+
+CAPÍTULO III
+DA HABILITAÇÃO
+
+Art. 7º Será inabilitada para a fase de sorteio a entidade que não preencha os requisitos previstos no artigo 5º deste Regulamento.
+
+Art. 8º Imediatamente após a providência prevista no artigo 6º deste Regulamento, uma comissão de representantes das entidades reunir-se-á para analisar todas as inscrições e elaborar um relatório contendo os nomes daquelas que não preencham os requisitos de participação.
+
+§ 1º A referida comissão terá até 03 (três) dias para encaminhar à Comissão Coordenadora o relatório mencionado neste artigo.
+
+§ 2º Findo o prazo do parágrafo anterior e não tendo a comissão de representantes das entidades apresentado o relatório, passar-se-á diretamente ao sorteio.
+
+Art. 9º Recebido o relatório, a Comissão Coordenadora o analisará, verificando a pertinência do quanto relatado, com posterior comunicação às entidades que não tenham preenchido os requisitos necessários.
+
+§ 1º As entidades incluídas no Relatório serão notificadas para, querendo, apresentar defesa até as 18 horas do dia seguinte ao da respectiva publicação no Diário Oficial do Município.
+
+§ 2º A comissão de representantes das entidades terá vistas da defesa ofertada e deverá manifestar-se em 24 (vinte e quatro) horas.
+
+§ 3º Após as providências dos parágrafos anteriores deste artigo, a Comissão Coordenadora proferirá sua decisão, devidamente fundamentada, a qual deverá ser publicada.
+
+§ 4º Contra a decisão da Comissão Coordenadora não caberá recurso.
+
+§ 5º A entidade que não apresentar defesa dentro do prazo será considerada resignatária.
+
+Art. 10. Após as providências deste Capítulo, a Comissão Coordenadora homologará para sorteio todas as entidades habilitadas e que serão convocadas para tanto, por meio do Diário Oficial do Município.
+
+CAPÍTULO IV
+DO SORTEIO
+
+Seção I
+Disposições gerais
+
+Art. 11. Compõem o objeto do sorteio 05 (cinco) lotes, compostos por 12 (doze) lanchonetes assim identificadas:
+
+I – Lote 1 – Frisa - Lanchonetes: 01 e 02;
+II- Lote 2 –Frisa - Lanchonetes 03 e 04;
+III – Lote 3 – Frisa - Lanchonetes 05 e 06;
+IV – Lote 4–Arquibancada -Lanchonetes 07,08 e 09;
+V – Lote 5–Arquibancada– lanchonetes 10,11 e 12.
+
+Art. 12. As lanchonetes se distribuem da seguinte forma:
+I – Lote 1 – Frisa - Lanchonetes 01 e 02 -  de quem olha do início do desfile, a primeira do lado direito, ao lado da Área de Frisas;
+II – Lote 2 – Frisa - Lanchonetes 03 e 04 - de quem olha do início do desfile, o segundo conjunto de lanchonetes do lado direito, entre a área de Frisas;
+III – Lote 03 – Frisa – Lanchonetes 05 e 06 - de quem olha do início do desfile, o terceiro conjunto de lanchonetes do lado direito, entre a área de Frisas;
+IV – Lote 4–Arquibancada -Lanchonetes 07, 08 e 09 - de quem olha do início do desfile, o primeiro conjunto de lanchonetes do lado esquerdo, ao lado das Arquibancadas 05 e 04;
+V – Lote 5–Arquibancada -Lanchonetes 10,11 e 12 - de quem olha do início do desfile, o segundo conjunto de lanchonetes do lado esquerdo, ao lado das Arquibancadas 01,02 e 03.
+
+Seção II
+Do Sorteio para Participação
+
+Art. 13. O sorteio para participação é livre.
+
+§ 1º Cada entidade concorrerá no sorteio com um número pela habilitação e mais outros, à razão de um por ano de participação nos eventos anteriores do Carnaval Solidário – Santos.
+
+§ 2º A entidade que não for contemplada por falta de vaga constará de lista de espera, podendo ocupá-la no caso de desistência, desclassificação ou eliminação de alguma entidade sorteada antes da abertura do evento.
+
+Sessão III
+Do Sorteio de Localização
+
+Art. 14. Dentre as entidades sorteadas para participarem do evento, será realizado outro sorteio para identificar o lote de lanchonetes.
+
+CAPÍTULO V
+DO FUNCIONAMENTO
+
+Art. 15. O funcionamento das lanchonetes será obrigatório e ocorrerá por conta e risco da entidade participante, não se admitindo seu arrendamento, terceirização, sublocação, cessão e qualquer outro tipo de transferência a terceiros.
+
+§ 1º As lanchonetes serão entregues até 03 (três) dias antes da abertura oficial do evento, para sua organização interna.
+
+§ 2º A Administração Municipal entregará as lanchonetes com instalações elétricas e hidráulicas (pias e água servida) não podendo haver alteração em suas estruturas de sustentação, sendo de inteira responsabilidade dos participantes o equipamento e seu funcionamento.
+
+§ 3º O funcionamento de cada lanchonete ficará sujeito à vistoria prévia da autoridade competente para fiscalizar a segurança e as posturas, bem como a apresentação, durante o evento, de documentação fiscal que comprove a origem dos recursos necessários para suportar os dispêndios gerais e a aquisição de bens destinados à participação no evento e o nome de seus prepostos e voluntários atuantes na respectiva lanchonete.
+
+§ 4º Os participantes deverão desocupar e entregar a posse das lanchonetes imediatamente ao encerramento do evento.
+
+§ 5º É proibida a utilização de qualquer tipo de processo de combustão, dentro e fora das lanchonetes, inclusive para preparo de alimentos.
+
+Art. 16. São obrigações das entidades participantes:
+I – manter a lanchonete aberta ao público para pronto atendimento, das 18 horas até o final do desfile da última escola de samba do programa do dia;
+II – manter um preposto durante o período em que a lanchonete permanecer aberta ao público;
+III – determinar aos integrantes de sua equipe operacional que se identifiquem quando da entrada no espaço físico do evento, bem como utilizem uniforme ou vestimenta que deverá estampar a identificação da entidade e estar de acordo com as especificações da vigilância sanitária;
+IV – primar pela higiene e limpeza, dispondo o lixo devidamente acondicionado em local e horário definidos pela Comissão Coordenadora;
+V – conservar as instalações existentes no espaço físico da lanchonete, tais como: parte elétrica, hidráulica e demais materiais destinados ao funcionamento;
+VI – não colocar divisórias internas nas lanchonetes, com altura acima de 1,5m (um metro e meio);
+VII – ter extintores de incêndio em perfeito estado para a devida utilização;
+VIII – manter o padrão de luminosidade interna da lanchonete, conforme estabelecido pela Comissão Coordenadora;
+IX – designar, no mínimo, 02 (dois) representantes para participarem do curso de prevenção e combate a incêndio, que será ministrado pelo Corpo de Bombeiros em data previamente marcada;
+X – designar, no mínimo, 02 (dois) representantes para participarem de palestra sobre posturas sanitárias, que será ministrada pela Vigilância Sanitária, em data previamente marcada;
+XI – oferecer, no mínimo, em todas as lanchonetes, os seguintes itens para consumo:
+a) água mineral em recipiente fechado;
+b) dois tipos de refrigerantes gasosos;
+c) cerveja;
+d) bebida energética;
+e) sucos de frutas processados e embalados industrialmente;
+f) espetos (carne, frango e linguiça) previamente preparados;
+g) pão francês;
+h) salgados não industrializados previamente assados (esfihas, mistinhos, mini-pizzas, etc);
+i) salgados industrializados em pacotes fechados (“bacon”, batata frita, milho, amendoim, etc);
+j) doces caseiros (brigadeiros, beijinhos, quindins etc);
+XII – não oferecer, a qualquer título:
+a) refeições que caracterizem o serviço de restaurante;
+b) bebidas destiladas;
+c) produtos que não sejam acondicionados em recipientes descartáveis;
+d) produtos concorrentes com os patrocinadores do evento;
+e) produtos engarrafados, envidraçados ou enlatados, bem como acondicionados ou embalados em material que seja ou possa ser perfurocortante suficiente para lesionar pessoas;
+XIII – não soltar fogos de artifício, em qualquer hipótese, durante a realização do evento;
+XIV – manter inalterado o padrão cromático e estético nas áreas externas, fachadas e varandas das lanchonetes, sendo autorizada exclusivamente a colocação de 01 (um) cardápio nas respectivas áreas externas, inclusive em Braile, nos padrões estéticos previamente autorizados pela Comissão Coordenadora;
+XV – não ultrapassar o limite de 10.000 (dez mil) watts de consumo de energia elétrica em cada lanchonete;
+XVI – não colocar mesas e cadeiras nas áreas externas das lanchonetes, bem como não ocupar com quaisquer tipos de utensílios a área circunvizinha à lanchonete;
+XVII – não atender representantes comerciais de insumos de qualquer natureza durante o horário de realização do evento;
+XVIII – possuir, até 10 (dez) dias antes do início do evento, todo insumo necessário para ofertar os produtos mencionados no inciso XI deste artigo;
+XIX – permitir à Comissão Coordenadora constatar a existência dos insumos mencionados no inciso anterior.
+
+Art. 17. Fica assegurado o horário das 11h às 17h para abastecimento das lanchonetes.
+
+Art. 18. As entidades participantes ficam sujeitas ao cumprimento de quaisquer contratos de publicidade firmados pelos patrocinadores do evento, que fixem exclusividade de fornecimento de produtos, utilização do espaço de divulgação nas placas, bem como todo o espaço de propaganda interna e externa a ser utilizado, salvo estipulação contrária estabelecida pela Prefeitura Municipal de Santos e pelos patrocinadores.
+
+Art. 19. A Comissão Coordenadora divulgará em até 05 (cinco) dias antes do evento a tabela de cumprimento obrigatório de preços dos produtos mencionados no inciso XI do artigo 16 deste Regulamento.
+
+Art. 20. Cada infração ao disposto no presente Regulamento acarretará advertência escrita à entidade faltosa, a ser aplicada pela Comissão Coordenadora.
+
+Art. 21. Será impedida de participar do próximo evento, com características semelhantes ao presente, promovido pela Prefeitura Municipal de Santos, a entidade que:
+I – receber 02 (duas) advertências escritas durante todo o evento;
+II – deixar de comunicar, por escrito, com antecedência mínima de 15 (quinze) dias da data da abertura oficial do evento, sua desistência de participação;
+III – abandonar o evento durante sua realização;
+IV – não possuir, até dez dias antes do início do evento, todo insumo necessário para ofertar os produtos mencionados no inciso XI do artigo 16 deste regulamento ou não permitir à Comissão Coordenadora constatar sua existência.
+
+§ 1º A entidade que, a qualquer título ou modo, oferecer ou permitir que menores de 18 (dezoito) anos consumam bebida alcoólica, será imediatamente eliminada do evento aqui tratado e impedida de participar de qualquer evento patrocinado ou apoiado pela Prefeitura Municipal de Santos, pelo prazo de 5 (cinco) anos.
+
+§ 2º A constatação da infração ao inciso IV deste artigo será formalizada e publicada pela Comissão Coordenadora.
+
+CAPÍTULO VI
+DOS EXCEDENTES FINANCEIROS
+
+Art. 22. Todo excedente financeiro da lanchonete reverterá em favor da respectiva entidade participante que fica obrigada, no prazo de 15 (quinze) dias após o encerramento do evento, a encaminhar ao Fundo Social de Solidariedade, para publicação no Diário Oficial do Município, o seguinte:
+I – balanço financeiro obtido, constando a receita e a despesa, feito na forma contábil indicada pela Prefeitura Municipal de Santos e subscrito por contador;
+II – relatório contendo a finalidade social para a qual será revertido o eventual excedente financeiro obtido no evento;
+III – memória diária da entrada de recursos provenientes da venda dos produtos de cada lanchonete.
+
+§ 1º Na apuração do excedente financeiro, não serão consideradas despesas com bens não consumíveis (artigo 86 do Código Civil).
+
+§ 2º O balanço e o relatório virão, obrigatoriamente, acompanhados por uma declaração do representante legal da entidade, afirmando sua legitimidade e autenticidade, sob as penas da lei.
+
+§ 3º No caso de dúvida sobre o aspecto formal ou substancial do balanço financeiro e do relatório social, deverá o Fundo Social de Solidariedade instaurar procedimento para dirimir as dúvidas e tomar as providências cabíveis.
+
+§ 4º Também estarão sujeitos ao impedimento previsto no artigo 21 deste Regulamento:
+I – os participantes que não apresentarem o balanço financeiro e o relatório social, dentro do prazo fixado;
+II – os participantes que, após as providências do parágrafo anterior, não obtiverem como aceitos e bons o balanço financeiro e o relatório social.
+
+§ 5º A memória diária da entrada e sua somatória de recursos provenientes da venda dos produtos pela lanchonete serão formuladas mediante modelo encaminhado pelo Fundo Social de Solidariedade.
+
+Art. 23. No próximo evento do Carnaval Solidário será exigida a apresentação do apontamento do excedente financeiro no balanço anual e na contabilidade geral do ano de 2018, na eventual participação da entidade neste ano.
+
+CAPÍTULO VII
+DAS DISPOSIÇÕES FINAIS
+
+Art. 24. Para os fins previstos neste Regulamento, ficam referendados, para a Comissão dos Representantes das Entidades, os membros escolhidos em reunião pública realizada em 22 de janeiro de 2019, convocada pelo Diário Oficial do Município na edição de 21 de janeiro de 2019, respectivamente.
+
+Art. 25. A Comissão Coordenadora poderá realizar reuniões com as comissões de representantes das entidades, promotores do evento e outros órgãos públicos para encaminhar os problemas e dirimir dúvidas na preparação e execução do projeto.
+
+Art. 26. As entidades não terão direito a auferir eventual renda, obtida pela Prefeitura Municipal de Santos, proveniente da venda de ingressos, entradas ou quaisquer outras espécies de contraprestações pela frequência ou participação do público no evento.
+
+Art. 27. As entidades habilitadas ou sorteadas para participação, em unanimidade, poderão se reunir para desenvolver a comercialização dos produtos sem prejuízo de qualquer obrigação consignada neste Regulamento.
+
+§ 1º A providência do "caput" deste artigo deverá ser autorizada pela Comissão Coordenadora mediante solicitação formal subscrita por todos os representantes legais das entidades.
+
+§ 2º O termo final para protocolar a solicitação do parágrafo anterior é o vigésimo dia anterior ao do início das atividades de comercialização.
+
+§ 3º O Fundo Social de Solidariedade convocará as entidades habilidades ou sorteadas, conforme o caso, para uma reunião de tentativa de consenso quanto à possibilidade prevista no “caput” deste artigo.
+
+§ 4º A ausência da entidade na reunião prevista no parágrafo anterior será considerada, para todos os efeitos, como concordante à comercialização conjunta e quanto ao deliberado para sua execução.
+
+§ 5º Frutífera a reunião de tentativa de consenso, são dispensáveis as exigências dos parágrafos 1º e 2º deste artigo.
+
+Art. 28. O setor responsável pelo protocolo de toda documentação referente ao disposto neste Regulamento é o expediente do Fundo Social de Solidariedade, situado na Avenida Conselheiro Nébias, 388, Santos, Estado de São Paulo.
+
+Art. 29. Os casos omissos serão resolvidos pela Comissão Coordenadora.
+
+Art. 30. Todas as intimações e notificações oriundas dos preceitos deste Regulamento serão formuladas pelo Diário Oficial do Município.
