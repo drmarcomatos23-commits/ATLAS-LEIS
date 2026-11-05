@@ -9,8 +9,8 @@ situacao: "Acórdão Publicado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-39"
-baixado_em: 2026-11-02
-atualizacao_fonte: "27/10/2026"
+baixado_em: 2026-11-05
+atualizacao_fonte: "04/11/2026"
 ---
 
 # Tema de recurso repetitivo (IRR) nº 39 do TST
@@ -64,6 +64,6 @@ Acórdão Publicado
   "situacao": "Acórdão Publicado",
   "tese": "I - O fato gerador da prescrição intercorrente trabalhista (art. 11-A, § 1o, da CLT) é a inércia qualificada do exequente, que se materializa pelo descumprimento de ordem judicial exarada a partir da vigência da Lei no 13.467/2017, independentemente da data de trânsito em julgado da decisão exequenda; <br><br><br>II - A intimação apta a deflagrar o fluxo prescricional deve ser específica, cominatória e contextualizada à realidade dos autos, evidenciando que a paralisação do feito decorre exclusivamente  da  inércia  da  parte  exequente;  veda-se,  para  esse  fim,  o  uso  de intimações padronizadas, automáticas ou genéricas; <br><br><br>III - Por configurar ato de despojamento de direito decorrente de inércia injustificada, a conduta  desidiosa  que  atrai  a  sanção  do  art.  11-A  da  CLT  pressupõe  a  intimação pessoal do credor, sem prejuízo da intimação do advogado; <br><br><br>IV - É nula a decisão que reconhece a prescrição intercorrente sem que antes a parte prejudicada seja ouvida para opor fato impeditivo à extinção da execução (arts. 5º, LV, da CF, 9º, 10, e 921, § 5º, do CPC).",
   "tipo": "IRR",
-  "ultimaAtualizacao": "27/10/2026"
+  "ultimaAtualizacao": "04/11/2026"
 }
 ```

@@ -4,20 +4,24 @@ tribunal: "TST"
 tipo: "Tema de recurso repetitivo (IRR)"
 numero: "47"
 data:
-ementa: "São devidas horas extras ao trabalhador portuário avulso pela inobservância do intervalo interjornadas?"
+ementa: "I - São devidas horas extras ao trabalhador portuário avulso pela inobservância do intervalo interjornadas? \n\nII - A prestação de serviços a operadores portuários distintos interfere na obrigação de observância do intervalo interjornadas e no direito ao pagamento das horas extras decorrentes de sua inobservância? \n\nIII - Em quais hipóteses é válida a flexibilização do intervalo interjornadas do trabalhador portuário avulso diante de situações excepcionais previstas em acordo ou convenção coletiva de trabalho, nos termos do art. 8º da Lei nº 9.719/1998?\n"
 situacao: "Afetado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-47"
-baixado_em: 2026-11-02
-atualizacao_fonte: "21/05/2026"
+baixado_em: 2026-11-05
+atualizacao_fonte: "04/11/2026"
 ---
 
 # Tema de recurso repetitivo (IRR) nº 47 do TST
 
 ## Questão
 
-São devidas horas extras ao trabalhador portuário avulso pela inobservância do intervalo interjornadas?
+I - São devidas horas extras ao trabalhador portuário avulso pela inobservância do intervalo interjornadas?
+
+II - A prestação de serviços a operadores portuários distintos interfere na obrigação de observância do intervalo interjornadas e no direito ao pagamento das horas extras decorrentes de sua inobservância?
+
+III - Em quais hipóteses é válida a flexibilização do intervalo interjornadas do trabalhador portuário avulso diante de situações excepcionais previstas em acordo ou convenção coletiva de trabalho, nos termos do art. 8º da Lei nº 9.719/1998?
 
 ## Situação
 
@@ -52,7 +56,7 @@ Afetado
       "numero": "00010582920205120050"
     }
   ],
-  "questao": "São devidas horas extras ao trabalhador portuário avulso pela inobservância do intervalo interjornadas?",
+  "questao": "I - São devidas horas extras ao trabalhador portuário avulso pela inobservância do intervalo interjornadas? \n\nII - A prestação de serviços a operadores portuários distintos interfere na obrigação de observância do intervalo interjornadas e no direito ao pagamento das horas extras decorrentes de sua inobservância? \n\nIII - Em quais hipóteses é válida a flexibilização do intervalo interjornadas do trabalhador portuário avulso diante de situações excepcionais previstas em acordo ou convenção coletiva de trabalho, nos termos do art. 8º da Lei nº 9.719/1998?\n",
   "situacao": "Afetado",
   "suspensoes": [
     {
@@ -63,6 +67,6 @@ Afetado
     }
   ],
   "tipo": "IRR",
-  "ultimaAtualizacao": "21/05/2026"
+  "ultimaAtualizacao": "04/11/2026"
 }
 ```
