@@ -1,0 +1,2054 @@
+---
+titulo: "Lei nº 3.830, de 23 de março de 2021"
+uf: "SP"
+municipio: "Santos"
+tipo: "Lei Ordinária"
+numero: "3830"
+data: 2021-03-23
+ementa: "DISPÕE SOBRE A RATIFICAÇÃO DO PROTOCOLO DE INTENÇÕES FIRMADO ENTRE MUNICÍPIOS BRASILEIROS, COM A FINALIDADE DE ADQUIRIR VACINAS PARA COMBATE À PANDEMIA DO CORONAVÍRUS, MEDICAMENTOS, INSUMOS E EQUIPAMENTOS NA ÁREA DA SAÚDE, E DÁ OUTRAS PROVIDÊNCIAS."
+versao_texto: "arquivo publicado no LEGIS (Prefeitura de Santos); conferir a compilação"
+publicacao: "Publicada no D.O. de 24/03/2021"
+data_publicacao: 2021-03-24
+fonte: "https://egov.santos.sp.gov.br/legis/documents/10520"
+arquivo: "https://egov.santos.sp.gov.br/legis/documents/10520/view"
+id_fonte: "santos-legis-10520"
+baixado_em: 2026-11-05
+etiquetas: "ADQUIRIR VACINAS PARA COMBATE À PANDEMIA DO CORONAVÍRUS"
+---
+
+# Lei nº 3.830, de 23 de março de 2021
+
+LEI Nº 3.830
+DE 23 DE MARÇO DE 2021
+(Projeto de Lei nº 34/2021 – Autor: Prefeito Municipal)
+DISPÕE  SOBRE  A  RATIFICAÇÃO  DO
+PROTOCOLO  DE  INTENÇÕES  FIRMADO
+ENTRE MUNICÍPIOS BRASILEIROS, COM
+A  FINALIDADE  DE  ADQUIRIR  VACINAS
+PARA  COMBATE  À  PANDEMIA  DO
+CORONAVÍRUS,  MEDICAMENTOS,
+INSUMOS  E  EQUIPAMENTOS  NA  ÁREA
+DA  SAÚDE,  E  DÁ  OUTRAS
+PROVIDÊNCIAS.
+ROGÉRIO  SANTOS,  Prefeito  Municipal  de  Santos,
+faço saber que a Câmara Municipal aprovou em sessão realizada em 22 de março de
+2021 e eu sanciono e promulgo a seguinte:
+LEI Nº 3.830
+Art. 1º  Fica ratificado pelo Município de Santos, nos
+termos da Lei Federal nº 11.107, de 06 de abril de 2005, e do Decreto Federal nº 6.017,
+de 17 de janeiro de 2007, o protocolo de intenções firmado entre Municípios de todas
+as regiões da República Federativa do Brasil, visando precipuamente à aquisição de
+vacinas  para  combate  à  pandemia  do  coronavírus,  além  de  outras  finalidades  de
+interesse público relativas à aquisição de medicamentos, insumos e equipamentos na
+área da saúde, conforme Anexo único parte integrante desta lei.
+Art. 2º  O protocolo de intenções, após sua ratificação,
+converter-se-á em contrato de consórcio público.
+Art. 3º  O consórcio público que ora se ratifica terá a
+personalidade jurídica de direito público, com natureza autárquica.
+Art. 4º  Fica autorizada a abertura de crédito adicional
+especial no valor de até R$ 60.000.000,00 (sessenta milhões de reais), destinado a
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               1
+
+atender despesas de repasses do Município ao consórcio público de que trata esta lei,
+por meio da Secretaria Municipal de Saúde.
+§  1º Os  recursos  orçamentários  que  darão  suporte  à
+abertura do crédito adicional especial, previstos no “caput” deste artigo, ocorrerão por
+excesso de arrecadação ou superávit apurado ou resultantes de anulação parcial ou
+total de dotações orçamentárias de até R$ 60.000.000,00 (sessenta milhões de reais).
+§ 2º Fica autorizada a abertura de créditos suplementares
+até o limite de 20% (vinte por cento) do total da despesa autorizada através do crédito
+adicional especial, utilizando-se como recursos o que determinam os incisos II e III do
+artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964, a saber:
+I  – os  provenientes  de  excesso  de  arrecadação  ou
+superávit apurado;
+II  – os  resultantes  de  anulação  parcial  ou  total  de
+dotações orçamentárias ou de créditos adicionais, autorizadas em lei, e o produto de
+operações de crédito autorizadas, de forma que possibilite juridicamente ao Poder
+Executivo realizá-las.
+Art. 5º Esta lei entra em vigor na data da publicação.
+Registre-se e publique-se.
+Palácio “José Bonifácio”, em 23 de março de 2021.
+ROGÉRIO SANTOS
+ Prefeito Municipal
+Registrada no livro competente.
+Departamento de Registro de Atos Oficiais do Gabinete
+do Prefeito Municipal, em 23 de março de 2021.
+THALITA FERNANDES VENTURA
+Chefe do Departamento
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               2
+
+ANEXO ÚNICO
+MINUTA PROTOCOLO DE INTENÇÕES DO CONECTAR -
+CONSÓRCIO NACIONAL DE VACINAS DAS CIDADES BRASILEIRAS
+PROTOCOLO DE INTENÇÕES QUE ENTRE SI
+FIRMAM OS MUNICÍPIOS DESCRITOS EM SEU
+ANEXO  I, QUE TEM POR FINALIDADE A
+AQUISIÇÃO DE VACINAS PARA COMBATE A
+PANDEMIA DECORRENTE  DO  CORONAVIRUS
+(COVID-19), ALÉM DE  OUTRAS OBJETIVOS
+PREVISTOS EM   SUAS  CLÁUSULAS,  QUE SE
+ENCONTRAM REDIG IDAS  DE ACORDO COM A
+LEI  FEDERAL Nº 11.107/2005  E SEU DECRETO
+FEDERAL REGULAMENTADOR Nº 6.017/2007,
+DIPLOMAS  QUE DISPÕEM SOBRE NORMAS
+GERAIS PARA A CONTRATAÇÃO  DE
+CONSÓRCIOS  PÚBLICOS PELOS ENTES
+FEDERADOS.
+CLÁUS  U      LA     1ª
+Deno  m      inação
+O presente consórcio será denominado, CONECTAR – Consórcio Nacional de
+Vacinas das Cidades Brasilerias.
+CLÁUS  U      LA     2ª
+Finalid  a      des     do     c      onsó  r      cio
+2.1     A finalidade precípua do consórcio público é a aquisição de vacinas para
+combate à pandemia do coronavírus (COVID-19) e suas variantes.
+2.2     O consórcio também tem como finalidade a aquisição de medicamentos,
+insumos, serviços e equipamentos na área da saúde em geral.
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               3
+
+CLÁUS  U      LA     3ª
+Prazo     de     d      uração
+3.       O prazo de duração do presente consórcio é indeterminado.
+CLÁUS  U      LA     4ª
+Sede     do     c  o      nsórcio
+4.       A sede do consórcio será em Brasília/DF.
+CLÁUS  U      LA     5ª
+Identifica  ç      ão     dos     entes     federados     partici  p      ant  e      s
+5.       O   presente   consórcio   é   constituído   inicialmente   p elos   municípios
+brasileiros  descritos no Anexo I deste protocolo de intenções, sen do facultado o
+ingresso de outros municípios nos termos da Lei nº 11.107/2005.
+CLÁUS  U      LA     6ª
+Área     de     a  t      uação
+6.       A área de atuação do consórcio corresponde à área de abrangência dos
+municípios que compõem o consórcio. Na medida em que outros municípios façam
+a adesão ao presente protocolo de intenções, fica automaticamente estendida a área
+de atuação do consórcio.
+CLÁUS  U      LA     7ª
+Natureza     jurídi  c      a
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               4
+
+7.       O consórcio possui personalidade jurídica de direito público e natureza
+autárquica, sendo a Assembleia Geral seu principal órgão de deliberação.
+CLÁUS  U      LA     8ª
+Represen  t      ação     do con  s      órcio     per  a      nte     ou  t      ras     e  s      feras     de     g  o      verno
+8.1.    O presidente do consórcio terá competência para representar os municípios
+consorciados,  em assuntos de interesse comum, perante quaisquer esferas de
+governo ou  de poder, b em como perante entidades de direito público ou privado,
+nacionais e internacionais.
+8.2.    O presidente representará o consórcio ativa e passivamente, nas  esferas
+judicial e extrajudicial.
+CLÁUS  U      LA     9ª
+Nor  m      as         de         convocaç  ã      o         e         funci  o      na  m      ento         da         asse  m      bleia         geral         –         elaboraçã  o      ,
+aprovação     e     alter  a      ção     do     estatu  t      o     social
+9.1.    A assembleia geral se rá convocada, de f orma ordinária, pelo presidente do
+consórcio, e, de forma extraordinária,  por 1/6 (um sexto) dos votos de seus
+membros.
+9.2.    A reunião ordinária da assembleia  geral deverá ser convocada  com
+antecedência mínima  de  07  (sete)  dias.  A  reunião extraordinária deverá  ser
+convocada com antecedência mínima de 05 (cinco) dias. As reuniões deverão  ter
+ampla  divulgação na  mídia,  notadamente na  rede  mundial de  computadores
+(internet).
+9.3.    O estatuto social será aprovado na primeira reunião da assembleia geral.
+9.4.    O  estatuto  social  somente poderá  ser  alterado por  2/3  dos  votos  dos
+membros presentes à assembleia geral, em reunião com grande divulgação,  e
+especialmente convocada para esta finalidade.
+CLÁUS  U      LA     10ª
+Asse  m      bleia     geral     e     sua     for  m      a     deliberação
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               5
+
+10.1.   A assembleia geral é a instância máxima de deliberação do consórcio, nos
+termos do art. 4º, VII, da Lei Federal nº 11.107/2005.
+10.2. Cada membro do consórcio  terá direito a pelo menos um voto na assembleia
+geral,  independentemente  da  sua  população,  nos  termos  do  art.  4º,  §  2º  da  Lei
+Federal nº 11.107/2005. Os consorciados  terão direito a mais um voto na assembleia
+geral a cada 25.000 (vinte e cinco mil) habitantes que possuir, de acordo com dados
+atualizados do Instituto Brasileiro de Geografia e Estatística (IBGE), limitado a  150
+(cento e cinquenta) votos por município consorciado.
+10.3. A assembleia geral de constituição do Consórcio se dará no dia 22/03/2021, às
+15h.
+CLÁUS  U      LA     11ª
+Eleição     e     d      uração     do   m      andato     do     repr  e      sente     legal
+11.     O representante legal do consórcio público e a diretoria serão eleitos em
+assembleia geral, para um mandato de 02 (dois) anos.
+CLÁUS  U      LA     12ª
+Nú  m      ero,     fo  r  m      a     de     prov  i  m      ento     e     re  m      uneração     do     pess  o      al     do     c  o      nsó  r      cio
+12.1.   O quadro de pessoal será composto  por empregos  em comissão, e por
+empregados públicos, admissíveis por  concurso público de provas e títulos, nos
+termos do art. 6º, §2º, da Lei Federal nº 11.107/2005.
+12.2.   O   quadro básico  de  pessoal será   composto: secretário-executivo (01);
+secretária (01); assessor jurídico (01); contador (01); economista (01); médico (01);
+farmacêutico (0 1); assessor de comunicação (01);  bacharel em comércio exterior
+(1); assessor administrativo e financeiro (01). Os empregos serão providos na medida
+da constatação das necessidades do consórcio pela sua diretoria.
+12.3.  Para  além  do  quadro  básico  de  pessoal  acima  descrito,  o  secretário
+executivo deverá submeter ao  representante legal do consórcio o quadro geral de
+pessoal da instituição, bem como um plano de cargos e salários dos empregados que
+deverá conter: a remuneração que poderá estruturada na forma de vencimento,
+gratificação e verba indenizatória; o número de postos de trabalho, em comissão e de
+empregos públicos, além dos já definidos neste protocolo de intenções.
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               6
+
+12.4.  O regime jurídico de pessoal será o da Consolidação das Leis do Trabalho
+(Decreto-Lei nº 5.452/1943).
+CLÁUS  U      LA     13ª
+Casos     de     c      ontra  t      ação     t      e  m      porária     para     a      tend  im      ento     de     interes  s      e     pú  b      lico
+13.      A forma da contratação emergencial será estabelecida  pela direção do
+consórcio, a teor do art. 37, IX, da Constituição da República. O pessoal contratado
+sob este modelo jurídico deverá ser o mínimo necessário para atendimento  à
+situação emergencial.
+CLÁUS  U      LA     14ª
+Contrato     de     ges  t      ão,     te  rm      o     de     parceria     e     g      est  ã      o     associa  d      a     de     se  r      viç  o      s     públicos
+14.1.  O consórcio poderá pactuar contrato de gestão nos termos da Lei Federal nº
+9.649/98, e também termo de parceria, nos termos da Lei Federal nº 9.790/90.
+14.2. A gestão associada de serviços públicos poderá ser executada pelo consórcio,
+desde que haja aprovação pela sua diretoria, e  desde que haja lei autorizativa  dos
+municípios indicando: a) as competências específicas que serão transferidas para a
+execução do consórcio público; b) a indicação de quais serviços públicos  serão
+objeto da gestão associada,  e área de interesse em que serão  prestados; c) a
+autorização  expressa para licitar e contratar mediante concessão,  permissão e
+autorização os serviços públicos indicados; d) condições básicas do regime jurídico
+do contrato de programa; e) os critérios relativos à remuneração do concessionário
+do serviço público contratado.
+CLÁUS  U      LA     15ª
+Direitos          d      os          co  n      sorc  i      ados          –          ex  i      gência          de          cu  m      pr  i  m      ento          dos          objetivos          do
+consórcio     e     direi  t      o     de voto     na     a  s      se  m      bleia     geral
+15.     O consorciado que estiver adimplente com suas obrigações estatutárias tem o
+direito de exigir o cumprimento de todas as cláusulas do contrato de consórcio
+público e do Estatuto Social da Entidade.
+CLÁUS  U      LA     16ª
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               7
+
+Fontes     de receita     nac  i      onais     e     i  n      ternac  i      onais     do     consó  r      cio
+16.     As fontes de receita do consórcio p úblicos s ão as seguintes: a)  recursos
+repassados pelos municípios consorciados  na forma do contrato de rateio; b)
+repasses da União, dos Estados-Membros,  Distrito Federal e Municípios não
+consorciados  na forma de celebração de convênio ou contrato de repasse; c)
+transferências voluntárias da União e Estados-Membros; d)  doações de pessoas
+jurídicas de direito privado e de direito público, nacionais e internacionais;  e)
+doações de pessoas físicas; f) doações de outros órgãos, pessoas jurídicas de direito
+público ou outros consórcios. g) remuneração pelos próprios serviços prestados; h)
+as rendas decorrentes da exploração de seu patrimônio e da alienação de seus bens.
+i) dentre outras especificadas em seu estatuto.
+CLÁUS  U      LA     17ª
+Licitação     c      o  m      partilhada
+17.      O consórcio  poderá r ealizar  licitação com previsão no edital para que
+contratos respectivos sejam celebrados direta ou indiretamente pel os municípios
+consorciados, nos termos do art. 112, § 1º, da Lei Federal nº 8.666/93.
+CLÁUS  U      LA     18ª
+Prazo     pa  r      a     ratifi  c      ação     e     constit  u      ição     do con  s      órcio
+18.     O presente contrato de consórcio público poderá ser celebrado por apenas
+parte de seus  signatários originais, sem prejuízo da adesão dos demais integrantes
+que venham a ratificar o protocolo de intenções em data posterior.
+Santos, 05 de março de 2021.
+ROGÉRIO SANTOS
+Prefeito Municipal de Santos
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                               8
+
+ANEXO I – CIDADES QUE MANIFESTARAM INTERESSE DE ADESÃO AO CONSÓRCIO PÚBLICO
+Nº UF NOME DO MUNICÍPIO
+1 AC CRUZEIRO DO SUL
+2 AC RIO BRANCO
+3 AL CAJUEIRO
+4 AL MACEIÓ
+5 AL MINADOR DO NEGRÃO
+6 AL SÃO SEBASTIÃO
+7 AM ITACOATIARA
+8 AM MANAUS
+9 AM SILVES
+10 AP MACAPÁ
+11 AP SANTANA
+12 AP SERRA DO NAVIO
+13 BA ALAGOINHAS
+14 BA AMARGOSA
+15 BA BARRA
+16 BA BARREIRAS
+17 BA BARROCAS
+18 BA BELO CAMPO
+19 BA CACHOEIRA
+20 BA CAIRU
+21 BA CAMAMU
+22 BA CAMPO ALEGRE DE LOURDES
+23 BA CANDEIAS
+24 BA COCOS
+25 BA CONCEIÇÃO DA FEIRA
+26 BA CONCEIÇÃO DO COITÉ
+27 BA CORAÇÃO DE MARIA
+28 BA CORIBE
+29 BA CORRENTINA
+30 BA CRISTÓPOLIS
+31 BA CRUZ DAS ALMAS
+32 BA ENTRE RIOS
+33 BA EUNÁPOLIS
+34 BA FEIRA DE SANTANA
+35 BA GOVERNADOR MANGABEIRA
+36 BA GUANAMBI
+37 BA IGRAPIÚNA
+38 BA IRECÊ
+39 BA ITABUNA
+40 BA ITAGIMIRIM
+41 BA ITARANTIM
+42 BA ITUBERÁ
+43 BA JACOBINA
+44 BA JUAZEIRO
+45 BA LAPÃO
+46 BA LAURO DE FREITAS
+47 BA LUÍS EDUARDO MAGALHÃES
+
+2
+48 BA MATA DE SÃO JOÃO
+49 BA MILAGRES
+50 BA MORRO DO CHAPÉU
+51 BA MULUNGU DO MORRO
+52 BA MUTUÍPE
+53 BA NILO PEÇANHA
+54 BA PÉ DE SERRA
+55 BA PIATÃ
+56 BA PONTO NOVO
+57 BA PORTO SEGURO
+58 BA PRESIDENTE DUTRA
+59 BA RIACHO DE SANTANA
+60 BA SALVADOR
+61 BA SANTA BÁRBARA
+62 BA SANTA MARIA DA VITÓRIA
+63 BA SANTANA
+64 BA SANTO ANTÔNIO DE JESUS
+65 BA SÃO FRANCISCO DO CONDE
+66 BA SÃO GABRIEL
+67 BA SÃO SEBASTIÃO DO PASSÉ
+68 BA SIMÕES FILHO
+69 BA SÍTIO DO MATO
+70 BA TAPEROÁ
+71 BA TAPIRAMUTÁ
+72 BA TEIXEIRA DE FREITAS
+73 BA TEOFILÂNDIA
+74 BA UBAÍRA
+75 BA VERA CRUZ
+76 BA VITÓRIA DA CONQUISTA
+77 CE ABAIARA
+78 CE ACARAPE
+79 CE ACARAÚ
+80 CE ACOPIARA
+81 CE ALCÂNTARAS
+82 CE ALTO SANTO
+83 CE AMONTADA
+84 CE ANTONINA DO NORTE
+85 CE APUIARÉS
+86 CE AQUIRAZ
+87 CE ARACATI
+88 CE ARACOIABA
+89 CE ARATUBA
+90 CE ASSARÉ
+91 CE BARBALHA
+92 CE BARREIRA
+93 CE BATURITÉ
+94 CE BEBERIBE
+
+3
+95 CE BOA VIAGEM
+96 CE BREJO SANTO
+97 CE CAMOCIM
+98 CE CAMPOS SALES
+99 CE CARIDADE
+100 CE CARIRÉ
+101 CE CATARINA
+102 CE CATUNDA
+103 CE CAUCAIA
+104 CE CEDRO
+105 CE COREAÚ
+106 CE CRATO
+107 CE CROATÁ
+108 CE DEPUTADO IRAPUAN PINHEIRO
+109 CE FORQUILHA
+110 CE FORTALEZA
+111 CE FORTIM
+112 CE FRECHEIRINHA
+113 CE GENERAL SAMPAIO
+114 CE GRANJA
+115 CE GRANJEIRO
+116 CE GROAÍRAS
+117 CE GUAIÚBA
+118 CE GUARAMIRANGA
+119 CE HIDROLÂNDIA
+120 CE HORIZONTE
+121 CE IBIAPINA
+122 CE ICAPUÍ
+123 CE ICÓ
+124 CE IGUATU
+125 CE IPAPORANGA
+126 CE IPAUMIRIM
+127 CE IPUEIRAS
+128 CE IRACEMA
+129 CE IRAUÇUBA
+130 CE ITAIÇABA
+131 CE ITAPAJÉ
+132 CE ITAPIPOCA
+133 CE ITAREMA
+134 CE JAGUARETAMA
+135 CE JAGUARIBARA
+136 CE JAGUARIBE
+137 CE JAGUARUANA
+138 CE JATI
+139 CE JIJOCA DE JERICOACOARA
+140 CE JUAZEIRO DO NORTE
+141 CE JUCÁS
+
+4
+142 CE LAVRAS DA MANGABEIRA
+143 CE LIMOEIRO DO NORTE
+144 CE MADALENA
+145 CE MARACANAÚ
+146 CE MARANGUAPE
+147 CE MARCO
+148 CE MARTINÓPOLE
+149 CE MAURITI
+150 CE MERUOCA
+151 CE MILAGRES
+152 CE MILHÃ
+153 CE MIRAÍMA
+154 CE MISSÃO VELHA
+155 CE MOMBAÇA
+156 CE MORAÚJO
+157 CE MULUNGU
+158 CE NOVA OLINDA
+159 CE NOVA RUSSAS
+160 CE NOVO ORIENTE
+161 CE OCARA
+162 CE ORÓS
+163 CE PACOTI
+164 CE PALMÁCIA
+165 CE PARAIPABA
+166 CE PARAMOTI
+167 CE PEDRA BRANCA
+168 CE PEREIRO
+169 CE PIQUET CARNEIRO
+170 CE PIRES FERREIRA
+171 CE PORTEIRAS
+172 CE POTENGI
+173 CE POTIRETAMA
+174 CE QUITERIANÓPOLIS
+175 CE QUIXADÁ
+176 CE QUIXELÔ
+177 CE QUIXERÉ
+178 CE REDENÇÃO
+179 CE RERIUTABA
+180 CE RUSSAS
+181 CE SANTA QUITÉRIA
+182 CE SANTANA DO CARIRI
+183 CE SÃO BENEDITO
+184 CE SÃO GONÇALO DO AMARANTE
+185 CE SÃO JOÃO DO JAGUARIBE
+186 CE SÃO LUÍS DO CURU
+187 CE SENADOR POMPEU
+188 CE SENADOR SÁ
+
+5
+189 CE SOBRAL
+190 CE SOLONÓPOLE
+191 CE TABULEIRO DO NORTE
+192 CE TAMBORIL
+193 CE TARRAFAS
+194 CE TAUÁ
+195 CE TEJUÇUOCA
+196 CE TIANGUÁ
+197 CE TRAIRI
+198 CE TURURU
+199 CE UMIRIM
+200 CE URUBURETAMA
+201 CE URUOCA
+202 CE VARJOTA
+203 CE VÁRZEA ALEGRE
+204 CE VIÇOSA DO CEARÁ
+205 ES ARACRUZ
+206 ES IBITIRAMA
+207 ES ITAPEMIRIM
+208 ES LINHARES
+209 ES SERRA
+210 ES VENDA NOVA DO IMIGRANTE
+211 GO ABADIÂNIA
+212 GO APARECIDA DE GOIÂNIA
+213 GO BURITI ALEGRE
+214 GO BURITI DE GOIÁS
+215 GO CUMARI
+216 GO EDÉIA
+217 GO GOIÂNIA
+218 GO GOIANIRA
+219 GO GOIÁS
+220 GO ITABERAÍ
+221 GO ITAPURANGA
+222 GO ITUMBIARA
+223 GO IVOLÂNDIA
+224 GO JATAÍ
+225 GO MINAÇU
+226 GO NOVA AURORA
+227 GO PEROLÂNDIA
+228 GO RIO QUENTE
+229 GO SANTA TEREZA DE GOIÁS
+230 GO SÃO LUÍS DE MONTES BELOS
+231 GO TRINDADE
+232 GO TURVÂNIA
+233 GO VALPARAÍSO DE GOIÁS
+234 MA AÇAILÂNDIA
+235 MA ALTO PARNAÍBA
+
+6
+236 MA BOM JESUS DAS SELVAS
+237 MA BURITICUPU
+238 MA CIDELÂNDIA
+239 MA DAVINÓPOLIS
+240 MA GOVERNADOR EDISON LOBÃO
+241 MA IMPERATRIZ
+242 MA ITINGA DO MARANHÃO
+243 MA JOÃO LISBOA
+244 MA MONTES ALTOS
+245 MA RIBAMAR FIQUENE
+246 MA SANTA INÊS
+247 MA SANTA RITA
+248 MA SÃO JOÃO DO PARAÍSO
+249 MA SÃO LUÍS
+250 MA TIMON
+251 MG ABRE CAMPO
+252 MG ACAIACA
+253 MG ÁGUA COMPRIDA
+254 MG ALÉM PARAÍBA
+255 MG ALFENAS
+256 MG ALMENARA
+257 MG ALPERCATA
+258 MG ALTO JEQUITIBÁ
+259 MG ALVARENGA
+260 MG ALVORADA DE MINAS
+261 MG ANDRADAS
+262 MG ANDRELÂNDIA
+263 MG ARAÇAÍ
+264 MG ARAÇUAÍ
+265 MG ARAGUARI
+266 MG ARAPONGA
+267 MG ARAPORÃ
+268 MG ARAPUÁ
+269 MG ARAXÁ
+270 MG BAEPENDI
+271 MG BALDIM
+272 MG BARÃO DE COCAIS
+273 MG BARBACENA
+274 MG BELMIRO BRAGA
+275 MG BELO HORIZONTE
+276 MG BELO VALE
+277 MG BOCAIÚVA
+278 MG BOM JARDIM DE MINAS
+279 MG BOM REPOUSO
+280 MG BONFIM
+281 MG BONITO DE MINAS
+282 MG BORDA DA MATA
+
+7
+283 MG BOTELHOS
+284 MG BRÁS PIRES
+285 MG BRASÍLIA DE MINAS
+286 MG BRUMADINHO
+287 MG BUENO BRANDÃO
+288 MG BUENÓPOLIS
+289 MG BURITIZEIRO
+290 MG CACHOEIRA DA PRATA
+291 MG CACHOEIRA DE MINAS
+292 MG CACHOEIRA DOURADA
+293 MG CAJURI
+294 MG CALDAS
+295 MG CAMANDUCAIA
+296 MG CAMBUÍ
+297 MG CAMPANHA
+298 MG CAMPO BELO
+299 MG CAMPO DO MEIO
+300 MG CAMPO FLORIDO
+301 MG CANAÃ
+302 MG CAPARAÓ
+303 MG CAPELINHA
+304 MG CAPIM BRANCO
+305 MG CAPINÓPOLIS
+306 MG CARANDAÍ
+307 MG CARBONITA
+308 MG CAREAÇU
+309 MG CARMO DO CAJURU
+310 MG CARMO DO PARANAÍBA
+311 MG CARMÓPOLIS DE MINAS
+312 MG CARNEIRINHO
+313 MG CARVALHÓPOLIS
+314 MG CASCALHO RICO
+315 MG CÁSSIA
+316 MG CATAGUASES
+317 MG CATAS ALTAS DA NORUEGA
+318 MG CAXAMBU
+319 MG CENTRALINA
+320 MG CHÁCARA
+321 MG CHAPADA DO NORTE
+322 MG CLÁUDIO
+323 MG COIMBRA
+324 MG COMENDADOR GOMES
+325 MG CONCEIÇÃO DAS ALAGOAS
+326 MG CONCEIÇÃO DAS PEDRAS
+327 MG CONCEIÇÃO DO MATO DENTRO
+328 MG CONCEIÇÃO DO PARÁ
+329 MG CONCEIÇÃO DOS OUROS
+
+8
+330 MG CONGONHAL
+331 MG CONQUISTA
+332 MG CONSELHEIRO LAFAIETE
+333 MG CONTAGEM
+334 MG COQUEIRAL
+335 MG CORDISLÂNDIA
+336 MG COROMANDEL
+337 MG CORONEL XAVIER CHAVES
+338 MG CÓRREGO DO BOM JESUS
+339 MG CÓRREGO FUNDO
+340 MG COUTO DE MAGALHÃES DE MINAS
+341 MG CRISTAIS
+342 MG CRISTIANO OTONI
+343 MG CRISTINA
+344 MG CRUCILÂNDIA
+345 MG CRUZEIRO DA FORTALEZA
+346 MG CURVELO
+347 MG DELFINÓPOLIS
+348 MG DELTA
+349 MG DIOGO DE VASCONCELOS
+350 MG DIONÍSIO
+351 MG DIVINÉSIA
+352 MG DIVINÓPOLIS
+353 MG DOM SILVÉRIO
+354 MG DORES DO TURVO
+355 MG DOURADOQUARA
+356 MG ENTRE RIOS DE MINAS
+357 MG ESMERALDAS
+358 MG ESPINOSA
+359 MG ESTIVA
+360 MG ESTRELA DALVA
+361 MG EXTREMA
+362 MG FELÍCIO DOS SANTOS
+363 MG FELIXLÂNDIA
+364 MG FERROS
+365 MG FORMIGA
+366 MG FRANCISCO SÁ
+367 MG FRONTEIRA
+368 MG FRUTA DE LEITE
+369 MG FRUTAL
+370 MG GONÇALVES
+371 MG GRÃO MOGOL
+372 MG GUANHÃES
+373 MG GUARACIABA
+374 MG GUARANI
+375 MG GUARDA-MOR
+376 MG GUIMARÂNIA
+
+9
+377 MG GURINHATÃ
+378 MG HELIODORA
+379 MG IBIRACI
+380 MG IBITIÚRA DE MINAS
+381 MG IGARATINGA
+382 MG IJACI
+383 MG INCONFIDENTES
+384 MG INGAÍ
+385 MG INIMUTABA
+386 MG IPABA
+387 MG IPANEMA
+388 MG IPUIÚNA
+389 MG IRAÍ DE MINAS
+390 MG ITABIRA
+391 MG ITABIRITO
+392 MG ITACAMBIRA
+393 MG ITAGUARA
+394 MG ITAMARANDIBA
+395 MG ITAMBÉ DO MATO DENTRO
+396 MG ITAMOGI
+397 MG ITAMONTE
+398 MG ITAPAGIPE
+399 MG ITAPECERICA
+400 MG ITAPEVA
+401 MG ITAÚNA
+402 MG ITAVERAVA
+403 MG ITINGA
+404 MG ITUIUTABA
+405 MG ITURAMA
+406 MG JABOTICATUBAS
+407 MG JECEABA
+408 MG JEQUITAÍ
+409 MG JEQUITIBÁ
+410 MG JOAÍMA
+411 MG JOÃO MONLEVADE
+412 MG JOÃO PINHEIRO
+413 MG JUATUBA
+414 MG JUIZ DE FORA
+415 MG LAGAMAR
+416 MG LAGOA DA PRATA
+417 MG LAGOA DOURADA
+418 MG LAGOA FORMOSA
+419 MG LAMBARI
+420 MG LAMIM
+421 MG LAVRAS
+422 MG LIMA DUARTE
+423 MG MACHADO
+
+10
+424 MG MAR DE ESPANHA
+425 MG MARIA DA FÉ
+426 MG MARIANA
+427 MG MÁRIO CAMPOS
+428 MG MARMELÓPOLIS
+429 MG MARTINHO CAMPOS
+430 MG MATEUS LEME
+431 MG MINAS NOVAS
+432 MG MOEMA
+433 MG MONSENHOR PAULO
+434 MG MONTE SIÃO
+435 MG MONTES CLAROS
+436 MG MORADA NOVA DE MINAS
+437 MG MORRO DA GARÇA
+438 MG MUNHOZ
+439 MG NAQUE
+440 MG NATERCIA
+441 MG NEPOMUCENO
+442 MG NOVA ERA
+443 MG NOVA LIMA
+444 MG NOVA PONTE
+445 MG NOVA SERRANA
+446 MG NOVA UNIÃO
+447 MG NOVORIZONTE
+448 MG OLHOS D'ÁGUA
+449 MG OLIVEIRA FORTES
+450 MG ONÇA DE PITANGUI
+451 MG ORATÓRIOS
+452 MG OURO BRANCO
+453 MG OURO FINO
+454 MG PADRE PARAÍSO
+455 MG PAINEIRAS
+456 MG PAINS
+457 MG PAIVA
+458 MG PARÁ DE MINAS
+459 MG PARACATU
+460 MG PARAGUAÇU
+461 MG PARAISÓPOLIS
+462 MG PARAOPEBA
+463 MG PASSA TEMPO
+464 MG PASSABÉM
+465 MG PASSA-VINTE
+466 MG PASSOS
+467 MG PATIS
+468 MG PATOS DE MINAS
+469 MG PATROCÍNIO
+470 MG PAULISTAS
+
+11
+471 MG PEDRA DO ANTA
+472 MG PEDRA DO INDAIÁ
+473 MG PEDRA DOURADA
+474 MG PEDRALVA
+475 MG PEDRO TEIXEIRA
+476 MG PERDIZES
+477 MG PERDÕES
+478 MG PIEDADE DO RIO GRANDE
+479 MG PIRACEMA
+480 MG PIRAJUBA
+481 MG PIRANGA
+482 MG PIRANGUÇU
+483 MG PIRAPETINGA
+484 MG PIRAPORA
+485 MG PITANGUI
+486 MG PIUMHI
+487 MG POÇO FUNDO
+488 MG POMPÉU
+489 MG PONTE NOVA
+490 MG PONTO DOS VOLANTES
+491 MG PORTO FIRME
+492 MG POUSO ALEGRE
+493 MG POUSO ALTO
+494 MG PRATA
+495 MG PRATÁPOLIS
+496 MG PRESIDENTE JUSCELINO
+497 MG PRESIDENTE KUBITSCHEK
+498 MG PRESIDENTE OLEGÁRIO
+499 MG RAPOSOS
+500 MG RAUL SOARES
+501 MG RECREIO
+502 MG REDUTO
+503 MG RESSAQUINHA
+504 MG RIACHINHO
+505 MG RIBEIRÃO DAS NEVES
+506 MG RIO ACIMA
+507 MG RIO DOCE
+508 MG RIO MANSO
+509 MG RIO PARANAÍBA
+510 MG RIO POMBA
+511 MG RIO PRETO
+512 MG RUBIM
+513 MG SABARÁ
+514 MG SABINÓPOLIS
+515 MG SACRAMENTO
+516 MG SALINAS
+517 MG SANTA BÁRBARA
+
+12
+518 MG SANTA BÁRBARA DO TUGÚRIO
+519 MG SANTA JULIANA
+520 MG SANTA LUZIA
+521 MG SANTA RITA DE CALDAS
+522 MG SANTA RITA DE IBITIPOCA
+523 MG SANTA RITA DE JACUTINGA
+524 MG SANTA RITA DO SAPUCAÍ
+525 MG SANTA ROSA DA SERRA
+526 MG SANTA VITÓRIA
+527 MG SANTANA DO DESERTO
+528 MG SANTANA DO RIACHO
+529 MG SANTANA DOS MONTES
+530 MG SÃO BRÁS DO SUAÇUÍ
+531 MG SÃO FRANCISCO DE SALES
+532 MG SÃO GERALDO
+533 MG SÃO GERALDO DA PIEDADE
+534 MG SÃO GONÇALO DO ABAETÉ
+535 MG SÃO GONÇALO DO PARÁ
+536 MG SÃO GONÇALO DO RIO ABAIXO
+537 MG SÃO GONÇALO DO RIO PRETO
+538 MG SÃO GONÇALO DO SAPUCAÍ
+539 MG SÃO JOÃO DA MATA
+540 MG SÃO JOÃO NEPOMUCENO
+541 MG SÃO JOSÉ DA LAPA
+542 MG SÃO JOSÉ DO GOIABAL
+543 MG SÃO LOURENÇO
+544 MG SÃO MIGUEL DO ANTA
+545 MG SÃO PEDRO DO SUAÇUÍ
+546 MG SÃO PEDRO DOS FERROS
+547 MG SÃO SEBASTIÃO DA BELA VISTA
+548 MG SÃO SEBASTIÃO DA VARGEM ALEGRE
+549 MG SÃO SEBASTIÃO DO OESTE
+550 MG SÃO SEBASTIÃO DO PARAÍSO
+551 MG SÃO SEBASTIÃO DO RIO VERDE
+552 MG SÃO THOMÉ DAS LETRAS
+553 MG SÃO VICENTE DE MINAS
+554 MG SAPUCAÍ-MIRIM
+555 MG SARZEDO
+556 MG SENADOR AMARAL
+557 MG SENADOR CORTES
+558 MG SENADOR FIRMINO
+559 MG SENADOR JOSÉ BENTO
+560 MG SENADOR MODESTINO GONÇALVES
+561 MG SENHORA DE OLIVEIRA
+562 MG SERRO
+563 MG SILVIANÓPOLIS
+564 MG SIMÃO PEREIRA
+
+13
+565 MG SOLEDADE DE MINAS
+566 MG TAPIRA
+567 MG TAQUARAÇU DE MINAS
+568 MG TEIXEIRAS
+569 MG TOCOS DO MOJI
+570 MG TOMBOS
+571 MG TRÊS MARIAS
+572 MG TUPACIGUARA
+573 MG TURMALINA
+574 MG TURVOLÂNDIA
+575 MG UBÁ
+576 MG UBERLÂNDIA
+577 MG UNAÍ
+578 MG URUANA DE MINAS
+579 MG URUCÂNIA
+580 MG VARGEM GRANDE DO RIO PARDO
+581 MG VARGINHA
+582 MG VARJÃO DE MINAS
+583 MG VAZANTE
+584 MG VEREDINHA
+585 MG VERÍSSIMO
+586 MG VIÇOSA
+587 MG WENCESLAU BRAZ
+588 MS ÁGUA CLARA
+589 MS ALCINÓPOLIS
+590 MS ANAURILÂNDIA
+591 MS APARECIDA DO TABOADO
+592 MS CAMAPUÃ
+593 MS CAMPO GRANDE
+594 MS CARACOL
+595 MS CASSILÂNDIA
+596 MS CORGUINHO
+597 MS COSTA RICA
+598 MS COXIM
+599 MS DEODÁPOLIS
+600 MS DOURADINA
+601 MS DOURADOS
+602 MS FIGUEIRÃO
+603 MS IGUATEMI
+604 MS JARDIM
+605 MS JATEÍ
+606 MS MARACAJU
+607 MS NAVIRAÍ
+608 MS NOVA ALVORADA DO SUL
+609 MS PARANAÍBA
+610 MS RIBAS DO RIO PARDO
+611 MS ROCHEDO
+
+14
+612 MS SANTA RITA DO PARDO
+613 MS SELVÍRIA
+614 MS SIDROLÂNDIA
+615 MS TACURU
+616 MS TRÊS LAGOAS
+617 MS VICENTINA
+618 MT ALTO ARAGUAIA
+619 MT BARRA DO GARÇAS
+620 MT BRASNORTE
+621 MT CÁCERES
+622 MT CAMPINÁPOLIS
+623 MT CUIABÁ
+624 MT DIAMANTINO
+625 MT NORTELÂNDIA
+626 MT NOVA LACERDA
+627 MT NOVA XAVANTINA
+628 MT PONTES E LACERDA
+629 MT PRIMAVERA DO LESTE
+630 MT QUERÊNCIA
+631 MT SAPEZAL
+632 MT SORRISO
+633 PA ABAETETUBA
+634 PA AUGUSTO CORRÊA
+635 PA BAGRE
+636 PA BELÉM
+637 PA CASTANHAL
+638 PA IGARAPÉ-MIRI
+639 PA MARABÁ
+640 PA MELGAÇO
+641 PA PARAUAPEBAS
+642 PA SANTARÉM
+643 PB ÁGUA BRANCA
+644 PB ALAGOA NOVA
+645 PB ALAGOINHA
+646 PB AMPARO
+647 PB AREIA DE BARAÚNAS
+648 PB AREIAL
+649 PB ASSUNÇÃO
+650 PB BANANEIRAS
+651 PB BARRA DE SANTA ROSA
+652 PB BELÉM
+653 PB BOA VISTA
+654 PB BOM JESUS
+655 PB BONITO DE SANTA FÉ
+656 PB BORBOREMA
+657 PB CABACEIRAS
+658 PB CABEDELO
+
+15
+659 PB CACIMBA DE DENTRO
+660 PB CAJAZEIRAS
+661 PB CAMALAÚ
+662 PB CAMPINA GRANDE
+663 PB CARAÚBAS
+664 PB CASSERENGUE
+665 PB CATOLÉ DO ROCHA
+666 PB CONCEIÇÃO
+667 PB CONDADO
+668 PB CONDE
+669 PB CONGO
+670 PB COREMAS
+671 PB COXIXOLA
+672 PB DESTERRO
+673 PB DONA INÊS
+674 PB DUAS ESTRADAS
+675 PB ESPERANÇA
+676 PB FAGUNDES
+677 PB GUARABIRA
+678 PB GURJÃO
+679 PB IGARACY
+680 PB IMACULADA
+681 PB INGÁ
+682 PB JOÃO PESSOA
+683 PB JURIPIRANGA
+684 PB JURU
+685 PB LAGOA SECA
+686 PB LASTRO
+687 PB LIVRAMENTO
+688 PB MALTA
+689 PB MARI
+690 PB MARIZÓPOLIS
+691 PB MATURÉIA
+692 PB MOGEIRO
+693 PB MONTE HOREBE
+694 PB MONTEIRO
+695 PB NAZAREZINHO
+696 PB OLIVEDOS
+697 PB OURO VELHO
+698 PB PARARI
+699 PB PATOS
+700 PB PAULISTA
+701 PB PEDRA BRANCA
+702 PB PIANCÓ
+703 PB PILÕES
+704 PB PILÕEZINHOS
+705 PB PIRPIRITUBA
+
+16
+706 PB POMBAL
+707 PB PRATA
+708 PB PRINCESA ISABEL
+709 PB SALGADINHO
+710 PB SALGADO DE SÃO FÉLIX
+711 PB SANTA INÊS
+712 PB SANTA LUZIA
+713 PB SANTANA DE MANGUEIRA
+714 PB SANTO ANDRÉ
+715 PB SÃO BENTINHO
+716 PB SÃO DOMINGOS DO CARIRI
+717 PB SÃO FRANCISCO
+718 PB SÃO JOÃO DO CARIRI
+719 PB SÃO JOÃO DO RIO DO PEIXE
+720 PB SÃO JOÃO DO TIGRE
+721 PB SÃO JOSÉ DA LAGOA TAPADA
+722 PB SÃO JOSÉ DE ESPINHARAS
+723 PB SÃO JOSÉ DE PRINCESA
+724 PB SÃO JOSÉ DO SABUGI
+725 PB SÃO JOSÉ DOS CORDEIROS
+726 PB SÃO JOSÉ DOS RAMOS
+727 PB SÃO MAMEDE
+728 PB SÃO SEBASTIÃO DO UMBUZEIRO
+729 PB SERRARIA
+730 PB SOLÂNEA
+731 PB SOLEDADE
+732 PB SOUSA
+733 PB SUMÉ
+734 PB TAPEROÁ
+735 PB TAVARES
+736 PB TEIXEIRA
+737 PB TENÓRIO
+738 PB VÁRZEA
+739 PB VIEIRÓPOLIS
+740 PB VISTA SERRANA
+741 PB ZABELÊ
+742 PE ÁGUA PRETA
+743 PE ALIANÇA
+744 PE ANGELIM
+745 PE ARAÇOIABA
+746 PE ARCOVERDE
+747 PE BARRA DE GUABIRABA
+748 PE BARREIROS
+749 PE BELO JARDIM
+750 PE BOM CONSELHO
+751 PE BOM JARDIM
+752 PE BONITO
+
+17
+753 PE BREJINHO
+754 PE BREJO DA MADRE DE DEUS
+755 PE BUENOS AIRES
+756 PE CABO DE SANTO AGOSTINHO
+757 PE CABROBÓ
+758 PE CACHOEIRINHA
+759 PE CAMARAGIBE
+760 PE CAMOCIM DE SÃO FÉLIX
+761 PE CANHOTINHO
+762 PE CAPOEIRAS
+763 PE CARNAÍBA
+764 PE CARUARU
+765 PE CASINHAS
+766 PE CONDADO
+767 PE CUSTÓDIA
+768 PE EXU
+769 PE FERREIROS
+770 PE FLORES
+771 PE FLORESTA
+772 PE GAMELEIRA
+773 PE GARANHUNS
+774 PE GLÓRIA DO GOITÁ
+775 PE GOIANA
+776 PE GRANITO
+777 PE IATI
+778 PE IGUARACY
+779 PE INGAZEIRA
+780 PE IPOJUCA
+781 PE ITAÍBA
+782 PE ITAPETIM
+783 PE JABOATÃO DOS GUARARAPES
+784 PE JATOBÁ
+785 PE JUPI
+786 PE LAJEDO
+787 PE MACAPARANA
+788 PE MACHADOS
+789 PE MIRANDIBA
+790 PE MORENO
+791 PE NAZARÉ DA MATA
+792 PE OLINDA
+793 PE OROBÓ
+794 PE OROCÓ
+795 PE PALMARES
+796 PE PANELAS
+797 PE PAULISTA
+798 PE PESQUEIRA
+799 PE PETROLÂNDIA
+
+18
+800 PE PETROLINA
+801 PE POÇÃO
+802 PE POMBOS
+803 PE QUIPAPÁ
+804 PE QUIXABA
+805 PE RECIFE
+806 PE RIACHO DAS ALMAS
+807 PE SANTA CRUZ
+808 PE SANTA CRUZ DO CAPIBARIBE
+809 PE SANTA MARIA DO CAMBUCÁ
+810 PE SANTA TEREZINHA
+811 PE SÃO BENTO DO UNA
+812 PE SÃO CAITANO
+813 PE SÃO JOSÉ DO BELMONTE
+814 PE SÃO JOSÉ DO EGITO
+815 PE SÃO VICENTE FERRER
+816 PE SERRA TALHADA
+817 PE SERTÂNIA
+818 PE SURUBIM
+819 PE TABIRA
+820 PE TACARATU
+821 PE TAMANDARÉ
+822 PE TORITAMA
+823 PE TRACUNHAÉM
+824 PE TUPARETAMA
+825 PE VENTUROSA
+826 PE VERDEJANTE
+827 PE VITÓRIA DE SANTO ANTÃO
+828 PI ÁGUA BRANCA
+829 PI ANGICAL DO PIAUÍ
+830 PI AVELINO LOPES
+831 PI BATALHA
+832 PI BENEDITINOS
+833 PI BOM JESUS
+834 PI CURIMATÁ
+835 PI CURRAL NOVO DO PIAUÍ
+836 PI JOSÉ DE FREITAS
+837 PI LUÍS CORREIA
+838 PI MANOEL EMÍDIO
+839 PI MARCOLÂNDIA
+840 PI PICOS
+841 PI PIMENTEIRAS
+842 PI PIRIPIRI
+843 PI SÃO FÉLIX DO PIAUÍ
+844 PI SÃO JOÃO DO ARRAIAL
+845 PI SÃO JOSÉ DO DIVINO
+846 PI SÃO PEDRO DO PIAUÍ
+
+19
+847 PI SEBASTIÃO LEAL
+848 PI SIGEFREDO PACHECO
+849 PI TERESINA
+850 PR ADRIANÓPOLIS
+851 PR AGUDOS DO SUL
+852 PR ALMIRANTE TAMANDARÉ
+853 PR ALTAMIRA DO PARANÁ
+854 PR ALTÔNIA
+855 PR ALVORADA DO SUL
+856 PR AMPÉRE
+857 PR ANAHY
+858 PR ANDIRÁ
+859 PR ÂNGULO
+860 PR ANTONINA
+861 PR APUCARANA
+862 PR ARAPOTI
+863 PR ARAPUÃ
+864 PR ARARUNA
+865 PR ARAUCÁRIA
+866 PR ASSIS CHATEAUBRIAND
+867 PR ASTORGA
+868 PR ATALAIA
+869 PR BALSA NOVA
+870 PR BANDEIRANTES
+871 PR BARBOSA FERRAZ
+872 PR BARRA DO JACARÉ
+873 PR BELA VISTA DA CAROBA
+874 PR BELA VISTA DO PARAÍSO
+875 PR BITURUNA
+876 PR BOA ESPERANÇA
+877 PR BOA VENTURA DE SÃO ROQUE
+878 PR BOCAIÚVA DO SUL
+879 PR BOM SUCESSO
+880 PR BORRAZÓPOLIS
+881 PR BRAGANEY
+882 PR BRASILÂNDIA DO SUL
+883 PR CAFEARA
+884 PR CAFELÂNDIA
+885 PR CAFEZAL DO SUL
+886 PR CALIFÓRNIA
+887 PR CAMBARÁ
+888 PR CAMBIRA
+889 PR CAMPINA DA LAGOA
+890 PR CAMPINA DO SIMÃO
+891 PR CAMPINA GRANDE DO SUL
+892 PR CAMPO BONITO
+893 PR CAMPO DO TENENTE
+
+20
+894 PR CAMPO LARGO
+895 PR CAMPO MAGRO
+896 PR CAMPO MOURÃO
+897 PR CÂNDIDO DE ABREU
+898 PR CAPANEMA
+899 PR CAPITÃO LEÔNIDAS MARQUES
+900 PR CARAMBEÍ
+901 PR CARLÓPOLIS
+902 PR CASCAVEL
+903 PR CASTRO
+904 PR CENTENÁRIO DO SUL
+905 PR CERRO AZUL
+906 PR CIANORTE
+907 PR CIDADE GAÚCHA
+908 PR CLEVELÂNDIA
+909 PR COLOMBO
+910 PR CONSELHEIRO MAIRINCK
+911 PR CONTENDA
+912 PR CORBÉLIA
+913 PR CORNÉLIO PROCÓPIO
+914 PR CORONEL DOMINGOS SOARES
+915 PR CORUMBATAÍ DO SUL
+916 PR CRUZEIRO DO SUL
+917 PR CURITIBA
+918 PR DIAMANTE DO NORTE
+919 PR DIAMANTE DO SUL
+920 PR DIAMANTE D'OESTE
+921 PR DOUTOR ULYSSES
+922 PR ENGENHEIRO BELTRÃO
+923 PR ENTRE RIOS DO OESTE
+924 PR FAROL
+925 PR FAXINAL
+926 PR FAZENDA RIO GRANDE
+927 PR FÊNIX
+928 PR FERNANDES PINHEIRO
+929 PR FIGUEIRA
+930 PR FLOR DA SERRA DO SUL
+931 PR FLORAÍ
+932 PR FLORESTA
+933 PR FLÓRIDA
+934 PR FORMOSA DO OESTE
+935 PR FOZ DO IGUAÇU
+936 PR GENERAL CARNEIRO
+937 PR GOIOERÊ
+938 PR GUAÍRA
+939 PR GUAMIRANGA
+940 PR GUAPIRAMA
+
+21
+941 PR GUARANIAÇU
+942 PR GUARAPUAVA
+943 PR GUARAQUEÇABA
+944 PR GUARATUBA
+945 PR IBAITI
+946 PR IBEMA
+947 PR IGUARAÇU
+948 PR IGUATU
+949 PR IMBAÚ
+950 PR INÁCIO MARTINS
+951 PR INAJÁ
+952 PR INDIANÓPOLIS
+953 PR IPIRANGA
+954 PR IRACEMA DO OESTE
+955 PR IRATI
+956 PR IRETAMA
+957 PR ITAGUAJÉ
+958 PR ITAMBÉ
+959 PR IVAÍ
+960 PR IVAIPORÃ
+961 PR IVATUBA
+962 PR JACAREZINHO
+963 PR JAGUAPITÃ
+964 PR JAGUARIAÍVA
+965 PR JANDAIA DO SUL
+966 PR JANIÓPOLIS
+967 PR JAPURÁ
+968 PR JARDIM ALEGRE
+969 PR JESUÍTAS
+970 PR JURANDA
+971 PR JUSSARA
+972 PR LAPA
+973 PR LIDIANÓPOLIS
+974 PR LINDOESTE
+975 PR LONDRINA
+976 PR LUIZIANA
+977 PR MAMBORÊ
+978 PR MANDAGUAÇU
+979 PR MANDAGUARI
+980 PR MANDIRITUBA
+981 PR MANOEL RIBAS
+982 PR MARECHAL CÂNDIDO RONDON
+983 PR MARIALVA
+984 PR MARILÂNDIA DO SUL
+985 PR MARINGÁ
+986 PR MARIPÁ
+987 PR MATELÂNDIA
+
+22
+988 PR MATINHOS
+989 PR MATO RICO
+990 PR MAUÁ DA SERRA
+991 PR MEDIANEIRA
+992 PR MERCEDES
+993 PR MIRADOR
+994 PR MIRASELVA
+995 PR MISSAL
+996 PR MOREIRA SALES
+997 PR MORRETES
+998 PR MUNHOZ DE MELO
+999 PR NOSSA SENHORA DAS GRAÇAS
+1.000 PR NOVA AURORA
+1.001 PR NOVA CANTU
+1.002 PR NOVA ESPERANÇA
+1.003 PR NOVA LONDRINA
+1.004 PR NOVA PRATA DO IGUAÇU
+1.005 PR NOVA SANTA BÁRBARA
+1.006 PR NOVA SANTA ROSA
+1.007 PR NOVA TEBAS
+1.008 PR NOVO ITACOLOMI
+1.009 PR ORTIGUEIRA
+1.010 PR OURIZONA
+1.011 PR OURO VERDE DO OESTE
+1.012 PR PAIÇANDU
+1.013 PR PALMAS
+1.014 PR PALMEIRA
+1.015 PR PALOTINA
+1.016 PR PARAÍSO DO NORTE
+1.017 PR PARANACITY
+1.018 PR PARANAGUÁ
+1.019 PR PARANAVAÍ
+1.020 PR PAULA FREITAS
+1.021 PR PEABIRU
+1.022 PR PIÊN
+1.023 PR PINHAIS
+1.024 PR PINHÃO
+1.025 PR PIRAÍ DO SUL
+1.026 PR PIRAQUARA
+1.027 PR PITANGA
+1.028 PR PLANALTINA DO PARANÁ
+1.029 PR PONTA GROSSA
+1.030 PR PONTAL DO PARANÁ
+1.031 PR PORECATU
+1.032 PR PORTO AMAZONAS
+1.033 PR PORTO BARREIRO
+1.034 PR PRADO FERREIRA
+
+23
+1.035 PR PRANCHITA
+1.036 PR PRESIDENTE CASTELO BRANCO
+1.037 PR PRUDENTÓPOLIS
+1.038 PR QUARTO CENTENÁRIO
+1.039 PR QUATRO BARRAS
+1.040 PR QUATRO PONTES
+1.041 PR QUINTA DO SOL
+1.042 PR QUITANDINHA
+1.043 PR RANCHO ALEGRE
+1.044 PR RANCHO ALEGRE D'OESTE
+1.045 PR REBOUÇAS
+1.046 PR RESERVA
+1.047 PR RIBEIRÃO DO PINHAL
+1.048 PR RIO AZUL
+1.049 PR RIO BRANCO DO SUL
+1.050 PR RIO NEGRO
+1.051 PR ROLÂNDIA
+1.052 PR RONCADOR
+1.053 PR RONDON
+1.054 PR SANTA CRUZ DE MONTE CASTELO
+1.055 PR SANTA FÉ
+1.056 PR SANTA INÊS
+1.057 PR SANTA ISABEL DO IVAÍ
+1.058 PR SANTA MARIA DO OESTE
+1.059 PR SANTA MARIANA
+1.060 PR SANTA MÔNICA
+1.061 PR SANTA TEREZA DO OESTE
+1.062 PR SANTA TEREZINHA DE ITAIPU
+1.063 PR SANTANA DO ITARARÉ
+1.064 PR SANTO ANTÔNIO DA PLATINA
+1.065 PR SÃO CARLOS DO IVAÍ
+1.066 PR SÃO JOÃO DO CAIUÁ
+1.067 PR SÃO JOÃO DO IVAÍ
+1.068 PR SÃO JOÃO DO TRIUNFO
+1.069 PR SÃO JORGE DO IVAÍ
+1.070 PR SÃO JORGE D'OESTE
+1.071 PR SÃO JOSÉ DAS PALMEIRAS
+1.072 PR SÃO JOSÉ DOS PINHAIS
+1.073 PR SÃO MANOEL DO PARANÁ
+1.074 PR SÃO MATEUS DO SUL
+1.075 PR SÃO MIGUEL DO IGUAÇU
+1.076 PR SÃO PEDRO DO PARANÁ
+1.077 PR SÃO TOMÉ
+1.078 PR SAUDADE DO IGUAÇU
+1.079 PR SENGÉS
+1.080 PR SERRANÓPOLIS DO IGUAÇU
+1.081 PR SERTANEJA
+
+24
+1.082 PR SERTANÓPOLIS
+1.083 PR TAMARANA
+1.084 PR TEIXEIRA SOARES
+1.085 PR TELÊMACO BORBA
+1.086 PR TERRA BOA
+1.087 PR TERRA RICA
+1.088 PR TERRA ROXA
+1.089 PR TIBAGI
+1.090 PR TIJUCAS DO SUL
+1.091 PR TOLEDO
+1.092 PR TUNAS DO PARANÁ
+1.093 PR TUNEIRAS DO OESTE
+1.094 PR UBIRATÃ
+1.095 PR UMUARAMA
+1.096 PR UNIÃO DA VITÓRIA
+1.097 PR UNIFLOR
+1.098 PR URAÍ
+1.099 PR VENTANIA
+1.100 PR WENCESLAU BRAZ
+1.101 RJ ANGRA DOS REIS
+1.102 RJ AREAL
+1.103 RJ ARRAIAL DO CABO
+1.104 RJ BARRA DO PIRAÍ
+1.105 RJ BARRA MANSA
+1.106 RJ CABO FRIO
+1.107 RJ CACHOEIRAS DE MACACU
+1.108 RJ CAMPOS DOS GOYTACAZES
+1.109 RJ CANTAGALO
+1.110 RJ CARAPEBUS
+1.111 RJ CARDOSO MOREIRA
+1.112 RJ CASIMIRO DE ABREU
+1.113 RJ COMENDADOR LEVY GASPARIAN
+1.114 RJ CONCEIÇÃO DE MACABU
+1.115 RJ CORDEIRO
+1.116 RJ ENGENHEIRO PAULO DE FRONTIN
+1.117 RJ IGUABA GRANDE
+1.118 RJ ITALVA
+1.119 RJ JAPERI
+1.120 RJ LAJE DO MURIAÉ
+1.121 RJ MACAÉ
+1.122 RJ MACUCO
+1.123 RJ MARICÁ
+1.124 RJ MENDES
+1.125 RJ MESQUITA
+1.126 RJ MIGUEL PEREIRA
+1.127 RJ NITERÓI
+1.128 RJ NOVA FRIBURGO
+
+25
+1.129 RJ PARAÍBA DO SUL
+1.130 RJ PARATY
+1.131 RJ PATY DO ALFERES
+1.132 RJ PETRÓPOLIS
+1.133 RJ PINHEIRAL
+1.134 RJ PIRAÍ
+1.135 RJ PORCIÚNCULA
+1.136 RJ QUATIS
+1.137 RJ QUISSAMÃ
+1.138 RJ RESENDE
+1.139 RJ RIO BONITO
+1.140 RJ RIO DAS OSTRAS
+1.141 RJ RIO DE JANEIRO
+1.142 RJ SANTA MARIA MADALENA
+1.143 RJ SÃO FIDÉLIS
+1.144 RJ SÃO JOÃO DA BARRA
+1.145 RJ SÃO JOÃO DE MERITI
+1.146 RJ SAPUCAIA
+1.147 RJ SAQUAREMA
+1.148 RJ SEROPÉDICA
+1.149 RJ SILVA JARDIM
+1.150 RJ TANGUÁ
+1.151 RJ TERESÓPOLIS
+1.152 RJ TRÊS RIOS
+1.153 RJ VALENÇA
+1.154 RJ VARRE-SAI
+1.155 RJ VASSOURAS
+1.156 RJ VOLTA REDONDA
+1.157 RN ALTO DO RODRIGUES
+1.158 RN APODI
+1.159 RN ASSÚ
+1.160 RN CAICÓ
+1.161 RN ITAÚ
+1.162 RN JARDIM DO SERIDÓ
+1.163 RN SANTA MARIA
+1.164 RN SERRA NEGRA DO NORTE
+1.165 RN UMARIZAL
+1.166 RO ARIQUEMES
+1.167 RO CUJUBIM
+1.168 RO PORTO VELHO
+1.169 RR BOA VISTA
+1.170 RR MUCAJAÍ
+1.171 RS AGUDO
+1.172 RS ALEGRETE
+1.173 RS ARARICÁ
+1.174 RS ARROIO DO MEIO
+1.175 RS ARROIO DO SAL
+
+26
+1.176 RS ARROIO GRANDE
+1.177 RS ARVOREZINHA
+1.178 RS ÁUREA
+1.179 RS BAGÉ
+1.180 RS BARÃO DE COTEGIPE
+1.181 RS BARÃO DO TRIUNFO
+1.182 RS BARRA FUNDA
+1.183 RS BENJAMIN CONSTANT DO SUL
+1.184 RS BENTO GONÇALVES
+1.185 RS BOM RETIRO DO SUL
+1.186 RS BUTIÁ
+1.187 RS CAÇAPAVA DO SUL
+1.188 RS CACEQUI
+1.189 RS CACHOEIRA DO SUL
+1.190 RS CACHOEIRINHA
+1.191 RS CAIÇARA
+1.192 RS CAMPESTRE DA SERRA
+1.193 RS CAMPINAS DO SUL
+1.194 RS CAMPO BOM
+1.195 RS CANDELÁRIA
+1.196 RS CANGUÇU
+1.197 RS CANOAS
+1.198 RS CAPÃO BONITO DO SUL
+1.199 RS CAPÃO DA CANOA
+1.200 RS CAPELA DE SANTANA
+1.201 RS CARAÁ
+1.202 RS CARLOS BARBOSA
+1.203 RS CARLOS GOMES
+1.204 RS CATUÍPE
+1.205 RS CERRITO
+1.206 RS CERRO LARGO
+1.207 RS CHAPADA
+1.208 RS CHARRUA
+1.209 RS CHIAPETTA
+1.210 RS CHUÍ
+1.211 RS CHUVISCA
+1.212 RS CIDREIRA
+1.213 RS COQUEIROS DO SUL
+1.214 RS CRUZALTENSE
+1.215 RS DOIS IRMÃOS
+1.216 RS DOM FELICIANO
+1.217 RS DOM PEDRITO
+1.218 RS ENTRE-IJUÍS
+1.219 RS EREBANGO
+
+27
+1.220 RS ERECHIM
+1.221 RS ERVAL GRANDE
+1.222 RS ESTAÇÃO
+
+28
+1.223 RS ESTÂNCIA VELHA
+1.224 RS ESTEIO
+1.225 RS ESTRELA
+1.226 RS ESTRELA VELHA
+1.227 RS FARROUPILHA
+1.228 RS FAXINALZINHO
+1.229 RS FLORES DA CUNHA
+1.230 RS FLORIANO PEIXOTO
+1.231 RS GAURAMA
+1.232 RS GENERAL CÂMARA
+1.233 RS GETÚLIO VARGAS
+1.234 RS GRAMADO
+1.235 RS GUAÍBA
+1.236 RS IGREJINHA
+1.237 RS IJUÍ
+1.238 RS IMBÉ
+1.239 RS IPIRANGA DO SUL
+1.240 RS ITACURUBI
+1.241 RS ITATI
+1.242 RS ITATIBA DO SUL
+1.243 RS IVOTI
+1.244 RS JACUTINGA
+1.245 RS JAGUARI
+1.246 RS JÓIA
+1.247 RS LAJEADO
+1.248 RS LAVRAS DO SUL
+1.249 RS LINDOLFO COLLOR
+1.250 RS MAÇAMBARÁ
+1.251 RS MAQUINÉ
+1.252 RS MARAU
+1.253 RS MARCELINO RAMOS
+1.254 RS MARIANO MORO
+1.255 RS MATA
+1.256 RS MATO QUEIMADO
+1.257 RS MONTE ALEGRE DOS CAMPOS
+1.258 RS MONTENEGRO
+1.259 RS MORRO REUTER
+1.260 RS MOSTARDAS
+1.261 RS MUITOS CAPÕES
+1.262 RS NICOLAU VERGUEIRO
+1.263 RS NOVA BOA VISTA
+1.264 RS NOVA ESPERANÇA DO SUL
+1.265 RS NOVA HARTZ
+1.266 RS NOVA PÁDUA
+
+29
+1.267 RS NOVA PETRÓPOLIS
+1.268 RS NOVO HAMBURGO
+1.269 RS PAROBÉ
+
+30
+1.270 RS PASSO FUNDO
+1.271 RS PAULO BENTO
+1.272 RS PAVERAMA
+1.273 RS PELOTAS
+1.274 RS PICADA CAFÉ
+1.275 RS PINHAL DA SERRA
+1.276 RS PINHEIRO MACHADO
+1.277 RS PONTE PRETA
+1.278 RS PORTÃO
+1.279 RS PORTO ALEGRE
+1.280 RS PRESIDENTE LUCENA
+1.281 RS PROTÁSIO ALVES
+1.282 RS QUATRO IRMÃOS
+1.283 RS RIO GRANDE
+1.284 RS RIOZINHO
+1.285 RS ROLADOR
+1.286 RS ROLANTE
+1.287 RS SALTO DO JACUÍ
+1.288 RS SANTA MARIA
+1.289 RS SANTA MARIA DO HERVAL
+1.290 RS SANTA ROSA
+1.291 RS SANTANA DA BOA VISTA
+1.292 RS SANTANA DO LIVRAMENTO
+1.293 RS SANTO ÂNGELO
+1.294 RS SANTO ANTÔNIO DA PATRULHA
+1.295 RS SANTO ANTÔNIO DO PLANALTO
+1.296 RS SÃO FRANCISCO DE ASSIS
+1.297 RS SÃO FRANCISCO DE PAULA
+1.298 RS SÃO JERÔNIMO
+1.299 RS SÃO JOSÉ DO HORTÊNCIO
+1.300 RS SÃO LEOPOLDO
+1.301 RS SÃO MIGUEL DAS MISSÕES
+1.302 RS SÃO PAULO DAS MISSÕES
+1.303 RS SÃO SEPÉ
+1.304 RS SAPIRANGA
+1.305 RS SAPUCAIA DO SUL
+1.306 RS SARANDI
+1.307 RS TAQUARA
+1.308 RS TAVARES
+1.309 RS TEUTÔNIA
+1.310 RS TORRES
+1.311 RS TRÊS ARROIOS
+1.312 RS TRÊS COROAS
+1.313 RS TRIUNFO
+
+31
+1.314 RS TUPANCIRETÃ
+1.315 RS URUGUAIANA
+1.316 RS VACARIA
+
+32
+1.317 RS VANINI
+1.318 RS VENÂNCIO AIRES
+1.319 RS VIADUTOS
+1.320 RS XANGRI-LÁ
+1.321 SC ÁGUA DOCE
+1.322 SC BALNEÁRIO CAMBORIÚ
+1.323 SC BLUMENAU
+1.324 SC BRAÇO DO NORTE
+1.325 SC CRICIÚMA
+1.326 SC FLORIANÓPOLIS
+1.327 SC GRAVATAL
+1.328 SC IRACEMINHA
+1.329 SC IRINEÓPOLIS
+1.330 SC ITAJAÍ
+1.331 SC JARAGUÁ DO SUL
+1.332 SC JOAÇABA
+1.333 SC JOINVILLE
+1.334 SC LAGES
+1.335 SC LUZERNA
+1.336 SC MATOS COSTA
+1.337 SC OURO VERDE
+1.338 SC PALHOÇA
+1.339 SC PALMA SOLA
+1.340 SC PAPANDUVA
+1.341 SC PEDRAS GRANDES
+1.342 SC PORTO UNIÃO
+1.343 SC SANGÃO
+1.344 SC TREZE TÍLIAS
+1.345 SC TUBARÃO
+1.346 SC VARGEM BONITA
+1.347 SE ARACAJU
+1.348 SE BARRA DOS COQUEIROS
+1.349 SE CAPELA
+1.350 SE CARMÓPOLIS
+1.351 SE ITABAIANA
+1.352 SE ITAPORANGA D'AJUDA
+1.353 SE LAGARTO
+1.354 SE NOSSA SENHORA DO SOCORRO
+1.355 SE SÃO CRISTÓVÃO
+1.356 SE SÃO FRANCISCO
+1.357 SP AGUAÍ
+1.358 SP ÁGUAS DA PRATA
+1.359 SP ÁGUAS DE LINDÓIA
+1.360 SP ÁGUAS DE SANTA BÁRBARA
+
+33
+1.361 SP ÁGUAS DE SÃO PEDRO
+1.362 SP AGUDOS
+1.363 SP ALFREDO MARCONDES
+
+34
+1.364 SP ALTINÓPOLIS
+1.365 SP ALTO ALEGRE
+1.366 SP ALUMÍNIO
+1.367 SP ÁLVARES MACHADO
+1.368 SP ÁLVARO DE CARVALHO
+1.369 SP AMERICANA
+1.370 SP AMÉRICO BRASILIENSE
+1.371 SP AMPARO
+1.372 SP ANGATUBA
+1.373 SP APARECIDA
+1.374 SP APIAÍ
+1.375 SP ARAÇATUBA
+1.376 SP ARAÇOIABA DA SERRA
+1.377 SP ARAMINA
+1.378 SP ARANDU
+1.379 SP ARAPEÍ
+1.380 SP ARARAQUARA
+1.381 SP ARARAS
+1.382 SP ARCO-ÍRIS
+1.383 SP AREALVA
+1.384 SP AREIAS
+1.385 SP AREIÓPOLIS
+1.386 SP ARIRANHA
+1.387 SP ARTUR NOGUEIRA
+1.388 SP ARUJÁ
+1.389 SP ATIBAIA
+1.390 SP AVANHANDAVA
+1.391 SP BALBINOS
+1.392 SP BÁLSAMO
+1.393 SP BANANAL
+1.394 SP BARÃO DE ANTONINA
+1.395 SP BARBOSA
+1.396 SP BARIRI
+1.397 SP BARRA BONITA
+1.398 SP BARRETOS
+1.399 SP BASTOS
+1.400 SP BAURU
+1.401 SP BEBEDOURO
+1.402 SP BENTO DE ABREU
+1.403 SP BOA ESPERANÇA DO SUL
+1.404 SP BOCAINA
+1.405 SP BOFETE
+1.406 SP BOITUVA
+1.407 SP BOM JESUS DOS PERDÕES
+
+35
+1.408 SP BOM SUCESSO DE ITARARÉ
+1.409 SP BORACÉIA
+1.410 SP BOREBI
+
+36
+1.411 SP BOTUCATU
+1.412 SP BRAGANÇA PAULISTA
+1.413 SP BRODOWSKI
+1.414 SP BROTAS
+1.415 SP BURI
+1.416 SP BURITAMA
+1.417 SP BURITIZAL
+1.418 SP CABREÚVA
+1.419 SP CAÇAPAVA
+1.420 SP CACHOEIRA PAULISTA
+1.421 SP CACONDE
+1.422 SP CAFELÂNDIA
+1.423 SP CAIABU
+1.424 SP CAJAMAR
+1.425 SP CAMPINA DO MONTE ALEGRE
+1.426 SP CAMPINAS
+1.427 SP CAMPO LIMPO PAULISTA
+1.428 SP CANAS
+1.429 SP CAPÃO BONITO
+1.430 SP CAPELA DO ALTO
+1.431 SP CAPIVARI
+1.432 SP CARAGUATATUBA
+1.433 SP CARAPICUÍBA
+1.434 SP CÁSSIA DOS COQUEIROS
+1.435 SP CATANDUVA
+1.436 SP CHARQUEADA
+1.437 SP CHAVANTES
+1.438 SP COLINA
+1.439 SP COLÔMBIA
+1.440 SP CONCHAL
+1.441 SP CONCHAS
+1.442 SP CORDEIRÓPOLIS
+1.443 SP CORONEL MACEDO
+1.444 SP COSMÓPOLIS
+1.445 SP COTIA
+1.446 SP CRAVINHOS
+1.447 SP CRISTAIS PAULISTA
+1.448 SP CRUZEIRO
+1.449 SP CUBATÃO
+1.450 SP CUNHA
+1.451 SP DESCALVADO
+1.452 SP DIADEMA
+1.453 SP DIVINOLÂNDIA
+1.454 SP DOIS CÓRREGOS
+
+37
+1.455 SP DOURADO
+1.456 SP DRACENA
+1.457 SP DUARTINA
+
+38
+1.458 SP DUMONT
+1.459 SP ECHAPORÃ
+1.460 SP EMBU DAS ARTES
+1.461 SP ESPÍRITO SANTO DO PINHAL
+1.462 SP ESPÍRITO SANTO DO TURVO
+1.463 SP ESTIVA GERBI
+1.464 SP ESTRELA DO NORTE
+1.465 SP FARTURA
+1.466 SP FERNANDO PRESTES
+1.467 SP FERNANDÓPOLIS
+1.468 SP FERRAZ DE VASCONCELOS
+1.469 SP FLÓRIDA PAULISTA
+1.470 SP FRANCA
+1.471 SP FRANCISCO MORATO
+1.472 SP FRANCO DA ROCHA
+1.473 SP GAVIÃO PEIXOTO
+1.474 SP GENERAL SALGADO
+1.475 SP GETULINA
+1.476 SP GUAIÇARA
+1.477 SP GUAPIAÇU
+1.478 SP GUAPIARA
+1.479 SP GUARÁ
+1.480 SP GUARACI
+1.481 SP GUARARAPES
+1.482 SP GUARATINGUETÁ
+1.483 SP GUARUJÁ
+1.484 SP GUARULHOS
+1.485 SP HOLAMBRA
+1.486 SP HORTOLÂNDIA
+1.487 SP IACANGA
+1.488 SP IARAS
+1.489 SP IBIRÁ
+1.490 SP IBITINGA
+1.491 SP IEPÊ
+1.492 SP IGARAÇU DO TIETÊ
+1.493 SP IGARAPAVA
+1.494 SP IGARATÁ
+1.495 SP ILHA SOLTEIRA
+1.496 SP INDAIATUBA
+1.497 SP IPAUSSU
+1.498 SP IPERÓ
+1.499 SP IPEÚNA
+1.500 SP IPUÃ
+1.501 SP IRAPURU
+
+39
+1.502 SP ITABERÁ
+1.503 SP ITAJU
+1.504 SP ITAPETININGA
+
+40
+1.505 SP ITAPEVA
+1.506 SP ITAPIRAPUÃ PAULISTA
+1.507 SP ITÁPOLIS
+1.508 SP ITAPUÍ
+1.509 SP ITARARÉ
+1.510 SP ITATINGA
+1.511 SP ITU
+1.512 SP ITUPEVA
+1.513 SP ITUVERAVA
+1.514 SP JABORANDI
+1.515 SP JABOTICABAL
+1.516 SP JACAREÍ
+1.517 SP JAGUARIÚNA
+1.518 SP JAMBEIRO
+1.519 SP JANDIRA
+1.520 SP JARDINÓPOLIS
+1.521 SP JAÚ
+1.522 SP JOÃO RAMALHO
+1.523 SP JUNDIAÍ
+1.524 SP JUNQUEIRÓPOLIS
+1.525 SP LAGOINHA
+1.526 SP LAVRINHAS
+1.527 SP LENÇÓIS PAULISTA
+1.528 SP LIMEIRA
+1.529 SP LINDÓIA
+1.530 SP LINS
+1.531 SP LORENA
+1.532 SP LOUVEIRA
+1.533 SP LUCIANÓPOLIS
+1.534 SP LUÍS ANTÔNIO
+1.535 SP MACATUBA
+1.536 SP MARAPOAMA
+1.537 SP MARÍLIA
+1.538 SP MATÃO
+1.539 SP MENDONÇA
+1.540 SP MERIDIANO
+1.541 SP MIGUELÓPOLIS
+1.542 SP MINEIROS DO TIETÊ
+1.543 SP MIRA ESTRELA
+1.544 SP MIRASSOL
+1.545 SP MOCOCA
+1.546 SP MOGI GUAÇU
+1.547 SP MOGI MIRIM
+1.548 SP MONGAGUÁ
+
+41
+1.549 SP MONTE ALTO
+1.550 SP MONTE CASTELO
+1.551 SP MONTEIRO LOBATO
+
+42
+1.552 SP MORRO AGUDO
+1.553 SP MOTUCA
+1.554 SP NARANDIBA
+1.555 SP NATIVIDADE DA SERRA
+1.556 SP NOVA CAMPINA
+1.557 SP NOVA EUROPA
+1.558 SP NOVA GRANADA
+1.559 SP NOVA GUATAPORANGA
+1.560 SP NOVA ODESSA
+1.561 SP NOVO HORIZONTE
+1.562 SP NUPORANGA
+1.563 SP ÓLEO
+1.564 SP OLÍMPIA
+1.565 SP ORINDIÚVA
+1.566 SP ORLÂNDIA
+1.567 SP OSASCO
+1.568 SP OSCAR BRESSANE
+1.569 SP OURINHOS
+1.570 SP OURO VERDE
+1.571 SP PACAEMBU
+1.572 SP PALESTINA
+1.573 SP PALMITAL
+1.574 SP PANORAMA
+1.575 SP PARAIBUNA
+1.576 SP PARAÍSO
+1.577 SP PARANAPANEMA
+1.578 SP PARANAPUÃ
+1.579 SP PARDINHO
+1.580 SP PATROCÍNIO PAULISTA
+1.581 SP PAULÍNIA
+1.582 SP PAULISTÂNIA
+1.583 SP PEDERNEIRAS
+1.584 SP PEDREGULHO
+1.585 SP PEDREIRA
+1.586 SP PEREIRAS
+1.587 SP PERUÍBE
+1.588 SP PINDAMONHANGABA
+1.589 SP PIQUEROBI
+1.590 SP PIQUETE
+1.591 SP PIRACAIA
+1.592 SP PIRACICABA
+1.593 SP PIRAPOZINHO
+1.594 SP PIRASSUNUNGA
+1.595 SP PIRATININGA
+
+43
+1.596 SP PITANGUEIRAS
+1.597 SP PLANALTO
+1.598 SP PLATINA
+
+44
+1.599 SP PONTAL
+1.600 SP PONTES GESTAL
+1.601 SP POTIM
+1.602 SP PRADÓPOLIS
+1.603 SP PRAIA GRANDE
+1.604 SP PRESIDENTE ALVES
+1.605 SP PRESIDENTE EPITÁCIO
+1.606 SP PRESIDENTE PRUDENTE
+1.607 SP PRESIDENTE VENCESLAU
+1.608 SP PROMISSÃO
+1.609 SP QUATÁ
+1.610 SP QUEIROZ
+1.611 SP QUELUZ
+1.612 SP REDENÇÃO DA SERRA
+1.613 SP REGENTE FEIJÓ
+1.614 SP REGINÓPOLIS
+1.615 SP RESTINGA
+1.616 SP RIBEIRÃO BONITO
+1.617 SP RIBEIRÃO BRANCO
+1.618 SP RIBEIRÃO CORRENTE
+1.619 SP RIBEIRÃO DO SUL
+1.620 SP RIBEIRÃO GRANDE
+1.621 SP RIBEIRÃO PRETO
+1.622 SP RIFAINA
+1.623 SP RINÓPOLIS
+1.624 SP RIO CLARO
+1.625 SP RIO DAS PEDRAS
+1.626 SP ROSANA
+1.627 SP ROSEIRA
+1.628 SP SABINO
+1.629 SP SALES OLIVEIRA
+1.630 SP SALTO
+1.631 SP SANTA ALBERTINA
+1.632 SP SANTA BÁRBARA D'OESTE
+1.633 SP SANTA CRUZ DO RIO PARDO
+1.634 SP SANTA ERNESTINA
+1.635 SP SANTA FÉ DO SUL
+1.636 SP SANTA LÚCIA
+1.637 SP SANTA MARIA DA SERRA
+1.638 SP SANTA MERCEDES
+1.639 SP SANTA RITA DO PASSA QUATRO
+1.640 SP SANTO ANASTÁCIO
+1.641 SP SANTO ANTÔNIO DA ALEGRIA
+1.642 SP SANTO ANTÔNIO DE POSSE
+
+45
+1.643 SP SANTO ANTÔNIO DO PINHAL
+1.644 SP SANTÓPOLIS DO AGUAPEÍ
+1.645 SP SANTOS
+
+46
+1.646 SP SÃO BENTO DO SAPUCAÍ
+1.647 SP SÃO BERNARDO DO CAMPO
+1.648 SP SÃO CAETANO DO SUL
+1.649 SP SÃO CARLOS
+1.650 SP SÃO JOÃO DA BOA VISTA
+1.651 SP SÃO JOÃO DO PAU D'ALHO
+1.652 SP SÃO JOAQUIM DA BARRA
+1.653 SP SÃO JOSÉ DO BARREIRO
+1.654 SP SÃO JOSÉ DO RIO PARDO
+1.655 SP SÃO JOSÉ DO RIO PRETO
+1.656 SP SÃO JOSÉ DOS CAMPOS
+1.657 SP SÃO LUÍS DO PARAITINGA
+1.658 SP SÃO MANUEL
+1.659 SP SÃO PAULO
+1.660 SP SÃO PEDRO
+1.661 SP SÃO PEDRO DO TURVO
+1.662 SP SÃO ROQUE
+1.663 SP SÃO SIMÃO
+1.664 SP SARAPUÍ
+1.665 SP SERRA AZUL
+1.666 SP SERRA NEGRA
+1.667 SP SERTÃOZINHO
+1.668 SP SILVEIRAS
+1.669 SP SOCORRO
+1.670 SP SOROCABA
+1.671 SP SUMARÉ
+1.672 SP TAMBAÚ
+1.673 SP TAPIRATIBA
+1.674 SP TAQUARAL
+1.675 SP TAQUARITUBA
+1.676 SP TAQUARIVAí
+1.677 SP TARABAI
+1.678 SP TATUÍ
+1.679 SP TAUBATÉ
+1.680 SP TIMBURI
+1.681 SP TORRINHA
+1.682 SP TRABIJU
+1.683 SP TREMEMBÉ
+1.684 SP TUPÃ
+1.685 SP TUPI PAULISTA
+1.686 SP TURIÚBA
+1.687 SP UBATUBA
+1.688 SP UBIRAJARA
+1.689 SP UCHOA
+
+47
+1.690 SP URÂNIA
+1.691 SP VARGEM
+1.692 SP VARGEM GRANDE DO SUL
+
+1.693 SP VERA CRUZ
+1.694 SP VINHEDO
+1.695 SP VOTORANTIM
+1.696 SP VOTUPORANGA
+1.697 SP ZACARIAS
+1.698 TO ARAGUAÍNA
+1.699 TO LIZARDA
+1.700 TO NOVA OLINDA
+1.701 TO PALMAS
+1.702 TO PARANÃ
+1.703 TO TOCANTÍNIA
+PA 14717/2021-28
+Formalizado por TFV                                                                                                                                                                                 48
