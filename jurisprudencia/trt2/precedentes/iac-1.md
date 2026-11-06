@@ -9,7 +9,7 @@ situacao: "Não admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "trt02-iac-1"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "19/01/2025"
 ---
 
@@ -36,12 +36,6 @@ Não admitido
     "tese": "Não admitido.",
     "tese_snippet": "Não admitido."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-06-22T00:00:00.000-03:00",
-      "situacao": "Admitido"
-    }
-  ],
   "id": "trt02-iac-1",
   "nr": 1,
   "orgao": "TRT02",

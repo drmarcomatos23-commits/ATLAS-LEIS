@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-41"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "22/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "O pagamento das custas processuais (art. 789, § 1º, da CLT) e o recolhimento do depósito recursal em moeda corrente (art. 899, § 4º, da CLT) efetuados por terceiro estranho à lide aproveitam ao recorrente, desde que observados os mesmos requisitos e prazos legais exigidos da parte.",
     "tese_snippet": "O pagamento das custas processuais (art. 789, § 1º, da CLT) e o recolhimento do depósito recursal em moeda corrente (art. 899, § 4º, da CLT) efetuados por terceiro estranho à lide aproveitam ao recorrente, desde que observados os mesmos requisitos e prazos legais exigidos da parte."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-41",
   "nr": 41,
   "orgao": "TST",

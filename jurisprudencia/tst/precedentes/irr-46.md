@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-46"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "22/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A suspensão dos prazos prescricionais prevista na Lei nº 14.010/2020 é aplicável ao Direito do Trabalho, alcançando tanto a prescrição bienal quanto a quinquenal, sendo irrelevante, para esse fim, a efetiva possibilidade de acesso ao Poder Judiciário.",
     "tese_snippet": "A suspensão dos prazos prescricionais prevista na Lei nº 14.010/2020 é aplicável ao Direito do Trabalho, alcançando tanto a prescrição bienal quanto a quinquenal, sendo irrelevante, para esse fim, a efetiva possibilidade de acesso ao Poder Judiciário."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-46",
   "nr": 46,
   "orgao": "TST",

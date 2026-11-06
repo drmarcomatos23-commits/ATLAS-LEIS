@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-7"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "Nos termos dos artigos 60, parágrafo único, e 141, II, da Lei nº 11.101/2005, a TAP MANUTENÇÃO E ENGENHARIA BRASIL S.A. não poderá ser responsabilizada por obrigações de natureza trabalhista da VARIG S.A. pelo fato de haver adquirido a VEM S.A., empresa que compunha grupo econômico com a segunda.",
     "tese_snippet": "Nos termos dos artigos 60, parágrafo único, e 141, II, da Lei nº 11.101/2005, a TAP MANUTENÇÃO E ENGENHARIA BRASIL S.A. não poderá ser responsabilizada por obrigações de natureza trabalhista da VARIG S.A. pelo fato de haver adquirido a VEM S.A., empresa que compunha grupo econômico com a segunda."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-7",
   "nr": 7,
   "orgao": "TST",

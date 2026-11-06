@@ -9,7 +9,7 @@ situacao: "Acórdão Publicado (RE Pendente)"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-13"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "29/07/2025"
 ---
 
@@ -35,20 +35,6 @@ Acórdão Publicado (RE Pendente)
     "tese": "[Decisão]: TESE SUPERADA<br>[Teor da decisão]: Tese definida anteriormente: Considerando os fatos pretéritos e contemporâneos às negociações coletivas que levaram à criação da Remuneração Mínima por Nível e Regime - RMNR, pela Petrobras e empresas do grupo, positiva-se, sem que tanto conduza à vulneração do art. 7.º, XXVI, da Constituição Federal, que os adicionais de origem constitucional e legal destinados a remunerar o trabalho em condições especiais ou prejudiciais (adicionais de periculosidade e de insalubridade, adicional pelo trabalho noturno, de horas extras, repouso e alimentação e outros) não podem ser incluídos na base de cálculo para apuração do complemento da RMNR, sob pena de ofensa aos princípios da isonomia, da razoabilidade, da proporcionalidade, da realidade e pela ínsita limitação à autonomia da vontade coletiva. Por outro lado, os adicionais criados por normas coletivas, regulamento empresarial ou descritos nos contratos individuais de trabalho, sem lastro constitucional ou legal, porque livre de tal império, podem ser absorvidos pelo cálculo do complemento de RMNR. <br>OBS.: O Tribunal Pleno do TST, em sessão realizada em 28/4/2025, decidiu, à unanimidade, nos termos do voto do Exmo. Ministro Sergio Pinto Martins, Relator, superar o entendimento firmado no julgamento do Incidente de Julgamento de Recurso de Revista e de Embargos Repetitivos n.º TST-IRR-21900-13.2011.5.21.0012, realizado em 21/6/2018.",
     "tese_snippet": "[Decisão]: TESE SUPERADA [Teor da decisão]: Tese definida anteriormente: Considerando os fatos pretéritos e contemporâneos às negociações coletivas que levaram à criação da Remuneração Mínima por Nível e Regime - RMNR, pela Petrobras e empresas do grupo, positiva-se, sem que tanto conduza à vulneração do art. 7.º, XXVI, da Constituição Federal, que os adicionais de origem constitucional e legal destinados a remunerar o trabalho em condições especiais ou prejudiciais (adicionais de periculosidade e de insalubridade, adicional pelo trabalho noturno, de horas extras, repouso e alimentação e outros) não podem ser incluídos na base de cálculo para apuração do complemento da RMNR, sob pena de ofensa aos princípios da isonomia, da razoabilidade, da proporcionalidade, da realidade e pela ínsita limitação à autonomia da vontade coletiva. Por outro lado, os adicionais criados por normas coletivas, regulamento empresarial ou descritos nos contratos individuais de trabalho, sem lastro constitucional ou legal, porque livre de tal império, podem ser absorvidos pelo cálculo do complemento de RMNR. OBS.: O Tribunal Pleno do TST, em sessão realizada em 28/4/2025, decidiu, à unanimidade, nos termos do voto do Exmo. Ministro Sergio Pinto Martins, Relator, superar o entendimento firmado no julgamento do Incidente de Julgamento de Recurso de Revista e de Embargos Repetitivos n.º TST-IRR-21900-13.2011.5.21.0012, realizado em 21/6/2018."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-13",
   "nr": 13,
   "orgao": "TST",

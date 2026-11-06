@@ -9,7 +9,7 @@ situacao: "Acórdão Publicado (Recurso de Revista Pendente)"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "trt02-irdr-1"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "15/07/2026"
 ---
 
@@ -37,13 +37,6 @@ Acórdão Publicado (Recurso de Revista Pendente)
     "tese": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. AÇÃO RESCISÓRIA. INCONSTITUCIONALIDADE DO ARTIGO 97 DA LEI ORGÂNICA DO MUNICÍPIO DE GUARULHOS. FIXAÇÃO DE TESES.<br><br>1. As decisões proferidas em reclamações trabalhistas que reconheceram direito à percepção de quinquênios e sexta-parte de vencimentos, com fulcro no artigo 97 da Lei Orgânica do Município de Guarulhos, transitadas em julgado sob a égide do Código de Processo Civil de 1973 não se mostram passíveis de corte rescisório por afronta à Súmula 25 deste Regional.<br><br>2. As decisões proferidas em reclamações trabalhistas que reconheceram direito à percepção de quinquênios e sexta-parte de vencimentos, com fulcro no artigo 97 da Lei Orgânica do Município de Guarulhos - declarado inconstitucional pelo TJ/SP, sem modulação de efeitos, por força da Ação Direta de Inconstitucionalidade nº 2083718-70.2014.5.8.26.0000 - passadas em julgado antes de 5 de fevereiro de 2015 (data de publicação da decisão da ADI no DJE) - não são passíveis de corte rescisório,com base no artigo 966 , V, do CPC/2015 (artigo 485, V do CPC/1973), pois ainda não transitada em julgado a decisão proferida na ADI, pendente de análise perante o Supremo Tribunal Federal.",
     "tese_snippet": "INCIDENTE DE RESOLUÇÃO DE DEMANDAS REPETITIVAS. AÇÃO RESCISÓRIA. INCONSTITUCIONALIDADE DO ARTIGO 97 DA LEI ORGÂNICA DO MUNICÍPIO DE GUARULHOS. FIXAÇÃO DE TESES. 1. As decisões proferidas em reclamações trabalhistas que reconheceram direito à percepção de quinquênios e sexta-parte de vencimentos, com fulcro no artigo 97 da Lei Orgânica do Município de Guarulhos, transitadas em julgado sob a égide do Código de Processo Civil de 1973 não se mostram passíveis de corte rescisório por afronta à Súmula 25 deste Regional. 2. As decisões proferidas em reclamações trabalhistas que reconheceram direito à percepção de quinquênios e sexta-parte de vencimentos, com fulcro no artigo 97 da Lei Orgânica do Município de Guarulhos - declarado inconstitucional pelo TJ/SP, sem modulação de efeitos, por força da Ação Direta de Inconstitucionalidade nº 2083718-70.2014.5.8.26.0000 - passadas em julgado antes de 5 de fevereiro de 2015 (data de publicação da decisão da ADI no DJE) - não são passíveis de corte rescisório,com base no artigo 966 , V, do CPC/2015 (artigo 485, V do CPC/1973), pois ainda não transitada em julgado a decisão proferida na ADI, pendente de análise perante o Supremo Tribunal Federal."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-07-27T00:00:00.000-03:00",
-      "dataJulgamento": "2026-07-24",
-      "situacao": "Suscitado"
-    }
-  ],
   "id": "trt02-irdr-1",
   "nr": 1,
   "orgao": "TRT02",

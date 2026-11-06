@@ -9,8 +9,8 @@ situacao: "Admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irdr-2"
-baixado_em: 2026-11-05
-atualizacao_fonte: "04/11/2026"
+baixado_em: 2026-11-06
+atualizacao_fonte: "05/11/2026"
 ---
 
 # Tema de IRDR nº 2 do TST
@@ -27,15 +27,6 @@ Admitido
 
 ```json
 {
-  "historico": [
-    {
-      "dataAdmissao": "2025-11-03",
-      "dataCriacao": "2026-07-18T00:00:00.000-03:00",
-      "dataJulgamento": "2026-05-06",
-      "dataTransitoJulgado": "2026-06-17",
-      "situacao": "Mérito Julgado"
-    }
-  ],
   "id": "tst-irdr-2",
   "nr": 2,
   "orgao": "TST",
@@ -58,6 +49,6 @@ Admitido
     }
   ],
   "tipo": "IRDR",
-  "ultimaAtualizacao": "04/11/2026"
+  "ultimaAtualizacao": "05/11/2026"
 }
 ```

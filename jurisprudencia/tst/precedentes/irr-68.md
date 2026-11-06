@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-68"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "Nas reclamações trabalhistas, os valores relativos aos recolhimentos do FGTS e da respectiva indenização de 40% devem ser depositados na conta vinculada, e não pagos diretamente ao trabalhador.",
     "tese_snippet": "Nas reclamações trabalhistas, os valores relativos aos recolhimentos do FGTS e da respectiva indenização de 40% devem ser depositados na conta vinculada, e não pagos diretamente ao trabalhador."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-68",
   "nr": 68,
   "orgao": "TST",

@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-72"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A existência de ação contra o mesmo empregador, ainda que possua idêntica pretensão, não torna suspeita a testemunha, salvo quando o julgador se convencer da sua parcialidade mediante o exame da prova constante dos autos.",
     "tese_snippet": "A existência de ação contra o mesmo empregador, ainda que possua idêntica pretensão, não torna suspeita a testemunha, salvo quando o julgador se convencer da sua parcialidade mediante o exame da prova constante dos autos."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-72",
   "nr": 72,
   "orgao": "TST",

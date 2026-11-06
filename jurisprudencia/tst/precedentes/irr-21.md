@@ -9,7 +9,7 @@ situacao: "Mérito julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-21"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Mérito julgado
     "tese": "I - Independentemente de pedido da parte, o magistrado trabalhista tem o poder-dever de conceder o benefício da justiça gratuita aos litigantes que perceberem salário igual ou inferior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social, conforme evidenciado nos autos; <br><br><br>II - O pedido de gratuidade de justiça, formulado por aquele que perceber salário superior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social, pode ser instruído por documento particular firmado pelo interessado, nos termos da Lei nº 7.115/83, sob as penas do art. 299 do Código Penal; <br><br><br>III - Havendo impugnação à pretensão pela parte contrária, acompanhada de prova, o juiz abrirá vista ao requerente do pedido de gratuidade de justiça, decidindo, após, o incidente (art. 99, § 2º, do CPC).",
     "tese_snippet": "I - Independentemente de pedido da parte, o magistrado trabalhista tem o poder-dever de conceder o benefício da justiça gratuita aos litigantes que perceberem salário igual ou inferior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social, conforme evidenciado nos autos; II - O pedido de gratuidade de justiça, formulado por aquele que perceber salário superior a 40% (quarenta por cento) do limite máximo dos benefícios do Regime Geral de Previdência Social, pode ser instruído por documento particular firmado pelo interessado, nos termos da Lei nº 7.115/83, sob as penas do art. 299 do Código Penal; III - Havendo impugnação à pretensão pela parte contrária, acompanhada de prova, o juiz abrirá vista ao requerente do pedido de gratuidade de justiça, decidindo, após, o incidente (art. 99, § 2º, do CPC)."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-21",
   "nr": 21,
   "orgao": "TST",

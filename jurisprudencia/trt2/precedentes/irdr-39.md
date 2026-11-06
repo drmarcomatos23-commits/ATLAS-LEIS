@@ -9,7 +9,7 @@ situacao: "Suscitado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "trt02-irdr-39"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "19/09/2026"
 ---
 
@@ -27,13 +27,6 @@ Suscitado
 
 ```json
 {
-  "historico": [
-    {
-      "dataAdmissao": "2026-09-21",
-      "dataCriacao": "2026-10-15T00:00:00.000-03:00",
-      "situacao": "Suscitado"
-    }
-  ],
   "id": "trt02-irdr-39",
   "nr": 39,
   "orgao": "TRT02",

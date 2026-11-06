@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-51"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "O caixa bancário que exerce a atividade de digitação, independentemente se praticada de forma preponderante ou exclusiva, ainda que intercalada ou paralela a outra função, tem direito ao intervalo de 10 minutos a cada 50 minutos trabalhados previsto em norma coletiva ou em norma interna da Caixa Econômica Federal, salvo se, nessas normas, houver exigência de que as atividades de digitação sejam feitas de forma preponderante ou exclusiva.",
     "tese_snippet": "O caixa bancário que exerce a atividade de digitação, independentemente se praticada de forma preponderante ou exclusiva, ainda que intercalada ou paralela a outra função, tem direito ao intervalo de 10 minutos a cada 50 minutos trabalhados previsto em norma coletiva ou em norma interna da Caixa Econômica Federal, salvo se, nessas normas, houver exigência de que as atividades de digitação sejam feitas de forma preponderante ou exclusiva."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-51",
   "nr": 51,
   "orgao": "TST",

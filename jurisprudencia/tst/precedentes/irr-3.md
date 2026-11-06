@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-3"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -36,20 +36,6 @@ Transitado em julgado
     "tese": "Considerando o limite de caracteres do campo, o inteiro teor da tese firmada pode ser acessada pelo link: https://jurisprudencia-backend2.tst.jus.br/rest/documentos/a167a96b946c6f6de659b79811bc6508",
     "tese_snippet": "Considerando o limite de caracteres do campo, o inteiro teor da tese firmada pode ser acessada pelo link: https://jurisprudencia-backend2.tst.jus.br/rest/documentos/a167a96b946c6f6de659b79811bc6508"
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-3",
   "nr": 3,
   "orgao": "TST",

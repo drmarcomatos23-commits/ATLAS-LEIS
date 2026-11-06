@@ -9,8 +9,8 @@ situacao: "Acórdão Publicado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irdr-1"
-baixado_em: 2026-11-05
-atualizacao_fonte: "04/11/2026"
+baixado_em: 2026-11-06
+atualizacao_fonte: "05/11/2026"
 ---
 
 # Tema de IRDR nº 1 do TST
@@ -35,15 +35,6 @@ Acórdão Publicado
     "tese": "A recusa arbitrária da entidade sindical patronal ou de qualquer integrante da categoria econômica em participar de processos de negociação coletiva, evidenciada pela ausência reiterada às reuniões convocadas ou pelo abandono imotivado das tratativas, viola a boa-fé objetiva e as Convenções 98 e 154 da OIT, tendo a mesma consequência do comum acordo para a instauração do dissídio coletivo de natureza econômica.<br>",
     "tese_snippet": "A recusa arbitrária da entidade sindical patronal ou de qualquer integrante da categoria econômica em participar de processos de negociação coletiva, evidenciada pela ausência reiterada às reuniões convocadas ou pelo abandono imotivado das tratativas, viola a boa-fé objetiva e as Convenções 98 e 154 da OIT, tendo a mesma consequência do comum acordo para a instauração do dissídio coletivo de natureza econômica. "
   },
-  "historico": [
-    {
-      "dataAdmissao": "2025-11-03",
-      "dataCriacao": "2026-07-18T00:00:00.000-03:00",
-      "dataJulgamento": "2026-05-06",
-      "dataTransitoJulgado": "2026-06-17",
-      "situacao": "Mérito Julgado"
-    }
-  ],
   "id": "tst-irdr-1",
   "nr": 1,
   "orgao": "TST",
@@ -67,6 +58,6 @@ Acórdão Publicado
   ],
   "tese": "A recusa arbitrária da entidade sindical patronal ou de qualquer integrante da categoria econômica em participar de processos de negociação coletiva, evidenciada pela ausência reiterada às reuniões convocadas ou pelo abandono imotivado das tratativas, viola a boa-fé objetiva e as Convenções 98 e 154 da OIT, tendo a mesma consequência do comum acordo para a instauração do dissídio coletivo de natureza econômica.<br>",
   "tipo": "IRDR",
-  "ultimaAtualizacao": "04/11/2026"
+  "ultimaAtualizacao": "05/11/2026"
 }
 ```

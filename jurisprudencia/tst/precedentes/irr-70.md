@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-70"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A ausência ou irregularidade no recolhimento dos depósitos de FGTS caracteriza descumprimento de obrigação contratual, nos termos do art. 483, \"d\", da CLT, suficiente para configurar a rescisão indireta do contrato de trabalho, sendo desnecessário o requisito da imediatidade.",
     "tese_snippet": "A ausência ou irregularidade no recolhimento dos depósitos de FGTS caracteriza descumprimento de obrigação contratual, nos termos do art. 483, \"d\", da CLT, suficiente para configurar a rescisão indireta do contrato de trabalho, sendo desnecessário o requisito da imediatidade."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-70",
   "nr": 70,
   "orgao": "TST",

@@ -9,7 +9,7 @@ situacao: "Mérito julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "trt02-irdr-21"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "15/10/2026"
 ---
 
@@ -35,15 +35,6 @@ Mérito julgado
     "tese": "ADERIR ao Tema 2, do IRDR 0000018-81.2017.5.08.0000, do C. Tribunal Regional do Trabalho da 8ª Região, nos termos do voto da Exma. Desembargadora Relatora, cuja tese jurídica terá a seguinte redação:<br><br>\"Entendendo o Magistrado que a exordial não atende aos requisitos do art. 840, § 1º, da CLT e arts. 319 e 320 do CPC, ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, sob pena de indeferimento, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado; acaso o órgão de segunda instância, nas ações em grau de recurso, envolvendo o tema em questão, conclua pela não configuração da hipótese de inépcia da petição inicial, poderá afastar a objeção, ordenando o retorno dos autos ao primeiro grau para regular prosseguimento do feito, como entender de direito.\"",
     "tese_snippet": "ADERIR ao Tema 2, do IRDR 0000018-81.2017.5.08.0000, do C. Tribunal Regional do Trabalho da 8ª Região, nos termos do voto da Exma. Desembargadora Relatora, cuja tese jurídica terá a seguinte redação: \"Entendendo o Magistrado que a exordial não atende aos requisitos do art. 840, § 1º, da CLT e arts. 319 e 320 do CPC, ou que apresenta defeitos e irregularidades capazes de dificultar o julgamento de mérito, determinará que o autor, no prazo de 15 (quinze) dias, sob pena de indeferimento, a emende ou a complete, indicando com precisão o que deve ser corrigido ou completado; acaso o órgão de segunda instância, nas ações em grau de recurso, envolvendo o tema em questão, conclua pela não configuração da hipótese de inépcia da petição inicial, poderá afastar a objeção, ordenando o retorno dos autos ao primeiro grau para regular prosseguimento do feito, como entender de direito.\""
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-06-11T00:00:00.000-03:00",
-      "dataJulgamento": "2025-10-14",
-      "dataPublicacao": "2025-10-15",
-      "dataTransitoJulgado": "2025-10-14",
-      "situacao": "Transitado em Julgado"
-    }
-  ],
   "id": "trt02-irdr-21",
   "nr": 21,
   "orgao": "TRT02",

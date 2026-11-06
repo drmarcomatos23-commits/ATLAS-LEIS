@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-53"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "O gerente-geral de agência da Caixa Econômica Federal - CEF não tem direito à jornada de seis horas prevista no PCS de 1989, sendo indevidas horas extraordinárias, nos termos da exceção do art. 62, II, da CLT e da parte final da Súmula nº 287 do TST.",
     "tese_snippet": "O gerente-geral de agência da Caixa Econômica Federal - CEF não tem direito à jornada de seis horas prevista no PCS de 1989, sendo indevidas horas extraordinárias, nos termos da exceção do art. 62, II, da CLT e da parte final da Súmula nº 287 do TST."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-53",
   "nr": 53,
   "orgao": "TST",

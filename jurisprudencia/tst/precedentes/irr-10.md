@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-10"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "I - A Portaria MTE nº 595/2015 e sua nota explicativa não padecem de inconstitucionalidade ou ilegalidade.<br><br>II - Não é devido o adicional de periculosidade a trabalhador que, sem operar o equipamento móvel de Raios X, permaneça, habitual, intermitente ou eventualmente, nas áreas de seu uso.<br><br>III - Os efeitos da Portaria nº 595/2015 do Ministério do Trabalho alcançam as situações anteriores à data de sua publicação.",
     "tese_snippet": "I - A Portaria MTE nº 595/2015 e sua nota explicativa não padecem de inconstitucionalidade ou ilegalidade. II - Não é devido o adicional de periculosidade a trabalhador que, sem operar o equipamento móvel de Raios X, permaneça, habitual, intermitente ou eventualmente, nas áreas de seu uso. III - Os efeitos da Portaria nº 595/2015 do Ministério do Trabalho alcançam as situações anteriores à data de sua publicação."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-10",
   "nr": 10,
   "orgao": "TST",

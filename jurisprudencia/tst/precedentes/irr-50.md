@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-50"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "Não são devidas horas \"in itinere\" aos empregados enquadrados no regime do art. 1º da Lei nº 5.811/1972, uma vez que o art. 3º, inciso IV, do referido diploma legal determina o fornecimento de transporte gratuito.",
     "tese_snippet": "Não são devidas horas \"in itinere\" aos empregados enquadrados no regime do art. 1º da Lei nº 5.811/1972, uma vez que o art. 3º, inciso IV, do referido diploma legal determina o fornecimento de transporte gratuito."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-50",
   "nr": 50,
   "orgao": "TST",

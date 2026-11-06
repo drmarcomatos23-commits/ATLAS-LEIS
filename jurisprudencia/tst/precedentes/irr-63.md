@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-63"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "O descumprimento do intervalo previsto no art. 384 da CLT, no período anterior à vigência da Lei nº 13.467/17, enseja o pagamento de 15 minutos como labor extraordinário, não se exigindo tempo mínimo de sobrejornada como condição para concessão do intervalo à mulher.",
     "tese_snippet": "O descumprimento do intervalo previsto no art. 384 da CLT, no período anterior à vigência da Lei nº 13.467/17, enseja o pagamento de 15 minutos como labor extraordinário, não se exigindo tempo mínimo de sobrejornada como condição para concessão do intervalo à mulher."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-63",
   "nr": 63,
   "orgao": "TST",

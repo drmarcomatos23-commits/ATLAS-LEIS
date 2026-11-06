@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-74"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A pretensão de devolução de valores pagos a maior ao exequente não pode ser processada nos próprios autos da execução, devendo ser pleiteada em ação própria, sob pena de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório.",
     "tese_snippet": "A pretensão de devolução de valores pagos a maior ao exequente não pode ser processada nos próprios autos da execução, devendo ser pleiteada em ação própria, sob pena de ofensa aos princípios do devido processo legal, da ampla defesa e do contraditório."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-74",
   "nr": 74,
   "orgao": "TST",

@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-87"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "O adicional de periculosidade é devido a trabalhador que abastece empilhadeiras mediante a troca de cilindros de gás liquefeito de petróleo (GLP), ainda que a operação ocorra por tempo extremamente reduzido.<br><br><br>",
     "tese_snippet": "O adicional de periculosidade é devido a trabalhador que abastece empilhadeiras mediante a troca de cilindros de gás liquefeito de petróleo (GLP), ainda que a operação ocorra por tempo extremamente reduzido. "
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-87",
   "nr": 87,
   "orgao": "TST",

@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-23"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "22/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A Lei nº 13.467/2017 possui aplicação imediata aos contratos de trabalho em curso, passando a regular os direitos decorrentes de lei cujos fatos geradores tenham se efetivado a partir de sua vigência.",
     "tese_snippet": "A Lei nº 13.467/2017 possui aplicação imediata aos contratos de trabalho em curso, passando a regular os direitos decorrentes de lei cujos fatos geradores tenham se efetivado a partir de sua vigência."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-23",
   "nr": 23,
   "orgao": "TST",

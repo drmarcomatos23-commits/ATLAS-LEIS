@@ -9,7 +9,7 @@ situacao: "Acórdão Publicado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-88"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Acórdão Publicado
     "tese": "Definir se a conduta do empregador de impedir o retorno do empregado ao trabalho após a alta previdenciária configura dano moral in re ipsa , dando direito à respectiva indenização.",
     "tese_snippet": "Definir se a conduta do empregador de impedir o retorno do empregado ao trabalho após a alta previdenciária configura dano moral in re ipsa , dando direito à respectiva indenização."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-88",
   "nr": 88,
   "orgao": "TST",

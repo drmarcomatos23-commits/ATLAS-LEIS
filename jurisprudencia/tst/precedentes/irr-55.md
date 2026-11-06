@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-55"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A validade do pedido de demissão da empregada gestante, detentora da garantia provisória de emprego prevista no artigo 10, inciso II, alínea \"b\", do Ato das Disposições Constitucionais Transitórias (ADCT), está condicionada à assistência do sindicato profissional ou da autoridade local competente, nos termos do artigo 500 da CLT.",
     "tese_snippet": "A validade do pedido de demissão da empregada gestante, detentora da garantia provisória de emprego prevista no artigo 10, inciso II, alínea \"b\", do Ato das Disposições Constitucionais Transitórias (ADCT), está condicionada à assistência do sindicato profissional ou da autoridade local competente, nos termos do artigo 500 da CLT."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-55",
   "nr": 55,
   "orgao": "TST",

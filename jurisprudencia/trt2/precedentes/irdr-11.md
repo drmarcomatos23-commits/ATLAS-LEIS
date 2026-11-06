@@ -9,7 +9,7 @@ situacao: "Não admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "trt02-irdr-11"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "06/09/2025"
 ---
 
@@ -36,15 +36,6 @@ Não admitido
     "tese": "Não admitido. Indeferido liminarmente.",
     "tese_snippet": "Não admitido. Indeferido liminarmente."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-06-11T00:00:00.000-03:00",
-      "dataJulgamento": "2025-10-14",
-      "dataPublicacao": "2025-10-15",
-      "dataTransitoJulgado": "2025-10-14",
-      "situacao": "Transitado em Julgado"
-    }
-  ],
   "id": "trt02-irdr-11",
   "nr": 11,
   "orgao": "TRT02",

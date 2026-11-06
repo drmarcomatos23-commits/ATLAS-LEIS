@@ -9,7 +9,7 @@ situacao: "Acórdão Publicado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-24"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "22/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Acórdão Publicado
     "tese": "Não compete à Justiça do Trabalho processar e julgar pedido de indenização formulado contra empregador ou ex-empregador, em decorrência de prejuízos suportados por beneficiários de fundo fechado de previdência complementar, fundamentado na alegada má gestão das entidades previdenciárias ou, ainda, na prática de atos ilícitos comissivos ou omissivos atribuíveis, em tese, a representantes indicados pelo patrocinador.",
     "tese_snippet": "Não compete à Justiça do Trabalho processar e julgar pedido de indenização formulado contra empregador ou ex-empregador, em decorrência de prejuízos suportados por beneficiários de fundo fechado de previdência complementar, fundamentado na alegada má gestão das entidades previdenciárias ou, ainda, na prática de atos ilícitos comissivos ou omissivos atribuíveis, em tese, a representantes indicados pelo patrocinador."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-24",
   "nr": 24,
   "orgao": "TST",

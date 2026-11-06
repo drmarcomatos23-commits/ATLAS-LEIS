@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-83"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A cobrança de mensalidades ou de coparticipação dos empregados ativos e aposentados da ECT, para fins de manutenção e custeio do plano de saúde \"Correios Saúde\", não configura alteração contratual lesiva, tampouco viola direito adquirido, nos termos do decidido no Dissídio Coletivo Revisional n.º 1000295-05.2017.5.00.0000.",
     "tese_snippet": "A cobrança de mensalidades ou de coparticipação dos empregados ativos e aposentados da ECT, para fins de manutenção e custeio do plano de saúde \"Correios Saúde\", não configura alteração contratual lesiva, tampouco viola direito adquirido, nos termos do decidido no Dissídio Coletivo Revisional n.º 1000295-05.2017.5.00.0000."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-83",
   "nr": 83,
   "orgao": "TST",

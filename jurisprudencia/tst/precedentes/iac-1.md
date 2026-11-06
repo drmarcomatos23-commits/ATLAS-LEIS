@@ -9,7 +9,7 @@ situacao: "Não admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-iac-1"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "19/06/2024"
 ---
 
@@ -28,12 +28,6 @@ Não admitido
 ```json
 {
   "alertaSituacao": "não admitido",
-  "historico": [
-    {
-      "dataCriacao": "2026-07-14T00:00:00.000-03:00",
-      "situacao": "Admitido"
-    }
-  ],
   "id": "tst-iac-1",
   "nr": 1,
   "orgao": "TST",

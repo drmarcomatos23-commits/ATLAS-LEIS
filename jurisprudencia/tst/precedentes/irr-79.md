@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-79"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "É devido o adicional de periculosidade aos empregados que exercem suas atividades na área de abastecimento de aeronaves, ainda que não atuem diretamente nesta função, desde que na área externa da aeronave, uma vez que esta área se caracteriza como de risco na forma do Anexo 2 da NR 16 do MTE.<br>",
     "tese_snippet": "É devido o adicional de periculosidade aos empregados que exercem suas atividades na área de abastecimento de aeronaves, ainda que não atuem diretamente nesta função, desde que na área externa da aeronave, uma vez que esta área se caracteriza como de risco na forma do Anexo 2 da NR 16 do MTE. "
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-79",
   "nr": 79,
   "orgao": "TST",

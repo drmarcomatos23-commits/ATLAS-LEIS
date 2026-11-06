@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-78"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "22/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "Nos casos em que a norma coletiva restringe a base de cálculo da Participação nos Lucros ou Resultados dos bancários às verbas fixas de natureza salarial, as horas extras, ainda que habituais, não devem ser consideradas na apuração da PLR, na medida em que se caracterizam como parcela variável.<br>",
     "tese_snippet": "Nos casos em que a norma coletiva restringe a base de cálculo da Participação nos Lucros ou Resultados dos bancários às verbas fixas de natureza salarial, as horas extras, ainda que habituais, não devem ser consideradas na apuração da PLR, na medida em que se caracterizam como parcela variável. "
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-78",
   "nr": 78,
   "orgao": "TST",

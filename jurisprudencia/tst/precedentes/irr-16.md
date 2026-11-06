@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-16"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "I. O Agente de Apoio Socioeducativo (nomenclatura que, a partir do Decreto nº 54.873 do Governo do Estado de São Paulo, de 06.10.2009, abarca os antigos cargos de Agente de Apoio Técnico e de Agente de Segurança) faz jus à percepção de adicional de periculosidade, considerado o exercício de atividades e operações perigosas, que implicam risco acentuado em virtude de exposição permanente a violência física no desempenho das atribuições profissionais de segurança pessoal e patrimonial em fundação pública estadual. II. Os efeitos pecuniários decorrentes do reconhecimento do direito do Agente de Apoio Socioeducativo ao adicional de periculosidade operam-se a partir da regulamentação do art. 193, II, da CLT em 03.12.2013 - data da entrada em vigor da Portaria nº 1.885/2013 do Ministério do Trabalho, que aprovou o Anexo 3 da NR-16.",
     "tese_snippet": "I. O Agente de Apoio Socioeducativo (nomenclatura que, a partir do Decreto nº 54.873 do Governo do Estado de São Paulo, de 06.10.2009, abarca os antigos cargos de Agente de Apoio Técnico e de Agente de Segurança) faz jus à percepção de adicional de periculosidade, considerado o exercício de atividades e operações perigosas, que implicam risco acentuado em virtude de exposição permanente a violência física no desempenho das atribuições profissionais de segurança pessoal e patrimonial em fundação pública estadual. II. Os efeitos pecuniários decorrentes do reconhecimento do direito do Agente de Apoio Socioeducativo ao adicional de periculosidade operam-se a partir da regulamentação do art. 193, II, da CLT em 03.12.2013 - data da entrada em vigor da Portaria nº 1.885/2013 do Ministério do Trabalho, que aprovou o Anexo 3 da NR-16."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-16",
   "nr": 16,
   "orgao": "TST",

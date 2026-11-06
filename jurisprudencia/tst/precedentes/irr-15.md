@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-15"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "Diante das naturezas jurídicas diversas do Adicional de Atividade de Distribuição e/ou Coleta Externa - AADC previsto no PCCS/2008 da ECT e do Adicional de Periculosidade estatuído pelo § 4° do art. 193 da CLT, define-se que, para os empregados da ECT que se enquadram nas hipóteses de pagamento dos referidos adicionais, o AADC e o adicional de periculosidade, percebido por carteiro motorizado que faz uso de motocicleta, podem ser recebidos cumulativamente.",
     "tese_snippet": "Diante das naturezas jurídicas diversas do Adicional de Atividade de Distribuição e/ou Coleta Externa - AADC previsto no PCCS/2008 da ECT e do Adicional de Periculosidade estatuído pelo § 4° do art. 193 da CLT, define-se que, para os empregados da ECT que se enquadram nas hipóteses de pagamento dos referidos adicionais, o AADC e o adicional de periculosidade, percebido por carteiro motorizado que faz uso de motocicleta, podem ser recebidos cumulativamente."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-15",
   "nr": 15,
   "orgao": "TST",

@@ -9,7 +9,7 @@ situacao: "Mérito julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-26"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "22/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Mérito julgado
     "tese": "1) A Justiça do Trabalho possui competência material, mesmo depois das alterações promovidas pela Lei 14.112/2020, para processar e julgar incidente de desconsideração da personalidade jurídica instaurado em face de empresa em recuperação judicial, exceto se houver ordem expressa do juízo recuperacional para suspender atos executórios em face dos sócios da empresa recuperanda; <br><br>2) A desconsideração da personalidade jurídica de empresa em recuperação judicial, para fins de redirecionamento da execução contra seus sócios, exige a demonstração de abuso da personalidade jurídica, nos termos do art. 50 do Código Civil, não sendo suficiente o mero inadimplemento, a insuficiência patrimonial ou a frustração da execução.",
     "tese_snippet": "1) A Justiça do Trabalho possui competência material, mesmo depois das alterações promovidas pela Lei 14.112/2020, para processar e julgar incidente de desconsideração da personalidade jurídica instaurado em face de empresa em recuperação judicial, exceto se houver ordem expressa do juízo recuperacional para suspender atos executórios em face dos sócios da empresa recuperanda; 2) A desconsideração da personalidade jurídica de empresa em recuperação judicial, para fins de redirecionamento da execução contra seus sócios, exige a demonstração de abuso da personalidade jurídica, nos termos do art. 50 do Código Civil, não sendo suficiente o mero inadimplemento, a insuficiência patrimonial ou a frustração da execução."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-26",
   "nr": 26,
   "orgao": "TST",

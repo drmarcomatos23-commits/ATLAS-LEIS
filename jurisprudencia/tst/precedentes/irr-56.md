@@ -9,7 +9,7 @@ situacao: "Transitado em julgado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irr-56"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 atualizacao_fonte: "17/07/2026"
 ---
 
@@ -35,20 +35,6 @@ Transitado em julgado
     "tese": "A comercialização de produtos de empresas integrantes do grupo econômico de instituição bancária é compatível com o rol de atribuições do empregado, sendo indevido o pagamento de comissões, salvo se houver previsão contratual de acréscimo remuneratório sobre as vendas.",
     "tese_snippet": "A comercialização de produtos de empresas integrantes do grupo econômico de instituição bancária é compatível com o rol de atribuições do empregado, sendo indevido o pagamento de comissões, salvo se houver previsão contratual de acréscimo remuneratório sobre as vendas."
   },
-  "historico": [
-    {
-      "dataCriacao": "2026-10-13T00:00:00.000-03:00",
-      "situacao": "Acórdão Publicado"
-    },
-    {
-      "dataCriacao": "2026-09-14T00:00:00.000-03:00",
-      "situacao": "Mérito Julgado"
-    },
-    {
-      "dataCriacao": "2026-09-10T00:00:00.000-03:00",
-      "situacao": "Afetado"
-    }
-  ],
   "id": "tst-irr-56",
   "nr": 56,
   "orgao": "TST",
