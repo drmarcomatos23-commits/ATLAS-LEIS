@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/in552021altera81erevogadispositivoda82v2.pdf/@@display-file/file"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-06
 ---
 
 # Instrução Normativa DREI N° 55
@@ -1345,7 +1345,7 @@ dispensa previstos na Resolução CGSIM nº 61, de 2020.
 2. ..................................................................................................................
 ......................................................................................................................
 Banco Central do Brasil – BCB
-CNAE/Objeto Ato de registro Descrição/Especificação Fundamentação legal
+CNAE/Objeto Ato de registro Descrição/Especificaçã o Fundamentação legal
 Bancos Comerciais
 (CNAE 64.21-2/00);
 Bancos Múltiplos
@@ -2483,7 +2483,7 @@ dispensa previstos na Resolução CGSIM nº 61, de 2020.
 2. ..................................................................................................................
 ......................................................................................................................
 Banco Central do Brasil - BCB
-CNAE/Objeto Ato de registro Descrição/Especificação Fundamentação legal
+CNAE/Objeto Ato de registro Descrição/Especificaçã o Fundamentação legal
 Bancos Comerciais
 (CNAE 64.21-2/00);
 Bancos Múltiplos
@@ -3732,7 +3732,7 @@ dispensa previstos na Resolução CGSIM nº 61, de 2020.
 2. ..................................................................................................................
 ......................................................................................................................
 Banco Central do Brasil - BCB
-CNAE/Objeto Ato de registro Descrição/Especificação Fundamentação legal
+CNAE/Objeto Ato de registro Descrição/Especificaçã o Fundamentação legal
 Bancos Comerciais
 (CNAE 64.21-2/00);
 
@@ -4846,7 +4846,7 @@ dispensa previstos na Resolução CGSIM nº 61, de 2020.
 2. ..................................................................................................................
 ......................................................................................................................
 Banco Central do Brasil - BCB
-CNAE/Objeto Ato de registro Descrição/Especificação Fundamentação legal
+CNAE/Objeto Ato de registro Descrição/Especificaçã o Fundamentação legal
 Bancos Comerciais
 (CNAE 64.21-2/00);
 Bancos Múltiplos
