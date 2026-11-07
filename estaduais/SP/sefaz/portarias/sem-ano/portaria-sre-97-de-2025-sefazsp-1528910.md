@@ -1,0 +1,380 @@
+---
+titulo: "Portaria SRE 97 de 2025"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Portaria"
+numero: "97"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-97-de-2025.aspx"
+id_fonte: "sefazsp-1528910"
+baixado_em: 2026-11-07
+modificado_na_fonte: "2026-01-28T15:00:18Z"
+---
+
+# Portaria SRE 97 de 2025
+
+# PORTARIA SRE 97, DE 26 DE DEZ​​EMBRO DE 2025
+
+(DOE 29-1​2-2025)
+
+Dispõe sobre a composição da Câmara Superior e das Câmaras Julgadoras do Tribunal de Impostos e Taxas - TIT e divulga a lista de suplência para substituição nas Câmaras Julgadoras para o biênio 2026/2027.
+
+O SUBSECRETÁRIO ADJUNTO DA RECEITA ESTADUAL, respondendo pelo expediente da Subsecretaria da Receita Estadual, tendo em vista o disposto no artigo 63, § 2º, da Lei nº 13.457, de 18 de março de 2009, no artigo 48 do Decreto nº 54.486, de 26 de junho de 2009, e na Resolução SFP-44, de 26 de dezembro de 2025, expede a seguinte portaria:
+
+**Artigo 1º**- Fica estabelecida, para o biênio 2026/2027, a composição da Câmara Superior e das Câmaras Julgadoras do Tribunal de Impostos e Taxas - TIT, bem como a sequência ordinal de substituição dos Presidentes e Vice-Presidentes, nas ausências e afastamentos, na seguinte conformidade:
+
+**CÂMARA SUPERIOR**
+
+1. Presidente: Fábio Henrique Bordini Cruz
+
+2. Vice-presidente: Juliano di Pietro
+
+3. Maria Augusta Sanches
+
+4. Alberto Podgaec
+
+5. Argos Campos Ribeiro Simões
+
+6. Carlos Americo Domeneghetti Badia
+
+7. Marcelo Amaral Gonçalves de Mendonça
+
+8. Edison Aurélio Corazza
+
+9. Valério Pimenta de Morais
+
+10. Klayton Munehiro Furuguem
+
+11. João Maluf Junior
+
+12. Carlos Afonso Della Monica
+
+13. Maria Alice Formigoni Smolarsky
+
+14. Paulo Schmidt Pimentel
+
+15. Flavio José Sanches Arantes
+
+16. Galderise Fernandes Teles
+
+**1ª CÂMARA JULGADORA**
+
+1. Presidente: Inacio Kazuo Yokoyama
+
+2. Vice-Presidente: Samuel de Oliveira Magro
+
+3. Sulamita Szpiczkowski
+
+4. Henrique Fernando de Mello
+
+**2ª CÂMARA JULGADORA**
+
+1. Presidente: José Orivaldo Peres Junior
+
+2. Vice-Presidente: Sergio Gonini Benicio
+
+3. Mariana Rodrigues Gomes Morais
+
+4. Rubens de Oliveira Neves
+
+**3ª CÂMARA JULGADORA**
+
+1. Presidente: Belmar Costa Ferro
+
+2. Vice-Presidente: Denise Ferreira de Oliveira Cheid
+
+3. Eduardo Soares de Melo
+
+4. Mara Eugênia Buonanno Caramico
+
+**4ª CÂMARA JULGADORA**
+
+1. Presidente: Maria do Rosário Pereira Esteves
+
+2. Vice-Presidente: Argos Magno de Paula Gregorio
+
+3. Raphael Zulli Neto
+
+4. Paulo Rafael Minetto Maceta
+
+**5ª CÂMARA JULGADORA**
+
+1. Presidente: Marco Antonio Verissimo Teixeira
+
+2. Vice-Presidente: João Marcelo Vasconcellos de Oliveira
+
+3. Maria Anselma Coscrato dos Santos
+
+4. Adolpho Bergamini
+
+**6ª CÂMARA JULGADORA**
+
+1. Presidente: Italo Costa Simonato
+
+2. Vice-Presidente: Maria Helena Tavares de Pinho Tinoco Soares
+
+3. Rafael Tadeu Ayres
+
+4. Cacilda Peixoto
+
+**7ª CÂMARA JULGADORA**
+
+1. Presidente: Silvio Ryokity Onaga
+
+2. Vice-Presidente: Ramon Leandro Freitas Arnoni
+
+3. Luiz Roberto Guimarães Erhardt
+
+4. Rodrigo Helfstein
+
+**8ª CÂMARA JULGADORA**
+
+1. Presidente: Isabel Cristina Omil Luciano
+
+2. Vice-Presidente: Carlos Henrique Martins de Lima
+
+3. João Carlos Csillag
+
+4. Vinicius Silva Matsumoto
+
+**Artigo 2º** - Fica divulgada a lista de suplência para a substituição de juiz de Câmara Julgadora, nos eventuais afastamentos e necessárias substituições, permitida nos termos do artigo 60 da Lei nº 13.457, de 18 de março de 2009, regulamentada pelo artigo 49 do Decreto nº 54.486, de 26 de junho de 2009:
+
+**I - JUÍZES SERVIDORES:**
+
+SEQ. NOME RG
+
+1. ADRIANA CRISTHIANNE DOS SANTOS RIBEIRO 26.253.944-5
+
+2. ADRIANA PEREIRA DAVID 32.495.123-1
+
+3. ALBERTO LUIZ ZUCCHI 11.689.806
+
+4. ALDO MISAEL PIRES GOMES 11.929.603-6
+
+5. ALEXANDRE FERNANDES MACHADO 11139917-39
+
+6. BÁRBARA ARAGÃO COUTO NEVES DOS REIS 20.729.837-3
+
+7. BRUNO GONÇALVES CASAGRANDE 34.289.113-3
+
+8. CARLOS JOSÉ FURTADO BEZERRA DE SOUSA 3340264200-7
+
+9. CARLOS PINHEIRO DO NASCIMENTO 25.279.700-0
+
+10. CRISTINA MENDES MIRANDA DE AZEVEDO 7.628.789
+
+11. DANIELA RODRIGUES GONÇALVES 25.680.758-9
+
+12. EDUARDO JUNQUEIRA VILLELA GRANJA 9.328.722-7
+
+13. FABIANE DE SOUZA ARAUJO BOTECHIA 09.682.496-6
+
+14. FÁBIO ANDRADE MARTINS 43.557.745-1
+
+15. FABIO RICARDO MIRANDA SAMPIETRI 29.812.794-5
+
+16. FABIO VIOLA DE SOUZA CASTRO 19.276.940-6
+
+17. FELIPE VIANA DE PAULA 43.569.929-5
+
+18. FLAVIA D ALBUQUERQUE ANDRADE DA SILVEIRA 39.737.771-X
+
+19. FLAVIO MITSUISHI 25.292.430-7
+
+20. FLAVIO NASCIMBEM DE FREITAS 18.089.706-8
+
+21. GERALDO DO CARMO NASCIMENTO 57.513.833-6
+
+22. GLAUCIA CORREA SANDOVAL MOREIRA 23.645.533-3
+
+23. HELOÍSA DE PAULA FIOD COSTA OSADA 30.064.145-X
+
+24. HENRIQUE LIMA LEITE 6.308.440
+
+25. HERBERT LIMA DE RESENDE 24.709.185-6
+
+26. JOÃO GUILHERME SIMÕES HERRERA 29.613.869-1
+
+27. JOSE AUGUSTO VARELA CALIFE JUNIOR 8.976.240-5
+
+28. JOSE LUIZ DE CARVALHO 54.124.232-5
+
+29. JOSE RICARDO HASSUI 22.567.983-8
+
+30. LAURO TERCIO BEZERRA CÂMARA 1.892.540
+
+31. LUCAS CAPARELLI CORREIA 38.449.707-X
+
+32. LUCIANA APARECIDA LISBOA 18.762.517-7
+
+33. LUÍS EDUARDO DE CAMARGO PENTEADO RODRIGUES 32.502.923-4
+
+34. LUIZ FERNANDO ANTUNES BALEIZAO 22.833.712-4
+
+35. MARA REGINA CASTILHO REINAUER ONG 14.350.454-X
+
+36. MARCEL JOSE SIQUEIRA 28.167.142-4
+
+37. MARCELO ZANETTI FERREIRA 18.942.751-6
+
+38. MARCIO FERNANDES LIMA 24.687.954-3
+
+39. MARCO AURÉLIO WATANABE ZANCOPÉ 36.985.062-2
+
+40. MARCOS LUIZ SILVESTRE 16.144.274-2
+
+41. MARIANE CORREA ANASTACIO BRUNO 55.705.077-7
+
+42. MAURO KIOSHI TAKAU BRINO 28.996.525-1
+
+43. PETER DE OLIVEIRA 30.506.736-9
+
+44. RAFAEL ANTUNES BERALDO 29.900.479-X
+
+45. RHOMENIG OLIVEIRA DE SOUZA 4141175879
+
+46. ROBERTO MOHIB DIMIANOS 13.898.608-3
+
+47. RODRIGO DE SOUSA MUZY 34.969.842-9
+
+48. RODRIGO PANSANATO OSADA 33.765.084-6
+
+49. RUI CARLOS GIRALDI 17.496.149-2
+
+50. SERGIO SERAFIM AQUINO 19.273.085-X
+
+51. TATIANA MARTINES 33.385.341-6
+
+52. THIAGO SANTOS DA SILVA 11.404.179-1
+
+53. TIAGO GIUZIO TONUSSI 25.507.648-4
+
+54. VINICIUS SOUZA DE MEDEIROS 03691581560
+
+55. VINICIUS VALENTIM ALMEIDA 11.354.722-8
+
+56. YURI GARCIA UMEKAWA 30.257.750-6
+
+**II - Juízes Contribuintes**
+
+SEQ. NOME RG
+
+1. ALAN TAVORA NEM 28.933.245-X
+
+2. ALBERTO BORGES DE CARVALHO JUNIOR 24.718.687-9
+
+3. ALEXANDRE DOS SANTOS DIAS 15.790.319-9
+
+4. ALEXANDRE HERLIN 09596882-2
+
+5. ALEXANDRE NAOKI NISHIOKA 14.781.169-7
+
+6. ALLAN GEORGE DE ABREU FALLET 11.151.968-2
+
+7. ANA PAULA PESCATORI BISMARA GOMES 30.246.680-0
+
+8. ANDRESSA PAULA SENNA LÍSIAS 34.570.173-2
+
+9. ÂNGELA SARTORI 25.011.737-X
+
+10. BRUNO TADEU RADTKE GONÇALVES 35.443.740-9
+
+11. CAIO CESAR BRAGA RUOTOLO 9.851.242-0
+
+12. CARLOS MARCELO GOUVEIA 29.491.775-5
+
+13. CELSO CARLOS FERNANDES 11.769.060-0
+
+14. CORIOLANO AURELIO DE ALMEIDA CAMARGO SANTOS 20.871.489-3
+
+15. EDNEY BERTOLLA 20.742.329-5
+
+16. EDUARDO CARVALHO 28.074.671-4
+
+17. EDUARDO CORRÊA DA SILVA 32.318.594-0
+
+18. EDWAL CASONI DE PAULA FERNANDES JUNIOR 13.244.492-6
+
+19. ESDRAS LOVO 17.618.381-4
+
+20. FABIO BEZANA 13.019.095-0
+
+21. FAISSAL YUNES JUNIOR 20.239.655-1
+
+22. FERNANDO OLAVO SADDI CASTRO 12.730.271-2
+
+23. FRANCINE MARA FACHINELLO 4.295.963
+
+24. GILDO FREIRE DE ARAUJO 9.127.226-9
+
+25. HENRIQUE TOIODA SALLES 8.984.037-9
+
+26. HUGO ALBUQUERQUE LAIOLA DA SILVA 40.828.087-6
+
+27. JACQUELINE ISIS KHARLAKIAN 28.671.640-9
+
+28. JANAINA GASPAR 42.971.103-7
+
+29. JANDIR JOSÉ DALLE LUCCA 13.131.922-X
+
+30. JOÃO EMÍLIO GALINARI BERTOLUCCI 15.713.507
+
+31. JOSÉ CARLOS CAROTA 8.146.697-3
+
+32. LIVIA DE CARLI GERMANO 37.196.577-9
+
+33. LIVIA DE SENNE BADARÓ MUBARAK 22.275.099-6
+
+34. LUCAS DE ARAUJO FELTRIN 30.460.425-2
+
+35. LUZIA CORRÊA RABELLO 38.303.993-9
+
+36. MARCELO BOLOGNESE 18.377.076-6
+
+37. MIRIAM COSTA FACCIN 12.095.115
+
+38. NEIVA APARECIDA BAYLON 27.685.267-9
+
+39. RAQUEL HARUMI IWASE 29.039.040-0
+
+40. RENATA DE CÁSSIA ANDRADE 28.559.760-7
+
+41. RICARDO SCRAVAJAR GOUVEIA 27.729.129-X
+
+42. ROBERTO PEREZ FRAGOSO 15.619.966-X
+
+43. RODRIGO ALEXANDRE LAZARO PINTO 32.503.770-X
+
+44. RODRIGO GAGO FREITAS VALE BARBOSA 14.313.815-7
+
+45. RODRIGO LEAL GRIZ 6.396.599
+
+46. ROXELI MARTINS ANDRÉ 23.397.584-6
+
+47. RUY CABRAL DE MORAIS 17.862.946-7
+
+48. SALVADOR CÂNDIDO BRANDÃO JUNIOR 28.156.195-3
+
+49. TATIANA DEL GIUDICE CAPPA CHIARADIA 29.542.666-4
+
+50. THAÍS TOD DECHANDT 7.070.739-0
+
+51. THIAGO BOSCOLI FERREIRA 3.402.397-9
+
+52. THIAGO CRUZ CAVALCANTI 28.569.892-8
+
+53. VALTER DO NASCIMENTO 20.703.828-4
+
+54. VANESSA KAEDA BULARA 29.187.201-3
+
+55. VICENTE DO CARMO SAPIENZA FILHO 3.064.364-3
+
+56. WALTER CARVALHO MONTEIRO BRITTO 21.824.391-1
+
+**Artigo 3º** - Esta portaria entra em vigor em 1º de janeiro de 2026.
+
+**FÁBIO HENRIQUE GALINARI BERTOLUCCI**
+Subsecretário Adjunto da Receita Estadual, respondendo pelo expediente da Subsecretaria da Receita Estadual​
+
+​
