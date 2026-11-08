@@ -1,0 +1,439 @@
+---
+titulo: "Portaria SRE 28 de 2023"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Portaria"
+numero: "28"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-28-de-2023.aspx"
+id_fonte: "sefazsp-1525118"
+baixado_em: 2026-11-08
+modificado_na_fonte: "2023-04-29T07:00:36Z"
+---
+
+# Portaria SRE 28 de 2023
+
+# ​​PORTARIA SRE Nº 28, de 24-04-2023
+
+(DOE 25-04-2023)
+
+Dispõe sobre a composição da Câmara Superior e das
+Câmaras Julgadoras do Tribunal de Impostos e Taxas - TIT e
+divulga a lista de suplência para substituição nas Câmaras
+Julgadoras para o biênio 2022/2023.
+
+O SUBSECRETÁRIO DA RECEITA ESTADUAL, tendo em vista
+o disposto no artigo 63, § 2º, da Lei nº 13.457, de 18 de março
+de 2009, no artigo 48 do Decreto n° 54.486, de 26 de junho de
+2009, e na Resolução [SFP 23/23](/Paginas/Resolução-SFP-23-de-2023.aspx)​, de 24 de abril de 2023, expede
+a seguinte portaria:
+
+**Artigo 1º -** Fica estabelecida, para o biênio 2022/2023, a
+composição da Câmara Superior e das Câmaras Julgadoras
+do Tribunal de Impostos e Taxas - TIT, bem como a sequência
+ordinal de substituição dos Presidentes e Vice-Presidentes, nas
+ausências e afastamentos, na seguinte conformidade:
+
+CÂMARA SUPERIOR
+
+1. Presidente: Argos Campos Ribeiro Simões 
+2. Vice-presidente: Alberto Podgaec 
+3. Maria Augusta Sanches
+
+4. Carlos Americo Domeneghetti Badia
+
+5. Fábio Henrique Bordini Cruz
+
+6. Edison Aurélio Corazza
+
+7. Cacilda Peixoto
+
+8. Klayton Munehiro Furuguem
+
+9. Marcelo Amaral Gonçalves de Mendonça
+
+10. Maria do Rosário Pereira Esteves
+
+11. Valério Pimenta de Morais
+
+12. Carlos Afonso Della Monica
+
+13. Marco Antonio Verissimo Teixeira
+
+14. Juliano di Pietro
+
+15. Mauro Kioshi Takau Brino
+
+16. Paulo Schmidt Pimentel 
+
+1ª CÂMARA JULGADORA
+
+1. Presidente: João Maluf Junior
+
+2. Vice-Presidente: Luciana Cristina da Silva Vendramini
+
+3. Eduardo Soares de Melo
+
+4. Tatiana Del Giudice Cappa Chiaradia
+
+2ª CÂMARA JULGADORA
+
+1. Presidente: José Orivaldo Peres Junior
+
+2. Vice-Presidente: Douglas Kakazu Kushiyama
+
+3. Flavio José Sanches Arantes
+
+4. Maria Alice Formigoni Smolarsky
+
+3ª CÂMARA JULGADORA
+
+1. Presidente: Belmar Costa Ferro
+
+2. Vice-Presidente: Fabiane de Souza Araujo Botechia
+
+3. Mara Eugênia Buonanno Caramico
+
+4. Adolpho Bergamini
+
+4ª CÂMARA JULGADORA
+
+1. Presidente: Maria Helena Tavares de Pinho Tinoco Soares
+
+2. Vice-Presidente: Argos Magno de Paula Gregorio
+
+3. Raphael Zulli Neto
+
+4. Flavio Nascimbem de Freitas
+
+5ª CÂMARA JULGADORA
+
+1. Presidente: Samuel de Oliveira Magro
+
+2. Vice-Presidente: Rui Carlos Giraldi
+
+3. Raquel Harumi Iwase
+
+4. Rodrigo Helfstein
+
+6ª CÂMARA JULGADORA
+
+1. Presidente: Italo Costa Simonato
+
+2. Vice-Presidente: Jandir Jose Dalle Lucca
+
+3. João Carlos Csillag
+
+4. João Marcelo Vasconcellos De Oliveira
+
+7ª CÂMARA JULGADORA
+
+1. Presidente: Inácio Kazuo Yokoyama
+
+2. Vice-Presidente: Paulo Rafael Minetto Maceta
+
+3. Alexandre dos Santos Dias
+
+4. Maria Anselma Coscrato dos Santos
+
+8ª CÂMARA JULGADORA
+
+1. Presidente: Samuel Luiz Manzotti Riemma
+2. Vice-Presidente: Faissal Yunes Junior
+
+3. Daniela Gonçalves Nogueira
+
+4. Ramon Leandro Freitas Arnoni 
+
+9ª CÂMARA JULGADORA 
+
+1. Presidente: Silvio Ryokity Onaga
+
+2. Vice-Presidente: Rafael Tadeu Ayres
+
+3. Walter Carvalho Monteiro de Britto
+
+4. Carlos Henrique Martins de Lima 
+
+10ª CÂMARA JULGADORA 
+
+1. Presidente: Isabel Cristina Omil Luciano
+
+2. Vice-Presidente: Galderise Fernandes Teles
+
+3. Rubens de Oliveira Neves
+
+4. Odilo Sossoloti 
+
+**Artigo 2º -** Fica divulgada a lista de suplência para a substituição de juiz de Câmara Julgadora, nos eventuais afastamentos
+e necessárias substituições, permitida nos termos do artigo 60
+da Lei nº 13.457, de 18 de março de 2009, regulamentada pelo
+artigo 49 do Decreto nº 54.486, de 26 de junho de 2009: 
+
+I - JUÍZES SERVIDORES: SEQ. NOME RG 
+
+1. ADRIANA CRISTHIANNE DOS SANTOS RIBEIRO 26.253.944-5 
+
+2. ADRIANA PEREIRA DAVID 32.495.123-1 
+
+3. ALDO MISAEL PIRES GOMES 11.929.603-6 
+
+4. ALEXANDRE ABOUD 20946522-0 
+
+5. ALEXANDRE SALUSTIANO LIRA 13607161 
+
+6. ALYNE BASILIO DE ASSIS 8.444.103 MG 
+
+7. ANDRE DA SILVA CURCIO 30.990.769-X 
+
+8. ANTÔNIO GUERRA 5.116.791-8 
+
+9. AUGUSTO CESAR ALMEIDA DE CARVALHO 52.747.266-9 
+
+10. CAMILA ALVES DE ANDRE 33.507.263-X 
+
+11. CARLA SATIE MAEHATA MAGARIO 37.846.584-3 
+
+12. CARLOS ALBERTO DA SILVA:05384513861 17.010.118-6 
+
+13. CELIO RUBENS AKITO MAGARIO 24.123.187-5 
+
+14. CHRISTIAN PIERRE SANDRINI 20.478.815-8 
+
+15. DANIEL LA CORTE DOS SANTOS 19.282.856-3 
+
+16. DANIEL OLIVEIRA PONTES 20280789-7 
+
+17. DANIELLE EUGENNE MIGOTTO FERRARI FRATINI 33.998.222-6 
+
+18. DIEGO CARLOS CAMILO MG-11381047 
+
+19. EDUARDO JUNQUEIRA VILLELA GRANJA 9.328.722-7 
+
+20. FABIO AUGUSTO DAHER MONTES 28.474.747-6 
+
+21. FÁBIO HENRIQUE GALINARI BERTOLUCCI 8.941.285-0 
+
+22. FERNANDO ANDRADE STARLING 32.570.477-6 
+
+23. FLAVIA D’ALBUQUERQUE ANDRADE DA SILVEIRA 39.737.771-X 
+
+24. HÉLIO JOSÉ MARSIGLIA JUNIOR 21.816.272-8 
+
+25. HELOISA DE PAULA FIOD COSTA OSADA 30.064.145-X 
+
+26. HENRIQUE DOS SANTOS ANDRADE 1086596 
+
+27. HENRIQUE LIMA LEITE 6.308.440 
+
+28. HERBERT LIMA DE RESENDE 24.709.185-6 
+
+29. HILDA EWELYN BEHLAU CORSETTI 33.027.261-5 
+
+30. JANINE GOMES BERGER DE OLIVEIRA MACATRÃO 47.090.995-1 
+
+31. JOÃO CARLOS PIETROPAOLO 12.866.719-9 
+
+32. JORGE HENRIQUE NACAO 19.128.360-5 
+
+33. JOSE RICARDO HASSUI 22.567.983-8 
+
+34. LEANDRO RADUSWESKI QUINTAL 11476421-0 
+
+35. LUCIANA APARECIDA LISBOA 18.762.517-7 
+
+36. LUCIANO GARCIA MIGUEL 13.786.123-0 
+
+37. LUIS EDUARDO DE CAMARGO PENTEADO RODRIGUES 32.502.923-4 
+
+38. MARCIO FERNANDES LIMA 24.687.954-3 
+
+39. MARCO AURÉLIO WATANABE ZANCOPÉ 36.985.062-2 
+
+40. MARCOS LUIZ SILVESTRE 16144274 
+
+41. MARIANA ROSADA PANTANO 30.338.344-6 
+
+42. MONICA MAYUMI EGUCHI 52.535.000-7 
+
+43. PAULO RIBEIRO PACELLO 15.998.908-5 
+
+44. PAULO ROBERTO BUENO 12.404.275-2 
+
+45. PAULO SERGIO SIQUEIRA PRADO 11.558.750-0 
+
+46. PETER DE OLIVEIRA 30.506.736-9 
+
+47. RAFAEL VIOTTI SCHLOBACH MG-14.514.447 
+
+48. REBECCA PORTO CORREA DE FREITAS 33.477.495-0 
+
+49. ROBERTO MOHIB DIMIANOS 13.898.608-3 
+
+50. RODNEI YUDI DIAS CUBOTOMAE 43.985.891-4 
+
+51. RODRIGO DE SOUSA MUZY 34.969.842-9 
+
+52. RODRIGO PANSANATO OSADA 33.765.084-6 
+
+53. RONALDO DE MELO PARREIRA FILHO 08.793.477-4 
+
+54. RUBENS BONACORSO CASAL DE REY 214324020023 
+
+55. SCHIBEL ABUD 13.893.331 
+
+56. SERGIO SYDIONIR SAAD 7.632.816-8 
+
+57. THIERRY SERIKAWA 24.470.359-0 
+
+58. TIAGO GIUZIO TONUSSI 25.507.648-4 
+
+59. TIAGO JOSÉ KICH TEMPERANI 43.621.430-1 
+
+60. VERONICA RAMOS TAVARES 11.583.175-7 
+
+61. VINICIUS KÜRTEN BARATTER 7.203.451-1 
+
+62. VINICIUS ROSA BEZERRA 09398579-79 
+
+63. VINICIUS VALENTIM ALMEIDA 11.354.722-8 
+
+64. WALTER BENTIVEGNA 10.786.881-7 
+
+II - Juízes Contribuintes
+SEQ. NOME RG 
+
+1. ALAN TAVORA NEM 28.933.245-X 
+
+2. ALBERTO BORGES DE CARVALHO JUNIOR 24.718.687-9 
+
+3. ALLAN GEORGE DE ABREU FALLET 11.151.968-2 
+
+4. ANA PAULA PESCATORI BISMARA GOMES 30.246.680-0 
+
+5. ANDRÉ FERNANDO VASCONCELOS DE CASTRO 32.648.51-8 
+
+6. ANDREWS MEIRA PEREIRA 43.892.663-8 
+
+7. ÂNGELA SARTORI 25.011.737-X 
+
+8. BRUNO CESAR FETTERMANN NOGUEIRA DOS SANTOS 37.409.734-3 
+
+9. BRUNO TADEU RADTKE GONÇALVES 35.443.740-9 
+
+10. CAIO CESAR BRAGA RUOTOLO 9.851.242-0 
+
+11. CHARLES WILLIAM MCNAUGHTON 34.943.287-9 
+
+12. DANIEL CLAYTON MORETI 28.319.147-8 
+
+13. DANILO MONTEIRO DE CASTRO 20.224.350-3 
+
+14. EDILSON MUNIZ DA SILVA 22.166.960-7 
+
+15. EDNEY BERTOLLA 20.742.329-5 
+
+16. EDUARDO DE PAIVA GOMES 47.893.394-0 
+
+17. EDUARDO GARCIA DE LIMA 19.361.760-2 
+
+18. ERIKA GARCIA CUNHA MELO MG-3.718.054 
+
+19. FABIO BEZANA 13.019.095-0 
+
+20. FÁBIO GOULART TOMKOWSKI 105.861.896-6 
+
+21. FELIPE CONTRERAS NOVAES 33.567.298 
+
+22. FERNANDO LUÍS BERNARDES DE OLIVEIRA 14.312.382-0 
+
+23. GILDO FREIRE DE ARAUJO 9.127.226-9 
+
+24. GUILHERME DE MEIRA COELHO 43.533.095-0 
+
+25. HENRIQUE TOIODA SALLES 8.984.037-9 
+
+26. JACQUELINE ISIS KHARLAKIAN 28.671.640-9 
+
+27. JORGE LUIZ DE BRITO JUNIOR 29.064.192-5 
+
+28. JOSÉ LUIZ CRIVELLI FILHO 27.947.149-X 
+
+29. LEANDRO CARA ARTIOLI 1237322 
+
+30. LEONARDO LUIS PAGANO GONÇALVES 28.180.890-9 
+
+31. LEONARDO TADEU SÁ MAZZONI 30.692.787-1 
+
+32. LIANA CARINE FERNANDES DE QUEIROZ KÜRTEN 002.012.051 
+
+33. LUCAS ARAGÃO DOS SANTOS 45.821.275-1 
+
+34. LUCAS DE ARAUJO FELTRIN 30.460.425-2 
+
+35. LUÍS AUGUSTO BERNARDINI DE CARVALHO 7.731.626-5 
+
+36. LUIZ ROBERTO GUIMARÃES ERHARDT 25.595.971-0 
+
+37. LUZIA CORRÊA RABELLO 38.303.993-9 
+
+38. MARCELO BOLOGNESE 18.377.076-6 
+
+39. MARIA ALINE BURATTO AUN 44.346.533-2 
+
+40. MARIA CAROLINA MALDONADO MENDONÇA KRALJEVIC 28.264.123-3 
+
+41. MARINA VIEIRA DE FIGUEIREDO 29.462.363-2 
+
+42. MILTON CARMO DE ASSIS JÚNIOR 29.892.326-9 
+
+43. OSVALDO ZORZETO JÚNIOR 18.714.710-3 
+
+44. PATRICIA CRISTINA CAVALLO 25.348.938-6 
+
+45. PAULO OCTTÁVIO MOURA DE ALMEIDA CALHÁO 50.703.503-3 
+
+46. PAULO ROBERTO ANDRADE 27.306.079-X 
+
+47. PRISCILLA CARLA VERSATTI 34356614 
+
+48. RICARDO YUNES CESTARI 43.705.756-2 
+
+49. RODRIGO ALEXANDRE LAZARO PINTO 32.503.770-X 
+
+50. RODRIGO PINHEIRO LUCAS RISTOW 30.298.405-7 
+
+51. ROGÉRIO HIDEAKI NOMURA 12.448.107-3 
+
+52. ROGÉRIO LINDENMEYER VIDAL GANDRA DA SILVA MARTINS 17.503.977-X
+
+53. ROSANE PASSOS MATOS 28.446.954-3
+
+54. RUY FERNANDES CORTES DE CAMPOS 20.477.860-8
+
+55. SALVADOR CÂNDIDO BRANDÃO JUNIOR 28.156.195-3
+
+56. SAMUEL DE LIMA NEVES 30.178.813-3
+
+57. SÁVIO SALOMÃO DE ALMEIDA NÓBREGA 2937789
+
+58. SERGIO PIN JUNIOR 33.120.331-5
+
+59. SILVIO LUIS DE CAMARGO SAIKI 17.912.130-3
+
+60. SULAMITA SZPICZKOWSKI ALAYON 22.913.699-0​
+
+61. THIAGO BOSCOLI FERREIRA 34023979
+
+62. VICENTE DO CARMO SAPIENZA FILHO 30643643
+
+63. VICTOR NOBORU TOMOTANI 34.561.036-2
+
+64. VINÍCIUS ALBERTO ROSSI NOGUEIRA 40.518.892-5
+
+**Artigo 3º -** Fica revogada a Portaria [SRE 53/22](/Paginas/Portaria-SRE-53-de-2022.aspx), de 29 de
+julho de 2022.
+
+**Artigo 4º -** Esta portaria entra em vigor em 02 de maio
+de 2023.​​

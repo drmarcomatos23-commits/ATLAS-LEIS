@@ -8,8 +8,8 @@ data:
 versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
 fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-53-de-2026.aspx"
 id_fonte: "sefazsp-1529834"
-baixado_em: 2026-11-07
-modificado_na_fonte: "2026-11-07T15:00:38Z"
+baixado_em: 2026-11-08
+modificado_na_fonte: "2026-11-08T15:00:34Z"
 ---
 
 # Portaria SRE 53 de 2026

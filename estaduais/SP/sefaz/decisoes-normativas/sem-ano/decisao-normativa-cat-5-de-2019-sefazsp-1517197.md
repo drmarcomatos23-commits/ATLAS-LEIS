@@ -1,0 +1,92 @@
+---
+titulo: "Decisão Normativa CAT 5 de 2019"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Decisão Normativa"
+numero: "5"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Decisão-Normativa-CAT-5-de-2019.aspx"
+id_fonte: "sefazsp-1517197"
+baixado_em: 2026-11-08
+modificado_na_fonte: "2022-05-06T20:33:05Z"
+---
+
+# Decisão Normativa CAT 5 de 2019
+
+# Decisão Normativa CAT 05, de 06-11-2019
+
+(DOE 07-11-2019)
+
+ICMS - Solicitação de cancelamento de documento
+fiscal eletrônico após o transcurso do prazo regulamentar - Aplicabilidade da denúncia espontânea
+
+O Coordenador da Administração Tributária, com fundamento no artigo 522 do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações
+de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS/2000, aprovado pelo Decreto 45.490, de
+30-11-2000, e considerando o disposto no artigo 138 do Código
+Tributário Nacional - CTN (Lei 5.172, de 25-10-1966), decide
+aprovar o seguinte entendimento:
+
+1. Para o cancelamento de documento fiscal eletrônico, os
+contribuintes deverão observar, além de outros requisitos, os
+prazos previstos na legislação paulista.
+
+2. Após o transcurso do prazo regulamentar, os contribuintes
+podem solicitar o cancelamento via sistema eletrônico da Secretaria da Fazenda e Planejamento ou junto ao Posto Fiscal de sua
+jurisdição, dependendo da data em que ocorrer a solicitação e
+do tipo de documento a ser cancelado.
+
+3. A falta de solicitação de cancelamento de documento
+fiscal eletrônico, quando exigido pela legislação, ou a solicitação
+de cancelamento desses documentos após transcurso do prazo
+regulamentar sujeita o contribuinte às multas previstas no artigo
+85, inciso IV, alínea “z1”, da Lei 6.374, de 01-03-1989.
+
+4. O Código Tributário Nacional - CTN (Lei 5.172, de 25-10-
+1966), por sua vez, prevê, em seu artigo 138, o instituto da denúncia
+espontânea, o qual tem por objetivo incentivar o contribuinte que
+infringiu a norma tributária a regularizar sua situação, de forma
+espontânea, antes do conhecimento da infração pelo fisco.
+
+“Art. 138. A responsabilidade é excluída pela denúncia
+espontânea da infração, acompanhada, se for o caso, do pagamento do tributo devido e dos juros de mora, ou do depósito da
+importância arbitrada pela autoridade administrativa, quando o
+montante do tributo dependa de apuração.
+
+Parágrafo único. Não se considera espontânea a denúncia
+apresentada após o início de qualquer procedimento administrativo ou medida de fiscalização, relacionados com a infração.”
+
+5. No Estado de São Paulo, o instituto da denúncia espontânea está previsto no artigo 88 da Lei 6.374, de 01-03-1989, nos
+seguintes termos:
+
+“Artigo 88 - O contribuinte que procurar a repartição fiscal,
+antes de qualquer procedimento do fisco, para sanar irregularidade relacionada com o cumprimento de obrigação pertinente
+ao imposto fica a salvo das penalidades previstas no artigo 85,
+desde que a irregularidade seja sanada no prazo cominado.
+
+ § 1º - Tratando-se de infração que implique falta de pagamento do imposto, aplicam-se as disposições do artigo anterior.
+
+(...)” 
+
+6. A denúncia espontânea, na forma estabelecida pelo
+“caput” do artigo 88 da Lei 6.374/89, combinado com o disposto em seu § 1º, afasta, em regra, tanto as penalidades relativas
+ao descumprimento de obrigação principal quanto aquelas
+relativas ao descumprimento de obrigações acessórias, desde
+que o contribuinte, voluntariamente, procure o fisco para regularizar sua situação, antes do início de qualquer procedimento
+administrativo de fiscalização.
+
+7. Note-se que o marco temporal, para efeito de caracterizar
+como denúncia espontânea a ação do contribuinte de regularizar a sua situação, é o início da ação fiscal, por meio de qualquer procedimento administrativo ou medida de fiscalização,
+conforme determinado pelo próprio artigo 88 da Lei 6.374/89, à
+semelhança do artigo 138 do Código Tributário Nacional - CTN.
+
+ 8. Assim sendo, ao se verificar, cumulativamente, que houve
+iniciativa do contribuinte de comunicar irregularidade ao fisco, relativo ao cancelamento de documentos fiscais eletrônicos, visando
+o seu saneamento, e que inexiste procedimento administrativo ou
+medida de fiscalização relacionada com a referida infração, não será
+aplicada a penalidade prevista no artigo 85, inciso IV, alínea “z1”,
+da Lei 6.374/89, por força do instituto da denúncia espontânea.
+
+9. Ficam revogadas a Decisão Normativa CAT [02/15](/Paginas/denorm022015.aspx), de
+10-09-2015, e as respostas a consultas tributárias que, versando
+sobre a mesma matéria, concluíram de modo diverso.
