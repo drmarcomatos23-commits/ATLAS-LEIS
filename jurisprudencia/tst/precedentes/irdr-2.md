@@ -9,8 +9,8 @@ situacao: "Admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irdr-2"
-baixado_em: 2026-11-06
-atualizacao_fonte: "05/11/2026"
+baixado_em: 2026-11-08
+atualizacao_fonte: "07/11/2026"
 ---
 
 # Tema de IRDR nº 2 do TST
@@ -49,6 +49,6 @@ Admitido
     }
   ],
   "tipo": "IRDR",
-  "ultimaAtualizacao": "05/11/2026"
+  "ultimaAtualizacao": "07/11/2026"
 }
 ```
