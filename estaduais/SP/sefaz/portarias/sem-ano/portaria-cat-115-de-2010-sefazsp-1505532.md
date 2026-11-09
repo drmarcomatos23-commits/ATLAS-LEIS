@@ -1,0 +1,34 @@
+---
+titulo: "Portaria CAT 115 de 2010"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Portaria"
+numero: "115"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/pcat1152010.aspx"
+id_fonte: "sefazsp-1505532"
+baixado_em: 2026-11-09
+modificado_na_fonte: "2022-05-06T19:39:41Z"
+---
+
+# Portaria CAT 115 de 2010
+
+Portaria CAT-115, de 27-7-2010
+
+Portaria CAT-115, de 27-7-2010
+
+(DOE 28-07-2010)
+
+Altera a Portaria [CAT-178/2009](/Paginas/pcat1782009.aspx), de 17-9-2009, que estabelece a base de cálculo na saída de produtos eletrônicos, eletroeletrônicos e eletrodomésticos, a que se refere o artigo 313-Z20 do Regulamento do ICMS.
+
+O Coordenador da Administração Tributária, tendo em vista o disposto nos artigos 28-A, 28-B e 28-C da Lei [6.374](/Paginas/ind_6374.aspx), de 1º de março de 1989, nos artigos 41, caput, 313-Z19 e 313-Z20 do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS, aprovado pelo Decreto 45.490, de 30 de novembro de 2000, expede a seguinte portaria:
+
+**Art. 1° -** Passa a vigorar com a redação que se segue o item 18.1 do Anexo Único da Portaria [CAT-178/2009](/Paginas/pcat1782009.aspx), de 17 de setembro de 2009:
+
+“
+18.1 - Máquinas de secar de uso doméstico de capacidade não superior a 10 kg, em peso de roupa seca 8451.21.00 32,01
+
+” (NR).
+
+**Art. 2º -** Esta portaria entra em vigor na data de sua publicação, produzindo efeitos desde 1º de julho de 2010.

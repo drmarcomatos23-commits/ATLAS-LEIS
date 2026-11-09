@@ -1,0 +1,524 @@
+---
+titulo: "Portaria CAT 127 de 2009"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Portaria"
+numero: "127"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/pcat1272009.aspx"
+id_fonte: "sefazsp-1505686"
+baixado_em: 2026-11-09
+modificado_na_fonte: "2022-05-06T19:42:53Z"
+---
+
+# Portaria CAT 127 de 2009
+
+Portaria CAT - 127, de 29-6-2009
+
+Portaria CAT - 127, de 29-6-2009
+
+(DOE 30-06-2009)
+
+Dispõe sobre a composição da Câmara Superior e das Câmaras Julgadoras do Tribunal de Impostos e Taxas e divulga a lista de suplência para substituição nas Câmaras Julgadoras
+
+O Coordenador da Administração Tributária, tendo em vista o disposto no artigo 48 do Decreto n° [54.486](/Paginas/dec54486.aspx), de 26 de junho de 2009 e o disposto na Resolução [SF nº 41](/Paginas/resf412009.aspx) de 29 de junho
+de 2009, resolve:
+
+**Artigo 1º -** Fica estabelecida a composição da Câmara Superior e das Câmaras Julgadoras do Tribunal de Impostos e Taxas, bem como a sequência ordinal de substituição dos
+Presidentes e Vice-Presidentes, nas ausências e afastamentos, na seguinte conformidade:
+
+CÂMARA SUPERIOR
+
+1. Presidente: José Paulo Neves
+
+2. Vice-Presidente: Antônio Augusto Silva Pereira de Carvalho
+
+3. Olga Maria de Castilho Arruda
+
+4. Augusto Toscano
+
+5. José Roberto Rosa
+
+6. Luiz Fernando Mussolini Júnior
+
+7. Gianpaulo Camilo Dringoli
+
+8. Celso Alves Feitosa
+
+9. Egle Prandini Maciotta
+
+10. Francisco Antônio Feijó
+
+11. Paulo Gonçalves da Costa Júnior
+
+12. Vicente do Carmo Sapienza
+
+13. Fernando Moraes Sallaberry
+
+14. Vanessa Pereira Rodrigues Domene
+
+15. Celso Barbosa Julian
+
+16. Eduardo Perez Salusse
+
+1ª CÂMARA JULGADORA
+
+1. Presidente: Fábio Henrique Galinari Bertolucci
+
+2. Vice-Presidente: Samuel Alves Ferreira
+
+3. José Luis Ribeiro Brazuna
+
+4. Ério Humberto Saiani Filho
+
+2ª CÂMARA JULGADORA
+
+1. Presidente: Márcio Roberto Simões Gonçalves Alabarce
+
+2. Vice-Presidente: Samuel Luiz Manzotti Riemma
+
+3. Fernando de Souza Carvalho
+
+4. Osvaldo Santos de Carvalho
+
+3ª CÂMARA JULGADORA
+
+1. Presidente: Argos Campos Ribeiro Simões
+
+2. Vice-Presidente: Edson Takashi Kondo
+
+3. Bráulio da Silva Filho
+
+4. Nelson Paschoal Biazzi
+
+4ª CÂMARA JULGADORA
+
+1. Presidente: Alberto Podgaec
+
+2. Vice-Presidente: César Eduardo Temer Zalaf
+
+3. Casimiro Moisés Rodrigues
+
+4. Rosana Martins Cortez Veloso
+
+5ª CÂMARA JULGADORA
+
+1. Presidente: Fábio Henrique Bordini Cruz
+
+2. Vice-Presidente: Cacilda Peixoto
+
+3. André Felix Ricotta de Oliveira
+
+4. German Alejandro San Martin
+
+6ª CÂMARA JULGADORA
+
+1. Presidente: Durval Ferro Barros
+
+2. Vice-Presidente: Sérgio Approbato Machado
+
+3. Rose Sobral
+
+4. Pasqual Totaro
+
+7ª CÂMARA JULGADORA
+
+1. Presidente: Tiago de Paula Araújo
+
+2. Vice-Presidente: Débora Pulino Sagradi
+
+3. Virgílio Cansino Gil
+
+4. Helder Massaaki Kanamaru
+
+8ª CÂMARA JULGADORA
+
+1. Presidente: Marco Antonio Dias Gandelman
+
+2. Vice-Presidente: José Antonio Khattar
+
+3. Suely Margonato Ribeiro Galerani
+
+4. Antonio Carlos de Moura Campos
+
+9ª CÂMARA JULGADORA
+
+1. Presidente: Marcelo Alves
+
+2. Vice-Presidente: Kátia Ohara Higuti
+
+3. José Dufek Netto
+
+4. Nilton Luiz Bartoli
+
+10ª CÂMARA JULGADORA
+
+1. Presidente: João Carceles
+
+2. Vice-Presidente: Celina Coutinho
+
+3. Raphael Zulli Neto
+
+4. Paulo Roberto Braga Fortuna
+
+11ª CÂMARA JULGADORA
+
+1. Presidente: Rodrigo Frota da Silveira
+
+2. Vice-Presidente: Eliane Pinheiro Lucas Ristow
+
+3. Fábio Ozi
+
+4. Fábio Nieves Barreira
+
+12ª CÂMARA JULGADORA
+
+1. Presidente: André Monteiro Kapritchkoff
+
+2. Vice-Presidente: Adriana Esteves Guimarães
+
+3. Belmar Costa Ferro
+
+4. Flávio Nascimbem de Freitas
+
+13ª CÂMARA JULGADORA
+
+1. Presidente: Oswaldo Faria de Paula Neto
+
+2. Vice-Presidente: João Maluf Júnior
+
+3. Ana Maria Sanches Pereira
+
+4. José Roberto Lapetina
+
+14ª CÂMARA JULGADORA
+
+1. Presidente: Sérgio Ricardo de Almeida
+
+2. Vice-Presidente: Silvana Visitim
+
+3. Denise Ferreira de Oliveira Cheid
+
+4. Inácio Kazuo Yokoyama
+
+15ª CÂMARA JULGADORA
+
+1. Presidente: Fábio Roberto Correa Castilho
+
+2. Vice-Presidente: Maria Cristina Diniz Machado
+
+3. Paulo Tomoyuki Aoki
+
+4. Mara Eugenia Buonanno Caramico
+
+16ª CÂMARA JULGADORA
+
+1. Presidente: Sylvio César Afonso
+
+2. Vice-Presidente: Maria Anselma Coscrato dos Santos
+
+3. Antonio Damasceno Rodrigues
+
+4. Élcio Fiori Henriques
+
+**Artigo 2º.** Divulgar a lista de suplência para a substituição de juiz de Câmara Julgadora, nos eventuais afastamentos e necessárias substituições, permitidas nos termos do
+artigo 60, da Lei nº [13.457](/Paginas/lei13457.aspx), de 18 de março de 2009, regulamentada pelo artigo 49 do Decreto nº [54.486](/Paginas/dec54486.aspx), de 27 de junho de 2.009, observada a seguinte ordem:
+
+**I -** Juízes Servidores
+
+**NOME RG**
+
+1. CARLOS DE OLIVEIRA VIANNA 9.584.785
+
+2. JOÃO CARLOS DE QUEIROZ 5.657.586-5
+
+3. JEFFERSON CHIORO VIEIRA 12.607.595-5
+
+4. RENATO MICHEL BOSSO 22.172.617-2
+
+5. RICARDO CATUNDA DO NASCIMENTO GUEDES 8.787.085-X
+
+6. ARI JOSÉ BRANDÃO 4.436.381
+
+7. CRESO PORTELA DO ROSÁRIO 23.928.817-8
+
+8. CARLOS PINHEIRO DO NASCIMENTO 25.279.700-0
+
+9. SAMUEL DE OLIVEIRA MAGRO 14.632.582
+
+10. GUILHERME CASTANHO AUGUSTO 22.327.437-9
+
+11. BEATRIZ LAZARINI GARCIA 30.275.475-1
+
+12. JORGE JAMIL JAMUR NETO 9.564.951-7
+
+13. MARIA REGINA BERTIM 8.739.751
+
+14. WANDERLEY MEIRA DO NASCIMENTO 7.939.736-0
+
+15. AYRTON CARDOMINGO JUNIOR 15.420.321-X
+
+16. NELSON BIAGI JUNIOR 8.808.743
+
+17. RENATO CIALFI ABBONDANZA 22.452.304-1
+
+18. RITA DE CASSIA APARECIDA GARCIA 8.539.013
+
+19. BALTAZAR GARCIA DE OLIVEIRA 9.646.582-7
+
+20. JOSE CARLOS DE JESUS MEIRELES 8.343.963-8
+
+21. ORESTES MANCINI JUNIOR 4.620.787-9
+
+22. JOSE EDUARDO DE PAULA SARAN 9.403.214
+
+23. HELDER DE AGUIAR ALVES HENRIQUE 9.049.459-3
+
+24. ANA LUCIA IKEDA OBA 9.453.000
+
+25. MEIRE CRISTINA GOES GONÇALVES 16.683.098-7
+
+26. NEWTON OLLER DE MELLO 19.503.752-2
+
+27. CAIO ENGELBERG TEIXEIRA DA SILVA 7.140.670-0
+
+28. REGINA MARIA SARTORI 17.180.755-8
+
+29. SÉRGIO MAIA 4.990.001
+
+30. ELIANA MARIA BARBIERI BERTACHINI 3.182.988
+
+31. FABIO ALVES DA MOTTA 29.546.246-2
+
+32. FERNANDO AUGUSTO DA FONSECA ALECRIM 36.169.033-2
+
+33. RUBENS DE OLIVEIRA NEVES MG 3.315.985
+
+34. TEODORO TADEU DE CARVALHO KUPPER 6.088.185-9
+
+35. JOSE ROBERTO COSTA DOS SANTOS 11.226.761
+
+36. GILBERTO CARLOS DE LIMA 5.306.217-6
+
+37. AILSON LEME SIQUEIRA 3.821.020
+
+38. ANTONIO MENDES CASTILHO 8.201.474
+
+39. CINTIA WATANABE 9.037.612-2
+
+40. LUCIANO CORREA DE TOLEDO 5.799.705
+
+41. CLAUDIA CAVALLARI FERREIRA MARQUES 10.553.112
+
+42. CRISTINA MENDES HANG 11.734.888
+
+43. ALBERTO CUENCA SABIN CASAL 9.822.013
+
+44. CARLA HANDEL MISTRORIGO 9.288.461
+
+45. MARLENE ROSA DAMASCENO OSATO 12.966.894
+
+46. EMANUEL DE ALMEIDA HENRIQUE 12.976.176
+
+47. FELISBERTO QUINTELLA DE CARVALHO 12.689.898
+
+48. SÉRGIO DE CASTRO ABREU 10.713.876
+
+49. JOÃO DIAS YANES 6.618.439
+
+50. JOSE CARLOS CARDOSO SOUZA 11.261.667
+
+51. LUIZ CLAUDIO RODRIGUES DE CARVALHO 15.649.137-0
+
+52. PAULO ANTONIO FERNANDES CAMPILONGO 8.834.284-4
+
+53. RAIMUNDO DA SILVA COSTA 9.945.936
+
+54. SILVINO DIOGO NETO 8.853.404
+
+55. ODILO SOSSOLOTI 5.317.409
+
+56. GUILHERME RODRIGUES SILVA 534.123-0
+
+57. HELOISA HELENA PARRI 13.310.594-5
+
+58. LUCIANO CYRINEU TERRA 11.967.868-8
+
+59. MARCO ANTONIO VECCHI 7.296.847-3
+
+60. LUIZ ANTONIO MORONI AMORIM 14.947.863-X
+
+61. ALBERTO LUIZ ZUCCHI 11.689.806
+
+62. ANTONIO TADEU RIBEIRO 7.998.812
+
+63. CARLOS ALBERTO DA SILVA 17.010.118
+
+64. CARLOS CHEID 5.500.002-2
+
+65. CARLOS ROQUE GOMES 12.587.196
+
+66. DANIEL FERREIRA 3.027.894
+
+67. EDGARD OLIVEIRA BATISTA 6.060.055
+
+68. FERNANDO DOS SANTOS FILHO 7.410.653
+
+69. FRANCISCO DE ASSIS MINE RIBEIRO PAIVA 9.249.648
+
+70. IDELI DALVA FERRARI 4.309.827-7
+
+71. JOÃO CARLOS SANCHES DE OLIVEIRA 5.705.777
+
+72. JOÃO GARIBALDI PARENTE MARTINS DO SANTOS 8.012.407-6
+
+73. JOSE GERALDO DA SILVA BRAGA 5.224.262-6
+
+74. LUIS FERNANDO DOS SANTOS MARTINELLI 21.116.330
+
+75. MARIO WATARU TAKAOKA 20.377.820
+
+76. OSORIO CLAUDIO BORTOLIN 8.291.397
+
+77. PAULO SERGIO DAL MASO 8.711.454
+
+78. PAULO SÉRGIO SIQUEIRA 11.558.750
+
+79. SÉRGIO LUIZ LONGO 19.896.286
+
+80. VERA LUCIA SANTORO 9.010.946
+
+81. CARLOS ALVES QUEIROZ 4.862.594-2
+
+**II -** Juízes Contribuintes
+
+**NOME RG**
+
+1. ROSANA UGOLINI BENATTI DE SIQUEIRA 9.474.773-8
+
+2. CARMINE LOURENÇO DEL GAISO GIANFRANCESCO 10.602.782-7
+
+3. ROBERTO MATEUS ORDINE 2.692.160
+
+4. ODMIR FERNANDES 8.032.059
+
+5. ANDRÉ RICARDO LEMES DA SILVA 23.681.742-3
+
+6. LINDOLFO ALBERTO PIRES DE OLIVEIRA 2.423.169-1
+
+7. RAPHAEL GARÓFALO SILVEIRA 26.280.994-1
+
+8. FABIO SOARES DE MELO 19.456.794-1
+
+9. CARLOS AMERICO DOMENEGHETTI BADIA 8.840.825
+
+10. FLAVIO DE SÁ MUNHOZ 15.165.868
+
+11. JOSÉ CARLOS DA MATA RIVITTI 13.610.604-3
+
+12. EDWAL CASONI DE PAULA FERNANDES JUNIOR 13.244.492-6
+
+13. ISABEL CRISTINA OMIL LUCIANO 19.584.616-3
+
+14. PLINIO AUGUSTO LEMOS JORGE 21.639.515
+
+15. CORIOLANO AURÉLIO DE A. CAMARGO SANTOS 20.871.489-3
+
+16. ANDRÉ ALMEIDA BLANCO 21.932.252-1
+
+17. ATÍLIO PITARELLI 83.337.258
+
+18. ARMANDO CAETANO FERNANDES ALMEIDA 2.070.230
+
+19. CARLOS ALBERTO DAMBROSIO 3.973.937-5
+
+20. THELMA PEREZ SOARES CORREA 10.713.622-3
+
+21. MANOEL MARCELO CAMARGO DE LAET 16.936.685-6
+
+22. LUIZ EDUARDO FERNANDES THOMÉ 8.499.029-6
+
+23. JANAINA MESQUITA LOURENÇO DE SOUZA 23.855.719-4
+
+24. ALESSANDRO ROSTAGNO 1.049.087
+
+25. ARNALDO LONGHI COLONNA 2.576.469-X
+
+26. ARTHUR CORREA DE MELLO NETTO 2.305.500
+
+27. PAULO CARVALHO ENGLER PINTO JÚNIOR 16.528.944
+
+28. ALEX OLIVEIRA RODRIGUES DE LIMA 17.408.948
+
+29. LUIZA NAGIB 18.166.456
+
+30. FLAVIO CASTELLANO 6.167.103
+
+31. GINO BERRETTINI CAMPONES DO BRASIL 22.638.571-1
+
+32. IRENE BISONI CARDOSO 11.808.643
+
+33. JOSÉ AMÉRICO OLIVEIRA DA SILVA 39.682.335-X
+
+34. JOSÉ CABRAL PEREIRA FAGUNDES JÚNIOR 15.186.429
+
+35. MANOEL FERNANDO ROSSA 2.923.833
+
+36. MARAQUEILA ASSADI COSSIGNANI DEVLIN 19.462.095
+
+37. MARIA CAROLINA ANTUNES DE SOUZA 28.287.109-3
+
+38. VALERIA DIAS BEU 11.724.134
+
+39. MARCO ANTÔNIO GOMES BEHRNDT 24.655.036-3
+
+40. ADRIANA DANIELA JULIO MG 5.462.177
+
+41. DANIEL ESCUDEIRO 22.493.113
+
+42. FANIA APARECIDA ROCHA DE OLIVEIRA 17.875.521
+
+43. GILBERTO RODRIGUES PORTO 18.151.262
+
+44. JOSE EDSON CAMPOS MOREIRA 8.381.398-6
+
+45. KLAYTON MUNEHIRO FURUGUEM 18.395.186-4
+
+46. LAERTE AUGUSTO GALIZIA 3.651.043
+
+47. LUIZ STABELINI MINHOTO 5.240.522
+
+48. MARCELO DE CARVALHO RODRIGUES 19.150056-2
+
+49. MARCO AURELIO GUIMARÃES PEREIRA 19.891.550
+
+50. MARCOS MARCELO DE MORAES E MATOS 20.695.078
+
+51. MARIA ISABEL MANTOAN DE OLIVEIRA 7.946.367
+
+52. NIVALDO ARY NOGUEIRA 1.371.660-8
+
+53. PATRIZIA TOMMASINI DE SOUZA COELHO 16.296518-7
+
+54. PAULO AUGUSTO TEIXEIRA DA SILVA 9.211.467
+
+55. PAULO ROBERTO SPIGEL 8.517.882-2
+
+56. PEDRO ANAN JÚNIOR 9.446.779
+
+57. PIEDADE PATERNO 3.640.950
+
+58. SANDRA CORDEIRO MOLINA 21.622.282-5
+
+59. SILMARA VAZ GABRIEL OSORIO DE FONSECA 10.425.373-3
+
+60. SIMONE MASSENZI SAVORDELLI 9.305.193-1
+
+61. TATIANA VITALLI PACHECO 22.914.219-9
+
+62. ACHILES AUGUSTUS CAVALLO 9.581.414
+
+63. MARCUS VINICIUS CALHAU MONTEIRO 166.657.311
+
+**Artigo 2º -** Esta portaria entra em vigor na data de sua publicação.

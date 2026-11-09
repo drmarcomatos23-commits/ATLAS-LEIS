@@ -1,0 +1,39 @@
+---
+titulo: "Portaria CAT 56 de 2008"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Portaria"
+numero: "56"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/pcat562008.aspx"
+id_fonte: "sefazsp-1506979"
+baixado_em: 2026-11-09
+modificado_na_fonte: "2022-05-06T20:06:44Z"
+---
+
+# Portaria CAT 56 de 2008
+
+Portaria CAT - 56, de 24-4-2008
+
+Portaria CAT - 56, de 24-4-2008
+
+(DOE 25-04-2008)
+
+Altera a Portaria [CAT-43/07](/Paginas/pcat432007.aspx), de 26-04-2007, que dispõe sobre a concessão, averbação, alteração, revogação, cassação e extinção de Regimes Especiais previstos nos artigos 479-A e 489 do Regulamento do ICMS
+
+O Coordenador da Administração Tributária,
+com base nos artigos 479-A e 489 do Regulamento do Imposto sobre Operações Relativas à
+Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual
+e Intermunicipal e de Comunicação - RICMS, aprovado pelo Decreto 45.490, de 30 de
+novembro de 2000, expede a seguinte portaria:
+
+**Artigo 1º -** Passa a vigorar
+com a redação que se segue o § 2° do artigo 18 da Portaria [CAT-43/07](/Paginas/pcat432007.aspx), de 26 de abril
+de 2007:
+
+"§ 2° - Os regimes especiais de ofício
+previstos no artigo 489 do Regulamento do ICMS serão concedidos, por prazo determinado de
+até 5 (cinco) anos, mediante despacho fundamentado." (NR).
+
+**Artigo 2º -** Esta portaria entra em vigor na data de sua publicação.

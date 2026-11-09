@@ -8,11 +8,13 @@ data:
 versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
 fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Portaria-SRE-52-de-2026.aspx"
 id_fonte: "sefazsp-1529833"
-baixado_em: 2026-11-07
-modificado_na_fonte: "2026-11-05T07:00:21Z"
+baixado_em: 2026-11-09
+modificado_na_fonte: "2026-11-09T17:19:02Z"
 ---
 
 # Portaria SRE 52 de 2026
+
+​
 
 # PORTARIA SRE 52, DE 28 DE​​ OUTUBRO DE 2026
 
