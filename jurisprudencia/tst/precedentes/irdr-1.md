@@ -9,8 +9,8 @@ situacao: "Acórdão Publicado"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-irdr-1"
-baixado_em: 2026-11-08
-atualizacao_fonte: "07/11/2026"
+baixado_em: 2026-11-09
+atualizacao_fonte: "08/11/2026"
 ---
 
 # Tema de IRDR nº 1 do TST
@@ -58,6 +58,6 @@ Acórdão Publicado
   ],
   "tese": "A recusa arbitrária da entidade sindical patronal ou de qualquer integrante da categoria econômica em participar de processos de negociação coletiva, evidenciada pela ausência reiterada às reuniões convocadas ou pelo abandono imotivado das tratativas, viola a boa-fé objetiva e as Convenções 98 e 154 da OIT, tendo a mesma consequência do comum acordo para a instauração do dissídio coletivo de natureza econômica.<br>",
   "tipo": "IRDR",
-  "ultimaAtualizacao": "07/11/2026"
+  "ultimaAtualizacao": "08/11/2026"
 }
 ```
