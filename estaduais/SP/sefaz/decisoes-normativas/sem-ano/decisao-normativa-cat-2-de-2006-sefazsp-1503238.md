@@ -1,0 +1,279 @@
+---
+titulo: "Decisão Normativa CAT 2 de 2006"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Decisão Normativa"
+numero: "2"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/denorm022006.aspx"
+id_fonte: "sefazsp-1503238"
+baixado_em: 2026-11-10
+modificado_na_fonte: "2024-11-21T11:27:50Z"
+---
+
+# Decisão Normativa CAT 2 de 2006
+
+Decisão Normativa CAT-2, de 10-10-2006
+
+Decisão Normativa CAT-2, de 10-10-2006
+
+( DOE 11-10-2006 )
+
+**Revogada**, a partir de 01-01-2025, pela Decisão Normativa [SRE-03/24](/Paginas/Decisão-Normativa-SRE-3-de-2024.aspx), de 19-11-2024 (DOE 21-11-2024).​​​​​​​​
+
+ICMS - Incidência - Venda de veículos novos e usados por parte de empresas locadoras
+de veículos - Considerações.
+
+O Coordenador da Administração Tributária, tendo em vista o disposto no artigo 522
+do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e
+sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de
+Comunicação - RICMS, aprovado pelo Decreto 45.490, de 30 de novembro de 2000, decide:
+
+**1.**   Fica aprovado o entendimento exarado pela Consultoria
+Tributária, em 21 de setembro de 2006, relativamente ao expediente de n°
+23752-769594/2005, cujo texto é reproduzido em anexo a esta decisão.
+
+**2.**   Como conseqüência, com fundamento no inciso II do artigo
+521 do RICMS, ficam reformadas todas as demais respostas dadas pela Consultoria
+Tributária que, versando sobre a mesma matéria, concluíram de modo diverso.
+
+**3.**   Esta decisão produzirá efeitos a partir de sua
+publicação.
+
+**"Expediente 23752-769594/2005, de 21 de setembro de 2006.**
+
+**1.**   (...) Passamos, a seguir, à análise quanto à incidência
+do ICMS sobre a venda de veículos novos e usados por parte das empresas locadoras de
+veículos, à luz da legislação vigente.
+
+**2.**   De se registrar, preliminarmente, que a atividade de
+locação de veículos (sem motorista) está fora do campo de incidência do ICMS,
+conforme respostas a consultas exaradas em oportunidades anteriores por este órgão
+consultivo. A empresa que tem por objeto exclusivo essa atividade, não é, portanto,
+contribuinte do ICMS, estando desobrigada de inscrição no cadastro de contribuintes do
+imposto e do cumprimento de qualquer obrigação acessória a ele concernente.
+
+**3.**   Adicionalmente, cabe registrar, relativamente à
+conceituação de veículo usado, que o § 2º do artigo 11 do Anexo II do RICMS/00
+dispõe que "será considerada usada a mercadoria que já tiver sido objeto de saída
+com destino a usuário final". No mesmo sentido, a contrário senso, a Lei nº
+6.606/89, que trata do Imposto sobre a Propriedade de Veículos Automotores, ao dispor no
+§ 4º de seu artigo 1º que "considera-se veículo novo aquele que ainda não foi
+objeto de saída para o consumidor final".
+
+**4.**   Em resposta desta Consultoria Tributária à entidade que
+congrega as empresas locadoras de veículos, de interesse de seus associados (Consulta nº
+052/93), foram prolatados os seguintes entendimentos: /
+
+> "5. Entendida a circulação de mercadorias como o seu trajeto entre a produção
+> e o consumo, forçoso concluir que as empresas locadoras de veículos, em relação aos
+> bens que adquirem para integrar o seu ativo imobilizado, localizam-se no ponto final da
+> circulação. Assim, as saídas de veículos integrados em seu ativo imobilizado, a
+> título de simples remanejamento da frota, ainda que ocorram com certa freqüência, ou as
+> vendas esporádicas dos veículos após o uso a que se destinaram, por si só, não
+> caracterizam circulação de mercadorias, como elemento necessário para a configuração
+> do fato gerador do ICMS.
+>
+> 6. Por essa razão, enquanto adstritas às operações que lhe são próprias, as
+> empresas locadoras de veículos não se personificam como contribuintes do ICMS,
+> ressalvados os casos de importação, (RICMS, artigo 2º, inciso V), hipótese em que o
+> requisito da habitualidade não é exigido para caracterizar a sujeição passiva (RICMS,
+> artigo 9º, § 2º).
+>
+> 7. Concluindo, no exercício da atividade de locadoras de veículos, estarão as
+> associadas da consulente fora do campo de incidência do ICMS, não tendo qualquer
+> obrigação perante a legislação do tributo estadual, quer quanto à inscrição no seu
+> cadastro de contribuintes, quer quanto à emissão de documento fiscal para acompanhar o
+> transporte ou a movimentação dos veículos."
+
+**5.**   Conforme se verifica do item 5 da resposta ora transcrita,
+"as vendas esporádicas dos veículos após o uso a que se destinaram, por si só,
+não caracterizam circulação de mercadorias, como elemento necessário para a
+configuração do fato gerador do ICMS" (g.n.).
+
+**5.1**   Por outro lado, o artigo 9º do RICMS/00 prevê que
+"contribuinte do imposto é qualquer pessoa, natural ou jurídica, que de modo
+habitual ou em volume que caracterize intuito comercial, realize operações relativas à
+circulação de mercadorias ou preste serviços de transporte interestadual ou
+intermunicipal ou de comunicação (Lei 6.374/89, art. 7º, na redação da Lei 9.399/96,
+art. 1°, III)" (g.n.).
+
+**6.**   Entretanto, mesmo que as operações de venda dos veículos
+usados sejam realizadas de modo habitual ou em volume que caracterize intuito comercial,
+configurando a existência de um contribuinte do imposto e a realização de operações
+de circulação de mercadorias, conforme artigo 4º, VI, da Lei 6.374/89, reproduzido pelo
+artigo 7º, XIV, do RICMS/00, o imposto não incide sobre a saída de bem do ativo
+permanente.
+
+**7.**   A NBC T 3.2, aprovada pela Resolução CFC nº 686/90, do
+Conselho Federal de Contabilidade, prevê em seu subitem 3.2.2.10, III, que:
+
+> "3.2.2. 10 - As contas que compõem o ativo devem ser agrupadas, segundo sua
+> expressão qualitativa, em:
+> (...)
+> III - Permanente
+> São os bens e direitos não destinados à transformação direta em meios de pagamento e
+> cuja perspectiva de permanência na entidade ultrapasse um exercício. São constituídos
+> pelos seguintes subgrupos:
+> a) Investimentos
+> (...)
+> b) Imobilizado
+> São os bens e direitos, tangíveis e intangíveis, utilizados na consecução das
+> atividades-fins da entidade.
+> c) Diferido
+> (...)" (g.n.).
+
+**8.**   Complementarmente, a NBC T 19.1, aprovada pela Resolução
+CFC nº 1.025/05, prevê em seu subitem 19.1.2, 19.1.2.4, que:
+
+> "19.1.2. DEFINIÇÕES
+> (...)
+> 19.1.2.4 Ativo imobilizado, objeto desta norma, compreende os ativos tangíveis que:
+> a) são mantidos por uma entidade para uso na produção ou na comercialização de
+> mercadorias ou serviços, para locação, ou para finalidades administrativas;
+> b) têm a expectativa de serem utilizados por mais de doze meses;
+> c) haja a expectativa de auferir benefícios econômicos em decorrência da sua
+> utilização; e
+> (...)."
+
+**9**  . Dos dispositivos transcritos nos itens 7 e 8, entendemos que
+é a própria empresa, ao adquirir bens, que vai decidir quanto ao destino a ser dado a
+eles: por exemplo, se vai destiná-los à locação ou à venda. Também é a própria
+empresa, que vai dimensionar o horizonte de tempo no qual pretende manter o bem em seu
+poder para fins de definição quanto à contabilização ou não em seu ativo permanente.
+
+**9.1**   Ora, tendo em vista que o ativo permanente divide-se em
+"Investimentos", "Imobilizado" e "Diferido", e que no
+"Imobilizado" são contabilizados "os bens e direitos, tangíveis e
+intangíveis, utilizados na consecução das atividades-fins da entidade",
+depreende-se que se a empresa, que tem por atividade- fim a locação de veículos, decide
+destinar os bens que adquire à venda (nesse caso entendemos que o bem adquirido por
+destinar-se à realização deveria ser contabilizado ou no ativo circulante ou no ativo
+realizável a longo prazo, dependendo do prazo esperado de realização), não deveria
+contabilizá- los no ativo permanente. Por outro lado, se decide destinálos à locação
+e tem perspectiva de permanecer com o bem na entidade por mais de 12 meses, entendemos que
+deveria contabilizá- los no ativo permanente, no subgrupo "Imobilizado".
+
+**9.2**   Portanto, em conformidade com os dispositivos transcritos
+nos itens 7 e 8 da presente, entendemos corretamente contabilizado o bem no ativo
+permanente, subgrupo imobilizado, da empresa quando satisfeitas as seguintes condições:
+i) não for destinado à realização, ou seja, não for destinado "à
+transformação direta em meios de pagamento";
+ii) seja utilizado "na consecução das atividades-fins" da empresa;
+iii) seja, como regra, efetivamente utilizado nas atividadesfins da empresa por prazo
+superior a 12 meses;
+iv) "haja a expectativa de auferir benefícios econômicos em decorrência de sua
+utilização".
+
+**10.**   Se destinados diretamente à revenda, por certo que há
+incidência do ICMS nas correspondentes operações, sem maiores considerações quanto à
+correção de sua contabilização no balanço da empresa. Por outro lado, se observado
+procedimento por parte das empresas locadoras de veículos que caracterize a existência
+de habitualidade ou volume que caracterize intuito comercial, na comercialização de
+veículos originalmente contabilizados no ativo permanente da empresa, antes de
+transcorrido o prazo de permanência superior a 12 meses, entendemos que as operações de
+revenda desses bens (que foram mantidos pela empresa por prazo inferior ao exigido para
+contabilização no ativo permanente) estarão sujeitas à incidência do imposto.
+
+**11.**   De forma prática, então, entendemos possíveis as
+seguintes situações relativamente à hipótese sob análise, com o respectivo tratamento
+tributário, sem prejuízo de outras que possam vir a ocorrer:
+
+**11.1**   Se a empresa de locação adquire veículo novo, de
+fabricante, não para destiná-lo à sua atividade-fim (a locação de veículos), mas
+para revenda, entendemos que nessa condição estará atuando como revendedora de
+veículos novos, sendo aplicável, nesse caso, a substituição tributária prevista no
+artigo 301 do RICMS/00 e a alíquota de 12% prevista no artigo 54, X, do mesmo
+regulamento.
+
+**11.2**   Se a empresa de locação adquire os veículos diretamente
+de fabricante, como usuária final (sujeita, portanto, à alíquota de 12% do imposto,
+conforme artigo 54, X, e § 3º, 2, do RICMS/00), para utilização em sua atividade de
+locação, contabilizando- os em seu ativo permanente, e os revende antes de transcorrido
+prazo superior a 12 meses, contado da data de sua contabilização no ativo permanente,
+há que se verificar se esta é prática habitual da empresa ou se é feita em volume que
+caracterize intuito comercial.
+
+**11.2.1**   Se tais vendas são feitas com habitualidade ou em volume
+que caracterize intuito comercial, haverá incidência normal do ICMS sobre as operações
+correspondentes, cabendo observar que não se aplicará a redução de base de cálculo do
+imposto prevista no artigo 11 do Anexo II do RICMS/00 (saída de veículos usados), em
+razão do disposto no item 1 do § 1º do mesmo artigo ("o benefício fica
+condicionado a que a operação da qual tiver decorrido a entrada não tenha sido onerada
+pelo imposto"), tendo em vista que a operação de aquisição do veículo
+diretamente de fabricante por usuário final é operação tributada. 11.2.2 Nesse caso, a
+alíquota aplicável será de 18%, prevista no inciso I do artigo 52 do RICMS/00 e haverá
+direito ao crédito integral do imposto que onerou a operação de entrada do veículo no
+estabelecimento da empresa locadora de veículos.
+
+**11.3**   Se, na hipótese colocada no subitem 11.2, o veículo for
+revendido após transcorrido o prazo superior a 12 meses, contado da data de sua
+contabilização no ativo permanente, tratar-se-á de saída de ativo permanente, sem
+incidência de imposto (artigo 4º, VI, da Lei 6.374/89, reproduzido pelo artigo 7º, XIV,
+do RICMS/00) e, conseqüentemente, sem direito a qualquer crédito decorrente da
+operação de entrada.
+
+**11.4**   Se o estabelecimento da empresa de locação, que efetua as
+vendas dos veículos, recebe, em transferência, veículo usado, de outro estabelecimento
+seu (com mesmo CNPJ base, portanto), situado neste ou em outro Estado, veículo esse
+efetivamente utilizado na atividade de locação e corretamente lançado na contabilidade
+da empresa como ativo permanente (ver subitem 9.2), não há que se falar na incidência
+do imposto na sua posterior saída do estabelecimento (artigo 4º, VI, da Lei 6.374/89,
+reproduzido pelo artigo 7º, XIV, do RICMS/00), nem em qualquer direito a crédito (mesmo
+que o bem tenha procedido de outro Estado, que onere com o imposto a transferência de
+ativo permanente).
+
+**11.4.1**   Ressalte-se que no nosso entendimento não perde a
+condição de ativo permanente o bem que, corretamente lançado na contabilidade da
+empresa (ver subitem 9.2), seja objeto de transferência de um estabelecimento para outro
+(estabelecimentos com mesmo CNPJ base).
+
+**11.4.2**   Por outro lado, se a empresa de locação recebe os
+veículos de outra empresa (ainda que do mesmo grupo empresarial e ainda que usados na
+atividade de locação e corretamente contabilizados no ativo permanente da empresa
+remetente) para posterior revenda, não há que se falar em transferência de veículos,
+que pressupõe estabelecimentos de mesma titularidade (mesmo CNPJ base), e sim em
+aquisição. Nesse caso, as posteriores saídas desses veículos serão regularmente
+tributadas pelo imposto; a aplicação da redução de base de cálculo prevista no inciso
+I do artigo 11 do Anexo II do RICMS/00 dependerá da satisfação dos requisitos e
+condições nele fixados. A alíquota aplicável será de 18%, prevista no inciso I do
+artigo 52 do RICMS/00, e, sem qualquer direito a crédito.
+
+**11.5**   Uma outra situação seria aquela em que o veículo é
+remetido pela empresa locadora para outra empresa para venda em consignação
+(disciplinada nos artigos 465 a 469 do RICMS/00). Nesse caso, a incidência ou não do
+imposto na saída do estabelecimento da empresa de locação (consignante) com destino ao
+estabelecimento da empresa consignatária dependerá da existência de habitualidade ou
+volume que caracterize intuito comercial e da correta classificação do bem no ativo
+permanente da empresa (ver subitem 9.2).
+
+**11.5.1**   Caso os veículos tenham sido corretamente contabilizados
+no ativo permanente da empresa de locação não há que se falar em incidência do
+imposto nas suas saídas com destino ao estabelecimento da empresa consignatária nem em
+direito a qualquer crédito em decorrência da aquisição do veículo pela empresa de
+locação, tendo em vista tratar-se realmente de saída de bem do ativo permanente.
+
+**11.5.2**   De outra sorte, caso os veículos tenham sido
+incorretamente contabilizados no ativo permanente da empresa e sejam remetidos em
+consignação de forma habitual ou em volume que caracterize intuito comercial, haverá
+incidência do ICMS sobre as saídas dos veículos a título de consignação mercantil,
+devendo ser observadas, nesse caso, as disposições constantes dos artigos 465 a 469 do
+RICMS/00. A aplicação da redução de base de cálculo prevista no artigo 11 do Anexo II
+do RICMS/00 dependerá da satisfação dos requisitos e condições nele fixados. A
+alíquota aplicável será de 18%, prevista no inciso I do artigo 52 do RICMS/00, e,
+quanto ao direito ao crédito, dependerá da tributação das operações correspondentes
+às entradas dos veículos.
+
+**11.6**   Por fim, caso a empresa de locação tenha por prática a
+comercialização de veículos aceitando veículo do adquirente, pessoa natural ou
+jurídica não obrigada à emissão de documentos fiscais, como parte do pagamento (à
+base de troca), a posterior revenda de tal veículo estará sujeita à incidência normal
+do imposto. Nesse caso, a empresa de locação se revestirá da condição de
+contribuinte, devendo emitir a Nota Fiscal correspondente à entrada do bem em seu
+estabelecimento, conforme artigo 136, I, "a", do RICMS/00. A base de cálculo do
+imposto poderá ser reduzida em 95% (noventa e cinco por cento), nos termos do inciso I do
+artigo 11 do Anexo II do RICMS/00, desde que satisfeitos os requisitos e condições nele
+fixados. A alíquota aplicável será de 18%, prevista no inciso I do artigo 52 do
+RICMS/00, e, sendo a entrada do veículo no estabelecimento não tributada, não há que
+se falar em direito a qualquer crédito dela decorrente."

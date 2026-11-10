@@ -1,0 +1,85 @@
+---
+titulo: "Decisão Normativa CAT 14 de 2009"
+uf: "SP"
+orgao: "Secretaria da Fazenda e Planejamento de SP"
+tipo: "Decisão Normativa"
+numero: "14"
+data:
+versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
+fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/denorm142009.aspx"
+id_fonte: "sefazsp-1503306"
+baixado_em: 2026-11-10
+modificado_na_fonte: "2022-05-06T20:32:59Z"
+---
+
+# Decisão Normativa CAT 14 de 2009
+
+Decisão Normativa CAT- 14, de 2-10-2009
+
+Decisão Normativa CAT- 14, de 2-10-2009
+
+(DOE 03-10-2009)
+
+ICMS - Substituição tributária - saída de mercadoria, com imposto retido, de estabelecimento substituído (atacadista ou varejista) com destino a estabelecimento de fabricante - crédito do imposto
+
+O Coordenador da Administração Tributária, tendo em vista o disposto no artigo 522 do Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS/2000, aprovado pelo Decreto 45.490, de 30 de novembro de 2000, decide aprovar o seguinte entendimento:
+
+1. Tratando-se de operações internas sujeitas ao regime
+jurídico da substituição tributária, quando um estabelecimento
+atacadista ou varejista que recebeu mercadorias com o imposto
+retido antecipadamente (substituído) der saída dessa mercadoria
+com destino a estabelecimento de fabricante localizado neste
+Estado, aplica-se o seguinte:
+> a) na hipótese de a base de cálculo do imposto devido por
+> substituição tributária ter sido fixada nos termos do artigo 40-A
+> do Regulamento do ICMS - RICMS/2000, abaixo transcrito, o
+> estabelecimento substituído (remetente da mercadoria para
+> o estabelecimento fabricante) poderá ressarcir-se do imposto
+> correspondente à diferença entre o valor que serviu de base de
+> cálculo para a retenção antecipada e o valor da operação de
+> saída efetivamente praticada, conforme previsto no artigo 269,
+> I, também do RICMS/2000:
+>
+> “Artigo 40-A - No caso de sujeição passiva por substituição
+> com retenção antecipada do imposto, a base de cálculo será o
+> preço final a consumidor, único ou máximo, autorizado ou fixado
+> por autoridade competente.”;
+>
+> b) nas demais hipóteses em que a base de cálculo do
+> imposto devido por substituição tributária tenha sido determinada
+> de forma diversa a da prevista no referido artigo 40-A do
+> RICMS/2000, o estabelecimento substituído (remetente da mercadoria
+> para o estabelecimento fabricante) não poderá efetuar
+> o ressarcimento, e nem lhe será exigido o complemento, do valor
+> do imposto relativo à diferença entre o valor que serviu de base
+> de cálculo para a retenção antecipada e o valor da operação
+> de saída efetivamente praticada, conforme previsto nos artigos
+> 265, I, e 269, § 6º, do RICMS/2000;
+>
+> c) o estabelecimento de fabricante (destinatário), por sua
+> vez, quando destinar a mercadoria recebida do estabelecimento
+> substituído à integração ou consumo em processo de industrialização
+> de outro produto, poderá creditar-se do valor do imposto
+> relativo à entrada da referida mercadoria, conforme previsto no
+> artigo 272 do RICMS/2000, abaixo transcrito:
+>
+> “Artigo 272 - O contribuinte que receber, com imposto retido,
+> mercadoria não destinada a comercialização subseqüente,
+> aproveitará o crédito fiscal, quando admitido, calculando-o
+> mediante aplicação da alíquota interna sobre a base de cálculo
+> que seria atribuída à operação própria do remetente, caso estivesse
+> submetida ao regime comum de tributação.”.
+
+2. O aproveitamento do crédito fiscal pelo estabelecimento
+de fabricante referido no item anterior será admitido:
+> a) nos termos e condições previstos nos artigos 59 a 68 do
+> RICMS/2000;
+>
+> b) quando a saída do produto resultante do processo de
+> industrialização for tributada ou, não o sendo, haja expressa
+> previsão de manutenção do crédito do imposto;
+>
+> c) no montante que resultar da aplicação da alíquota
+> interna sobre a base de cálculo que seria atribuída à operação
+> própria do estabelecimento atacadista, caso essa operação
+> estivesse submetida ao regime comum de tributação pelo ICMS.
