@@ -6,9 +6,9 @@ numero: "139"
 data:
 versao_texto: "compêndio oficial em PDF do TJ-SP"
 fonte: "https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # Súmula 139 do TJ-SP
 
-Súmula 139 - A gratificação de representação do Tribunal de J ustiça da Lei 10.261/1968 tem caráter específico.
+Súmula 139 - A gratificação de representação do Tribunal de Justiça da Lei 10.261/1968 tem caráter específico.

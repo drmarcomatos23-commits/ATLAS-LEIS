@@ -6,9 +6,9 @@ numero: "88"
 data:
 versao_texto: "compêndio oficial em PDF do TJ-SP"
 fonte: "https://www.tjsp.jus.br/Download/Portal/Biblioteca/Biblioteca/Legislacao/SumulasTJSP.pdf"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # Súmula 88 do TJ-SP
 
-Súmula 88 : Reiteradas decisões contrárias aos interesses do excipiente, no estrito exercício da atividade jurisdicional, não t ornam o juiz excepto suspeito para o julgamento da causa.
+Súmula 88 : Reiteradas decisões contrárias aos interesses do excipiente, no estrito exercício da atividade jurisdicional, não tornam o juiz excepto suspeito para o julgamento da causa.
