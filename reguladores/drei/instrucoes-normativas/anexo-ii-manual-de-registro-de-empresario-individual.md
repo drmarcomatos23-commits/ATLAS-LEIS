@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-ii-empresario-individual_link.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Anexo II - Manual de Registro de Empresário Individual
@@ -146,12 +146,12 @@ documento será exigido, além dos abaixo especificados, conforme o caso:
 
 1.1. REQUERIMENTO (CAPA DO PROCESSO)
 Os pedidos de registro serão levados a arquivamento mediante requerimento
-dirigido ao  Presidente da Junta Comercial, assinado pelo empresário, procurador, com
+dirigido ao Presidente da Junta Comercial, assinado pelo empresário, procurador, com
 poderes gerais ou espe cíficos, ou por terceiro interessado obrigatoriamente identificado
 (nome completo por extenso, CPF, e-mail e telefone).
 
 Nota: No caso de registro digital não é necessária a utilização desse requerimento, podendo
-o sistema  eletrônico utilizado pela Junta Comercial consolidar os dados do ato levado a
+o sistema eletrônico utilizado pela Junta Comercial consolidar os dados do ato levado a
 arquivamento e  solicitar a assinatura digital do requerente.
 
 1.2. PROCURAÇÃO
@@ -210,11 +210,11 @@ processo.
 1.5. CONSULTA DE VIABILIDADE DEFERIDA EM UMA VIA OU PESQUISA DE NOME
 EMPRESARIAL (BUSCA PRÉVIA)
 Deverá ser apresentada juntamente com os instrumentos de inscrição e alteração,
-neste úl timo caso quando houver modificação  do nome empresarial, objeto social e/ou
+neste úl timo caso quando houver modificação do nome empresarial, objeto social e/ou
 endereço.
 Quando necessária, deverá ser apresentada juntamente com os instrumentos de
 inscrição e alteração, neste último caso quando houver modificação do nome empresarial,
-objeto social e/ou  endereço. (Redação dada pela Instrução Normativa DREI nº 55, de 2 de
+objeto social e/ou endereço. (Redação dada pela Instrução Normativa DREI nº 55, de 2 de
 junho de 2021)
 
 Nota: Caso a Junta Comercial utilize sistema de integração entre os órgãos de registro e
@@ -228,12 +228,12 @@ de junho de 2021)
 II. Nos termos da Resolução nº 61, de 2020, do CGSIM, a pesquisa prévia de nome
 empresarial será dispensada na hipótese de a pessoa jurídica optar por utilizar o número do
 Cadastro Nacional de Pessoa Jurídica - CNPJ como nome empresarial, seguido da partícula
-identificadora do tipo societário.  (Incluído pela Instrução Normativa  DREI nº  55, de  2 de
+identificadora do tipo societário. (Incluído pela Instrução Normativa DREI nº 55, de 2 de
 junho de 2021)
 III. Para os fins do inciso II, quando se tratar de constituição, o titular deverá indicar no ato
 constitutivo que irá utilizar o número do CNPJ como nome empresarial. Por sua vez, cabe à
 Junta Comercial, após a criação do CNPJ, atualizar o cadastro da empresa com o número do
-CNPJ acrescido da  partícula identificadora do tipo societário. (Incluído pela Instrução
+CNPJ acrescido da partícula identificadora do tipo societário. (Incluído pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021)
 IV. Em se tratando de viabilidade locacional, deverão ser observados os casos de dispensa
 
@@ -247,7 +247,7 @@ legalização de empresas, que permita transmissão eletrônica dos dados, fica 
 apresentação deste documento.
 Quando necessário, deverá ser apresentado juntamente com os instrumentos de
 inscrição, alteração e extinção, nos dois últimos casos quando houver modiﬁcação do nome
-empresarial, objeto social, endereço, capital social e/ou nome do empresário.  (Redação
+empresarial, objeto social, endereço, capital social e/ou nome do empresário. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 1.7. COMPROVANTE DE PAGAMENTO (GUIA DE RECOLHIMENTO DA JUNTA COMERCIAL)
@@ -273,21 +273,21 @@ apresentação deste documento em apartado.
 9
 2. ATOS SUJEITOS A APROVAÇÃO DE ÓRGÃOS E ENTIDADES GOVERNAMENTAIS
 À título de ilustração, as atividades elencadas abaixo não são passíveis de exigências
-quando da análise do registro pelas Juntas Comerciais , conforme parágrafo único do art.
-35 da Lei  nº 8.934, de 1994. Contudo, dependem de aprovação prévia para seu
+quando da análise do registro pelas Juntas Comerciais, conforme parágrafo único do art.
+35 da Lei nº 8.934, de 1994. Contudo, dependem de aprovação prévia para seu
 funcionamento, devendo, portanto, ser observada as respectivas legislações. (Redação dada
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Nos termos art. 9º da Instrução Normativa DREI nº 81, de 2020, o arquivamento
 dos instrumentos de inscrição, alteração e extinção de empresário individual que contenham
 atividades reguladas por órgãos públicos, não depende de autorização governamental,
 contudo, as Juntas Comerciais deverão realizar comunicação aos órgãos públicos que
-demonstrarem interesse, nos termos do § 1º do art. 35 da Lei nº 8.934, de 1994.  (Redação
+demonstrarem interesse, nos termos do § 1º do art. 35 da Lei nº 8.934, de 1994. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 O empresário individual que depende de aprovação prévia de órgãos públicos
 para o funcionamento (início da atividade), deve observar as respectivas legislações.
 (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 O DREI disponibilizará em seu portal eletrônico listagem com os "ATOS SUJEITOS
-A APROVAÇÃO  DE ÓRGÃOS  E ENTIDADES  GOVERNAMENTAIS PARA
+A APROVAÇÃO DE ÓRGÃOS E ENTIDADES GOVERNAMENTAIS PARA
 FUNCIONAMENTO contendo informações gerais sobre as atividades reguladas. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
@@ -302,7 +302,7 @@ pela Instrução Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 2.1. Atos de empresários que atuam em faixa de Fronteira
 Os atos de inscrição e as alterações, inclusive abertura de filiais na Faixa de Fronteira,
 não dependem de assentimento prévio para que possam ser registrados pela Junta Comercial,
-conforme previsão do parágrafo único do art. 35 da Lei nº 8.934,  de 1994, e do art.  42 do
+conforme previsão do parágrafo único do art. 35 da Lei nº 8.934, de 1994, e do art. 42 do
 
 10
 Decreto nº 85.064, de 26 de agosto de 1980, com redação dada pelo Decreto nº 11.076, de
@@ -311,7 +311,7 @@ Decreto nº 85.064, de 26 de agosto de 1980, com redação dada pelo Decreto nº
 2.1.1. Alterações que impliquem na modificação da composição do capital
 Para os fins do disposto no art. 5º da Lei nº 6.634, de 1979, as Juntas Comerciais,
 quando do pedido de arquivamento de alterações que impliquem modificação da
-composição do capital, deverão  solicitar as seguintes declarações, conforme modelo
+composição do capital, deverão solicitar as seguintes declarações, conforme modelo
 disponibilizado no Capítulo VI desse Manual:
 
 I - na hipótese de empresário individual, cujo objeto seja radiodifusão sonora ou de sons e
@@ -348,7 +348,7 @@ IV - Na ausência da declaração prevista na alínea "b" dos incisos I, II e II
 item 2.1.1, o arquivamento deve ser colocado em exigência.
 V - As Juntas Comerciais promoverão o arquivamento dos atos de alteração de
 empresário individual; contudo, após o deferimento deverão realizar comunicação à
-autoridade competente, nos termos do art. 49 -B do Decreto nº 85.064, de 26 de agosto de
+autoridade competente, nos termos do art. 49-B do Decreto nº 85.064, de 26 de agosto de
 1980.
 
 2.1.2. Procedimento de bloqueio
@@ -369,11 +369,11 @@ irregularidade apontada pelo órgão federal controlador.
 Para fins de atender a disposição contida nos arts. 10 e 17 do Decreto nº 85.064, de
 
 12
-1980, os  empresários titulares de outorga para exploração de serviços de radiodifusão
+1980, os empresários titulares de outorga para exploração de serviços de radiodifusão
 sonora e de sons e imagens ou execução das atividades de pesquisa, de lavra, de exploração
-e de aproveitamento de recursos  minerais, inclusive de lavra garimpeira, na Faixa de
+e de aproveitamento de recursos minerais, inclusive de lavra garimpeira, na Faixa de
 Fronteira, deverão arquivar formulário padronizado, em código de ato e evento específico,
-apresentando os dados referentes à(s) pessoa(s) natural(is)  considerada(s) beneficiária(s)
+apresentando os dados referentes à(s) pessoa(s) natural(is) considerada(s) beneficiária(s)
 final(is), quando exigível em regulamento específico da Secretaria Especial da Receita Federal
 do Brasil do Ministério da Economia.
 
@@ -409,12 +409,12 @@ Somente brasileiro poderá ser titular de empresário individual de navega-
 ção de cabotagem. Tratando-se de sociedade empresária, cinquenta por
 art. 178, parágrafo único, da Constituição
 Federal; e
-cento mais uma quota ou ação, no mínimo, deverão pertencer a brasilei -
-ros. Em qualquer caso, a administração deverá ser constituída com a mai -
+cento mais uma quota ou ação, no mínimo, deverão pertencer a brasilei-
+ros. Em qualquer caso, a administração deverá ser constituída com a mai-
 oria de brasileiros, ou a brasileiros deverão ser delegados todos os poderes
 de gerência.
 
-art. 1º, alíneas "a" e "b" e art. 2º do De -
+art. 1º, alíneas "a" e "b" e art. 2º do De-
 creto-lei nº 2.784, 20 de novembro de
 1940.
 
@@ -426,13 +426,13 @@ As empresas jornalísticas e as empresas de radiodifusão sonora e de sons
 e imagens deverão ser de propriedade privativa de brasileiros natos ou
 naturalizados há mais de dez anos, aos quais caberá a responsabilidade
 por sua administração e orientação intelectual. É vedada a participação de
-pessoa jurídica no capital social, exceto a de partido político e de socie -
+pessoa jurídica no capital social, exceto a de partido político e de socie-
 dade cujo capital pertença exclusiva e nominalmente a brasileiros. Tal par-
 ticipação só se efetuará através de capital sem direito a voto e não poderá
 exceder a trinta por cento do capital social. Tratando-se de estrangeiro de
 nacionalidade portuguesa, segundo o Estatuto de Igualdade, são vedadas
-a responsabilidade e a orientação intelectual e administrativa, em empre -
-sas jornalísticas e de empresas de radiodifusão sonora e de sons e ima -
+a responsabilidade e a orientação intelectual e administrativa, em empre-
+sas jornalísticas e de empresas de radiodifusão sonora e de sons e ima-
 gens.
 
 arts. 12, § 1º, e 222 e §§, da Constituição
@@ -440,7 +440,7 @@ Federal; e
 Lei nº 10.610, de 20 de dezembro 2002.
 EMPRESAS DE MINERAÇÃO E DE ENERGIA HIDRÁULICA
 
-A pesquisa e a lavra de recursos minerais e o aproveitamento dos poten -
+A pesquisa e a lavra de recursos minerais e o aproveitamento dos poten-
 ciais de energia hidráulica somente poderão ser efetuados mediante au-
 torização ou concessão da União, no interesse nacional, por brasileiros ou
 empresa constituída sob as leis brasileiras e que tenha sua sede e adminis-
@@ -451,18 +451,18 @@ SISTEMA FINANCEIRO NACIONAL
 
 Não havendo autorização específica do governo brasileiro, é vedada a ins-
 talação, no país, de novas agências de instituições financeiras domiciliadas
-no exterior. É igualmente vedado o aumento do percentual de participa -
+no exterior. É igualmente vedado o aumento do percentual de participa-
 ção de pessoas físicas ou jurídicas residentes ou domiciliadas no exterior
-no capital de instituições financeiras com sede no país, sem a referida au -
+no capital de instituições financeiras com sede no país, sem a referida au-
 torização. O governo brasileiro poderá emitir decreto autorizando, de
 forma específica, as condutas descritas acima, quando resultantes de acor-
-dos internacionais, de reciprocidade, ou quando for de interesse do Go -
+dos internacionais, de reciprocidade, ou quando for de interesse do Go-
 verno brasileiro.
 Nota: Nos termos do Decreto nº 10.029, de 2019, o Banco Central do Brasil
 fica autorizado a reconhecer como de interesse do Governo brasileiro:
-I - a instalação, no País, de novas agências de instituições financeiras do -
+I - a instalação, no País, de novas agências de instituições financeiras do-
 miciliadas no exterior; e
-II - o aumento do percentual de participação, no capital de instituições fi -
+II - o aumento do percentual de participação, no capital de instituições fi-
 nanceiras com sede no País, de pessoas físicas ou jurídicas residentes ou
 domiciliadas no exterior.
 O reconhecimento de interesse dependerá do atendimento aos requisitos
@@ -483,10 +483,10 @@ SOCIEDADE ANÔNIMA - QUALQUER ATIVIDADE
 
 O imigrante poderá ser membro dos órgãos de administração, contudo,
 somente poderá ser diretor e membro de conselho fiscal se residir no Bra-
-sil. A posse dos membros dos órgãos de administração residentes ou do -
+sil. A posse dos membros dos órgãos de administração residentes ou do-
 miciliados no exterior fica condicionada à constituição de representante
-residente no País. A subsidiária integral terá como único acionista socie -
-dade brasileira. Tratando-se de grupo de sociedades, a sociedade contro -
+residente no País. A subsidiária integral terá como único acionista socie-
+dade brasileira. Tratando-se de grupo de sociedades, a sociedade contro-
 ladora, ou de comando do grupo, deverá ser brasileira.
 
 arts. 146, 162 e 251 da Lei nº 6.404, de 15
@@ -502,8 +502,8 @@ FAIXA DE FRONTEIRA (Redação dada pela Instrução Normativa DREI nº
 EMPRESA DE RADIODIFUSÃO SONORA E DE SONS E IMAGENS
 O capital da empresa de radiodifusão sonora e de sons e imagens, na faixa
 de fronteira, pertencerá somente a pessoas físicas brasileiras. A responsa-
-bilidade e orientação intelectual e administrativa caberão somente a bra -
-sileiros. As quotas ou ações representativas do capital social serão inalie -
+bilidade e orientação intelectual e administrativa caberão somente a bra-
+sileiros. As quotas ou ações representativas do capital social serão inalie-
 náveis e incaucionáveis a estrangeiros ou a pessoas jurídicas.
 A propriedade de empresa jornalística e de radiodifusão sonora e de sons
 e imagens é privativa de brasileiros natos ou naturalizados há mais de dez
@@ -522,21 +522,21 @@ de fronteira. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 
 EMPRESA DE MINERAÇÃO
-A sociedade empresária  de mineração  deverá fazer constar expressa-
+A sociedade empresária de mineração deverá fazer constar expressa-
 mente de seu estatuto ou contrato social que, pelo menos, cinquenta e
 um por cento do seu capital pertencerá a brasileiros e que a administração
 ou gerência caberá sempre a maioria de brasileiros, assegurados a estes
 poderes predominantes. No caso de empresário individual, só a brasileiro
-será permitido o estabelecimento ou exploração das atividades de mine -
+será permitido o estabelecimento ou exploração das atividades de mine-
 ração na faixa de fronteira. A administração ou gerência caberá sempre a
 brasileiros, sendo vedada a delegação de poderes, direção ou gerência a
-estrangeiros, ainda que por procuração outorgada pela sociedade ou em -
+estrangeiros, ainda que por procuração outorgada pela sociedade ou em-
 presário individual.
 A sociedade empresária de mineração deverá fazer constar
 expressamente de seu estatuto ou contrato social que, pelo menos,
 cinquenta e um por cento do seu capital pertencerá a brasileiros e que a
-administração ou gerência caberá sempre a maioria de brasile iros,
-assegurados a estes poderes predominantes. (Redação dada  pela
+administração ou gerência caberá sempre a maioria de brasileiros,
+assegurados a estes poderes predominantes. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Na faixa de Fronteira, as empresas que se dedicarem às atividades
 deverão, obrigatoriamente, satisfazer às seguintes condições: (Redação
@@ -561,13 +561,13 @@ arts. 10, 15, 17, 18 e 23 do Decreto  nº
 será permitido o estabelecimento ou exploração das atividades de
 mineração na faixa de fronteira. A administração ou gerência caberá
 sempre a brasileiros, sendo vedada a delegação de poderes, direção ou
-gerência a estrangeiros, ainda que por procuração out orgada pela
-sociedade ou empresário individual. (Redação dada  pela Instrução
+gerência a estrangeiros, ainda que por procuração outorgada pela
+sociedade ou empresário individual. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 EMPRESA DE COLONIZAÇÃO E LOTEAMENTOS RURAIS
 Salvo assentimento prévio do órgão competente, será vedada, na Faixa de
-Fronteira, a prática dos atos referentes a: colonização e loteamentos ru -
+Fronteira, a prática dos atos referentes a: colonização e loteamentos ru-
 rais. Na Faixa de Fronteira, as empresas que se dedicarem às atividades
 acima, deverão obrigatoriamente ter pelo menos cinquenta e um por
 cento pertencente a brasileiros e caber à administração ou gerência à mai-
@@ -634,10 +634,10 @@ VI - CPF; e
 VII - endereço completo.
 
 4. NÃO PODEM SER EMPRESÁRIOS
-I - o menor de dezesseis anos e as pessoas relativamente incapazes, salvo quando autori -
+I - o menor de dezesseis anos e as pessoas relativamente incapazes, salvo quando autori-
 zados judicialmente para continuação da empresa (art. 974 do Código Civil);
 II - os impedidos de ser empresário (art. 972 do Código Civil), tais como:
-a) os membros do Poder Legislativo, como Senadores, Deputados Federais e Estaduais  e
+a) os membros do Poder Legislativo, como Senadores, Deputados Federais e Estaduais e
 Vereadores, se a empresa “gozar de favor decorrente de contrato com pessoa jurídica                     de
 direito público, ou nela exercer função remunerada” (art. 54, II, “a” e art. 29, IX, da CF);
 b) os Magistrados (art. 36, inciso I, Lei Complementar nº 35, de 14 de março 1979);
@@ -647,32 +647,32 @@ de 9 de fevereiro de 2005);
 e) as pessoas condenadas a pena que vede, ainda que temporariamente, o acesso a cargos
 públicos; ou por crime falimentar, de prevaricação, peita ou suborno, concussão, peculato;
 ou contra a economia popular, contra o sistema financeiro nacional, contra as normas de
-defesa da concorrência, contra as relações de consumo, a fé pública ou a  propriedade,
+defesa da concorrência, contra as relações de consumo, a fé pública ou a propriedade,
 enquanto perdurarem os efeitos da condenação (art. 1.011, § 1º, do Código Civil);
-f) os leiloeiros cujo objeto exceda a leiloaria (art. 36, letra “a” 2º, do Decreto nº 21.981,  de
-19 de outubro de 1932 c/c art. 53 da Instrução Normativa DREI nº 72, de 19 de de - zembro
+f) os leiloeiros cujo objeto exceda a leiloaria (art. 36, letra “a” 2º, do Decreto nº 21.981, de
+19 de outubro de 1932 c/c art. 53 da Instrução Normativa DREI nº 72, de 19 de de- zembro
 
 18
 de 2019);
-g) os cônsules, nos seus distritos, salvo os não remunerados (art. 22, parágrafo único,  do
+g) os cônsules, nos seus distritos, salvo os não remunerados (art. 22, parágrafo único, do
 Decreto nº 24.239, de 22 de dezembro 1934; art. 48 do Decreto nº 24.113, de 12 de abril de
 1934, e art. 42 do Decreto nº 3.259, de 11 de abril de 1899);
-h) os médicos, em atividade, para o exercício simultâneo da farmácia (Decreto nº  20.931,
-de 11 de janeiro de 1932, art. 16, alínea “g” combinado com os arts. 68 e 69 do  Código de
+h) os médicos, em atividade, para o exercício simultâneo da farmácia (Decreto nº 20.931,
+de 11 de janeiro de 1932, art. 16, alínea “g” combinado com os arts. 68 e 69 do Código de
 Ética Médica); os farmacêuticos, para o exercício simultâneo da medicina;
-i) os servidores públicos civis da ativa, federais, inclusive Ministros de Estado e ocupan - tes
-de cargos públicos comissionados em geral (art. 117, inciso X, Lei nº 8.112/90 e art.  5º da
+i) os servidores públicos civis da ativa, federais, inclusive Ministros de Estado e ocupan- tes
+de cargos públicos comissionados em geral (art. 117, inciso X, Lei nº 8.112/90 e art. 5º da
 Portaria Normativa MPOG nº 6, de 2018). Em relação aos servidores estaduais e municipais
 observar a legislação respectiva;
-j) os servidores militares da ativa das Forças Armadas e das Polícias Militares (art. 29  da Lei
+j) os servidores militares da ativa das Forças Armadas e das Polícias Militares (art. 29 da Lei
 nº 6.880, de 9 de dezembro de 1980); e
 k) os imigrantes, para o exercício das seguintes atividades:
 1. pesquisa ou lavra de recursos minerais ou de aproveitamento dos potenciais de energia
 hidráulica (art. 176, § 1º, da CF);
 2. atividade jornalística e de radiodifusão sonora e de sons e imagens; (art. 222, § 1º, da CF e
 art. 2º da Lei nº 10.610, de 20 de dezembro 2002); e
-3. serem proprietários ou armadores de embarcação nacional, inclusive nos serviços  de
-navegação fluvial e lacustre, exceto embarcação de pesca (art. 178 da CF e arts.  1º e 2º do
+3. serem proprietários ou armadores de embarcação nacional, inclusive nos serviços de
+navegação fluvial e lacustre, exceto embarcação de pesca (art. 178 da CF e arts. 1º e 2º do
 Decreto-Lei nº 2.784, de 20 de novembro de 1940).
 
 4.1. REPRESENTAÇÃO DO EMPRESÁRIO - PROCURADOR
@@ -753,7 +753,7 @@ Para a utilização do número do CNPJ como nome empresarial, deve ser levado em
 
 21
 conta apenas o número raiz, ou seja, os oito primeiros dígitos do CNPJ e, ao final ser indicado
-o nome  civil do empresário, de forma completa (NN.NNN.NNN + Nome do Empresário na
+o nome civil do empresário, de forma completa (NN.NNN.NNN + Nome do Empresário na
 base CPF).
 Em se tratando de constituição ou alteração, o empresário deverá indicar no
 instrumento que irá utilizar o número do CNPJ como nome empresarial. O nome empresarial
@@ -771,16 +771,16 @@ contrário aos bons costumes, à ordem pública ou à moral.
 Deverá indicar com precisão e clareza as atividades a serem desenvolvidas pelo
 empresário, podendo ser descrito por meio de códigos integrantes da estrutura da
 Classificação Nacional de Atividades Econômicas (CNAE), desde que os referidos código não
-sejam genéricos (Exemplo: pode  ser utilizado: 8592 -9/03 - Ensino de música; não pode ser
+sejam genéricos (Exemplo: pode ser utilizado: 8592-9/03 - Ensino de música; não pode ser
 utilizado: 8599-6/99 - Outras atividades de ensino não especificadas anteriormente, 4619-
-2/00 Representantes comerciais e agentes do co- mércio de  mercadorias em geral não
+2/00 Representantes comerciais e agentes do co- mércio de mercadorias em geral não
 especificado).
 Não havendo CNAE específico, obrigatoriamente, o objeto deverá ser descrito de
 forma clara e precisa, não sendo permitido a utilização de CNAE de forma exclusiva como
-descrição do objeto.  Assim, juntamente com a indicação de CNAE genérico deverá ser
+descrição do objeto. Assim, juntamente com a indicação de CNAE genérico deverá ser
 realizada a descrição das ativida- des que serão desenvolvidas. (Exemplo: pode ser utilizado
-o CNAE genérico para ESC: 6499 -9/99 - outras atividades financeiras não especificadas
-anteriormente; contudo na descrição do objeto  deve conter: realização de operações de
+o CNAE genérico para ESC: 6499-9/99 - outras atividades financeiras não especificadas
+anteriormente; contudo na descrição do objeto deve conter: realização de operações de
 empréstimo, de financiamento e de desconto de títulos de crédito, exclusivamente com
 recursos próprios).
 Deverá indicar as atividades a serem desenvolvidas pelo empresário, podendo ser
@@ -843,7 +843,7 @@ que trata o inciso II deste subitem.
 II. A comprovação do enquadramento/reenquadramento ou desenquadramento como de
 microempresa ou empresa de pequeno porte será efetuada mediante certidão expedida
 pela Junta Comercial.
-III. Importante observar o § 4º do art. 3º da Lei Complementar nº 123, de 2006, que  prevê
+III. Importante observar o § 4º do art. 3º da Lei Complementar nº 123, de 2006, que prevê
 as vedações para o enquadramento como microempresa (ME) e empresa de pequeno porte
 (EPP), in verbis: (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
@@ -857,7 +857,7 @@ II - que seja ﬁlial, sucursal, agência ou representação, no País, de pesso
 no exterior;
 III - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de
 outra empresa que receba tratamento jurídico diferenciado nos termos desta Lei
-Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso  II
+Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II
 do caput deste artigo;
 IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra
 empresa não beneﬁciada por esta Lei Complementar, desde que a receita bruta global
@@ -880,9 +880,9 @@ relação de pessoalidade, subordinação e habitualidade.
 § 5o O disposto nos incisos IV e VII do § 4o deste artigo não se aplica à participação no capital
 de cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação,
 no consórcio referido no art. 50 desta Lei Complementar e na sociedade de propósito
-especíﬁco prevista no art. 56 de sta Lei Complementar, e em associações assemelhadas,
+especíﬁco prevista no art. 56 desta Lei Complementar, e em associações assemelhadas,
 sociedades de interesse econômico, sociedades de garantia solidária e outros tipos de
-sociedade, que tenham como objetivo social a defesa exclusiva dos intere sses econômicos
+sociedade, que tenham como objetivo social a defesa exclusiva dos interesses econômicos
 das microempresas e empresas de pequeno porte
 
 25
@@ -910,7 +910,7 @@ seu assistente. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de
 
 7.2. ASSINATURA DA FIRMA PELO EMPRESÁRIO (ou pelo representante/assistente)
 Nos termos do art. 968, II, do Código Civil deve constar a firma (nome empresarial),
-com a  respectiva assinatura autógrafa, poderá ser substituída pela assinatura autenticada
+com a respectiva assinatura autógrafa, poderá ser substituída pela assinatura autenticada
 com certificação digital ou meio equivalente que comprove a sua autenticidade, ressalvado o
 disposto no inciso I do § 1º do art. 4º da Lei Complementar nº 123, de 2006.
 A assinatura autógrafa poderá ser diversa da assinatura pessoal do empresário
@@ -985,7 +985,7 @@ averbação; ou
 c) por decisão judicial: original ou cópia da certidão de nascimento com averbação.
 
 2. ALTERAÇÃO
-A deliberação do empresário que  contiver alteração do instrumento de inscrição
+A deliberação do empresário que contiver alteração do instrumento de inscrição
 poderá ser efetivada por instrumento público ou particular, independentemente da forma
 que se houver revestido o respectivo ato de inscrição.
 
@@ -1009,7 +1009,7 @@ c) a resolução de promover a alteração do instrumento de inscrição;
 a) nova redação das cláusulas alteradas, expressando as modificações introduzidas;
 b) redação das cláusulas incluídas;
 c) indicação das cláusulas suprimidas; e
-d)consolidação opcional, exceto em caso de reativação e transferência de sede para  outra
+d)consolidação opcional, exceto em caso de reativação e transferência de sede para outra
 unidade da federação, casos em que a consolidação se torna obrigatória;
 d) consolidação opcional, exceto em casos de reativação, transferência de sede para
 outra unidade da federação e conversão, casos em que a consolidação se torna
@@ -1018,7 +1018,7 @@ obrigatória; (Redação dada pela Instrução Normativa DREI nº 01, de 24 de j
 Nota: A consolidação consiste na versão atualizada do instrumento de inscrição, ou seja,
 deverá reﬂetir todas as modiﬁcações realizadas por meio do ato alterador, pois consolidar é
 fazer constar em um único instrumento todas as cláusulas (corpo do instrumento de
-inscrição) que já faziam parte do  instrumento e as que foram alteradas, inseridas e/ou
+inscrição) que já faziam parte do instrumento e as que foram alteradas, inseridas e/ou
 suprimidas. Não é obrigatório o preâmbulo na consolidação.
 
 IV - fecho.
@@ -1030,7 +1030,7 @@ IV - fecho.
 O empresário individual pode modificar sua firma, devendo ser observada as regras
 constantes do item 5.1 da Seção I deste Capítulo.
 A alteração do nome civil do empresário enseja a modificação do nome empresarial.
-A alteração de nome empresarial da sede estende -se, automaticamente, às suas
+A alteração de nome empresarial da sede estende-se, automaticamente, às suas
 filiais, exigindo-se a apresentação de consulta de viabilidade prévia de todas as UF envolvidas
 (sede e filiais).
 A consulta de viabilidade prévia de nome empresarial poderá ser dispensada quando
@@ -1067,7 +1067,7 @@ e assinatura do suces sor, mantido o CNPJ e os demais dados da empresa.
 No caso de inventário já encerrado, seja o judicial ou extrajudicial, e havendo a
 sucessão do empresário, não deverá ser qualiﬁcado no preâmbulo o espólio e o
 inventariante, em virtude do encerramento do inventário. Logo, o herdeiro já será
-qualiﬁcado no p reâmbulo do instrumento, na condição de sucessor. O instrumento de
+qualiﬁcado no preâmbulo do instrumento, na condição de sucessor. O instrumento de
 alteração deve ser assinado pelo sucessor. Logo, não deve ser exigida a assinatura do
 inventariante, que deixou de existir em virtude do encerramento do inventário, e
 consequentemente do espólio. (Redação dada pela Instrução Normativa DREI nº 01, de 24
@@ -1084,8 +1084,8 @@ Nesses casos, precederá autorização judicial, a qual poderá ser revogada pel
 prejuízo dos direitos adquiridos por terceiros.
 Se o representante ou assistente do incapaz for pessoa que, por disposição de lei, não
 puder                    exercer atividade de empresário, nomeará, com a aprovação do juiz, um ou mais
-gerentes. Essa  nomeação, devidamente autorizada, deverá ser arquivada na Junta
-Comercial, caso não conste da  autorização judicial para continuação da empresa pelo
+gerentes. Essa nomeação, devidamente autorizada, deverá ser arquivada na Junta
+Comercial, caso não conste da autorização judicial para continuação da empresa pelo
 incapaz. Do mesmo modo será nomeado gerente em todos os casos em que o juiz entender
 ser conveniente.
 Nota: No caso de incapaz assistido deverá constar a sua assinatura em conjunto com a do
@@ -1126,7 +1126,7 @@ no exterior;
 33
 III - de cujo capital participe pessoa física que seja inscrita como empresário ou seja sócia de
 outra empresa que receba tratamento jurídico diferenciado nos termos desta Lei
-Complementar, desde que a receita bruta global ultrapasse o limite de que trata o in ciso II
+Complementar, desde que a receita bruta global ultrapasse o limite de que trata o inciso II
 do caput deste artigo;
 IV - cujo titular ou sócio participe com mais de 10% (dez por cento) do capital de outra
 empresa não beneﬁciada por esta Lei Complementar, desde que a receita bruta global
@@ -1176,7 +1176,7 @@ de alteração para transferência da sede.
 Não sendo realizada a pesquisa prévia ou proteção do nome empresarial e, havendo
 coli- dência na Junta Comercial da outra unidade da federação, após deferido o ato de
 transferência pela Junta Comercial da sede anterior, deverão ser apresentados para
-arquivamento dois processos,  sendo um correspondente à transferência da sede e outro
+arquivamento dois processos, sendo um correspondente à transferência da sede e outro
 referente à alteração do nome empresa- rial.
 O empresário deverá promover o arquivamento da alteração do instrumento de
 inscrição, com consolidação, quando revestir a forma particular; ou da certidão de inteiro
@@ -1191,13 +1191,13 @@ Havendo colidência, será necessário alterar o nome do empresário individual 
 junta em que está registrada, podendo essa mudança ser efetuada no próprio instrumento
 
 35
-de alteração para transferência da sede.  (Redação dada pela Instrução Normativa DREI nº
+de alteração para transferência da sede. (Redação dada pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 Não sendo realizada a pesquisa prévia ou proteção do nome empresarial e, havendo
 colidência na Junta Comercial da outra unidade da federação, após deferido o ato de
 transferência pela Junta Comercial da sede anterior, deverão ser apresentados para
 arquivamento dois processos, sendo um correspondente à transferência da sede e outro
-referente à alteração do nome empresarial.  (Redação dada pela Instrução Normativa DREI
+referente à alteração do nome empresarial. (Redação dada pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
 
 4.7.2. Providências na Junta Comercial de destino
@@ -1232,7 +1232,7 @@ instru mento de inscrição do empresário.
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser apresentada uma
 FCN, assim como deverá ser apresentada uma FCN individualizada para a sede quando da
 alteração do instrumento de inscrição constar, além dos atos relativos a filiais, alteração de
-outras cláusulas cujos dados sejam objeto de cadastramento.  (Revogado pela Instrução
+outras cláusulas cujos dados sejam objeto de cadastramento. (Revogado pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021)
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser apresentada uma
 FCN, assim como deverá ser apresentada uma FCN individualizada para a sede quando da
@@ -1242,12 +1242,12 @@ Normativa DREI nº 112, de 20 de janeiro de 2022)
 
 4.8.1. Dados Obrigatórios
 É obrigatória, em relação a filial aberta, a indicação do endereço completo (tipo e
-nome do  logradouro, número, complemento, bairro/distrito, município, unidade da
+nome do logradouro, número, complemento, bairro/distrito, município, unidade da
 federação e CEP) e, nos casos de alteração, transferência ou extinção, também o seu CNPJ.
 
 4.8.2. Dados Facultativos
 Quando houver mais de um estabelecimento, é facultativa a indicação de objeto para
-o estabelecimento  sede ou para a filial, porém, quando efetuada, deverá reproduzir os
+o estabelecimento sede ou para a filial, porém, quando efetuada, deverá reproduzir os
 termos do texto do objeto da empresa, integral ou parcialmente.
 
 Notas:
@@ -1264,7 +1264,7 @@ objeto social.
 
 4.8.3. Filial em outra Unidade da Federação
 Quando se tratar de filial em outra unidade da federação, o arquivamento do ato
-deve ser  promovido exclusivamente na Junta Comercial da sede, uma vez que após o
+deve ser promovido exclusivamente na Junta Comercial da sede, uma vez que após o
 deferimento do ato, os dados relativos à sede e filial serão encaminhados eletronicamente
 para Junta Comercial da outra Unidade da Federação.
 Contudo, antes de dar entrada da documentação na Junta Comercial da sede da
@@ -1283,7 +1283,7 @@ emissão da certidão de inteiro teor, se for o caso.
 4.8.4. Filial em outro País
 A abertura, a alteração e a extinção de filial devem ser promovidas, primeiramente
 na Junta  Comercial da sede. Em seguida, o ato deve ser complementado com o
-arquivamento da documentação  própria no órgão de registro do outro país, observada a
+arquivamento da documentação própria no órgão de registro do outro país, observada a
 legislação local.
 Nota: É obrigatória, em relação a filial aberta, a indicação do endereço completo da
 filial no exterior e, quando for o caso, os caracteres dos vocábulos da língua estrangeira
@@ -1294,7 +1294,7 @@ SEÇÃO III
 EXTINÇÃO
 O ato de extinção poderá adotar a forma de escritura pública ou instrumento
 particular, independentemente da forma de que se houver revestido o ato de constituição.
-O arquivamento do ato  de extinção do Empresário Individual implica extinção  das filiais
+O arquivamento do ato de extinção do Empresário Individual implica extinção das filiais
 existentes.
 
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
@@ -1323,7 +1323,7 @@ III - fecho, seguido da assinatura.
 3. EXTINÇÃO POR FALECIMENTO DO EMPRESÁRIO
 Para a baixa da inscrição na Junta Comercial é necessário o instrumento de extinção
 de em presário, firmado por:
-I - inventariante, caso o inventário não esteja concluído, anexando em  cópia o termo de
+I - inventariante, caso o inventário não esteja concluído, anexando em cópia o termo de
 nomeação juntamente com autorização do juiz para a prática do ato; ou
 II - herdeiro(s), caso o inventário/partilha esteja concluído, com a apresentação de cópia da
 escritura pública de partilha de bens.
@@ -1355,7 +1355,7 @@ Nota: Somente os requerimentos de averbação de pré-penhora feita pelo exequen
 quotas; formal/escritura de partilha feito por cônjuge ou herdeiro para conservação de
 direitos e oposição a terceiros; bem como outras decisões judiciais, são exceção à regra do
 artigo 46 do Decreto nº 1.800, de 1996, de legitimados que podem requerer o arquivamento
-de documento de interesse na Junta Comercial. (Redação dada pela Instrução  Normativa
+de documento de interesse na Junta Comercial. (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 
 1. CONTRATO DE ALIENAÇÃO, USUFRUTO OU ARRENDAMENTO DE ESTABELECIMENTO
@@ -1369,7 +1369,7 @@ finalidade fazer prova que o interessado detém a exclusividade sobre algum prod
 serviço, deverá aten- der os seguintes requisitos:
 I - o documento deverá ser produzido pelo agente concedente da exclusividade sobre o
 produto ou sobre o serviço, na forma de “Carta de Exclusividade”, ou; documento que ateste
-ser o interessado o único fornecedor de determinado produto ou serviço, emitido  pelo
+ser o interessado o único fornecedor de determinado produto ou serviço, emitido pelo
 Sindicato, Federação ou Confederação Patronal pertinente à categoria;
 II - pelo menos uma via do documento deverá ser original; e
 III - o documento oriundo do exterior, além atender os itens I e II acima, deverá também
@@ -1387,8 +1387,8 @@ Cabe à Junta Comercial efetuar a anotação pertinente (cadastro), alterando o 
 empre sarial para inserir a expressão “em recuperação judicial” ou “falido”, conforme o caso,
 não podendo   a empresa, após a anotação, cancelar o seu registro.
 Na recuperação judicial, a Junta Comercial poderá arquivar alterações do
-instrumento de  inscrição, desde que não importem em alienação de bens do ativo
-permanente, salvo com autorização  do Juiz competente ou aqueles relacionados no plano
+instrumento de inscrição, desde que não importem em alienação de bens do ativo
+permanente, salvo com autorização do Juiz competente ou aqueles relacionados no plano
 de recuperação judicial.
 
 4. DECISÕES JUDICIAIS E ADMINISTRATIVAS
@@ -1396,7 +1396,7 @@ As ordens judiciais dirigidas à Junta Comercial, pelo respectivo juízo, terão
 anotado nos cadastros do empresário.
 Quando se tratar de decisão de natureza transitória, como as liminares, antecipação
 de tutela, ou cautelar, esta será arquivada, com anotação do seu teor nos cadastros do
-empresário, acompanhado de informação de  que se  trata de decisão revogável,  não
+empresário, acompanhado de informação de que se trata de decisão revogável, não
 definitiva.
 As decisões administrativas que, por força de Lei, sejam dirigidas à Junta Comercial
 terão seu teor anotado nos cadastros do empresário.
@@ -1413,7 +1413,7 @@ I. O registro das decisões judiciais ensejará a alteração imediata do cadast
 42
 independentemente do registro do ato de alteração contratual.
 II. A alteração dos dados cadastrais do empresário será realizada mediante anotação
-de que a alteração ocorreu  por força de decisão judicial (Decreto nº 10.173, de 13 de
+de que a alteração ocorreu por força de decisão judicial (Decreto nº 10.173, de 13 de
 dezembro de 2019).
 
 43
@@ -1422,7 +1422,7 @@ MICROEMPREENDEDOR INDIVIDUAL - MEI
 O Microempreendedor Individual – MEI é o empresário individual que se enquadre
 na definição do art. 966 do Código Civil, ou o empreendedor que exerça as atividades de
 industrialização, comercialização e prestação de serviços no âmbito rural, que tenha
-auferido receita bruta, no ano - calendário anterior, de até R$ 81.000,00 (oitenta e um mil
+auferido receita bruta, no ano- calendário anterior, de até R$ 81.000,00 (oitenta e um mil
 reais), que seja optante pelo Simples Nacional e que não esteja impedido nos termos da Lei
 Complementar nº 123, de 2006.
 
@@ -1434,7 +1434,7 @@ Nota: Os procedimentos de alteração e baixa de empresário enquadrado como
 microempreende- dor individual – MEI serão realizados, exclusivamente, pelo Portal do
 Empreendedor, exceto no caso de alteração de nome empresarial de empresário inscrito e
 enquadrado na condição de MEI pelo Portal do Empreendedor no período de 1º de julho de
-2009 a 8 de fevereiro de 2010, assim como  de empresário que optar pela condição de MEI
+2009 a 8 de fevereiro de 2010, assim como de empresário que optar pela condição de MEI
 por intermédio do Portal do Simples Nacional.
 Nota: Os procedimentos de alteração e baixa de empresário individual enquadrado como
 microempreendedor individual - MEI serão realizados, exclusivamente, pelo Portal do
@@ -1447,11 +1447,11 @@ Os dados constantes de arquivos eletrônicos recebidos do Portal do Empreendedor
 pelas Juntas Comerciais, pertinentes à inscrição, alteração e extinção de empresários
 enquadrados como microempreendedores individuais, assim como as comunicações de
 enquadramentos e de desenquadramentos referentes a essa condição, efetuadas pela
-Secretaria da Receita Federal do Brasil,  em cumprimento ao disposto em Resolução do
-CGSIM, deverão ser mantidos no respectivo Cadas  tro Estadual de Empresas vinculados ao
+Secretaria da Receita Federal do Brasil, em cumprimento ao disposto em Resolução do
+CGSIM, deverão ser mantidos no respectivo Cadas tro Estadual de Empresas vinculados ao
 
 44
-cadastro do empresário a que se refiram, de forma a preservar a sua individualidade,  com
+cadastro do empresário a que se refiram, de forma a preservar a sua individualidade, com
 integridade.
 Os dados dos arquivos recebidos deverão, também, ser incorporados ao cadastro do
 empre sário de forma a permitir a atualização cadastral dos dados dele constantes.
@@ -1472,7 +1472,7 @@ O Microempreendedor Individual poderá se desenquadrar, por opção, a qualquer
 tempo. Contudo, a data do desenquadramento produzirá efeitos a partir de 1º de janeiro do
 ano-calendário, se comunicado no próprio mês de janeiro, ou, a partir de 1º de janeiro do
 ano-calendário subsequente, se comunicado nos demais meses.
-O Microempreendedor Individual está obrigado a retirar -se do Simei, mediante
+O Microempreendedor Individual está obrigado a retirar-se do Simei, mediante
 comunicação no Portal Simples Nacional, quando incorrer em uma das situações abaixo,
 sendo a data do efeito aplicada conforme legislação daquele órgão:
 I - o faturamento do Microempreendedor Individual ultrapassa o valor permitido;
@@ -1487,7 +1487,7 @@ VI - quando adotar uma natureza jurídica diferente de Empresário Individual (t
 ção).
 
 Realizado o processo de desenquadramento da condição de MEI:
-I - os atos de alteração e extinção continuarão a ser praticados pelo Portal do Empreende -
+I - os atos de alteração e extinção continuarão a ser praticados pelo Portal do Empreende-
 dor até à data anterior à data efeito do respectivo evento de desenquadramento, quando
 essa for data futura;
 I - os atos de alteração e extinção continuarão a ser realizados pelo Portal do Empreendedor
@@ -1495,7 +1495,7 @@ até uma data anterior à data em que o desenquadramento terá efeito, se essa d
 futura; (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 II - a partir da data efeito a que se refere o inciso anterior, os atos de alteração e extinção do
 empresário, antes praticados pelo Portal do Empreendedor, passarão a ser protocoliza- dos e
-arquivados diretamente na Junta Comercial, devendo, o primeiro ato, ser instruído  com
+arquivados diretamente na Junta Comercial, devendo, o primeiro ato, ser instruído com
 cópia do desenquadramento mediante comunicação do interessado ou de ofício;
 II - a partir da data em que o desenquadramento produzirá efeito, os atos de alteração e
 extinção do empresário, que antes eram feitos pelo Portal do Empreendedor, serão
@@ -1512,12 +1512,12 @@ procederá arquivamento, na Junta Comercial, de documentos de formalização dos
 tivos atos, como segue:
 
 Motivo do desenquadramento Providência na Junta Comercial
-375 – SIMEI – Desenquadramento do SIMEI por co -
-municação do contribuinte - Natureza jurídica ve -
+375 – SIMEI – Desenquadramento do SIMEI por co-
+municação do contribuinte - Natureza jurídica ve-
 dada
 Protocolar processo de transformação de empresário para ou-
 tra natureza jurídica
-376 – SIMEI – Desenquadramento do SIMEI por co -
+376 – SIMEI – Desenquadramento do SIMEI por co-
 municação do contribuinte - Atividade econômica ve-
 dada
 
@@ -1529,7 +1529,7 @@ municação do contribuinte - Abertura de filial Protocolar processo de abertura
 
 5. REFLEXOS DO CANCELAMENTO DA INSCRIÇÃO DO MICROEMPREENDEDOR INDIVIDUAL –
 MEI INADIMPLENTE
-O cancelamento do MEI de que trata o § 15 -B do art. 18-A da Lei Complementar nº
+O cancelamento do MEI de que trata o § 15-B do art. 18-A da Lei Complementar nº
 123, de 2006, nos termos estabelecidos por Resolução do CGSIM, implicará na extinção do
 registro do MEI na respectiva Junta Comercial, sem cobrança de preço.
 A Junta Comercial somente poderá proceder de ofício à extinção do registro do MEI
@@ -1541,7 +1541,7 @@ ato administrativo.
 5.1. NÃO COMUNICAÇÃO PELA RFB
 Excepcionalmente, na hipótese de não envio ou de não recebimento da relação dos
 MEI que tiveram as inscrições canceladas pela Secretaria da Receita Federal do Brasil, a Junta
-Comercial po - derá utilizar o Certificado da condição de Microempreendedor Individual -
+Comercial po- derá utilizar o Certificado da condição de Microempreendedor Individual -
 CCMEI como documento comprobatório do cancelamento do registro do MEI.
 Excepcionalmente, na hipótese de não envio ou de não recebimento da relação dos
 MEI que tiveram as inscrições canceladas pela Secretaria da Receita Federal do Brasil, a Junta
@@ -1550,7 +1550,7 @@ como documento comprobatório do cancelamento do registro do MEI. (Redação dad
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 O interessado deverá apresentar o pedido de reconhecimento de baixa de forma
 simplificada, inclusive admitida a redução a termo de pedido verbal, juntando o CCMEI
-emitido pelo portal do empreendedor, que  será protocolado  e arquivado  pela Junta
+emitido pelo portal do empreendedor, que será protocolado e arquivado pela Junta
 Comercial.
 Após protocolar a solicitação, a Junta Comercial deverá consultar no Portal do
 Empreendedor, verificar se a situação contida no CCMEI é BAIXADA e se os demais dados
@@ -1572,9 +1572,9 @@ NOME DO EMPRESÁRIO (EMPRESA SIMPLES DE CRÉDITO, SE FOR O CASO)
 
 (NOME DO EMPRESÁRIO), (NACIONALIDADE), (ESTADO CIVIL - indicar união estável, se for o caso),
 (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA), se solteiro, [emancipado (se o titular
-for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro, (Comple -
+for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro, (Comple-
 mento), (Município) - (UF), CEP, [se for o caso, representado, neste ato, por seu (PROCURADOR),
-(NOME DO REPRESENTANTE ), (NACIONALIDADE), (ESTADO CIVIL - indicar união estável, se for o
+(NOME DO REPRESENTANTE), (NACIONALIDADE), (ESTADO CIVIL - indicar união estável, se for o
 caso), (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA), se solteiro, nº do CPF, RESIDENTE
 E DOMICILIADO no(a): (Logradouro), Bairro, (Complemento), (Município) - (UF), CEP].
 Resolve constituir-se como Empresário Individual, mediante as seguintes cláusulas: (art. 968, I, do
@@ -1617,7 +1617,7 @@ nômicas: (Descrição precisa e detalhada do objeto).
 Cláusula Quarta - O Empresário Individual terá por objeto o exercício das seguintes atividades eco-
 nômicas: (Descrição do objeto). (Redação dada pela Instrução Normativa DREI nº 55, de 2 de junho
 de 2021)
-Parágrafo único. Em estabelecimento eleito como Sede (Matriz) será(ão) exercida(s) a(s) ativi -
+Parágrafo único. Em estabelecimento eleito como Sede (Matriz) será(ão) exercida(s) a(s) ativi-
 dade(s) de (Descrição precisa e detalhada do objeto social, conforme o objeto da empresa de forma
 parcial ou integral).
 OU
@@ -1681,7 +1681,7 @@ DO OBJETO
 Cláusula Quarta - O Empresário Individual terá por objeto o exercício das seguintes atividades eco-
 nômicas: (Descrição do objeto).
 
-Parágrafo único . Em estabelecimento eleito como Sede (Matriz) será(ão) exercida(s) a(s) ativi -
+Parágrafo único. Em estabelecimento eleito como Sede (Matriz) será(ão) exercida(s) a(s) ativi-
 dade(s) de (Descrição do objeto, conforme o objeto da empresa de forma parcial ou integral).
 
 DO NOME FANTASIA
@@ -1727,7 +1727,7 @@ Empresário Individual no país e não estar impedido de exercer atividade empre
 especial, ou em virtude de condenação criminal, ou por se encontrar sob os efeitos dela, a pena que
 vede, ainda que temporariamente, o acesso a cargos públicos; ou por crime falimentar, de
 prevaricação, peita ou suborno, concussão, peculato, ou contra a economia popular, contra o
-sistema ﬁnanceiro nacional, contra normas de defe sa da concorrência, contra as relações de
+sistema ﬁnanceiro nacional, contra normas de defesa da concorrência, contra as relações de
 consumo, fé pública, ou a propriedade.
 
 52
@@ -1737,21 +1737,21 @@ __ª ALTERAÇÃO DO INSTRUMENTO DE INSCRIÇÃO
 (NOME DO EMPRESÁRIO)
 (NOME DO EMPRESÁRIO), (NACIONALIDADE), (ESTADO CIVIL - indicar união estável, se for o caso),
 (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA), se solteiro, [emancipado (se o titular
-for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro, (Comple -
-mento), (Município) - (UF), CEP, [se for o caso, representado, neste ato,  por seu (PROCURA-
+for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro, (Comple-
+mento), (Município) - (UF), CEP, [se for o caso, representado, neste ato, por seu (PROCURA-
 DOR), (NOME DO REPRESENTANTE), (NACIONALIDADE), (ESTADO CIVIL - indicar união estável,
 se for o caso), (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA), se solteiro, nº do CPF,
 RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro, (Complemento), (Município) - (UF), CEP],
-na qualidade de titular da ( NOME EMPRESARIAL), com sede na (tipo e nome do logradouro, nº,
+na qualidade de titular da (NOME EMPRESARIAL), com sede na (tipo e nome do logradouro, nº,
 com- plemento, bairro, município/cidade, UF e CEP), com registro nessa Junta Comercial, inscrito
 no CNPJ sob o nº , resolve:
 OU
-(NOME DO EMPRESÁRIO ), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, se fo caso, a
+(NOME DO EMPRESÁRIO), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, se fo caso, a
 união estável), (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA), solteiro, [emancipado
-(se o titular for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO  no(a): (Logradouro), Bairro,
+(se o titular for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro,
 (Complemento), (Município) - (UF), CEP, [s for o caso, representado, neste ato, por seu
-(PROCURADOR), (NOME DO  REPRESENTANTE), (NACIONALIDADE), (ESTADO  CIVIL - indicar,
-também, se for o caso união  estável), (REGIME DE BENS - se casado), nascido em
+(PROCURADOR), (NOME DO REPRESENTANTE), (NACIONALIDADE), (ESTADO CIVIL - indicar,
+também, se for o caso união estável), (REGIME DE BENS - se casado), nascido em
 (DD/MM/AAAA), se solteiro nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro), Bairro,
 (Complemento (Município) - (UF), CEP].
 Na qualidade de Empresário Individual inscrito sob o nome empresarial (NOME EMPRESARIAL),
@@ -1902,16 +1902,16 @@ termos da Lei Complementar nº 182, de 2021.
 MODELO 2: (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
  ª ALTERAÇÃO DO INSTRUMENTO DE INSCRIÇÃO
 CNPJ
-(NOME DO EMPRESÁRIO ), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, se
+(NOME DO EMPRESÁRIO), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, se
 fo
 caso, a união estável), (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA),
-solteiro, [emancipado (se o titular for emancipado)], nº do CPF, RESIDENTE  E
-DOMICILIADO  no(a): (Logradouro), Bairro, (Complemento), (Município) - (UF), CEP, n
-qualidade de empresário individual (NOME EMPRESARIAL),  com sede na (tipo e nome do
-logradouro, nº, complemento, bairro, município/cidade,  UF e CEP), com registro nessa
+solteiro, [emancipado (se o titular for emancipado)], nº do CPF, RESIDENTE E
+DOMICILIADO no(a): (Logradouro), Bairro, (Complemento), (Município) - (UF), CEP, n
+qualidade de empresário individual (NOME EMPRESARIAL), com sede na (tipo e nome do
+logradouro, nº, complemento, bairro, município/cidade, UF e CEP), com registro nessa
 Junta Comercial, inscrito no CNPJ sob o nº  , resolve:
 
-Cláusula Primeira  - Transformar de Empresário Individual para Sociedade Limitada,
+Cláusula Primeira - Transformar de Empresário Individual para Sociedade Limitada,
 adotando o nome empresarial   LTDA. e terá sua sede e
 domicílio na (Logradouro), (Número), (Bairro), (Município/Cidade) - UF, CEP).
 
@@ -1920,7 +1920,7 @@ extenso), passa a constituir o capital da nova sociedade, e fica assim distribu�
 
 Sócio Nº de Quotas Valor (R$)
 
-Cláusula Terceira  - A administração da sociedade será exercida pelo sócio, que
+Cláusula Terceira - A administração da sociedade será exercida pelo sócio, que
 representará legalmente a sociedade e poderá praticar todos os atos pertinentes à gestão
 da sociedade pertinente ao objeto social, em nome da pessoa jurídica, dentre ele(s):
 abrir, movimentar e encerrar contas correntes e/ou contas de pagamento, inclusive por
@@ -1936,23 +1936,23 @@ imóveis depende de autorização da maioria.
 Cláusula Quarta - O administrador declara, sob as penas da lei, que não está impedido de
 exercer a administração da sociedade, por lei especial, ou em virtude de condenação
 criminal, ou por se encontrar sob os efeitos dela, a pena que vede, ainda que
-temporariamente, o a cesso a cargos públicos; ou por crime falimentar, de prevaricação,
+temporariamente, o acesso a cargos públicos; ou por crime falimentar, de prevaricação,
 peita ou suborno, concussão, peculato, ou contra a economia popular, contra o sistema
 ﬁnanceiro nacional, contra normas de defesa da concorrência, contra as relações de
 consumo, fé pública, ou a propriedade.
-Cláusula Quinta  - Em consequência das alterações aqui transcritas, resolve o sócio
+Cláusula Quinta - Em consequência das alterações aqui transcritas, resolve o sócio
 transcrever o contrato social o qual, já reﬂetindo as alterações acima, passa a ser parte
 integrante da presente e ter a seguinte redação:
 
 57
 
-CONTRATO SOCIAL  POR TRANSFORMAÇÃO
-DE EMPRESÁRIO  INDIVIDUAL EM SOCIE LIMITADA
+CONTRATO SOCIAL POR TRANSFORMAÇÃO
+DE EMPRESÁRIO INDIVIDUAL EM SOCIE LIMITADA
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
-SÓCIO PESSOA  FÍSICA  (nome), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, for o
+SÓCIO PESSOA FÍSICA (nome), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, for o
 caso, a união estável), (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA se solteiro,
-[emancipado (se o titular for emancipado)], nº do CPF, RESIDENTE  E DOMICILIADO
+[emancipado (se o titular for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO
 no(a): (Logradouro), Bairro, (Complemento), (Município) - (UF), CEP passa a constituir o
 tipo jurídico Sociedade Limitada, a qual se regerá, doravante, pelo presente CONTRATO SOCIAL,
 mediante as condições e cláusulas seguintes:
@@ -1968,19 +1968,19 @@ econômicas: (Descrição do objeto social)
 Parágrafo único. Em estabelecimento eleito como Sede (Matriz) será(ão) exercida(s) a(s)
 atividade(s) de (Descrição do objeto social, conforme o objeto da empresa de forma parcial ou
 integral).
-DO INÍCIO  DAS ATIVIDADES E DO PRAZO
+DO INÍCIO DAS ATIVIDADES E DO PRAZO
 (ART. 53, III, “f”, DO DECRETO Nº 1.800, 1996)
 Cláusula Quarta - A sociedade iniciou suas atividades a partir de    e seu prazo de duração é
 indeterminado.
 DO CAPITAL SOCIAL
 (ART. 997, III E IV E ARTS. 1.052 E 1.055 DO CC)
-Cláusula Quinta - O capital social é de R$ (valor por extenso), divididos em (nº de  quotas), no
+Cláusula Quinta - O capital social é de R$ (valor por extenso), divididos em (nº de quotas), no
 valor nominal de (valor da quota) cada uma.
-Parágrafo único. O capital encontra -se subscrito e integralizado pelo sócio único, em moeda
+Parágrafo único. O capital encontra-se subscrito e integralizado pelo sócio único, em moeda
 corrente do País.
 DA ADMINISTRAÇÃO
 (ARTS. 997, VI; 1.013; 1.015; 1.064 DO CC)
-Cláusula Sexta  - A administração  da sociedade será exercida pelo sócio, que representará
+Cláusula Sexta - A administração da sociedade será exercida pelo sócio, que representará
 legalmente a sociedade e poderá praticar todos os atos pertinentes à gestão da sociedade
 pertinente ao objeto social, em nome da pessoa jurídica, dentre ele(s):
 abrir, movimentar e encerrar contas correntes e/ou contas de pagamento, inclusive por meio de
@@ -2028,13 +2028,13 @@ CNPJ
 
 OU
 
-(NOME DO EMPRESÁRIO),  (NACIONALIDADE), (ESTADO CIVIL - indicar, também, se fo
+(NOME DO EMPRESÁRIO), (NACIONALIDADE), (ESTADO CIVIL - indicar, também, se fo
 
 59
 caso, a união estável), (REGIME DE BENS - se casado), nascido em (DD/MM/AAAA), solteiro,
-[emancipado (se o titular for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO  no(a):
+[emancipado (se o titular for emancipado)], nº do CPF, RESIDENTE E DOMICILIADO no(a):
 (Logradouro), Bairro, (Complemento), (Município) - (UF), CEP, [s for o caso, representado,
-neste ato, por seu (PROCURADOR), (NOME DO  REPRESENTANTE), (NACIONALIDADE), (ESTADO
+neste ato, por seu (PROCURADOR), (NOME DO REPRESENTANTE), (NACIONALIDADE), (ESTADO
 CIVIL - indicar, também, se for o caso união estável), (REGIME DE BENS - se casado), nascido
 em (DD/MM/AAAA), se solteiro nº do CPF, RESIDENTE E DOMICILIADO no(a): (Logradouro),
 Bairro, (Complemento (Município) - (UF), CEP]. (Incluído pela Instrução Normativa DREI nº 01, de
@@ -2060,7 +2060,7 @@ Substituir instrumento físico em virtude de erro material (sequência de pági-
 nas, cláusulas, alterações do instrumento etc.) ou por estar prejudicada, por
 deterioração, parcial ou integralmente, a digitalização ou leitura de seu teor.
 
-Nota: Exigir apenas quando necessário para garantir a integridade da infor -
+Nota: Exigir apenas quando necessário para garantir a integridade da infor-
 mação.
 
 Decreto nº 1.800, de 1996,
@@ -2104,10 +2104,10 @@ DREI nº 81, de 2020, item
 4.1
 Apresentar requerimento (capa do processo) assinado pelo empresário, pro-
 curador, com poderes gerais ou específicos, ou por terceiro interessado obri-
-gatoriamente identificado (nome completo por extenso, CPF, e -mail e tele -
+gatoriamente identificado (nome completo por extenso, CPF, e-mail e tele-
 fone).
 
-Nota: No caso de registro digital não é necessária a utilização desse requeri -
+Nota: No caso de registro digital não é necessária a utilização desse requeri-
 mento, podendo o sistema eletrônico utilizado pela Junta Comercial consoli-
 dar os dados do ato levado a arquivamento e solicitar a assinatura digital do
 requerente.
@@ -2134,7 +2134,7 @@ DREI nº 81, de 2020, item
 
 5.1
 
-Anexar ou arquivar, em separado, procuração via original ou cópia por ins -
+Anexar ou arquivar, em separado, procuração via original ou cópia por ins-
 trumento público ou particular, com poderes específicos para a prática do
 ato.
 Código Civil, art. 654, §§ 1º e
@@ -2161,7 +2161,7 @@ Manual de Registro de EI, IN
 DREI nº 81, de 2020, item
 4.6, seção II, capítulo II.
 
-5.5 Anexar a certidão ou ato de nomeação de inventariante ao documento a ser arquivado. Manual de Registro de EI, IN  DREI nº 81, de 2020, item 4.3 e 4.3.1, seção II, capítulo II.
+5.5 Anexar a certidão ou ato de nomeação de inventariante ao documento a ser arquivado. Manual de Registro de EI, IN DREI nº 81, de 2020, item 4.3 e 4.3.1, seção II, capítulo II.
 
 5.6
 
@@ -2210,7 +2210,7 @@ DREI nº 81, de 2020, item
 6.3
 
 Anexar comprovante de pagamento do preço devido - Processo retornado
-após o prazo para cumprimento de exigência é considerado como novo pro -
+após o prazo para cumprimento de exigência é considerado como novo pro-
 cesso e sujeito a pagamento de novo preço.
 
 Lei nº 8.934, de 1994, art. 40,
@@ -2267,7 +2267,7 @@ IN DREI nº 81, de 2020, art.
 
 Corrigir o instrumento, pois, não foi realizada a consolidação obrigatória.
 
-Nota: É obrigatória a consolidação para os casos de rea tivação, transferência
+Nota: É obrigatória a consolidação para os casos de reativação, transferência
 de sede para outra unidade da federação e conversão
 
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -2281,10 +2281,10 @@ seção II, capítulo II.
 Corrigir o instrumento, pois, a consolidação não está correta.
 
 Nota: A consolidação consiste na versão atualizada do instrumento de
-inscrição, ou seja, deverá refle tir todas as modificações realizadas por meio
+inscrição, ou seja, deverá refletir todas as modificações realizadas por meio
 do ato alterador, pois consolidar é fazer constar em um único instrumento
 todas as cláusulas (corpo do instrumento de inscrição) que já faziam parte do
-instrumento e as que foram alteradas, inseridas e/ou suprimi das. Não é
+instrumento e as que foram alteradas, inseridas e/ou suprimidas. Não é
 obrigatório o preâmbulo na consolidação.
 
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -2368,7 +2368,7 @@ DREI nº 81, de 2020, item
 4.1, seção I, capítulo II.
 
 8.3
-Anexar cópia da identidade; se imigrante, apresentar Carteira de Registro Na -
+Anexar cópia da identidade; se imigrante, apresentar Carteira de Registro Na-
 cional Migratório, documento fornecido pela Polícia Federal ou comprovante
 da autorização de residência no Brasil.
 
@@ -2394,7 +2394,7 @@ Manual de Registro de EI, IN
 DREI nº 81, de 2020, item 4,
 seção I, capítulo II.
 Indicar nas notas explicati-
-vas qual a legislação aplicá -
+vas qual a legislação aplicá-
 vel.
 
 64
@@ -2506,7 +2506,7 @@ art. 53, VIII, “b”.
 11.1
 Definir o objeto de forma clara e precisa, indicando gênero e espécies das
 atividades a serem desenvolvidas.
-Nota: O objeto poderá ser descrito por meio de código integrante da estru -
+Nota: O objeto poderá ser descrito por meio de código integrante da estru-
 tura da Classificação Nacional de Atividades Econômicas – CNAE, desde que
 não seja genérico.
 
@@ -2515,7 +2515,7 @@ Decreto nº 1.800, de 1996,
 art. 53, III, “b” e § 2º.
 
 Definir o objeto.
-Nota: O objeto poderá ser descrito por meio de código integrante da estru -
+Nota: O objeto poderá ser descrito por meio de código integrante da estru-
 tura da Classificação Nacional de Atividades Econômicas –CNAE. (Redação
 dada pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 Manual de Registro de EI, IN
@@ -2524,7 +2524,7 @@ DREI nº 81, de 2020, item
 
 11.2
 Descrever, obrigatoriamente, o objeto de forma clara e precisa, tendo em
-vista que ainda não há CNAE específico para a atividade pretendida.  (Revo-
+vista que ainda não há CNAE específico para a atividade pretendida. (Revo-
 gado pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 Manual de Registro de EI, IN
 DREI nº 81, de 2020, item 5.3,
@@ -2548,7 +2548,7 @@ Manual de Registro de EI, IN
 DREI nº 81, de 2020, item
 4.2, seção II, capítulo II.
 
-11.5 Compatibilizar os códigos de atividades informados (CNAE) com as atividades descritas no objeto. Manual de Registro de EI, IN  DREI nº 81, de 2020, item 5.3, seção I, capítulo II.
+11.5 Compatibilizar os códigos de atividades informados (CNAE) com as atividades descritas no objeto. Manual de Registro de EI, IN DREI nº 81, de 2020, item 5.3, seção I, capítulo II.
 
 11.6
 
@@ -2558,7 +2558,7 @@ Manual de Registro de EI, IN
 DREI nº 81, de 2020, item 3,
 capítulo I.
 Indicar nas notas explicati-
-vas qual a legislação aplicá -
+vas qual a legislação aplicá-
 vel.
 
 11.7
@@ -2568,7 +2568,7 @@ Manual de Registro de EI, IN
 DREI nº 81, de 2020, item 3,
 capítulo I.
 Indicar nas notas explicati-
-vas qual a legislação aplicá -
+vas qual a legislação aplicá-
 vel.
 
 11.8
@@ -2604,7 +2604,7 @@ DREI nº 81, de 2020, item
 
 13.1
 
-Juntar declaração ou declarar em cláusula específica o enquadramento, re -
+Juntar declaração ou declarar em cláusula específica o enquadramento, re-
 enquadramento ou desenquadramento de microempresa ou empresa de pe-
 queno porte.
 Lei Complementar nº 123,
@@ -2781,7 +2781,7 @@ e 2, seção III, capítulo II.
 
 68
 
-17.2 Anexar cópia do termo de nomeação do inventariante, juntamente com au- torização do juiz para a baixa da inscrição do empresário individual. Manual de Registro de EI, IN  DREI nº 81, de 2020, item 3,  seção III, capítulo II.
+17.2 Anexar cópia do termo de nomeação do inventariante, juntamente com au- torização do juiz para a baixa da inscrição do empresário individual. Manual de Registro de EI, IN DREI nº 81, de 2020, item 3, seção III, capítulo II.
 
 17.3
 
@@ -2864,14 +2864,14 @@ DO ART. 42 DO DECRETO Nº 85.064, DE 1980
 
 1. Empresário individual que tenha como objeto a radiodifusão sonora ou de sons e imagens
 Para os efeitos do parágrafo único, inciso I, do art. 42 do Decreto nº 85.064, de 26 de agosto de 1980,
-com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso I, do subitem 2.1.1.,  do
+com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso I, do subitem 2.1.1., do
 item 2 do Capítulo do Manual de Registro de Empresário Individual, aprovado pela Instru- ção
 Normativa DREI nº 81, de 2020, eu,  , nacionalidade  , inscrito no
 CPF sob o nº  , na qualidade de empresário individual  , inscrito sob o CNPJ nº   ,
 declaro, sob as penas da Lei, que:
 - NÃO POSSUO / POSSUO outorga para a exploração de serviços de radiodifusão sonora ou de sons
 e imagens, na Faixa de Fronteira; e
-- sou brasileiro (nato ou naturalizado há mais de 10 anos), de modo que ATENDO aos limites per -
+- sou brasileiro (nato ou naturalizado há mais de 10 anos), de modo que ATENDO aos limites per-
 centuais de participação estrangeira estabelecidos no § 1º do art. 222 da Constituição.
 
 2. Empresário individual que tenha como objeto a mineração:
@@ -2882,9 +2882,9 @@ Para os efeitos do parágrafo único, inciso II, do art. 42 do Decreto nº 85.06
 CPF sob o nº  , na qualidade de empresário individual  , inscrito sob o CNPJ nº   ,
 declaro, sob as penas da Lei, que:
 - NÃO POSSUO / POSSUO outorga para a exploração das atividades de pesquisa, de lavra, de explo-
-ração e de aproveitamento de recursos minerais, inclusive de lavra garimpeira, na Faixa de Fron -
+ração e de aproveitamento de recursos minerais, inclusive de lavra garimpeira, na Faixa de Fron-
 teira; e
-- sou brasileiro (nato ou naturalizado há mais de 10 anos), de modo que ATENDO às condições es -
+- sou brasileiro (nato ou naturalizado há mais de 10 anos), de modo que ATENDO às condições es-
 tabelecidas no parágrafo único do art. 3º da Lei nº 6.634, de 1979.
 
 3. Empresário individual que tenha como objeto a colonização e loteamento rural:

@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "texto atualizado publicado pelo MTE (não substitui o DOU)"
 fonte: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes"
 arquivo: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-18_historico_reformulacao_nr_18.pdf"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # NR-18 - SEGURANÇA E SAÚDE NO TRABALHO NA INDÚSTRIA DA CONSTRUÇÃO
@@ -17,22 +17,22 @@ Histórico sobre a reformulação da NR - 18 em 1994/1995
 Jófilo Moreira Lima Júnior
 
 Alguns aspectos relacionados à Segurança e Medicina do
-Trabalho no Brasil já eram disciplinados, de modo superficial , em 1941 1 e
+Trabalho no Brasil já eram disciplinados, de modo superficial, em 19411 e
 19422. Efetivamente, a legislação sobre a matéria veio através do Capitulo V do
 Titulo II da Consolidação das Leis do Trabalho - CLT, aprovada pelo Decreto
 Lei nº 5.452 de 1º de maio de 1943.
 A primeira modificação substancial sofrida pela CLT, no que diz
-respeito à questão, verificou-se em 1967 3. Foram introduzidas algumas
+respeito à questão, verificou-se em 19673. Foram introduzidas algumas
 inovações, notadamente aquelas relativas à obrigatoriedade da organização
 pelas empresas do Serviço Especializado de Segurança e Medicina do
 Trabalho.
 Na área da Construção Civil, destacam-se as Portarias publicadas
-em 1962 4 e 1972 5, que aprovam Normas de Segurança do Trabalho nas
+em 19624 e 19725, que aprovam Normas de Segurança do Trabalho nas
 atividades da Construção Civil.
 A Lei nº 6.514 de 22 de dezembro de 1977 (Publicada no D.O.U.
 de 23/12/1977, Seção I - Parte I), deu nova redação a todo o Capitulo V do
 Titulo II da CLT, relativo à Segurança e Medicina do Trabalho, e absorveu o
-conteúdo de vários diplomas legais, destaca ndo-se aqueles referentes à
+conteúdo de vários diplomas legais, destacando-se aqueles referentes à
 insalubridade e à periculosidade dos ambientes de trabalho. O artigo 200 dá ao
 Ministério do Trabalho o poder de baixar normas complementares às
 disposições do Capitulo V, a fim de atender às peculiaridades de cada
@@ -51,26 +51,26 @@ Escavações, Túneis, Galerias, Minas e Pedreiras, etc.
 A Portaria nº 3.214, de 08 de junho de 1978, aprova as 28
 Normas Regulamentadoras - NR’s - do Capitulo V, Titulo II da CLT, relativas à
 Segurança e Medicina do Trabalho. O setor da Construção Civil foi
-contemplado com a NR -18 OBRAS DE CONSTRUÇÃO, DEMOLIÇÃO E
+contemplado com a NR-18 OBRAS DE CONSTRUÇÃO, DEMOLIÇÃO E
 REPAROS.
-A primeira modificação feita na NR -18 ocorreu em 1983 6, dando
+A primeira modificação feita na NR-18 ocorreu em 19836, dando
 uma maior abrangência e um conteúdo mais técnico e atualizado a mesma.
 Em função dos métodos de trabalho e do avanço da tecnologia e
-das relações de trabalho, a Secretaria de Segurança e Saúde no Trabalho -
-SSST, deu inicio em 10/06/94 ao processo d e revisão da NR -18 por meio  de
+das relações de trabalho, a Secretaria de Segurança e Saúde no Trabalho-
+SSST, deu inicio em 10/06/94 ao processo de revisão da NR-18 por meio de
 um Grupo Técnico de Trabalho constituído por técnicos da FUNDACENTRO,
 SSST/MTb e DRT sob a coordenação da FUNDACENTRO.
 Em 17/11/94, a SSST/MTb publicou no D.O.U, a Portaria nº 17
-com a minuta do Projeto de Reformulação da NR –18, dando prazo até
+com a minuta do Projeto de Reformulação da NR–18, dando prazo até
 20/12/94, para receber as sugestões e contribuições. Este prazo foi prorrogado
 no dia 22/12/94 por mais noventa dias através da Portaria n° 19.
 A Comissão da Indústria da Construção, constituída de cerca de
-vinte e cinco profissionais d a SST/MTb, DRTs e FUNDACENTRO, realizaram
+vinte e cinco profissionais da SST/MTb, DRTs e FUNDACENTRO, realizaram
 várias reuniões para analisar as sugestões e contribuições recebidas da
 comunidade, efetuar estudo e pesquisa e, ao mesmo tempo, consolidar o texto
-básico da proposta encaminhada aos participantes da Reunião Tripar tite e
+básico da proposta encaminhada aos participantes da Reunião Tripartite e
 Paritária.
-Foram recebidas cerca de três mil  sugestões, propostas e
+Foram recebidas cerca de três mil sugestões, propostas e
 contribuições oriundas de mais de trezentas entidades, empresas e de
 profissionais autônomos.
 
@@ -80,9 +80,9 @@ O novo texto foi submetido à discussão em Reunião Tripartite e
 Paritária, realizada em Brasília/DF, no período de 15 a 19 de maio/95.
 O texto aprovado na referida reunião, fruto de consenso entre as
 partes: Trabalhadores (CNTI, CUT e Força Sindical), Empregadores (CNI,
-CBIC e CNICM) e Governo  (SSST/MTb, DRT e Fundacentro)  foi submetido à
+CBIC e CNICM) e Governo (SSST/MTb, DRT e Fundacentro)  foi submetido à
 Consultoria Jurídica do Ministério do Trabalho, sendo posteriormente publicada
-pela SSST, em julho de 19957, a nova NR -18 - CONDIÇÕES E MEIO
+pela SSST, em julho de 19957, a nova NR-18 - CONDIÇÕES E MEIO
 AMBIENTE DE TRABALHO NA INDÚSTRIA DA CONSTRUÇÃO.
 Dentre os principais itens da nova Norma, atualmente em vigor,
 destacamos:
@@ -90,24 +90,24 @@ destacamos:
 do PCMAT, exigido no primeiro ano de vigência da Norma, nos canteiros de
 obra com 100 (cem) ou mais trabalhadores e, a partir do terceiro ano, naqueles
 que tiverem 20 (vinte) ou mais empregados;
- Criação de COMITÊS PERMANENTE S NACIONAL E
+ Criação de COMITÊS PERMANENTES NACIONAL E
 REGIONAIS SOBRE CONDIÇÕES E MEIO AMBIENTE DE TRABALHO NA
 INDÚSTRIA DA CONSTRUÇÃO;
  Comunicação prévia à DRT, antes do inicio de qualquer obra
-de construção, demolição ou reparo, do endereço e tipo da obr a, das datas
+de construção, demolição ou reparo, do endereço e tipo da obra, das datas
 previstas do inicio e conclusão da mesma e numero máximo previsto de
 trabalhadores;
 .Todos os acidentes ocorridos no setor devem ser comunicados a
 FUNDACENTRO, a fim de que possa emitir, anualmente, análise
 estatística;
-.Quando da ocorrência d e acidentes fatais, é obrigatória a sua
+.Quando da ocorrência de acidentes fatais, é obrigatória a sua
 comunicação de imediato à autoridade policial competente e ao
 órgão regional do Ministério do Trabalho, que a repassará
 imediatamente ao sindicato da respectiva categoria profissional;
 
 7 Portaria nº 04 de 04 de julho de 1995 da SSST (publicada no D.O.U, de 07/07/95 )
 
-.Estruturação de áreas de vivên cia em canteiros de obras,
+.Estruturação de áreas de vivência em canteiros de obras,
 definindo parâmetros mínimos sobre instalações sanitárias,
 vestiários, alojamentos, locais para refeições e cozinha,
 lavanderia e áreas de lazer;
@@ -129,7 +129,7 @@ deve proceder para o cumprimento da Norma.
 
 Um dos principais avanços do novo texto da NR – 18 - Condições
 e Meio Ambiente de Trabalho na Indústria da Construção é a obrigatoriedade
-de elaboração pelas empresas do PCMAT. Sua implementação permite  um
+de elaboração pelas empresas do PCMAT. Sua implementação permite um
 efetivo gerenciamento do ambiente de trabalho, do processo produtivo e de
 orientação aos trabalhadores,
 
@@ -191,8 +191,8 @@ Construção (20 a 23/11/2002 Palmas/TO);
 da Construção (IDORT/FUNDACENTRO – 2002).
 
 - Jornada Internacional de Segurança e Saúde na Indústria da Construção
-(11 e 12/09/03 – São Luís/MA, 23 e 24/03/04 – Belo Horizonte /MG, 25 e
-26/03/04 Manaus/AM, Porto Alegre /RS, 30 e 31/03/05 e Goiânia /GO, 04 e
+(11 e 12/09/03 – São Luís/MA, 23 e 24/03/04 – Belo Horizonte/MG, 25 e
+26/03/04 Manaus/AM, Porto Alegre/RS, 30 e 31/03/05 e Goiânia/GO, 04 e
 05/04/05).
 
 - V Congresso/III Seminário (Olinda-Recife/PE - 24 a 26/10/05).
@@ -276,19 +276,19 @@ composição da mesa, com o Dr. Antônio Augusto  Junho Anastasia , Secretário
 Executivo do MTb, representando o Exmo. Senhor Ministro de Estado do
 Trabalho, Engº Vítor Couto Cavalcanti - Secretário Adjunto da SSST/MTb e
 Engº Deogledes Monticuco - Coordenador dos Trabalhos.
-O Secretário da SSST/MTb enfatizou a política adotada em sua ge stão na
+O Secretário da SSST/MTb enfatizou a política adotada em sua gestão na
 Secretaria, a de promover a elaboração de Normas Regulamentadoras de
 Segurança e Saúde no Trabalho por meio de processo de discussão e
 negociação tripartite, buscando dessa forma, compatibilizar interesses e
-produzir uma regulamentação que proporci one efetivamente a melhoria das
+produzir uma regulamentação que proporcione efetivamente a melhoria das
 condições e dos ambientes de trabalho.
 O Secretário Executivo do MTb apresentou, em nome do Ministro de Estado do
 Trabalho, as boas vindas ao grupo e elogiou a iniciativa da Secretaria de
-Segurança e Saúde no Trabalho e FUND ACENTRO em realizar o trabalho na
+Segurança e Saúde no Trabalho e FUNDACENTRO em realizar o trabalho na
 forma tripartite.
 Enfatizou a metodologia utilizada no processo de revisão da NR18, que primou
 pela elaboração de referencial técnico, este publicado no D.O.U. para
-pronunciamento prévio da sociedade civil, ocasião em que  foram recebidas
+pronunciamento prévio da sociedade civil, ocasião em que foram recebidas
 aproximadamente 3.000 (três mil) sugestões.
 Salientou, também, a visão do Ministério do Trabalho em produzir Normas
 Regulamentadoras que reflitam a expectativa e o anseio de um universo amplo
@@ -305,7 +305,7 @@ b) trecho da novela PÁTRIA MINHA, onde foi abordado o item
 
 c) trecho do programa LINHA VIVA , veiculado na TV Manchete, em
 07/01/95, apresentando um depoimento de empresário, onde este relata que
-proporcionar segurança e saúde no trabalho significa in vestir na empresa e
+proporcionar segurança e saúde no trabalho significa investir na empresa e
 
 obter um aumento de produtividade e incremento à qualidade na Indústria da
 Construção.
@@ -313,7 +313,7 @@ Construção.
 a) qualidade e produtividade;
 b) riscos de acidente e doenças do trabalho;
 c) acidentes do trabalho.
-2.3 A Engª Luisa Tânia  Elesbão Rodrigues, representando o Governo,
+2.3 A Engª Luisa Tânia Elesbão Rodrigues, representando o Governo,
 complementou e finalizou a abertura dos trabalhos apresentando
 transparências e tecendo comentários a respeito das atividades,  e estudos
 desenvolvidos pelo GRUPO TÉCNICO de Alteração da NR18,
@@ -326,7 +326,7 @@ distribuídos no país;
  Julho/94 - Reuniões dos 10 GT´s;
 
  Agosto/94 - 1ª  Etapa
-Reunião de Consolidação das 10 (dez) propostas dos GT´s  em
+Reunião de Consolidação das 10 (dez) propostas dos GT´s em
 03 (três) propostas;
 2ª  Etapa
 Reunião de Consolidação das 03 (três) propostas em 01 (uma)
@@ -355,7 +355,7 @@ sugestões, até 18/03/95.
 texto publicado no D.O.U. e das 2.577 (duas mil quinhentos e setenta e sete)
 contribuições e sugestões recebidas no período de dezembro/94 à  abril/95;
 
-Encaminhamento da proposta f inal para as entidades representantes de
+Encaminhamento da proposta final para as entidades representantes de
 empregados e empregadores, a saber: CBIC, CNI, CNICM, CNTI, FORÇA
 SINDICAL e CUT;
  Maio/95 - Formalização do convite às entidades para participarem da
@@ -364,7 +364,7 @@ reunião Tripartite para estudo e conclusão do texto final da NR18.
 2.4 Quanto à Metodologia a ser adotada durante as reuniões da Comissão
 Tripartite:
  1ª Etapa  - 15/05/95
-Relação das propostas par a modificação, retirada e inserção de
+Relação das propostas para modificação, retirada e inserção de
 novos itens apresentados pelas representações do governo,
 empregados e empregadores.
   2ª Etapa - 15/05/95

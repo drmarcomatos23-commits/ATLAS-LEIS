@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI81_Atualizada_in0125.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Instrução Normativa DREI N° 81
@@ -27,7 +27,7 @@ INSTRUÇÃO NORMATIVA DREI Nº 81, DE 10 DE JUNHO DE 2020.
 
 Dispõe sobre as normas e diretrizes gerais do Registro
 Público de Empresas, bem como regulamenta as
-disposições do  Decreto nº 1.800,  de 30 de janeiro de
+disposições do Decreto nº 1.800, de 30 de janeiro de
 1996.
 Alterada pela Instrução Normativa DREI nº 55, de 2 de
 junho de 2021.
@@ -37,7 +37,7 @@ Alterada pela Instrução Normativa DREI nº 88, de 23 de
 dezembro de 2024
 Alterada pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024.
-Alterada pela Instrução Normativa DREI /MEMP nº 01,
+Alterada pela Instrução Normativa DREI/MEMP nº 01,
 de 5 de janeiro de 2025.
 
 O DIRETOR DO DEPARTAMENTO NACIONAL DE REGISTRO EMPRESARIAL E
@@ -62,8 +62,8 @@ DA DESCONCENTRAÇÃO DOS SERVIÇOS DAS JUNTAS COMERCIAIS
 
 Art. 2º A Junta Comercial de cada unidade da federação é competente para executar
 e administrar os serviços do Registro Público de Empresas.
-§ 1º  No uso das atribuições de que trata o caput, as Juntas Comerciais poderão
-desconcentrar, exclusivamente,  através de unidades próprias ou mediante convênio com
+§ 1º No uso das atribuições de que trata o caput, as Juntas Comerciais poderão
+desconcentrar, exclusivamente, através de unidades próprias ou mediante convênio com
 órgãos da administração direta, autarquias e fundações públicas ou entidades privadas sem
 fins lucrativos, os seguintes serviços:
 I - receber, protocolar e devolver documentos;
@@ -72,7 +72,7 @@ III - autenticar instrumentos de escrituração do empresário individual, da em
 individual de responsabilidade limitada (EIRELI), da sociedade empresária, da cooperativa e
 dos agentes auxiliares do comércio, conforme instrução normativa própria;
 III - autenticar instrumentos de escrituração do empresário individual, da sociedade
-empresária, da cooperativa  e dos agentes auxiliares do comércio, conforme instrução
+empresária, da cooperativa e dos agentes auxiliares do comércio, conforme instrução
 normativa própria; (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro
 de 2022)
 IV  expedir certidões dos documentos arquivados e informar sobre a existência de
@@ -89,31 +89,31 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 conveniadas deverão observar os mesmos requisitos praticados pela sede da Junta
 Comercial.
 § 3º As decisões singulares nas unidades próprias poderão ser proferidas por vogal ou
-servidor e, nas  conveniadas, apenas por servidor, designados, em qualquer caso, pelo
+servidor e, nas conveniadas, apenas por servidor, designados, em qualquer caso, pelo
 Presidente da Junta Comercial.
-§ 4º O vogal ou servidor  deverá possuir comprovados conhecimentos em Direito
+§ 4º O vogal ou servidor deverá possuir comprovados conhecimentos em Direito
 Empresarial e/ou em Registro Público de Empresas.
 § 5º A autenticação dos instrumentos de escrituração do empresário individual, da
-EIRELI, da  sociedade empresária, da cooperativa e dos agentes auxiliares do comércio
-somente poderá ser  desconcentrada, por delegação da Junta Comercial, às unidades
+EIRELI, da sociedade empresária, da cooperativa e dos agentes auxiliares do comércio
+somente poderá ser desconcentrada, por delegação da Junta Comercial, às unidades
 próprias ou autoridade pública conveniada.
 § 5º A autenticação dos instrumentos de escrituração do empresário individual, da
 sociedade empresária, da cooperativa e dos agentes auxiliares do comércio somente poderá
-ser desconcentrada, por  delegação da Junta Comercial, às unidades próprias ou autoridade
+ser desconcentrada, por delegação da Junta Comercial, às unidades próprias ou autoridade
 pública conveniada. (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro
 de 2022)
 § 6º As certidões expedidas, nas unidades desconcentradas, poderão ser assinadas
 por servidor, mediante delegação do Secretário-Geral.
-§ 7º  A expedição de Carteira de Exercício Profissional, nas unidades próprias ou
+§ 7º A expedição de Carteira de Exercício Profissional, nas unidades próprias ou
 conveniadas, será efetuada por servidor, mediante delegação do Presidente da Junta
 Comercial.
-§ 8º  As unidades desconcentradas deverão remeter, no prazo máximo de vinte e
+§ 8º As unidades desconcentradas deverão remeter, no prazo máximo de vinte e
 quatro horas, a documentação relativa aos serviços que devam ser prestados por outra
 unidade ou pela sede da Junta Comercial.
 § 9º Os prazos para a prestação dos serviços solicitados às unidades desconcentradas,
 em que não haja vogal ou servidor habilitado com poder decisório, contar-se-ão a partir da
 data do recebimento da documentação na unidade que o tenha.
-§ 10.  Os atos deferidos nas unidades próprias ou conveniadas serão mantidos,
+§ 10. Os atos deferidos nas unidades próprias ou conveniadas serão mantidos,
 exclusivamente, no arquivo da sede da Junta Comercial.
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -122,20 +122,20 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 CAPÍTULO II
 DA NOMEAÇÃO DE VOGAIS
 
-Art. 3º  Os vogais e respectivos suplentes serão nomeados dentre brasileiros que
+Art. 3º Os vogais e respectivos suplentes serão nomeados dentre brasileiros que
 satisfaçam as seguintes condições:
 I - estejam em pleno gozo dos direitos civis e políticos;
 II - não estejam condenados por crime cuja pena vede o acesso a cargo, emprego e
 funções públicas, ou por crime de prevaricação, falência fraudulenta, peita ou suborno,
 concussão, peculato, contra a propriedade, a fé pública e a economia popular;
-III - sejam, ou tenham sido, por mais de cinco anos, empresário individual, titular  ou
+III - sejam, ou tenham sido, por mais de cinco anos, empresário individual, titular ou
 administrador de EIRELI, sócios ou administradores de sociedade empresária, valendo como
-prova, para esse fim, certidão  expedida pela Junta Comercial, dispensados dessa condição
+prova, para esse fim, certidão expedida pela Junta Comercial, dispensados dessa condição
 os representantes da União e os das classes dos advogados, dos economistas e dos
 contadores;
 III - sejam, ou tenham sido, por mais de cinco anos, empresário individual,
 administrador de EIRELI, sócios, administradores de sociedade empresária ou
-administradores de sociedade coopera 􏰀va, dispensados dessa condição os representantes
+administradores de sociedade coopera􏰀va, dispensados dessa condição os representantes
 da União e os das classes de advogados, economistas, administradores e contadores;
 (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 IV - tenham mais de cinco anos de efetivo exercício da profissão, quando se tratar de
@@ -156,10 +156,10 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 VIII - possuam conhecimentos em Direito Empresarial e/ou em Registro Público de
 Empresas.
-§ 1º  A exigência prevista no inciso III deste artigo, em se tratando de vogais
+§ 1º A exigência prevista no inciso III deste artigo, em se tratando de vogais
 representantes do cooperativismo, será suprida pela ficha de matrícula do associado ou
 declaração da Junta Comercial, no caso de membros de órgãos de administração ou fiscal.
-§ 1 º A exigência prevista no inciso III deste ar tigo será comprovada mediante
+§ 1º A exigência prevista no inciso III deste artigo será comprovada mediante
 certidão expedida pela Junta Comercial. Em se tratando de representantes do
 cooperativismo, deverá ser apresentada ficha de matrícula do administrador cooperado ou
 declaração da Junta Comercial, no caso de membros de órgãos de administração ou fiscal.
@@ -178,7 +178,7 @@ com os demais.
 § 3º A data da sessão inaugural será definida em ato da respectiva Junta Comercial.
 § 4º O vogal que foi reconduzido somente poderá ser nomeado, novamente, após o
 decurso de um quadriênio.
-Art. 5º  Até o último  dia útil do mês de  fevereiro de cada  ano, os vogais  devem
+Art. 5º Até o último dia útil do mês de fevereiro de cada ano, os vogais devem
 comprovar perante a Junta Comercial que sua situação pessoal ainda respeita as condições,
 requisitos e impedimentos estabelecidos no art. 3º desta Instrução Normativa.
 § 1º Esta comprovação será prestada à Secretaria Geral, podendo se dar mediante a
@@ -212,14 +212,14 @@ Art. 9º O arquivamento de atos de empresário individual, EIRELI, sociedade
 empresária e cooperativa deverá observar as disposições gerais desta Instrução Normativa,
 bem como dos Manuais de Registro constantes dos anexos II a VI, os quais são de observância
 obrigatória pelas Juntas Comerciais na prática de atos de registro neles regulados.
-Art. 9º  O arquivamento de atos de empresário individual, sociedade empresária e
+Art. 9º O arquivamento de atos de empresário individual, sociedade empresária e
 cooperativa deverá observar as disposições gerais desta Instrução Normativa, bem como
 dos Manuais de Registro constantes dos anexos II, IV, V e VI, os quais são de observância
 obrigatória pelas Juntas Comerciais na prática de atos de registro neles regulados. (Redação
 dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 § 1º A constituição, alteração ou extinção de empresário individual, EIRELI, sociedade
 empresária e cooperativa sujeitos a controle de órgão de fiscalização de exercício
-profissional não depende de  aprovação prévia desse órgão para arquivamento do
+profissional não depende de aprovação prévia desse órgão para arquivamento do
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 7
@@ -232,25 +232,25 @@ respectivo ato na Junta Comercial. (Redação dada pela Instrução Normativa DR
 20 de janeiro de 2022)
 § 2º Independentemente de autorização prévia governamental, as Juntas Comerciais
 irão promover o registro de atos de constituição, alteração e extinção de empresário
-individual, EIRELI, sociedade  empresária e cooperativa; contudo, deverão realizar
+individual, EIRELI, sociedade empresária e cooperativa; contudo, deverão realizar
 comunicação, nos termos do parágrafo único do art. 35 da Lei nº 8.934, de 1994, a respeito
 dos registros constantes de tabela própria nos Manuais de Registro, anexos a esta Instrução
 Normativa.
 § 2º Independentemente de autorização prévia governamental, as Juntas Comerciais
-irão promover o  registro de atos de constituição, alteração e extinção de empresário
+irão promover o registro de atos de constituição, alteração e extinção de empresário
 individual, sociedade empresária e cooperativa; contudo, deverão realizar comunicação,
 nos termos do parágrafo único do art. 35 da Lei nº 8.934, de 1994, a respeito dos registros
-constantes de tabela própria nos Manuais de Registro, anexos a esta  Instrução Normativa.
+constantes de tabela própria nos Manuais de Registro, anexos a esta Instrução Normativa.
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022).
 § 2º O arquivamento dos instrumentos de constituição, alteração e extinção de
 empresário individual, sociedade empresária e cooperativa que contenham atividades
 reguladas por órgãos públicos não depende de autorização governamental prévia para o
 funcionamento (início da atividade), contudo, as Juntas Comerciais deverão realizar
-comunicação aos órgãos públicos que d emonstrarem interesse, nos termos do § 1º do art.
-35 da Lei nº 8.934, de 1994.  (Redação dada pela Instrução Normativa DREI nº 01 , de 24 de
+comunicação aos órgãos públicos que demonstrarem interesse, nos termos do § 1º do art.
+35 da Lei nº 8.934, de 1994. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
-§ 2º -A O DREI disponibilizará em seu portal eletrônico listagem com os "ATOS
-SUJEITOS A APROVAÇÃO DE ÓRGÃOS  E ENTIDADES  GOVERNAMENTAIS PARA
+§ 2º-A O DREI disponibilizará em seu portal eletrônico listagem com os "ATOS
+SUJEITOS A APROVAÇÃO DE ÓRGÃOS E ENTIDADES GOVERNAMENTAIS PARA
 FUNCIONAMENTO contendo informações gerais sobre as atividades reguladas. (Incluído
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 2º-B Em caso de ausência de integração do órgão governamental à REDESIM,
@@ -266,7 +266,7 @@ responsável pela autorização de funcionamento no respectivo órgão govername
 competente. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 3º O disposto no § 2º não se aplica ao Conselho de Defesa Nacional, uma vez que o
 art. 5º da Lei nº 6.634, de 2 de maio de 1979, veda expressamente o registro no âmbito da
-Junta Comercial sem o  assentimento prévio daquele órgão. (Revogado pela Instrução
+Junta Comercial sem o assentimento prévio daquele órgão. (Revogado pela Instrução
 Normativa DREI/ME nº 88, de 23 de dezembro de 2022)
 § 4º No caso de arquivamento de atos de constituição, alteração e extinção de
 empresário individual, sociedade empresária e cooperativa, que envolvam assuntos sujeitos
@@ -297,11 +297,11 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 de desbloqueio à Junta Comercial. (Incluído pela Instrução Normativa DREI/ME nº 88, de 23
 de dezembro de 2022)
-Art. 9º -A. Nos atos submetidos a registro poderão ser usados elementos gráficos,
+Art. 9º-A. Nos atos submetidos a registro poderão ser usados elementos gráficos,
 como imagens, fluxogramas e animações, dentre outros (técnicas de visual law), bem como
 timbres e marcas d'água. (Incluído pela Instrução Normativa DREI nº 55, de 2 de junho de
 2021)
-Art. 9º -A. Nos instrumentos submetidos a arquivamento poderão ser utilizados
+Art. 9º-A. Nos instrumentos submetidos a arquivamento poderão ser utilizados
 elementos gráﬁcos, como imagens, ﬂuxogramas e animações, dentre outros (técnicas de
 visual law), bem como timbres e marcas d'água inseridas pelo próprio interessado, desde
 que não interﬁram na nitidez, reprograﬁa e conﬁabilidade dos referidos documentos
@@ -316,13 +316,13 @@ para obtenção do registro automático, nos moldes do Capítulo IV desta Instru
 Normativa. (Incluído pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 § 1º O uso de instrumento padronizado somente será obrigatório nos processos de
 registro automático, inclusive no ﬂuxo do balcão único, nos moldes do Capítulo IV desta
-Instrução Normativa. (Incluído pela Instrução Normativa DREI nº 01 , de 24 de janeiro de
+Instrução Normativa. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 § 2º No registro digital, a Junta Comercial não deve exigir a apresentação de
 instrumento padronizado através de normativos próprios, mas pode incentivar o seu uso.
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 3º As Juntas Comerciais podem utilizar mecanismos de inteligência artiﬁcial para
-otimizar a análise do cumprimento das formalidades legais nos documentos  apresentados
+otimizar a análise do cumprimento das formalidades legais nos documentos apresentados
 para registro. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Seção I
@@ -343,11 +343,11 @@ cadastrais: (Redação dada pela Instrução Normativa DREI nº 112, de 20 de ja
 I - informações pessoais do empresário individual, sócios, acionistas ou associados de
 sociedades; (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 II - informações relativas ao enquadramento, desenquadramento e reenquadramento
-como microempresa  e empresa de pequeno porte, bem como enquadramento e
+como microempresa e empresa de pequeno porte, bem como enquadramento e
 desenquadramento como MEI.
 III - informações relativas, à alteração do CEP do empresário individual e das
 sociedades, e ainda alteração do tipo, bairro, nome ou número do logradouro do endereço
-do empresário individual e das sociedades  por ato  do poder público, quando esta não
+do empresário individual e das sociedades por ato do poder público, quando esta não
 implicar em alteração física do endereço, ou seja, advir de circunstância alheia à vontade do
 empresário ou sociedade. (Incluído pela Instrução Normativa DREI nº 112, de 20 de janeiro
 de 2022)
@@ -359,7 +359,7 @@ atualização cadastral. (Incluído pela Instrução Normativa DREI nº 112, de 
 § 2º Nos termos do § 1º do art. 32 da Lei nº 8.934, de 1994, quando os dados dispostos
 neste artigo puderem ser obtidos de outras bases de dados disponíveis em órgãos públicos,
 a Junta Comercial deverá, de forma automática, proceder com a atualização cadastral, sem
-necessidade de requerimento prévio do interessado.  (Redação dada  pela Instrução
+necessidade de requerimento prévio do interessado. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -367,7 +367,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 § 3º A atualização de que trata o inciso II, do § 1º, do art. 10 é cabível na hipótese de
 existir enquadramento, desenquadramento e reenquadramento e, a informação não estiver
-atualizada na Junta Comercial, em especial, nas hipóteses de conversão entre soc iedades,
+atualizada na Junta Comercial, em especial, nas hipóteses de conversão entre sociedades,
 transferência de sede e situação cadastral do MEI. (Incluído pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
 Art. 10-A. Ressalvada a previsão do § 2º do art. 10, o pedido de arquivamento de atos,
@@ -376,9 +376,9 @@ apresentado perante a Junta Comercial contendo: (Incluído pela Instrução Norm
 nº 01, de 24 de janeiro de 2024)
 I - requerimento (capa do processo), sendo dispensado no caso de registro digital;
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-II - procuração, se for o caso; (Incluído pela Instrução Normativa DREI nº 01 , de 24 de
+II - procuração, se for o caso; (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
-III - Ficha de Cadastro Nacional (FCN); (Incluído pela Instrução Normativa DREI nº 01 ,
+III - Ficha de Cadastro Nacional (FCN); (Incluído pela Instrução Normativa DREI nº 01,
 de 24 de janeiro de 2024)
 IV - petição simples ou formulário com as atualizações cadastrais, devendo ser
 assinado: (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -405,10 +405,10 @@ Do arquivamento de balanço
 Art. 10-B. Sem prejuízo da obrigação de manter e autenticar os livros contábeis,
 conforme previsão da Instrução Normativa DREI nº 82, de 19 de fevereiro de 2022, a
 critério exclusivo do empresário e das sociedades empresárias, poderá ser arquivado o
-balanço, que possui a natureza de documento de interesse.  (Incluído pela Instrução
+balanço, que possui a natureza de documento de interesse. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 1º Não compete à Junta Comercial a veriﬁcação dos lançamentos contábeis e
-nem a realização de análise acerca da forma e/ou composição da escrituração.  (Incluído
+nem a realização de análise acerca da forma e/ou composição da escrituração. (Incluído
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 2º Para o arquivamento do balanço não é obrigatório que constem todas as
 demonstrações contábeis, devendo ser arquivado o documento apresentado pelo usuário.
@@ -417,14 +417,14 @@ demonstrações contábeis, devendo ser arquivado o documento apresentado pelo u
 atos nele escriturados, não sendo de competência dos órgãos de registro a análise das
 formalidades intrínsecas nele contidas. (Incluído pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
-§ 4º É de  competência da Junta Comercial  a análise das formalidades legais e
+§ 4º É de competência da Junta Comercial a análise das formalidades legais e
 extrínsecas, se restringindo à veriﬁcação das informações cadastrais, dentre elas a indicação
-do nome empresarial, do número do CNPJ etc.  (Incluído pela Instrução Normativa DREI nº
+do nome empresarial, do número do CNPJ etc. (Incluído pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 Art. 10-C. O balanço arquivado poderá ser objeto de rerratiﬁcação apenas quanto aos
 vícios sanáveis decorrentes de erros materiais e/ou procedimentais que possam ser
 retiﬁcados ou convalidados, desde que não ﬁram a essência do documento, não acarretem
-lesão ao interesse público, prejuízo a ter ceiros ou insegurança quanto às informações
+lesão ao interesse público, prejuízo a terceiros ou insegurança quanto às informações
 prestadas pelas Juntas Comerciais. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 § 1º Entende-se por vícios sanáveis: (Incluído pela Instrução Normativa DREI nº 01, de
@@ -434,8 +434,8 @@ I - erros materiais: decorrentes de equívocos em informações cadastrais lanç
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 13
 
-documento, dentre elas a indicação do nome empresarial e/ou do número do  CNPJ, cujas
-correções não promovam alteração em lançamentos contábeis; e/ou  (Incluído pela
+documento, dentre elas a indicação do nome empresarial e/ou do número do CNPJ, cujas
+correções não promovam alteração em lançamentos contábeis; e/ou (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 II - erros procedimentais: decorrentes equívocos no envio do documento, ou seja, em
 alguma regra procedimental, como por exemplo a falta de alguma página do balanço.
@@ -448,15 +448,15 @@ arquivamento de outro documento de mesma natureza daquele a ser rerratiﬁcado,
 devendo ser anexada petição contendo descrição do erro material e/ou procedimental
 identificado. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 4º Quando se tratar de erro na escrituração, cabe ao proﬁssional responsável
-realizar o procedimento de acordo com as Normas Brasileiras de Contabilidade.  (Incluído
+realizar o procedimento de acordo com as Normas Brasileiras de Contabilidade. (Incluído
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Seção II
 Da Participação de Estrangeiro
 
-Art. 11.  O arquivamento de ato de empresário individual, EIRELI, sociedade
+Art. 11. O arquivamento de ato de empresário individual, EIRELI, sociedade
 empresária e cooperativa do qual conste participação de imigrante no Brasil será instruído
-obrigatoriamente com a  fotocópia do documento de identidade, emitido por autoridade
+obrigatoriamente com a fotocópia do documento de identidade, emitido por autoridade
 brasileira, com a comprovação da condição de residente.
 Art. 11. O arquivamento de ato de empresário individual, sociedade empresária e
 cooperativa do qual conste participação de imigrante no Brasil será instruído
@@ -470,7 +470,7 @@ Consulta, entre a República Federativa do Brasil e a República Portuguesa, pro
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 14
 
-Decreto nº 3.927, de 19 de setembro  de 2001, gozarão dos mesmos direitos e estarão
+Decreto nº 3.927, de 19 de setembro de 2001, gozarão dos mesmos direitos e estarão
 sujeitos aos mesmos deveres dos brasileiros e deles será exigido documento de identidade
 de modelo igual ao do brasileiro, com a menção da nacionalidade do portador e referência
 ao Tratado.
@@ -479,19 +479,19 @@ o documento comprobatório de sua solicitação à autoridade competente, acompa
 documento de viagem válido ou de outro documento de identificação estabelecido em ato
 do Ministro de Estado da Justiça e Segurança Pública.
 § 3º Será admitida a apresentação da fotocópia de identidade do imigrante com prazo
-de validade vencida,  se houver ato normativo expedido pelo Ministério da Justiça e
+de validade vencida, se houver ato normativo expedido pelo Ministério da Justiça e
 Segurança Pública que prorrogue o prazo de validade do referido documento, cabendo ao
-interessado comprovar a existência do ato normativo  que contemple o seu caso concreto.
+interessado comprovar a existência do ato normativo que contemple o seu caso concreto.
 (Incluído pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
-Art. 12.  A pessoa física, brasileira ou estrangeira, residente no exterior, que seja
+Art. 12. A pessoa física, brasileira ou estrangeira, residente no exterior, que seja
 empresário individual, titular de EIRELI, sócio de sociedade empresária ou associado de
 cooperativa, poderá arquivar na Junta Comercial, desde que em processo autônomo,
-procuração outorgada ao seu representante no  Brasil, observada a legislação que rege o
+procuração outorgada ao seu representante no Brasil, observada a legislação que rege o
 respectivo tipo societário.
 Art. 12. A pessoa física, brasileira ou estrangeira, residente no exterior, que seja
 empresário individual, administrador ou sócio de sociedade empresária, associado de
 cooperativa deverá instruir o ato empresarial a ser arquivado ou arquivar em processo
-autônomo, procuração outorgada ao seu representante no  Brasil, observada a legislação
+autônomo, procuração outorgada ao seu representante no Brasil, observada a legislação
 que rege o respectivo tipo societário. (Redação dada pela Instrução Normativa DREI nº 112,
 de 20 de janeiro de 2022)
 § 1º A pessoa jurídica com sede no exterior que seja titular de EIRELI, sócia de sociedade
@@ -512,28 +512,28 @@ a Junta Comercial.
 § 3º A procuração a que se refere o caput deste artigo presume-se por prazo
 indeterminado quando não seja indicada sua validade.
 Art. 13. No caso de indicação de estrangeiro não residente no Brasil para cargo de
-diretor em  sociedade anônima, a apresentação de documento emitido no Brasil somente
+diretor em sociedade anônima, a apresentação de documento emitido no Brasil somente
 será exigida por ocasião da investidura no respectivo cargo, mediante o arquivamento do
 termo de posse.
 Parágrafo único. O disposto no caput desde artigo não obsta o arquivamento do ato
 de indicação.
 Art. 13. No caso de nomeação de brasileiro ou estrangeiro não residente no Brasil para
 cargo de administrador (membro do conselho de administração ou da diretoria) em
-sociedade anônima, a posse ficará  condicionada à constituição de representante residente
-no País, nos termos do § 2º, do art. 146, da Lei  nº 6.404, de 15 de dezembro de 1976.
+sociedade anônima, a posse ficará condicionada à constituição de representante residente
+no País, nos termos do § 2º, do art. 146, da Lei nº 6.404, de 15 de dezembro de 1976.
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 Parágrafo único. O disposto no caput desde artigo não obsta o arquivamento do ato
 de nomeação. (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de
 2022)
-Art. 14.  A Junta Comercial, para o arquivamento  de ato com a participação de
+Art. 14. A Junta Comercial, para o arquivamento de ato com a participação de
 estrangeiro, pessoa física ou jurídica, deverá verificar se a atividade empresarial não se inclui
 nas restrições e impedimentos constantes de tabela própria nos Manuais de Registro,
 anexos a esta Instrução.
-Art. 15.  Os documentos  oriundos do exterior, inclusive procurações, deverão ser
+Art. 15. Os documentos oriundos do exterior, inclusive procurações, deverão ser
 autenticados por autoridade consular brasileira, no país de origem, e quando não redigidos
 na língua portuguesa, ser acompanhados de tradução efetuada por tradutor público
 matriculado em qualquer Junta Comercial, exceto o documento de identidade.
-§ 1º  Os documentos lavrados em notário francês dispensa o visto da autoridade
+§ 1º Os documentos lavrados em notário francês dispensa o visto da autoridade
 consular, nos termos dos arts. 28 a 30 do Decreto nº 91.207, de 29 de abril de 1985, mas
 não dispensa a respectiva tradução por tradutor público matriculado em qualquer Junta
 
@@ -544,30 +544,30 @@ Comercial.
 § 2º A legalização consular de que trata o caput deste artigo fica dispensada no caso
 dos documentos públicos oriundos dos países signatários da Convenção sobre a Eliminação
 da Exigência de Legalização de Documentos Públicos Estrangeiros, celebrada em Haia, em 5
-de outubro de 1961, aprovada pelo  Decreto Legislativo nº 148, de 6 de julho de 2015 e
+de outubro de 1961, aprovada pelo Decreto Legislativo nº 148, de 6 de julho de 2015 e
 promulgada pelo Decreto nº 8.660, 29 de janeiro de 2016.
 § 3º A dispensa a que se refere o parágrafo anterior fica condicionada à comprovação
 de que o documento foi objeto do apostilamento de que trata a referida Convenção,
 conforme Resolução CNJ nº 228, de 22 de junho de 2016.
 § 4º No caso de apresentação de documento bicolunado, em língua portuguesa e em
 língua estrangeira, é dispensada a tradução por tradutor público, exigida, porém, a
-consularização ou apostilamento, exceto quando a lei a dispensar.  (Incluído pela Instrução
+consularização ou apostilamento, exceto quando a lei a dispensar. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 5º Na hipótese do § 4º deste artigo, cabe ao tradutor público realizar a tradução de
-carimbos ou selos que constar do documento original.  (Incluído pela Instrução Normativa
+carimbos ou selos que constar do documento original. (Incluído pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 Art. 16. Os cidadãos dos países dos Estados Partes do Mercosul, dos Associados e
 Estados que posteriormente venham a aderir e internalizar o Acordo sobre Residência para
 Nacionais dos Estados Partes do Mercado Comum do Sul – Mercosul e Associados, que
 comprovadamente obtiverem a residência temporária de dois anos, com amparo no
-referido acordo, poderão exercer a atividade empresarial na condição de empresár ios,
+referido acordo, poderão exercer a atividade empresarial na condição de empresários,
 titulares de EIRELI, sócios ou administradores de sociedades empresárias ou cooperativas
 brasileiras, podendo esses atos serem devidamente arquivados na Junta Comercial,
-consoante a legislação vigente, observadas as regras internacionais decorrentes d os
+consoante a legislação vigente, observadas as regras internacionais decorrentes dos
 Acordos e Protocolos firmados no âmbito do Mercosul.
 Art. 17. Para os fins desta Instrução Normativa, ao refugiado, bem como ao solicitante
 de reconhecimento da condição de refugiado, nos termos da Lei nº 9.474, de 22 de julho de
-1997, aplica -se o  regramento previsto para os imigrantes, mediante apresentação do
+1997, aplica-se o regramento previsto para os imigrantes, mediante apresentação do
 protocolo de solicitação de refúgio ou Documento Provisório de Registro Nacional
 Migratório, nos termos do Decreto nº 9.277, de 5 de fevereiro de 2018.
 SEÇÃO III
@@ -578,7 +578,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 Da Composição do Nome Empresarial
 
 Art. 18. O nome empresarial atenderá aos princípios da veracidade e da novidade e
-identificará, quando assim exigir a lei, o tipo jurídico adotado.  Instrução Normativa DREI
+identificará, quando assim exigir a lei, o tipo jurídico adotado. Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 § 1º O nome empresarial compreende a firma e a denominação. Instrução Normativa
 DREI /MEMP nº 1, de 05 de janeiro de 2025
@@ -592,7 +592,7 @@ DREI nº 55, de 2 de junho de 2021)  Instrução Normativa DREI /MEMP nº 1, de 
 de 2025
 § 3º A denominação é formada por uma ou mais palavras da língua nacional ou
 estrangeira, podendo nela ﬁgurar parte do nome de um ou mais sócios, facultada a
-indicação do objeto.  (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
+indicação do objeto. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 4º Se a Junta Comercial veriﬁcar erro na composição do nome empresarial, ainda
 que devido à semelhança, ou afronta aos princípios da veracidade e/ou novidade, deve
@@ -613,10 +613,10 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 instaurar processo administrativo. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 Art. 18-A. O empresário individual, a empresa individual de responsabilidade limitada
-(EIRELI), a  sociedade empresária e a cooperativa podem optar por utilizar o número de
+(EIRELI), a sociedade empresária e a cooperativa podem optar por utilizar o número de
 inscrição no Cadastro Nacional da Pessoa Jurídica (CNPJ) como nome empresarial, seguido
-da partícula identificadora do tipo  societário ou jurídico, quando exigida por lei. (Incluído
-pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)  Instrução Normativa DREI
+da partícula identificadora do tipo societário ou jurídico, quando exigida por lei. (Incluído
+pela Instrução Normativa DREI nº 55, de 2 de junho de 2021) Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 Art. 18-A. O empresário individual, a sociedade empresária e a cooperativa podem
 optar por utilizar o número de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ como
@@ -625,12 +625,12 @@ exigida por lei. (Redação dada pela Instrução Normativa DREI nº 112, de 20 
 2022) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 1º Para os fins da utilização do número do CNPJ como nome empresarial, deve ser
 levado em conta apenas o número raiz, ou seja, os oito primeiros dígitos do CNPJ. (Incluído
-pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)  Instrução Normativa DREI
+pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022) Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 § 2º Quando existir legislação específica sobre a formação do nome empresarial de
 determinado segmento econômico, que seja incompatível com as disposições do caput
 deste artigo, não será possível o uso do número do CNPJ como nome empresarial. (Incluído
-pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)  Instrução Normativa DREI
+pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022) Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 § 3º Não poderá ser utilizado o CNPJ como nome empresarial para as empresas
 públicas, sociedades de economia mista, consórcios, grupos de sociedade e empresas
@@ -638,7 +638,7 @@ simples de crédito. (Incluído pela Instrução Normativa DREI nº 112, de 20 d
 2022) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 Art. 18-B. O empresário individual, enquadrado na condição de Microempreendedor
 Individual (MEI), que realizar o desenquadramento desta condição, deve proceder com a
-alteração do nome empresarial, para ﬁns de adequação às normas relativas a  composição
+alteração do nome empresarial, para ﬁns de adequação às normas relativas a composição
 do nome. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 Art. 19. A expressão “grupo” é de uso exclusivo dos grupos de sociedades
@@ -646,20 +646,20 @@ Art. 19. A expressão “grupo” é de uso exclusivo dos grupos de sociedades
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 19
 
-organizados, mediante convenção, na forma da Lei das Sociedades Anônimas.  Instrução
+organizados, mediante convenção, na forma da Lei das Sociedades Anônimas. Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
-Parágrafo único.  Após o arquivamento da convenção do grupo, a sociedade
+Parágrafo único. Após o arquivamento da convenção do grupo, a sociedade
 controladora, ou de comando, e as filiadas deverão acrescentar aos seus nomes a
 designação do grupo. Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 1º Após o arquivamento da convenção do grupo, a sociedade controladora, ou de
 comando, e as filiadas deverão acrescentar aos seus nomes a designação do grupo.(Incluído
-pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)  Instrução Normativa DREI
+pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 § 2º Não há proibição da utilização no nome empresarial do termo “grupo” quando
 redigido em outra língua diferente da portuguesa, desde que possua grafia distinta. (Incluído
-pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)  Instrução Normativa DREI
+pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
-Art. 20.  Ao final dos nomes do empresário individual, da EIRELI, da sociedade
+Art. 20. Ao final dos nomes do empresário individual, da EIRELI, da sociedade
 empresária e da cooperativa que estiverem em processo de liquidação, após a anotação no
 Registro de Empresas, deverá ser aditado o termo “em liquidação”. Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
@@ -670,12 +670,12 @@ Normativa DREI nº 112, de 20 de janeiro de 2022) Instrução Normativa DREI /ME
 05 de janeiro de 2025
 Art. 21. Nos casos de recuperação judicial, após a anotação no Registro de Empresas,
 o empresário individual, a EIRELI e a sociedade empresária deverão acrescentar após o seu
-nome empresarial a  expressão “em recuperação judicial”, que será excluída após
+nome empresarial a expressão “em recuperação judicial”, que será excluída após
 comunicação judicial sobre a sua recuperação. Instrução Normativa DREI /MEMP nº 1, de 05
 de janeiro de 2025
 Art. 21. Nos casos de recuperação judicial, após a anotação no Registro de Empresas,
 o empresário individual e a sociedade empresária deverão acrescentar após o seu nome
-empresarial a expressão "em recuperação  judicial", que será excluída após comunicação
+empresarial a expressão "em recuperação judicial", que será excluída após comunicação
 judicial sobre o encerramento do processo de recuperação, conforme prevê o art. 63 da Lei
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -709,7 +709,7 @@ Seção IV
 Dos critérios para verificação da existência de identidade ou semelhança
 
 Art. 23. Observado o princípio da novidade, não poderão coexistir, na mesma unidade
-federativa, dois nomes empresariais idênticos ou semelhantes.  Instrução Normativa DREI
+federativa, dois nomes empresariais idênticos ou semelhantes. Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 Art. 23. Observado o princípio da novidade, a Junta Comercial não arquivará atos com
 
@@ -717,10 +717,10 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 21
 
 nome empresarial idêntico a outro já registrado. (Redação dada pela Instrução Normativa
-DREI nº 55, de 2 de junho de 2021)  Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro
+DREI nº 55, de 2 de junho de 2021) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro
 de 2025
-§ 1º  Considera-se idêntico o nome empresarial que tenha exatamente a mesma
-composição daquele anteriormente registrado na mesma Junta Comercial.  Instrução
+§ 1º Considera-se idêntico o nome empresarial que tenha exatamente a mesma
+composição daquele anteriormente registrado na mesma Junta Comercial. Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 2º Considera-se semelhante o nome empresarial que tenha distinção em relação a
 apenas algum ou alguns caracteres, mas que não resulte em diferença significativa quanto
@@ -732,7 +732,7 @@ os nomes forem homógrafos. (Redação dada pela Instrução Normativa DREI nº 
 junho de 2021) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 2º O critério para análise de identidade entre ﬁrmas ou denominações será
 aferido considerando-se os nomes empresariais por inteiro, podendo ser desconsiderados:
-(Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)  Instrução
+(Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 I - expressões relativas ao tipo jurídico adotado; (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de
@@ -743,25 +743,25 @@ III - eventuais caracteres especiais não numéricos, bem como caracteres isolad
 que substituam letras; e/ou (Redação dada pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 IV - utilização de pontuação antes, no meio ou ao ﬁnal do nome, bem como
-o espaçamento ou não entre as palavras.  (Redação dada pela Instrução Normativa DREI nº
+o espaçamento ou não entre as palavras. (Redação dada pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
-§ 3º  Os critérios para análise de identidade e semelhança entre firmas ou
+§ 3º Os critérios para análise de identidade e semelhança entre firmas ou
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 22
 
-denominações serão aferidos considerando -se os nomes empresariais por inteiro,
+denominações serão aferidos considerando-se os nomes empresariais por inteiro,
 desconsiderando-se apenas as expressões relativas ao tipo jurídico adotado; haverá
-identidade se os nomes forem homógrafos, e semelhança se forem homófonos.  Instrução
+identidade se os nomes forem homógrafos, e semelhança se forem homófonos. Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 3º Se o nome empresarial for idêntico a outro já registrado, deverá ser modificado
 ou acrescido de designação que o distinga. (Redação dada pela Instrução Normativa DREI nº
 55, de 2 de junho de 2021) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 4º Se o nome empresarial for idêntico ou semelhante a outro já registrado, deverá
-ser modificado ou  acrescido de designação que o distinga. (Revogado pela Instrução
+ser modificado ou acrescido de designação que o distinga. (Revogado pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021) Instrução Normativa DREI /MEMP nº 1, de 05
 de janeiro de 2025
-Art. 23 -A. Caso seja arquivado ato com nome empresarial semelhante a outro já
+Art. 23-A. Caso seja arquivado ato com nome empresarial semelhante a outro já
 registrado, o interessado poderá questionar, a qualquer tempo, por meio de recurso ao
 Departamento Nacional de Registro Empresarial e Integração (DREI). (Incluído pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021) Instrução Normativa DREI /MEMP nº 1, de 05
@@ -776,7 +776,7 @@ III - procuração, quando a petição for subscrita por advogado; eInstrução 
 DREI /MEMP nº 1, de 05 de janeiro de 2025
 IV - comprovante de pagamento do preço dos serviços. Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
-§ 2º Após protocolizado  o Recurso ao DREI será enviado à Secretaria -Geral para
+§ 2º Após protocolizado o Recurso ao DREI será enviado à Secretaria-Geral para
 autuar, registrar e notificar no prazo de três dias úteis as partes interessadas, as quais terão
 o prazo de dez dias úteis para apresentar as contrarrazões, caso tenham interesse. Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
@@ -789,11 +789,11 @@ Secretaria- Geral, o fará concluso ao Presidente para, nos três dias subsequen
 o encaminhamento de forma eletrônica ao DREI, que no prazo de dez dias úteis, deverá
 proferir decisão final. Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 3º-A Caso seja reconhecida a semelhança, será determinado que o nome empresarial
-seja alterado no prazo de trinta dias, contado da data de intimação da decisão do  recurso,
-a ser realizada pela Junta Comercial.  (Incluído pela Instrução Normativa DREI nº 01, de 24
+seja alterado no prazo de trinta dias, contado da data de intimação da decisão do recurso,
+a ser realizada pela Junta Comercial. (Incluído pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
-§ 3º-B Encerrado o prazo de que trata o § 3º -A sem providências pelo interessado, a
-Junta Comercial deverá, de ofício:  (Incluído pela Instrução Normativa DREI nº 01, de 24 de
+§ 3º-B Encerrado o prazo de que trata o § 3º-A sem providências pelo interessado, a
+Junta Comercial deverá, de ofício: (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 I- alterar o nome empresarial para o número de inscrição no CNPJ, seguido da particula
 identiﬁcadora do tipo societário ou jurídico, quando exigida por lei, sem prejuízo de
@@ -802,13 +802,13 @@ art. 62 do Decreto nº 1.800, de 1996; e (Incluído pela Instrução Normativa D
 de janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 II- realizar comunicação à Receita Federal do Brasil e demais entidades com as quais
 seus sistemas estejam integrados para que atualizem seus respectivos cadastros. (Incluído
-pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)  Instrução Normativa DREI
+pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução Normativa DREI
 /MEMP nº 1, de 05 de janeiro de 2025
 § 3º-C O interessado que tenha seu nome empresarial alterado de ofício e que desejar
 solicitar a alteração, deverá observar as disposições relativas à alteração do contrato ou
 estatuto social. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
-§ 4º Considerar -se-á semelhante o nome empresarial, por inteiro, desconsiderando
+§ 4º Considerar-se-á semelhante o nome empresarial, por inteiro, desconsiderando
 apenas as expressões relativas ao tipo jurídico adotado, que tenha distinção em relação a
 apenas algum ou alguns caracteres, mas que não resulte em diferença significativa quanto
 à grafia ou à pronúncia. Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
@@ -821,11 +821,11 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 24
 
 I- tenha distinção em relação a apenas algum ou alguns caracteres, mas que não
-resulte em diferença significativa quanto à grafia ou pronúncia; e/ou  (Redação dada pela
+resulte em diferença significativa quanto à grafia ou pronúncia; e/ou (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução Normativa DREI /MEMP nº
 1, de 05 de janeiro de 2025
 II- tenha sido modiﬁcada apenas a ordem dos termos que compõem o nome, não
-tendo elementos diferenciais significativos.  (Redação dada pela Instrução Normativa DREI
+tendo elementos diferenciais significativos. (Redação dada pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 5º Se o nome empresarial questionado for considerado semelhante, ou seja, se for
 considerado homófono a outro já registrado, deverá ser modificado ou acrescido de
@@ -836,7 +836,7 @@ desleal ou desvio de clientela em decorrência do registro de nomes empresariais
 semelhantes. (Incluído pela Instrução Normativa DREI/ME nº 88, de 23 de dezembro de
 2022) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 Art. 24. Não cabe às Juntas Comerciais verificar a existência ou não de colidência entre
-nome empresarial  e marca registrada ou entre nome empresarial e denominações
+nome empresarial e marca registrada ou entre nome empresarial e denominações
 registradas em outros órgãos de registro. Instrução Normativa DREI /MEMP nº 1, de 05 de
 janeiro de 2025
 Art. 24. Não compete às Juntas Comerciais ou ao DREI: (Redação dada pela Instrução
@@ -847,9 +847,9 @@ registrada ou entre nome empresarial e denominações registradas em outros órg
 registro; (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)e/ouInstrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 II- analisar controvérsias relacionadas a nomes empresariais que tenham por
-fundamento a identidade entre atividades econômicas exercidas, concorrência desleal  ou
-desvio de clientela em decorrência do registro de nomes empresariais semelhantes .
-(Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)  Instrução
+fundamento a identidade entre atividades econômicas exercidas, concorrência desleal ou
+desvio de clientela em decorrência do registro de nomes empresariais semelhantes.
+(Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024) Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -858,24 +858,24 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 Seção V
 Da Proteção ao Nome Empresarial
 
-Art. 25.  A proteção ao nome empresarial decorre, automaticamente, do ato de
+Art. 25. A proteção ao nome empresarial decorre, automaticamente, do ato de
 registro e circunscreve-se à unidade federativa da jurisdição da Junta Comercial que o tiver
 procedido. Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 1º A proteção ao nome empresarial na jurisdição de outra Junta Comercial decorre,
 automaticamente, da abertura de filial nela registrada ou do arquivamento de pedido
 específico, instruído com certidão expedida pela Junta Comercial da sede da empresa
 interessada. Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
-§ 2º  Arquivado o pedido de proteção ao nome empresarial, deverá ser expedida
+§ 2º Arquivado o pedido de proteção ao nome empresarial, deverá ser expedida
 comunicação do fato à Junta Comercial da unidade federativa onde estiver localizada a sede
-do empresário individual, da EIRELI, da sociedade empresária ou da cooperativa.  Instrução
+do empresário individual, da EIRELI, da sociedade empresária ou da cooperativa. Instrução
 Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 § 2º Arquivado o pedido de proteção ao nome empresarial, deverá ser expedida
 comunicação do fato à Junta Comercial da unidade federativa onde estiver localizada a sede
 do empresário individual, da sociedade empresária ou da cooperativa. (Redação dada pela
 Instrução Normativa DREI nº 112, de 20 de janeiro de 2022) Instrução Normativa DREI /MEMP
 nº 1, de 05 de janeiro de 2025
-§ 3º Ocorrendo o arquivamento de alteração de  nome empresarial na Junta
-Comercial da  sede do empresário  individual, da EIRELI, da sociedade empresária ou da
+§ 3º Ocorrendo o arquivamento de alteração de nome empresarial na Junta
+Comercial da sede do empresário individual, da EIRELI, da sociedade empresária ou da
 cooperativa, cabe ao interessado promover, nas Juntas Comerciais das outras unidades da
 federação em que haja proteção do nome empresarial arquivada, a modificação da
 proteção existente mediante pedido específico, instruído com certidão expedida pela Junta
@@ -896,16 +896,16 @@ Normativa DREI nº 112, de 20 de janeiro de 2022) Instrução Normativa DREI /ME
 § 4º As sociedades constituídas por tempo determinado e, por esta razão, dissolvidas,
 perderão a proteção ao nome empresarial, salvo se não entrarem em liquidação. Nesta
 hipótese, o prazo de duração será convertido para prazo de duração indeterminado e o
-nome empresarial permanecerá protegido . (Incluído pela Instrução Normativa DREI nº 01,
+nome empresarial permanecerá protegido. (Incluído pela Instrução Normativa DREI nº 01,
 de 24 de janeiro de 2024) Instrução Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025
 Art. 26. No caso de transferência de sede de empresário individual, EIRELI, sociedade
 empresária ou cooperativa com sede em outra unidade federativa, havendo identidade ou
 semelhança entre nomes empresariais, a Junta Comercial não procederá ao arquivamento
 do ato, salvo se o interessado arquivar na Junta Comercial da unidade federativa de destino,
-concomitantemente, ato de modificação de seu nome empresarial.  Instrução Normativa
+concomitantemente, ato de modificação de seu nome empresarial. Instrução Normativa
 DREI /MEMP nº 1, de 05 de janeiro de 2025
 Art. 26. No caso de transferência de sede de empresário individual, EIRELI, sociedade
-empresária ou cooperativa  com sede em outra unidade federativa, havendo identidade
+empresária ou cooperativa com sede em outra unidade federativa, havendo identidade
 entre nomes empresariais, a Junta Comercial não procederá ao arquivamento do ato, salvo
 se o interessado arquivar na Junta Comercial da unidade federativa de destino,
 concomitantemente, ato de modificação de seu nome empresarial. (Redação dada pela
@@ -914,7 +914,7 @@ Instrução Normativa DREI nº 55, de 2 de junho de 2021) Instrução Normativa 
 Art. 26. No caso de transferência de sede de empresário individual, sociedade
 empresária ou cooperativa com sede em outra unidade federativa, havendo identidade
 entre nomes empresariais, a Junta Comercial não procederá ao arquivamento do ato, salvo
-se o in teressado arquivar na Junta Comercial da unidade federativa de destino,
+se o interessado arquivar na Junta Comercial da unidade federativa de destino,
 concomitantemente, ato de modificação de seu nome empresarial. (Redação dada pela
 Instrução Normativa DREI nº 112, de 20 de janeiro de 2022) Instrução Normativa DREI /MEMP
 nº 1, de 05 de janeiro de 2025
@@ -939,10 +939,10 @@ Comerciais deverão estar assinados na forma da lei, sendo as demais folhas rubr
 individual, sociedade empresária ou cooperativa levados a arquivamento nas Juntas
 Comerciais deverão estar assinados na forma da lei, sendo as demais folhas rubricadas.
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
-§ 2º  O protocolo da Junta Comercial restituirá ao interessado, no ato da sua
+§ 2º O protocolo da Junta Comercial restituirá ao interessado, no ato da sua
 apresentação, todas as vias que excederem ao estabelecido no caput deste artigo.
-§ 3º  Se assim dispuserem as normas internas da Junta Comercial, poderá ser
-devolvido ao interessado  o documento físico que for digitalizado no momento de seu
+§ 3º Se assim dispuserem as normas internas da Junta Comercial, poderá ser
+devolvido ao interessado o documento físico que for digitalizado no momento de seu
 protocolo, com a preservação da sua imagem, mediante conferência e assinatura certificada
 de agente público, nos termos do art. 57 da Lei nº 8.934, de 1994.
 Art. 28. Os atos apresentados a arquivamento são dispensados de:
@@ -961,7 +961,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 junho de 2021)
 a) servidor da Junta Comercial, mediante a comparação entre o original e a cópia; ou
-b) pelo advogado, contador ou técnico  em contabilidade da  parte interessada,
+b) pelo advogado, contador ou técnico em contabilidade da parte interessada,
 mediante o modelo de declaração constante do anexo VII.
 § 1º Considera-se advogado, contador ou técnico em contabilidade da parte
 interessada o profissional que assinar o requerimento do ato levado a registro.
@@ -984,7 +984,7 @@ registro dos atos empresariais do empresário individual, da EIRELI, da sociedad
 da cooperativa, do consórcio e grupo de sociedades, por termo que contenha, no mínimo:
 Art. 30. A autenticação tem por finalidade comprovar e certificar a autenticidade do
 registro dos atos empresariais do empresário individual, da sociedade empresária, da
-cooperativa, do consórcio e grupo  de sociedades, por termo que contenha, no mínimo:
+cooperativa, do consórcio e grupo de sociedades, por termo que contenha, no mínimo:
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 I – identificação da Junta Comercial;
 II – protocolo;
@@ -1014,15 +1014,15 @@ inviolabilidade e segurança.
 Seção III
 Da Entrega dos Documentos físicos
 
-Art. 31.  Após o registro, a Junta Comercial devolverá ao interessado, mediante a
+Art. 31. Após o registro, a Junta Comercial devolverá ao interessado, mediante a
 entrega do comprovante de protocolo, duas vias extraídas por certidão de inteiro teor
 (cópia do ato original arquivado), devidamente certificadas.
 § 1º As Juntas Comerciais poderão optar por entregar ao interessado o ato registrado,
 por meio eletrônico.
 § 2º No caso de entrega do ato registrado por meio eletrônico, a Junta Comercial
 deverá oferecer ao interessado opção para validação do ato.
-§ 3º  Poderão ser extraídas cópias adicionais do original arquivado, devidamente
-certificadas pela Secretaria -Geral, de forma idêntica a estabelecida no caput deste artigo,
+§ 3º Poderão ser extraídas cópias adicionais do original arquivado, devidamente
+certificadas pela Secretaria-Geral, de forma idêntica a estabelecida no caput deste artigo,
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 30
@@ -1048,11 +1048,11 @@ Assessoramento, Perícias, Informações e Pesquisas (SESCON) do respectivo esta
 Distrito Federal; e
 VII – oficiar o Conselho Seccional da Ordem dos Advogados do Brasil do respectivo
 Estado ou do Distrito Federal.
-§ 2º  As Juntas Comerciais manterão permanentemente em seus sítios manuais
+§ 2º As Juntas Comerciais manterão permanentemente em seus sítios manuais
 atualizados de utilização de seus sistemas voltados aos usuários de seus serviços e a
 indicação dos requisitos mínimos necessários para acesso a estes serviços.
-Art. 33. O Registro Digital deverá obedecer as  normas atinentes ao Registro Público
-de Empresas quanto  à publicidade do registro, publicação dos atos, proibições de
+Art. 33. O Registro Digital deverá obedecer as normas atinentes ao Registro Público
+de Empresas quanto à publicidade do registro, publicação dos atos, proibições de
 arquivamento, autenticação, exame das formalidades, processo decisório e processo
 revisional, bem como seus respectivos prazos.
 § 1º No exame das formalidades devem ser verificados os requisitos referentes aos
@@ -1062,13 +1062,13 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 31
 
 § 1º No exame das formalidades devem ser verificados os requisitos referentes às
-assinaturas eletrônicas  utilizadas, especialmente no que diz respeito a sua validade.
+assinaturas eletrônicas utilizadas, especialmente no que diz respeito a sua validade.
 (Redação dada pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
-§ 2º  As exigências ou indeferimento do registro digital deverão estar disponíveis
+§ 2º As exigências ou indeferimento do registro digital deverão estar disponíveis
 eletronicamente ao interessado observado o disposto nos Manuais de Registro, anexos a
 esta Instrução Normativa.
 § 3º As Juntas Comerciais podem realizar acordos, contratos ou termos congêneres
-com as autoridades  certificadoras para emissão de certificado digital. (Incluído pela
+com as autoridades certificadoras para emissão de certificado digital. (Incluído pela
 Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 Art. 34. Os sistemas eletrônicos adotados pelas Juntas Comerciais devem:
 I – controlar o acesso e procedimentos de segurança que garantam a
@@ -1087,7 +1087,7 @@ que se submetam às regras de recepção de cada Junta.
 Art. 35. As Juntas Comerciais devem buscar a adoção de recepção de documento
 assinado eletronicamente por sistema de terceiros ou Portais de Assinaturas. (Redação dada
 pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
-Parágrafo único.  Na hipótese de utilização de sistema de terceiros ou Portais de
+Parágrafo único. Na hipótese de utilização de sistema de terceiros ou Portais de
 Assinaturas é obrigatória a utilização de carimbo de tempo. (Revogado pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021)
 Art. 35. Conforme previsão do art. 5º da Lei nº 14.063, de 2020, ato do titular do Poder
@@ -1100,7 +1100,7 @@ tipo(s) de assinatura(s) eletrônica(s) que irá(ão) ser exigida(s), porém é 
 uniformização entre as Juntas Comerciais e a aceitação das assinaturas avançada e
 qualificada. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 1º A assinatura eletrônica, nos termos da Lei nº 14.063, de 2020, poderá ser
-avançada, inclusive mediante a disponível no portal “gov.br”, ou qualificada.  (Incluído pela
+avançada, inclusive mediante a disponível no portal “gov.br”, ou qualificada. (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 2º A assinatura eletrônica que for realizada fora do portal da junta comercial será
 aceita para os documentos sujeitos a arquivamento, desde que seja: (Incluído pela Instrução
@@ -1111,9 +1111,9 @@ assinatura), via sistema da junta comercial; ou  : (Incluído pela Instrução N
 II - apresentada declaração de autenticidade eletrônica, na forma do art. 28, inciso II,
 alínea “b”, e §§ 1º a 3º desta instrução normativa.  (Incluído pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
-Art. 35 -A. Os instrumentos constitutivos, modiﬁcativos e extintivos deverão ser
+Art. 35-A. Os instrumentos constitutivos, modiﬁcativos e extintivos deverão ser
 assinados digitalmente pelos seus signatários, devendo observar os termos do art. 35 desta
-instrução normativa : (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
+instrução normativa: (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 § 1º As atas de reunião ou de assembleia e outros documentos sujeitos à
 arquivamento, como: procurações, protocolos, laudos de avaliação, balanços, documento
@@ -1122,9 +1122,9 @@ com qualquer certiﬁcado digital emitido por entidade credenciada pela Infraest
 Chaves Públicas Brasileira – ICP-Brasil ou utilizar qualquer outro meio de comprovação da
 autoria e integridade de documentos em forma eletrônica, nos termos da Lei nº 14.063, de
 2020. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-§ 2º A assinatura eletrônica aposta nos documentos mencionados no  caput deste
+§ 2º A assinatura eletrônica aposta nos documentos mencionados no caput deste
 artigo supre a exigência de apresentação de prova de identidade nos casos exigidos pela
-legislação e normas do Registro Empresarial, salvo para os imigrantes.  (Incluído pela
+legislação e normas do Registro Empresarial, salvo para os imigrantes. (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -1139,7 +1139,7 @@ eletrônico nas Juntas Comerciais deverão observar o seguinte:
 I  – os atos constitutivos, modificativos, extintivos ou outros documentos sujeitos à
 decisão singular ou colegiada, assim como procurações, protocolos, laudos de avaliação,
 balanços, documento de interesse, declarações, ou outros atos empresariais produzidos por
-meio eletrônico, deverão ser  assinados eletronicamente pelos seus signatários, com
+meio eletrônico, deverão ser assinados eletronicamente pelos seus signatários, com
 qualquer certificado digital emitido por entidade credenciada pela Infraestrutura de Chaves
 Públicas Brasileira – ICP-Brasil ou utilizar qualquer outro meio de comprovação da autoria e
 integridade de documentos em forma eletrônica, nos termos do § 2º do art. 10 da Medida
@@ -1155,10 +1155,10 @@ Provisória nº 2.200-2, de 24 de agosto de 2001, e da Lei nº 14.063, de 23 de 
 2020. (Revogado pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 II – a assinatura eletrônica aposta nos documentos mencionados no inciso I deste
 artigo e na forma nele prevista supre a exigência de apresentação de prova de identidade
-nos casos exigidos pela legislação e normas do Registro Empresarial.  (Revogado pela
+nos casos exigidos pela legislação e normas do Registro Empresarial. (Revogado pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 III  – os dados específicos de registro constantes da Ficha de Cadastro Nacional e os
-dados comuns,  coletados eletronicamente pela Receita Federal do Brasil, deverão ser
+dados comuns, coletados eletronicamente pela Receita Federal do Brasil, deverão ser
 transmitidos eletronicamente para a Junta Comercial;
 III – os dados específicos de registro coletados pela Junta Comercial e os dados
 comuns, coletados eletronicamente pela Receita Federal do Brasil, deverão ser transmitidos
@@ -1166,10 +1166,10 @@ comuns, coletados eletronicamente pela Receita Federal do Brasil, deverão ser t
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 34
 
-eletronicamente para a Junta  Comercial. (Redação dada pela Instrução Normativa DREI nº
+eletronicamente para a Junta Comercial. (Redação dada pela Instrução Normativa DREI nº
 55, de 2 de junho de 2021)
 III - os dados específicos de registro coletados pela Junta Comercial e constantes da
-Ficha de Cadastro  Nacional, bem como os dados comuns coletados eletronicamente pela
+Ficha de Cadastro Nacional, bem como os dados comuns coletados eletronicamente pela
 Receita Federal do Brasil, deverão ser transmitidos eletronicamente para a Junta Comercial;
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 IV - o Requerimento Eletrônico deverá ser assinado eletronicamente pelo requerente,
@@ -1192,7 +1192,7 @@ VI - quando se tratar de publicações em jornais, procurações, protocolos e
 justiﬁcações, laudos de avaliação, balanços, documentos de interesse, declarações, decisões
 ou determinações judiciais, documentos oriundos dos serviços notariais, bem como de
 qualquer outro documento exigido para instruir o pedido de registro, deverão ser
-apresentados: (Redação dada  pela Instrução Normativa DREI nº 01, de 24 de janeiro de
+apresentados: (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 a) em arquivo eletrônico, devidamente identificado e assinado eletronicamente pelo
 emissor do documento;
@@ -1204,7 +1204,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 verificação da autenticidade pela internet sem a necessidade do pagamento de preços e
 independentemente de autenticação de usuário; ou
 c)   quando em papel, inclusive os que forem assinados de próprio punho,
-digitalizados e  apresentados com declaração de sua autenticidade assinada
+digitalizados e apresentados com declaração de sua autenticidade assinada
 eletronicamente pelo requerente, sob sua responsabilidade pessoal.
 c) quando em papel, inclusive os que forem assinados de próprio punho, digitalizados
 e apresentados com declaração de sua veracidade assinada eletronicamente pelo
@@ -1214,10 +1214,10 @@ c)  digitalizados, quando em papel, inclusive os que forem assinados de próprio
 e apresentados com declaração de sua veracidade, conforme modelo do Anexo XI,
 assinada eletronicamente pelo requerente (empresário, sócio, cooperado, acionista,
 administrador, diretor, inventariante e proﬁssionais contabilistas e advogados) sob sua
-responsabilidade pessoal, o qual irá instruir o arquivamento do ato requerido.  (Redação
+responsabilidade pessoal, o qual irá instruir o arquivamento do ato requerido. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-§ 1º  Os atos, instrumentos e declarações assinados eletronicamente na forma do
-inciso I deverão  possuir carimbo de tempo ou outro mecanismo que ateste a data e hora
+§ 1º Os atos, instrumentos e declarações assinados eletronicamente na forma do
+inciso I deverão possuir carimbo de tempo ou outro mecanismo que ateste a data e hora
 em que foram assinados. (Revogado pela Instrução Normativa DREI nº 55, de 2 de junho de
 2021)
 § 2º Na hipótese da alínea "b" do inciso VI, a Junta Comercial registrará o URL do sítio
@@ -1236,7 +1236,7 @@ titular, sócio, cooperado, acionista, administrador, diretor, conselheiro, usuf
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 36
 
-inventariante, os profissionais  contabilistas e advogados da empresa e terceiros
+inventariante, os profissionais contabilistas e advogados da empresa e terceiros
 interessados. (Revogado pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 37. No recebimento do documento digital deverá ser registrada a data e hora.
 Art. 38. O arquivo eletrônico que contém o documento original produzido pelas partes
@@ -1252,19 +1252,19 @@ assinaturas nos termos do caput ou realizar o procedimento previsto no § 1º de
 § 2º Se o documento receber exigência na análise que não implique na alteração do
 arquivo eletrônico que o contém, a Junta Comercial deverá, obrigatoriamente, sem
 necessidade de novas assinaturas, assegurar a integridade das assinaturas nos termos do
-caput ou realizar o procedimento previsto no §  1º deste artigo . (Redação dada pela
+caput ou realizar o procedimento previsto no § 1º deste artigo. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 39. O ato empresarial será assinado eletronicamente pelos agentes públicos
 que o deferiram, singular ou colegiadamente, mediante a utilização de qualquer certificado
 digital emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira -
-ICP-Brasil ou utilizar qualquer  outro meio de comprovação da autoria e integridade de
+ICP-Brasil ou utilizar qualquer outro meio de comprovação da autoria e integridade de
 documentos em forma eletrônica, nos termos do
 § 2º do art. 10 da Medida Provisória nº 2.200-2, de 2001.
 Art. 39. O ato empresarial será assinado eletronicamente pelos agentes públicos que
 o deferiram, singular ou colegiadamente, mediante a utilização de qualquer certificado
 digital emitido por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira
-- ICP-Brasil ou utilizar qualquer outro meio de  comprovação da autoria e integridade de
-documentos em forma eletrônica, nos termos do § 2º do  art. 10 da Medida Provisória nº
+- ICP-Brasil ou utilizar qualquer outro meio de comprovação da autoria e integridade de
+documentos em forma eletrônica, nos termos do § 2º do art. 10 da Medida Provisória nº
 2.200-2, de 24 de agosto de 2001, e da Lei nº 14.063, de 23 de setembro de 2020. (Redação
 dada pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 
@@ -1283,7 +1283,7 @@ VI - data dos efeitos do registro;
 VII - assinatura do Secretário Geral, nos termos do art. 28, V, do Decreto nº 1.800, de
 1996; e
 VIII - sequência alfa numérica e hash.
-§ 1º  A chancela digital não comprometerá o arquivo eletrônico que contém o
+§ 1º A chancela digital não comprometerá o arquivo eletrônico que contém o
 documento original produzido pelas partes e nem a integridade das respectivas certificações
 digitais.
 § 2º O disposto no inciso VIII do caput é passível de substituição por outro mecanismo
@@ -1296,7 +1296,7 @@ Art. 41. Após o registro, a Junta Comercial disponibilizará o ato arquivado ao
 interessado.
 § 1º O documento ficará à disposição do interessado no meio eletrônico indicado pela
 Junta Comercial por trinta dias.
-§ 2º  A Junta Comercial disponibilizará pela internet meio de verificação da
+§ 2º A Junta Comercial disponibilizará pela internet meio de verificação da
 autenticidade do documento arquivado independentemente de autenticação de usuário e
 sem a necessidade do pagamento de taxas.
 Art. 42. Os documentos eletrônicos certificados digitalmente por uma Junta Comercial
@@ -1311,7 +1311,7 @@ DO REGISTRO AUTOMÁTICO
 Seção I
 Das Disposições Gerais
 
-Art. 43. O arquivamento de ato constitutivo, alteração e  extinção de empresário
+Art. 43. O arquivamento de ato constitutivo, alteração e extinção de empresário
 individual, EIRELI, sociedade limitada, exceto empresas públicas, bem como constituição de
 cooperativa será deferido de forma automática quando:
 Art. 43. O arquivamento de ato constitutivo, alteração e extinção de empresário
@@ -1326,7 +1326,7 @@ DREI nº 01, de 24 de janeiro de 2024)
 I - tenham sido concluídas as consultas prévias da viabilidade de nome empresarial e
 de localização, quando for o caso;
 I - tenham sido dispensadas ou concluídas as consultas prévias da viabilidade de nome
-empresarial e de localização, quando exigidas;  (Redação dada pela  Instrução Normativa
+empresarial e de localização, quando exigidas; (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 II  - o instrumento contiver apenas as cláusulas padronizadas, conforme anexos II, III,
 IV e VI desta Instrução Normativa; e
@@ -1357,15 +1357,15 @@ crédito. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janei
 § 2º Além das cláusulas obrigatórias que devem constar do instrumento, as partes
 poderão adotar cláusulas opcionais padronizadas, também constantes dos anexos II, III, IV e
 VI desta Instrução Normativa.
-§ 2º Além das cláusulas obrigatórias que devem  constar do instrumento,  as partes
+§ 2º Além das cláusulas obrigatórias que devem constar do instrumento, as partes
 poderão adotar cláusulas opcionais padronizadas, também constantes dos anexos II, IV e VI
 desta Instrução Normativa. (Redação dada pela Instrução Normativa DREI nº 112, de 20 de
 janeiro de 2022)
 § 3º A Junta Comercial fará a conferência do instrumento padrão apresentado, bem
 como dos documentos obrigatórios, preferencialmente através do sistema informatizado
 por ela utilizado.
-§ 4º  Nos processos em que houver pessoa incapaz ou representada, bem como
-naqueles em que houver  a necessidade de aprovação prévia do Conselho de Defesa
+§ 4º Nos processos em que houver pessoa incapaz ou representada, bem como
+naqueles em que houver a necessidade de aprovação prévia do Conselho de Defesa
 Nacional, o encaminhamento deverá ser realizado obrigatoriamente de forma eletrônica.
 § 5º Não está abrangida na vedação de que trata o inciso I, do § 1º deste artigo,
 a transformação de empresário individual, ainda que enquadrado como MEI, em sociedade
@@ -1376,10 +1376,10 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 44. O sistema informatizado utilizado pela Junta Comercial deve impedir que os
-dados informados  no Coletor  Nacional sejam  alterados quando do preenchimento dos
+dados informados no Coletor Nacional sejam alterados quando do preenchimento dos
 dados complementares, a fim de evitar divergências entre eles.
 Art. 45. O instrumento apresentado em desconformidade com este Capítulo não fará
-jus ao registro automático,  devendo ser analisado conforme o disposto no art. 40 e
+jus ao registro automático, devendo ser analisado conforme o disposto no art. 40 e
 parágrafos da Lei nº 8.934, de 1994.
 Art. 46. Deferido o registro automático, o interessado deverá ter acesso a quaisquer
 documentos relativos ao empresário individual, à EIRELI, à sociedade limitada e à
@@ -1395,17 +1395,17 @@ Seção II
 Do Exame Posterior das Formalidades Legais
 
 Art. 47. No prazo de até dois dias úteis, contados da data do deferimento automático
-do registro, a  Junta Comercial deverá realizar o exame do cumprimento das formalidades
+do registro, a Junta Comercial deverá realizar o exame do cumprimento das formalidades
 legais previsto no art. 40 da Lei nº 8.934, de 1994.
 Art. 47. Não obstante, as formalidades prévias que serão observadas para o registro
-automático, no prazo de até dois dias úteis, contados da data do deferimento  automático
+automático, no prazo de até dois dias úteis, contados da data do deferimento automático
 do registro, a Junta Comercial poderá reavaliar o exame do cumprimento das formalidades
 legais previsto no art. 40 da Lei nº 8.934, de 1994. (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 § 1º O exame será realizado, preferencialmente, pelo sistema informatizado utilizado
 pela Junta Comercial.
 § 2º Caso no exame das formalidades legais seja identificada a presença de vício, o
-interessado será notificado  para adoção das providências necessárias, no prazo de trinta
+interessado será notificado para adoção das providências necessárias, no prazo de trinta
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 41
@@ -1462,8 +1462,8 @@ a formulação de exigências, e comunicará as Juntas Comerciais sempre que tal
 atualizada.
 Art. 50. Verificada a existência de vício dentre aqueles elencados nos anexos II, III e IV
 desta Instrução Normativa, o processo será colocado em exigência.
-Art. 50. Verificada  a existência de vício  dentre aqueles elencados nos anexos II e IV
-desta Instrução Normativa,  o processo será colocado em exigência. (Redação dada pela
+Art. 50. Verificada a existência de vício dentre aqueles elencados nos anexos II e IV
+desta Instrução Normativa, o processo será colocado em exigência. (Redação dada pela
 Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 § 1º A lista indicando as exigências formuladas, acompanhadas das notas explicativas,
 deverá ser anexada ao processo ou disponibilizada no sítio da Junta Comercial.
@@ -1471,8 +1471,8 @@ deverá ser anexada ao processo ou disponibilizada no sítio da Junta Comercial.
 este optar pelo cumprimento sem a retirada.
 § 2º O processo em exigência será devolvido por completo ao interessado. (Revogado
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-§ 3º  A exceção prevista no parágrafo anterior dependerá de regulamentação pela
-Junta Comercial para produzir efeitos. (Revogado pela Instrução Normativa DREI nº 01 , de
+§ 3º A exceção prevista no parágrafo anterior dependerá de regulamentação pela
+Junta Comercial para produzir efeitos.(Revogado pela Instrução Normativa DREI nº 01, de
 24 de janeiro de 2024)
 Art. 51. Todos os vícios constantes do ato, documento ou instrumento apresentado a
 arquivamento serão verificados e apontados na primeira análise realizada pela Junta
@@ -1489,22 +1489,22 @@ Geral dar conhecimento de tal fato ao plenário, exclusivamente para ciência de
 § 2º Em sendo formulada(s) nova(s) exigência(s) em desacordo com o caput e
 sem conexão com as providências saneadoras adotadas pelo interessado, incumbe
 ao Secretário-Geral fazer apontamento ao decisor incumbindo do exame, e se reiterado dar
-conhecimento de tal fato ao Vice -Presidente da Junta Comercial, bem como ao DREI, no
-prazo de 30 dias, de modo a permitir melhorias e as providências pertinentes.  (Redação
+conhecimento de tal fato ao Vice-Presidente da Junta Comercial, bem como ao DREI, no
+prazo de 30 dias, de modo a permitir melhorias e as providências pertinentes. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 3º  Caso o  interessado  promova inclusões, alterações ou  exclusões  em  seu
-pedido inicial sem  conexão com  as necessárias para cumprimento das exigências, será
+pedido inicial sem conexão com as necessárias para cumprimento das exigências, será
 considerado como novo pedido, sendo devidos os recolhimentos dos preços dos serviços
 correspondentes ao novo pedido.
 § 4º Na ocorrência do previsto no parágrafo anterior, à critério da Junta Comercial,
 ao interessado não será devida a devolução dos valores anteriormente recolhidos.
 § 5º Comprovada pelo interessado que as exigências formuladas pelo analista são
-improcedentes, a Junta Comercial  ﬁca obrigada em retornar o processo para análise, sem
-que haja a necessidade de os envolvidos assinarem novamente o processo . (Incluído pela
+improcedentes, a Junta Comercial ﬁca obrigada em retornar o processo para análise, sem
+que haja a necessidade de os envolvidos assinarem novamente o processo. (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-Art. 52.  A Junta Comercial poderá estabelecer trâmite prioritário para análise do
+Art. 52. A Junta Comercial poderá estabelecer trâmite prioritário para análise do
 cumprimento de exigências.
-Parágrafo único.  Terá trâmite prioritário obrigatório a análise do cumprimento de
+Parágrafo único. Terá trâmite prioritário obrigatório a análise do cumprimento de
 nova(s) exigência(s) formulada(s) sem conexão com as providências saneadoras adotadas
 pelo interessado.
 Art. 53. As exigências formuladas pela Junta Comercial deverão ser cumpridas em até
@@ -1524,7 +1524,7 @@ podendo ser indeferido apenas após o transcurso do prazo previsto no caput. (In
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 4º Comprovada pelo interessado que as exigências formuladas pelo analista são
 improcedentes, a Junta Comercial ﬁca obrigada à retornar o processo para análise, sem que
-haja a necessidade de os envolvidos assinarem novamente o processo.  (Incluído pela
+haja a necessidade de os envolvidos assinarem novamente o processo. (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 54.  As Juntas Comerciais envidarão esforços no sentido de disponibilizar em
 seus sítios na internet canais institucionais que propiciem a comunicação com o interessado
@@ -1535,24 +1535,24 @@ pelo mínimo de cinco anos para consultas futuras.
 Seção II
 Da Formulação de Exigência Excepcional
 
-Art. 55.  Eventualmente, na hipótese de o analista identificar elemento  que, a seu
+Art. 55. Eventualmente, na hipótese de o analista identificar elemento que, a seu
 juízo, possa vir a ensejar formulação de exigência além das relacionadas nos anexos II, III e
-IV desta instrução normativa,  formulará questão dirigida ao Presidente que solicitará
+IV desta instrução normativa, formulará questão dirigida ao Presidente que solicitará
 parecer da Procuradoria.
 Art. 55. Eventualmente, na hipótese de o analista identificar elemento que, a seu juízo,
 possa vir a ensejar formulação de exigência além das relacionadas nos anexos II e IV desta
-instrução normativa, formulará questão dirigida ao Presidente que solicitará  parecer da
+instrução normativa, formulará questão dirigida ao Presidente que solicitará parecer da
 Procuradoria. (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de
 2022)
 Art. 55. Eventualmente, na hipótese de o analista identiﬁcar elemento que, a seu juízo,
-possa vir a ensejar formulação de exigência além das relacionadas nos anexos II e IV  desta
-instrução normativa, submeterá, em cada caso, ao Secretário -Geral ou quem as suas vezes
+possa vir a ensejar formulação de exigência além das relacionadas nos anexos II e IV desta
+instrução normativa, submeterá, em cada caso, ao Secretário-Geral ou quem as suas vezes
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 45
 
 ﬁzer, proposta de redação a ser encaminhada ao DREI, instruída de parecer da Procuradoria
-e concordância do Presidente.  (Redação dada pela Instrução Normativa DREI nº 01 , de 24
+e concordância do Presidente. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 § 1º A questão formulada indicará precisamente a norma, dentre as elencadas no art.
 57 desta Instrução Normativa, na qual se fundamenta e os pontos do ato (documento,
@@ -1563,12 +1563,12 @@ Art. 56. Ao Presidente compete indelegável e exclusivamente decidir por formula
 em caráter excepcional, exigência além das relacionadas nos anexos II, III e IV desta Instrução
 Normativa, observadas as disposições desta subseção.
 Art. 56. Ao Presidente compete indelegável e exclusivamente decidir por formular, em
-caráter excepcional,  exigência além das relacionadas nos anexos II e IV desta Instrução
+caráter excepcional, exigência além das relacionadas nos anexos II e IV desta Instrução
 Normativa, observadas as disposições desta subseção. (Redação dada pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
 Art. 56. Ao Presidente compete decidir por formular, em caráter excepcional,
 exigência além das relacionadas nos anexos II e IV desta Instrução Normativa, observadas
-as disposições desta subseção.  (Redação dada pela Instrução Normativa DREI nº 01 , de 24
+as disposições desta subseção. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 § 1º O parecer da Procuradoria, conquanto não vinculante, é condição indispensável
 para a formulação de exigência excepcional.
@@ -1595,7 +1595,7 @@ III -  em Instrução Normativa do DREI; ou (Redação dada pela Instrução Nor
 nº 01, de 24 de janeiro de 2024)
 IV - em orientação técnica emanada do DREI, previamente encaminhada às juntas
 comerciais. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-Parágrafo único.  A Junta Comercial poderá definir instâncias, que antecedam a
+Parágrafo único. A Junta Comercial poderá definir instâncias, que antecedam a
 Procuradoria e a decisão presidencial, com a prerrogativa de indeferir e arquivar a questão
 cujo fundamento seja improcedente ou sem nexo com a exigência excepcional que seria
 formulada.
@@ -1604,7 +1604,7 @@ TÍTULO III
 DOS ATOS DE TRANSFORMAÇÃO, INCORPORAÇÃO, FUSÃO E CISÃO
 
 Art. 58. Para o arquivamento dos atos de transformação, incorporação, fusão, cisão
-ou conversão são necessários:  (Revogado pela Instrução Normativa DREI nº 01 , de 24 de
+ou conversão são necessários: (Revogado pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 I- requerimento (capa do processo), sendo dispensado no caso de registro digital;
 II- procuração, se for o caso;
@@ -1632,21 +1632,21 @@ dispensada a apresentação dos documentos constantes dos incisos IV, V, VI e VI
 dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 Art. 59. Os atos relativos à transformação, incorporação, fusão, cisão e conversão, de
 que trata este título, aplicam-se:
-I - à EIRELI, nos termos das disposições relativas à sociedade limitada;  e (Revogado
+I - à EIRELI, nos termos das disposições relativas à sociedade limitada; e (Revogado
 pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 II - às sociedades cooperativas.
 Art. 59. Os atos relativos à transformação, incorporação, fusão, cisão e conversão, de
-que trata este título, aplicam -se às cooperativas. (Redação dada pela Instrução Normativa
+que trata este título, aplicam-se às cooperativas. (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 § 1º O registro das operações de que trata este titulo não ﬁca condicionado a prévia
-autenticação dos livros das empresas envolvidas.  (Incluído pela Instrução Normativa DREI
+autenticação dos livros das empresas envolvidas. (Incluído pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
 § 2º O empresário individual não pode realizar as operações de incorporação, fusão e
 cisão. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 3º A empresa simples de inovação do regime do inova simples poderá requerer a
-transformação de registro para empresário individual ou para sociedade empresária .
+transformação de registro para empresário individual ou para sociedade empresária.
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-Parágrafo único.  O registro das operações de que trata este título não fica
+Parágrafo único. O registro das operações de que trata este título não fica
 condicionado a prévia autenticação dos livros das empresas envolvidas.
 Art. 60. No caso de incorporação, fusão ou cisão de que decorra extinção de sociedade
 
@@ -1656,7 +1656,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 que tenha filiais, deverá constar do instrumento relativo à sociedade que resultar da
 operação indicação das filiais que permanecerão ativas.
 Parágrafo único. Havendo filiais em outros Estados, as cópias autênticas dos atos, ou
-certidões, referentes  à nova situação deverão ser arquivadas na Junta Comercial em cuja
+certidões, referentes à nova situação deverão ser arquivadas na Junta Comercial em cuja
 jurisdição estiver localizada a filial ou estabelecimento.
 Parágrafo único. Havendo ﬁliais em outra unidade da federação, o arquivamento do
 ato deve ser promovido exclusivamente na Junta Comercial da unidade da federação onde
@@ -1664,10 +1664,10 @@ se localizar a sede, uma vez que após o deferimento do ato, os dados relativos 
 ﬁlial serão encaminhados eletronicamente para Junta Comercial da outra Unidade da
 Federação. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 61. Nos casos previstos neste título em que se optar pela contratação de uma
-empresa especializada  em substituição à nomeação direta de peritos caberá à empresa
+empresa especializada em substituição à nomeação direta de peritos caberá à empresa
 especializada contratada a seleção e indicação dos peritos, os quais devem subscrever todos
 os laudos e documentos pertinentes.
-Parágrafo único.  Não há vedação para  que a sociedade  promova nomeação
+Parágrafo único. Não há vedação para que a sociedade promova nomeação
 antecipada de peritos ad referendum da Assembleia.
 Art. 61. Nos casos previstos neste titulo em que se optar pela contratação de uma
 empresa especializada em substituição à nomeação direta de peritos caberá à empresa
@@ -1675,10 +1675,10 @@ especializada contratada a seleção e indicação do perito, o qual deve subscr
 laudos e documentos pertinentes. (Redação dada pela Instrução Normativa DREI nº 01, de
 24 de janeiro de 2024)
 § 1º Não há vedação para que a sociedade promova nomeação antecipada de peritos
-ad referendum da Assembleia.  (Incluído pela  Instrução Normativa DREI nº 01 , de 24 de
+ad referendum da Assembleia. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 § 2º Poderá a empresa especializada indicar mais de um perito para avaliação dos
-laudos e documentos.  (Incluído pela Instrução Normativa DREI nº 01 , de 24 de janeiro de
+laudos e documentos. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 § 3º Não compete à Junta Comercial analisar os requisitos ou estrutura do laudo de
 avaliação, sendo de competência dos contadores em geral, incluindo aqueles que atuam na
@@ -1694,7 +1694,7 @@ CAPÍTULO I
 DA TRANSFORMAÇÃO
 
 Art. 62. Transformação é a operação pela qual uma empresa ou sociedade passa de
-um tipo para outro, independente de  dissolução ou liquidação, obedecidos  os preceitos
+um tipo para outro, independente de dissolução ou liquidação, obedecidos os preceitos
 reguladores da constituição e inscrição do tipo em que vai transformar-se.
 § 1º Para os efeitos desta Instrução Normativa, a transformação pode ser:
 I - societária, nos termos dos arts. 1.113 do Código Civil e 220 da Lei nº 6.404, de 1976,
@@ -1708,28 +1708,28 @@ Normativa DREI nº 112, de 20 de janeiro de 2022)
 Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 a)  de sociedade empresária para EIRELI e vice versa; e (Revogado pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
-b)  de empresário individual para EIRELI e vice versa.  (Revogado pela Instrução
+b)  de empresário individual para EIRELI e vice versa. (Revogado pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
 § 2º A transformação não altera a condição do empresário individual, da EIRELI ou da
 sociedade empresária enquadrada como microempresa ou empresa de pequeno porte,
-exceto caso, em função do  ato, incorra numa das vedações relacionadas no § 4º do art. 3º
+exceto caso, em função do ato, incorra numa das vedações relacionadas no § 4º do art. 3º
 da Lei Complementar nº 123, de 2006.
 § 2º A transformação não altera a condição do empresário individual ou da sociedade
-empresária enquadrada como microempresa ou empresa  de pequeno porte, exceto caso,
-em função  do ato, incorra numa  das vedações relacionadas no § 4º do art. 3º da Lei
+empresária enquadrada como microempresa ou empresa de pequeno porte, exceto caso,
+em função do ato, incorra numa das vedações relacionadas no § 4º do art. 3º da Lei
 Complementar nº 123, de 2006. (Redação dada pela Instrução Normativa DREI nº 112, de
 20 de janeiro de 2022)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 50
 
-§ 3º  O instrumento que se referir à deliberação de transformação poderá conter
+§ 3º O instrumento que se referir à deliberação de transformação poderá conter
 qualquer outra alteração do ato constitutivo.
 § 3º O instrumento que se referir à deliberação de transformação poderá conter
 qualquer outra alteração do ato constitutivo, desde que mencionados todos os eventos na
 FCN, podendo, inclusive, as alterações já serem inseridas diretamente no novo ato
 constitutivo, exceto quando se tratar de transferência de sede para outra unidade da
-federação, que deverá estar expressa dentre as deliberações de alteração.  (Redação dada
+federação, que deverá estar expressa dentre as deliberações de alteração. (Redação dada
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 4º A transformação a que se refere o inciso I do § 1º deste artigo está sujeita ao regime
 de decisão colegiada, assim como a transformação a que se refere o inciso II quando
@@ -1737,11 +1737,11 @@ envolver sociedade anônima.
 § 5º Para efeito de arquivamento perante a Junta Comercial, a transformação poderá
 ser formalizada em instrumento único ou em separado.
 § 5º Para efeito de arquivamento perante a Junta Comercial, a transformação de
-registro deverá ser formalizada em instrumento único.  (Redação dada pela  Instrução
+registro deverá ser formalizada em instrumento único. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 5º-A A transformação societária poderá ser formalizada em instrumento único
 ou separado. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-§ 6º  Será considerada como data de início das atividades aquela constante na
+§ 6º Será considerada como data de início das atividades aquela constante na
 inscrição ou na constituição originária.
 
 Seção I
@@ -1760,8 +1760,8 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 e fixação das respectivas remunerações quando se tratar de sociedade anônima.
 Parágrafo único. A transformação de sociedade limitada para sociedade anônima, que
 possua como única sócia uma pessoa jurídica brasileira, sem o ingresso de um segundo
-acionista, deverá ser instrumentada através de escritura pública e observar as  disposições
-do art. 251 da Lei nº 6.404, de 1976 . (Incluído pela Instrução Normativa DREI nº 01 , de 24
+acionista, deverá ser instrumentada através de escritura pública e observar as disposições
+do art. 251 da Lei nº 6.404, de 1976. (Incluído pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 Art. 64. A transformação de um tipo jurídico para qualquer outro deverá ser aprovada
 pela totalidade dos sócios, acionistas ou associados, salvo se previsto em disposição
@@ -1771,14 +1771,14 @@ Art. 65. A deliberação de transformação da sociedade anônima ou cooperativa
 outro tipo de sociedade deverá ser formalizada por assembleia geral extraordinária, na qual
 será aprovado o contrato ou estatuto social, que poderá ser transcrito na própria ata da
 assembleia ou em instrumento separado.
-Art. 66.  A transformação de sociedades contratuais em qualquer outro tipo de
+Art. 66. A transformação de sociedades contratuais em qualquer outro tipo de
 sociedade deverá ser formalizada por meio de alteração contratual, na qual será aprovado
 o estatuto ou contrato social, que poderá ser transcrito na própria alteração ou em
 instrumento separado.
 Art. 66. A transformação de sociedades contratuais em qualquer outro tipo de
 sociedade poderá ser formalizada por reunião ou assembleia geral extraordinária ou, ainda,
-por alteração contratual, na qual será aprovado o estatuto ou contrato social, que poder á
-ser transcrito no próprio instrumento ou em separado . (Redação dada pela  Instrução
+por alteração contratual, na qual será aprovado o estatuto ou contrato social, que poderá
+ser transcrito no próprio instrumento ou em separado. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 67. Para o arquivamento do ato de transformação, além dos documentos de
 que trata o art. 58, são necessários:
@@ -1808,7 +1808,7 @@ V- comprovante de pagamento; (Redação dada pela Instrução Normativa DREI nº
 de 24 de janeiro de 2024)
 VI- Ficha de Cadastro Nacional - FCN. (Redação dada pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
-VII- instrumento que aprovou a operação de transformação; (Redação dada  pela
+VII- instrumento que aprovou a operação de transformação; (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 VIII- contrato ou estatuto social, quando não transcrito no instrumento que aprovou
 a operação de transformação, constante do inciso VII deste artigo; e (Redação dada pela
@@ -1816,11 +1816,11 @@ Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 IX- relação completa dos acionistas, com a indicação da quantidade de ações ou
 cotas resultantes da transformação, quando se tratar de sociedade anônima e a informação
 não estiver transcrita no instrumento que aprovou a operação de transformação, constante
-do inciso VII deste artigo.  (Redação dada pela Instrução Normativa DREI nº 01 , de 24 de
+do inciso VII deste artigo. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 § 1º Caso a Junta Comercial utilize sistema de integração entre os órgãos de registro
 e legalização de empresas, que permita transmissão eletrônica dos dados, ﬁca dispensada
-a apresentação dos documentos constantes dos incisos III, IV, V e VI.  (Redação dada pela
+a apresentação dos documentos constantes dos incisos III, IV, V e VI. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -1828,26 +1828,26 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 § 2º Em se tratando de sociedade limitada, a deliberação pela transformação poderá
 ocorrer diretamente através de alteração contratual, sendo que o novo ato constitutivo será
-transcrito no próprio instrumento ou apresentado como anexo.  (Redação dada  pela
+transcrito no próprio instrumento ou apresentado como anexo. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 3º O estatuto ou o contrato social, quando transcrito no instrumento de
-transformação, servirá para registro da nova sociedade resultante da operação . (Redação
+transformação, servirá para registro da nova sociedade resultante da operação. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 67-A. É necessária a realização da publicação prevista no art. 98 da Lei nº 6.404,
 de 1976, quando se tratar de transformação de uma sociedade qualquer para sociedade
 anônima. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Parágrafo único. O exemplar da publicação deverá ser arquivado na Junta Comercial,
-devendo ser observada a regra do art. 36 da Lei nº 8.934, de 1994.  (Incluído pela Instrução
+devendo ser observada a regra do art. 36 da Lei nº 8.934, de 1994. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Seção II
 Da Transformação de Registro
 
 Art. 68. Os registros de empresário individual, EIRELI e sociedade empresária poderão
-transformar- se entre si, mediante ato de transformação.  (Revogado pela Instrução
+transformar- se entre si, mediante ato de transformação. (Revogado pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
 Art. 68. Os registros de empresário individual e sociedade empresária poderão
-transformar-se entre si,  mediante ato de transformação. (Redação dada pela Instrução
+transformar-se entre si, mediante ato de transformação. (Redação dada pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
 § 1º  Em se tratando de sociedade empresária, a transformação de registro a que
 se refere o caput deste artigo pode ser realizada no mesmo ato em que ficar registrada a
@@ -1861,7 +1861,7 @@ de constituição.
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 54
 
-de constituição. (Redação dada pela Instrução Normativa DREI nº 01 , de 24 de janeiro de
+de constituição. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 § 4º No caso de transformação em EIRELI deve ser respeitado o capital mínimo previsto
 no caput do art. 980-A do Código Civil. (Revogado pela Instrução Normativa DREI nº 112, de
@@ -1890,7 +1890,7 @@ de janeiro de 2024)
 VI - Ficha de Cadastro Nacional – FCN; e (Incluído pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 VII - instrumento que aprovou a operação de transformação, com a transcrição do
-novo ato constitutivo.  (Incluído pela Instrução Normativa DREI nº 01 , de 24 de janeiro de
+novo ato constitutivo. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 55
@@ -1934,14 +1934,14 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 incorporação, inclusive a subscrição em bens pelo valor da diferença que se verificar entre
 o ativo e o passivo;
 III - aprovados em assembleia geral extraordinária ou por alteração contratual da
-sociedade incorporadora os atos de incorporação, extingue -se a incorporada, devendo os
+sociedade incorporadora os atos de incorporação, extingue-se a incorporada, devendo os
 administradores da incorporadora providenciar o arquivamento dos atos e sua publicação,
 quando couber.
 Parágrafo único. Não há vedação para a incorporação de sociedade com o patrimônio
 líquido negativo.
 Art. 70. Para a aprovação da operação de incorporação, tanto a sociedade
 incorporadora quanto a incorporada deverão, conforme previsão legal do tipo societário,
-contratual ou estatutária, deliberar pela aprovação da operação.  (Redação dada  pela
+contratual ou estatutária, deliberar pela aprovação da operação. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 1º A deliberação da sociedade incorporadora deverá: (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -1959,7 +1959,7 @@ incorporada mediante versão do seu patrimônio líquido, bem como declarar exti
 incorporada. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 2º A deliberação da sociedade incorporada deverá:
 I - aprovar o protocolo e a justiﬁcação da operação, bem como o projeto de reforma
-do contrato ou estatuto social, conforme incisos I e II do § 1º deste artigo; e  (Incluído pela
+do contrato ou estatuto social, conforme incisos I e II do § 1º deste artigo; e (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -1969,26 +1969,26 @@ II - autorizar os administradores a praticar o necessário à incorporação, in
 subscrição em bens pelo valor da diferença positiva que se veriﬁcar entre o ativo e o passivo,
 quando for o caso. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 3º Quando a operação de incorporação envolver exclusivamente sociedades
-contratuais, tanto a sociedade incorporadora quanto a incorporada não estão obrigadas  a
+contratuais, tanto a sociedade incorporadora quanto a incorporada não estão obrigadas a
 elaborar o protocolo e a justiﬁcação, contudo, deverão aprovar as bases da operação, que
 pode ser mediante a elaboração do protocolo e da justiﬁcação, nos moldes das regras dos
-arts. 224 e 225 da Lei nº 6.404, de 1976.  (Incluído pela Instrução Normativa DREI nº 01, de
+arts. 224 e 225 da Lei nº 6.404, de 1976. (Incluído pela Instrução Normativa DREI nº 01, de
 24 de janeiro de 2024)
 § 4º As deliberações citadas nos incisos dos §§ 1º e 2º deste artigo podem ocorrer em
 instrumento único ou separado, sendo que, quando não transcritos no mesmo instrumento,
 serão apresentados como anexos. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
-Art. 70 -A. Aprovados os atos da incorporação, deverá ser extinta a incorporada,
-devendo incorporadora providenciar o arquivamento da ata de reunião ou assembleia  ou
-outro documento, conforme o caso, e da alteração do ato constitutivo, quando  houver
+Art. 70-A. Aprovados os atos da incorporação, deverá ser extinta a incorporada,
+devendo incorporadora providenciar o arquivamento da ata de reunião ou assembleia ou
+outro documento, conforme o caso, e da alteração do ato constitutivo, quando houver
 reforma do contrato social. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro
 de 2024)
 Art. 71. Para o arquivamento dos atos de incorporação, além dos documentos
 constantes do art.
 58, são necessários:
 I - certidão ou cópia autêntica da ata da assembleia geral extraordinária ou a alteração
-contratual da  sociedade incorporadora com a aprovação do protocolo, da justificação, a
-nomeação de peritos ou de empresa  especializada, do laudo de avaliação, a versão do
+contratual da sociedade incorporadora com a aprovação do protocolo, da justificação, a
+nomeação de peritos ou de empresa especializada, do laudo de avaliação, a versão do
 patrimônio líquido, o aumento do capital social, se for o caso, extinguindo-se a incorporada;
 e
 II - certidão ou cópia autêntica da ata da assembleia geral extraordinária ou da
@@ -2015,13 +2015,13 @@ de 24 de janeiro de 2024)
 VI - Ficha de Cadastro Nacional - FCN, quando necessário; e (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 VII - instrumento de deliberação da sociedade incorporadora, contendo as
-deliberações dos incisos do § 1º do art. 70.  (Redação dada pela Instrução Normativa DREI
+deliberações dos incisos do § 1º do art. 70. (Redação dada pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
 Parágrafo único. Caso a Junta Comercial utilize sistema de integração entre os órgãos
 de registro e legalização de empresas, que permita transmissão eletrônica dos dados, ﬁca
-dispensada a apresentação dos documentos constantes dos incisos III, IV, V e VI.  (Incluído
+dispensada a apresentação dos documentos constantes dos incisos III, IV, V e VI. (Incluído
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-Art. 71 -A. Quando da operação de incorporação importar em reforma do ato
+Art. 71-A. Quando da operação de incorporação importar em reforma do ato
 constitutivo de sociedade limitada, deve ser arquivada em processo separado a respectiva
 alteração contratual, observadas as formalidades legais previstas na Seção IV do Capítulo II
 do Manual de Registro de Sociedade Limitada e, apresentado os seguintes documentos:
@@ -2046,10 +2046,10 @@ VII - alteração contratual, contendo a reforma do ato constitutivo. (Incluído
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Parágrafo único. Caso a Junta Comercial utilize sistema de integração entre os órgãos
 de registro e legalização de empresas, que permita transmissão eletrônica dos dados, ﬁca
-dispensada a apresentação dos documentos constantes dos incisos III, IV, V e VI.  (Incluído
+dispensada a apresentação dos documentos constantes dos incisos III, IV, V e VI. (Incluído
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 71-B. Concomitante e, em processo vinculado, com o arquivamento de que trata
-o art. 71, a sociedade incorporada deverá apresentar os seguintes documentos:  (Incluído
+o art. 71, a sociedade incorporada deverá apresentar os seguintes documentos: (Incluído
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 I - requerimento (capa do processo), sendo dispensado no caso de registro digital;
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -2080,7 +2080,7 @@ ata ou na alteração contratual, serão apresentados como anexo.
 Parágrafo único. Quando apresentados em anexo, o protocolo e a justificação podem
 constar de um único documento.
 Art. 73. As sociedades envolvidas na operação de incorporação que tenham sede em
-outra unidade da  federação, deverão arquivar a requerimento dos administradores da
+outra unidade da federação, deverão arquivar a requerimento dos administradores da
 incorporadora na Junta Comercial da respectiva jurisdição os seus atos específicos:
 I - na sede da incorporadora: o instrumento que deliberou a incorporação; e
 II - na sede da incorporada: o instrumento que deliberou a sua incorporação, instruído
@@ -2088,11 +2088,11 @@ com certidão de arquivamento do ato da incorporadora, na Junta Comercial de sua
 sede.
 Parágrafo único. Para ﬁns de uniformização de procedimentos entre Juntas
 Comerciais, primeiro deve ser registrado o processo da incorporadora e em seguida o
-processo da incorporada . (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro
+processo da incorporada. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro
 de 2024)
 Art. 73-A. Os atos de incorporação devem ser publicados, conforme previsão dos
 arts. 1.122 c/c 1.152, § 1º, do Código Civil e do art. 227, § 3º da Lei nº 6.404, de 1976, na
-localidade da sede das sociedades envolvidas.  (Incluído pela Instrução Normativa DREI nº
+localidade da sede das sociedades envolvidas. (Incluído pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 
 CAPÍTULO III
@@ -2106,9 +2106,9 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 direitos e obrigações, deliberada na forma prevista para a alteração dos respectivos
 estatutos ou contratos sociais.
-Parágrafo único.  A constituição e registro da nova sociedade deverá obedecer as
+Parágrafo único. A constituição e registro da nova sociedade deverá obedecer as
 normas reguladoras aplicáveis ao tipo jurídico adotado.
-Art. 75.  A fusão de sociedades de qualquer tipo jurídico deverá obedecer aos
+Art. 75. A fusão de sociedades de qualquer tipo jurídico deverá obedecer aos
 seguintes procedimentos:
 I - a deliberação das sociedades a serem fusionadas deverá:
 a) no caso de sociedade anônima, se aprovar o protocolo de fusão, nomear os peritos
@@ -2188,14 +2188,14 @@ dos incisos I a IV do § 1º do art. 75. (Redação dada pela Instrução Normat
 24 de janeiro de 2024)
 § 1º Caso a Junta Comercial utilize sistema de integração entre os órgãos de registro
 e legalização de empresas, que permita transmissão eletrônica dos dados, ﬁca dispensada
-a apresentação dos documentos constantes dos incisos III, IV e V.  (Redação dada pela
+a apresentação dos documentos constantes dos incisos III, IV e V. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 2º O arquivamento de que trata este artigo gerará a extinção da fusionada, conforme
 previsão do art. 1.119 do Código Civil e art. 228 da Lei nº 6.404, de 1976, não tendo que se
-falar em apresentação de alteração contratual, distrato ou outro documento.  (Redação
+falar em apresentação de alteração contratual, distrato ou outro documento. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 76-A. Após o arquivamento dos instrumentos das fusionadas, a nova sociedade a
-ser constituída deverá apresentar os seguintes documentos:  (Incluído pela Instrução
+ser constituída deverá apresentar os seguintes documentos: (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 I - requerimento (capa do processo), sendo dispensado no caso de registro digital;
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -2224,7 +2224,7 @@ instrumento de fusão, serão apresentados como anexo.
 Parágrafo único. Quando apresentados em anexo, o protocolo e a justificação podem
 constar de um único documento.
 Art. 78. As sociedades envolvidas na operação de fusão que tenham sede em outra
-unidade da federação, deverão arquivar a requerimento dos  administradores da nova
+unidade da federação, deverão arquivar a requerimento dos administradores da nova
 sociedade na Junta Comercial da respectiva jurisdição os seguintes atos:
 I - na sede das fusionadas:
 a) o instrumento que aprovou a operação, a justificação, o protocolo e o laudo de
@@ -2247,7 +2247,7 @@ Art. 78-A. Os atos de fusão devem ser publicados, conforme previsão do art. 1.
 § 1º do art. 1.152 do Código Civil e art. 228, § 3º da Lei nº 6.404, de 1976, na localidade da
 sede da nova sociedade. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
-Art. 79.  As Juntas Comerciais informarão ao DREI sobre os registros de fusão
+Art. 79. As Juntas Comerciais informarão ao DREI sobre os registros de fusão
 efetuados, a fim de que o mesmo possa comunicar, no prazo de cinco dias úteis, o fato ao
 CADE para, se for o caso, serem examinados, conforme disposição do art. 88 do § 8º da Lei
 nº 12.529, de 30 de novembro de 2011.
@@ -2256,8 +2256,8 @@ CAPÍTULO IV
 DA CISÃO
 
 Art. 80. A cisão é o processo pelo qual a sociedade, por deliberação tomada na forma
-prevista para alteração do estatuto  ou contrato social, transfere todo ou parcela do seu
-patrimônio para  sociedades existentes ou constituídas para este fim, com a extinção da
+prevista para alteração do estatuto ou contrato social, transfere todo ou parcela do seu
+patrimônio para sociedades existentes ou constituídas para este fim, com a extinção da
 sociedade cindida, se a versão for total, ou redução do capital, se parcial.
 Parágrafo único. Quando em decorrência da cisão, houver constituição e
 registro de nova sociedade, deverão ser observadas as normas reguladoras aplicáveis ao
@@ -2266,12 +2266,12 @@ Art. 81. A cisão de sociedade empresária, de qualquer tipo jurídico, deverá 
 aos seguintes procedimentos:
 I - cisão parcial para sociedade existente:
 a) a sociedade, por sua assembleia geral extraordinária ou por alteração contratual,
-que absorver parcela do patrimônio  de outra, deverá aprovar  o protocolo e a justificação,
+que absorver parcela do patrimônio de outra, deverá aprovar o protocolo e a justificação,
 nomear peritos ou empresa especializada e autorizar o aumento do capital, se for o caso;
 b) a sociedade que estiver sendo cindida, por sua assembleia geral extraordinária ou
 por alteração contratual, deverá aprovar o protocolo, a justificação, bem como autorizar
 seus administradores a praticarem os demais atos da cisão; e
-c) aprovado o laudo de avaliação pela sociedade receptora, efetivar -se-á a cisão,
+c) aprovado o laudo de avaliação pela sociedade receptora, efetivar-se-á a cisão,
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 66
@@ -2281,7 +2281,7 @@ atos e a sua publicação, quando couber;
 II - cisão parcial para constituição de nova sociedade:
 a) a ata de assembleia geral extraordinária ou a alteração contratual da sociedade
 cindida, que servirá como ato de constituição da nova sociedade, aprovará o protocolo, a
-justificação e o laudo de avaliação  elaborado por peritos ou empresa especializada,
+justificação e o laudo de avaliação elaborado por peritos ou empresa especializada,
 relativamente à parcela do patrimônio líquido a ser vertida para a sociedade em
 constituição; e
 b) os administradores da sociedade cindida e os da resultante da cisão providenciarão
@@ -2294,7 +2294,7 @@ autorizar o aumento do capital, quando for o caso;
 b) a sociedade cindida, por assembleia geral ou por alteração contratual, deverá
 aprovar o protocolo, a justificação, bem como autorizar seus administradores a praticarem
 os demais atos da cisão; e
-c) aprovado o laudo de avaliação pelas sociedades receptoras, efetivar -se-á a cisão,
+c) aprovado o laudo de avaliação pelas sociedades receptoras, efetivar-se-á a cisão,
 cabendo aos seus administradores o arquivamento dos atos de cisão e a sua publicação,
 quando couber;
 IV - cisão total – constituição de sociedades novas:
@@ -2387,11 +2387,11 @@ avaliação.
 Parágrafo único. Quando apresentados em anexo, o protocolo e a justificação podem
 constar de um único documento.
 § 1º Quando apresentados em anexo, o protocolo e a justiﬁcação podem constar de
-um único documento.  (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
+um único documento. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 § 2º Para ﬁns de uniformização de procedimentos entre Juntas Comerciais (em
 unidades da federação distintas), primeiro deve ser registrado o processo da cindida e em
-seguida o processo da cindenda.  (Incluído pela Instrução Normativa DREI nº 01, de 24 de
+seguida o processo da cindenda. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 Art. 83-A. Os atos de cisão devem ser publicados, conforme previsão do art. 229, §§
 3º e 4º da Lei nº 6.404, de 1976, na localidade da sede das sociedades envolvidas. (Incluído
@@ -2402,7 +2402,7 @@ VICE-VERSA
 DA CONVERSÃO
 (Redação dada pela Instrução Normativa DREI/ME nº 88, de 23 de dezembro de 2022)
 
-Art. 84.  No caso de conversão de sociedade simples ou associação em sociedade
+Art. 84. No caso de conversão de sociedade simples ou associação em sociedade
 empresária, na mesma ou em outra Unidade da Federação, após averbado no Registro Civil,
 o instrumento de conversão deverá ser arquivado na Junta Comercial da sede.
 Art. 84. No caso de conversão de sociedade simples ou associação em empresário
@@ -2414,7 +2414,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 Federação, após averbado no Registro Civil, o instrumento de conversão deverá ser
 arquivado na Junta Comercial da sede. (Redação dada pela Instrução Normativa DREI/ME
 nº 88, de 23 de dezembro de 2022)
-§ 1º  O instrumento de conversão, para arquivamento na Junta Comercial, deverá
+§ 1º O instrumento de conversão, para arquivamento na Junta Comercial, deverá
 estar acompanhado da consolidação do ato constitutivo do respectivo tipo societário e,
 havendo filiais, estas devem ser relacionadas, com indicação dos respectivos endereços e
 CNPJ.
@@ -2435,20 +2435,20 @@ certidão de breve relato do registro civil. (Incluído pela Instrução Normati
 24 de janeiro de 2024)
 Art. 84-A. Não sendo efetivado o ato da conversão e havendo interesse de retornar a
 empresa para a Junta Comercial, a ﬁm de regularizar sua situação, o interessado deverá
-juntar certidão expedida pelo órgão de registro para onde a sociedade seria convertid a de
+juntar certidão expedida pelo órgão de registro para onde a sociedade seria convertida de
 que o ato de conversão não foi arquivado naquele registro civil e protocolar juntamente
 com o instrumento de desistência de conversão. (Incluído pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 Parágrafo único. O instrumento que se referir à deliberação de desistência de conversão
-poderá conter qualquer outra alteração do ato constitutivo.  (Incluído pela Instrução
+poderá conter qualquer outra alteração do ato constitutivo. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 71
 
-Art. 85.  No caso de conversão de sociedade empresária em sociedade simples ou
+Art. 85. No caso de conversão de sociedade empresária em sociedade simples ou
 associação, na mesma ou em outra Unidade da Federação, deverá ser arquivado, na Junta
-Comercial da sede, o instrumento de conversão, oportunidade em que  serão consolidadas
+Comercial da sede, o instrumento de conversão, oportunidade em que serão consolidadas
 as informações do ato constitutivo do respectivo tipo societário, para inscrição no Registro
 Civil e cumprimento das formalidades exigidas por aquele Registro.
 Art. 85. No caso de conversão de empresário individual, sociedade empresária ou
@@ -2458,7 +2458,7 @@ oportunidade em que serão consolidadas as informações do ato constitutivo do 
 tipo societário, para inscrição no Registro Civil e cumprimento das formalidades exigidas por
 aquele Registro. (Redação dada pela Instrução Normativa DREI/ME nº 88, de 23 de
 dezembro de 2022)
-§ 1º  A consolidação de que trata o caput deste artigo deverá relacionar as filiais
+§ 1º A consolidação de que trata o caput deste artigo deverá relacionar as filiais
 existentes, com indicação dos respectivos endereços e CNPJ.
 § 2º Havendo filiais em outro estado, após o registro da conversão na Junta Comercial
 da sede, deverá ser arquivado o ato na Junta Comercial da Unidade da Federação onde se
@@ -2476,14 +2476,14 @@ CAPÍTULO I
 DOS ATOS DE CONSTITUIÇÃO, ALTERAÇÃO E EXTINÇÃO DE GRUPO DE SOCIEDADES
 
 Art. 86. A sociedade controladora e suas controladas, mediante convenção, poderão
-constituir grupo de sociedades, obrigando -se a combinar recursos ou esforços para a
+constituir grupo de sociedades, obrigando-se a combinar recursos ou esforços para a
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 72
 
 realização dos respectivos objetivos, ou a participação de atividades ou empreendimentos
 comuns.
-Art. 87.  O grupo de sociedades será constituído por convenção aprovada pelas
+Art. 87. O grupo de sociedades será constituído por convenção aprovada pelas
 sociedades que o componham, a qual deverá conter:
 I - a designação do grupo;
 II - a indicação da sociedade de comando e das filiadas;
@@ -2498,7 +2498,7 @@ VIII - as condições para alteração da convenção.
 § 1º A sociedade de comando ou controladora, deve ser brasileira e exercer direta ou
 indiretamente, de modo permanente, o controle das sociedades filiadas, como titular de
 direitos de sócio ou acionista, ou mediante acordo com outros sócios ou acionistas.
-§ 2º Para os efeitos do inciso VII, o grupo de sociedades considera -se sob controle
+§ 2º Para os efeitos do inciso VII, o grupo de sociedades considera-se sob controle
 brasileiro se a sua sociedade de comando está sob o controle de:
 I - pessoas naturais residentes ou domiciliadas no Brasil;
 II - pessoas jurídicas de direito público interno; ou
@@ -2508,7 +2508,7 @@ controle das pessoas referidas nos incisos I e II.
 podendo criar órgãos de deliberação colegiada e cargos de direção geral.
 Art. 88. A convenção de grupo deve ser aprovada com observância das normas para
 alteração do contrato social ou do estatuto.
-Parágrafo único.  Para deliberar sobre participação em grupo, faz -se necessária a
+Parágrafo único. Para deliberar sobre participação em grupo, faz-se necessária a
 aprovação de acionistas que representem, no mínimo, metade das ações com direito a voto,
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -2522,14 +2522,14 @@ II - convenção de constituição do grupo;
 III - atas das assembleias gerais, ou instrumentos de alteração contratual, de todas as
 sociedades que tiverem aprovado a constituição do grupo;
 IV - declaração firmada pelo representante da sociedade de comando, do número das
-ações ou quotas de que esta e as  demais sociedades integrantes do grupo são titulares em
+ações ou quotas de que esta e as demais sociedades integrantes do grupo são titulares em
 cada sociedade filiada, ou exemplar de acordo de acionistas que assegura o controle da
 sociedade filiada; e
 V - comprovante de pagamento.
 § 1º A companhia que, por seu objeto, depender de autorização prévia do Conselho
 de Defesa Nacional para funcionar, somente poderá participar de grupo de sociedades após
 a aprovação da convenção do grupo pela autoridade competente para aprovar suas
-alterações estatutárias. (Revogado pela Instrução Normativa DREI nº 01 , de 24 de janeiro
+alterações estatutárias. (Revogado pela Instrução Normativa DREI nº 01, de 24 de janeiro
 de 2024)
 § 2º As sociedades filiadas deverão arquivar nas Juntas Comerciais das unidades da
 federação onde se localizarem as respectivas sedes, as atas de assembleias ou alterações
@@ -2549,7 +2549,7 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 74
 
 DOS ATOS DE CONSTITUIÇÃO, ALTERAÇÃO E EXTINÇÃO DE CONSÓRCIO
-Art. 90.  As sociedades, sob o mesmo controle ou não, podem constituir consórcio
+Art. 90. As sociedades, sob o mesmo controle ou não, podem constituir consórcio
 para executar determinado empreendimento.
 Art. 90. As sociedades, sob o mesmo controle ou não, podem constituir consórcio para
 executar determinado empreendimento, conforme arts. 278 e 279 da Lei nº 6.404, de 1976.
@@ -2623,7 +2623,7 @@ Parágrafo único. A Junta Comercial poderá, ainda, mediante o pagamento do pre
 devido, certificar que não consta nenhum ato arquivado ou anotação especial em cadastro
 com relação a determinada pessoa física ou jurídica. (Incluído pela Instrução Normativa
 DREI/ME nº 88, de 23 de dezembro de 2022)
-Art. 95 -A. Constituem apontamentos que podem ser lançados da certidão
+Art. 95-A. Constituem apontamentos que podem ser lançados da certidão
 simplificada: (Incluído pela Instrução Normativa DREI/ME nº 88, de 23 de dezembro de
 2022)
 I - anotação;
@@ -2636,14 +2636,14 @@ I - Anotação: qualquer informação lançada no registro do empresário indivi
 sociedades, sem o condão de impedir o arquivamento de outros atos ou a alteração do
 cadastro;
 II - Bloqueio Parcial: medida administrativa ou judicial imposta ao empresário
-individual ou à sociedade,  que resulta em restrição à um arquivamento futuro que esteja
+individual ou à sociedade, que resulta em restrição à um arquivamento futuro que esteja
 relacionado com o motivo que o ensejou;
 III - Bloqueio Total: medida administrativa ou judicial imposta ao empresário
 individual ou à sociedade, que resulta em restrição à arquivamento de qualquer ato
 posterior;
 IV - Cadastro: conjunto de informações constantes da ficha de cadastro nacional,
 coletadas e mantidas armazenadas pela Junta Comercial sobre um empresário individual ou
-uma sociedade, incluindo,  mas não se limitando, a nome empresarial, objeto social, sede,
+uma sociedade, incluindo, mas não se limitando, a nome empresarial, objeto social, sede,
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 77
@@ -2674,7 +2674,7 @@ de Sociedade Limitada, anexo a esta Instrução Normativa, a Junta Comercial dev
 cadastro da sociedade e, ainda, lançar informação da alteração nas certidões emitidas pela
 Junta Comercial. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
-Art. 96. A Certidão Simplificada constitui -se de extrato de informações atualizadas,
+Art. 96. A Certidão Simplificada constitui-se de extrato de informações atualizadas,
 constantes de atos arquivados e/ou de arquivos eletrônicos, conforme anexo VIII desta
 Instrução Normativa, abaixo especificados:
 I - empresário e suas filiais;
@@ -2698,13 +2698,13 @@ b) no campo “Status” deverão ser informados, quando existentes, os seguinte
 com anotação judicial, com anotação extrajudicial, paralisada temporariamente, em
 recuperação judicial, com falência declarada, sob intervenção, em liquidação, em liquidação
 extrajudicial;
-c) o campo “Observações” destina -se à complementação de informações
-consideradas relevantes pela  Junta Comercial em relação aos dados dela constantes, bem
+c) o campo “Observações” destina-se à complementação de informações
+consideradas relevantes pela Junta Comercial em relação aos dados dela constantes, bem
 como aos registros cadastrais efetuados como “anotações judiciais” e “anotações
 extrajudiciais”; e
-c) o campo “Observações” destina -se à complementação de informações
+c) o campo “Observações” destina-se à complementação de informações
 consideradas relevantes pela Junta Comercial em relação aos dados dela constantes, bem
-como aos registros cadastrais efetuados como:  (Redação dada pela Instrução Normativa
+como aos registros cadastrais efetuados como: (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 1. anotações judiciais; (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro
 de 2024)
@@ -2729,7 +2729,7 @@ deverão ser incluídos, além dos dados constantes do respectivo modelo, o núm
 observado o critério (1/x) e o termo “continua” (no rodapé) e, da(s) folha(s) seguintes
 deverão constar: o cabeçalho, o título “Certidão Simplificada”, o número sequencial da folha
 (ex.: 3/5), o termo “continuação”, o texto da certificação, o campo destinado ao nome
-empresarial e natureza jurídica, o título do campo cujas informações tiverem continui dade
+empresarial e natureza jurídica, o título do campo cujas informações tiverem continuidade
 da folha anterior e os demais campos, informações e certificação.
 § 2º A Certidão Simplificada é instrumento hábil para a proteção ao nome empresarial
 em Junta Comercial de outra Unidade da Federação.
@@ -2750,7 +2750,7 @@ até três informações solicitadas pelo requerente. Poderá ser cobrado preço
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 80
 
-inclusão de informações  adicionais requeridas pelo interessado. (Redação dada pela
+inclusão de informações adicionais requeridas pelo interessado. (Redação dada pela
 Instrução Normativa DREI/ME nº 88, de 23 de dezembro de 2022) )
 § 4º As Certidões Específicas constantes do inciso II, alíneas "b" e "c" do art. 95, não
 terão limite de informações e deverão conter, no mínimo, as informações pré-definidas de
@@ -2791,17 +2791,17 @@ DREI/ME nº 88, de 23 de dezembro de 2022)
 § 6º Ainda que determinado sócio desempenhe também a função de administrador,
 a Certidão Específica na modalidade Linha do Tempo do Quadro de Sócios e
 Administradores – QSA deverá indicar essas informações de forma segregada e autônoma,
-de modo a não utili zar o termo “sócio- administrador”. (Incluído pela Instrução Normativa
+de modo a não utilizar o termo “sócio- administrador”. (Incluído pela Instrução Normativa
 DREI/ME nº 88, de 23 de dezembro de 2022)
 § 7º As Juntas Comerciais poderão utilizar elementos de design gráfico (visual law)
 para facilitar a compreensão das informações contidas na Certidão Específica na modalidade
-Linha do Tempo do Quadro de  Sócios e Administradores – QSA. (Incluído pela Instrução
+Linha do Tempo do Quadro de Sócios e Administradores – QSA. (Incluído pela Instrução
 Normativa DREI/ME nº 88, de 23 de dezembro de 2022)
 II - A Certidão Específica de Ônus: (Incluído pela Instrução Normativa DREI/ME nº 88,
 de 23 de dezembro de 2022)
 a) quaisquer ônus, restrições, suspensões, indisponibilidades, anotações, bloqueios,
-suspensões ou cancelamentos  impostos voluntariamente  ou por força de decisão
-administrativa, judicial  ou arbitral  a direitos, participações societárias ou outros bens,
+suspensões ou cancelamentos impostos voluntariamente ou por força de decisão
+administrativa, judicial ou arbitral a direitos, participações societárias ou outros bens,
 corpóreos ou incorpóreos, relacionados a empresário individual, sociedade empresária ou
 cooperativa;
 b) existência de instrumento arquivado de garantia envolvendo direitos,
@@ -2814,7 +2814,7 @@ corpóreos ou incorpóreos, relacionados a empresário individual, sociedade emp
 cooperativa.
 Art. 98. A Certidão de Inteiro Teor constitui-se de cópia reprográfica, certificada, de ato
 arquivado.
-Art. 98. A Certidão  de Inteiro Teor constitui -se de cópia reprográfica ou digitalizada,
+Art. 98. A Certidão de Inteiro Teor constitui-se de cópia reprográfica ou digitalizada,
 certificada, de ato arquivado. (Redação dada pela Instrução Normativa DREI nº 112, de 20
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -2825,7 +2825,7 @@ de janeiro de 2022)
 e a data de arquivamento do respectivo original na Junta Comercial, bem como a natureza,
 respectivos números e datas dos atos subsequentes arquivados, devendo ser assinada pelo
 Secretário-Geral, que também rubricará todas as demais folhas.
-§ 2º  A certificação  de que trata o  parágrafo anterior poderá ser feita  mediante
+§ 2º A certificação de que trata o parágrafo anterior poderá ser feita mediante
 chancela mecânica ou outro processo tecnológico que assegure a autenticidade do
 documento.
 § 3º Não devem integrar as certidões de inteiro teor documentos pessoais do
@@ -2843,10 +2843,10 @@ relacionadas ao contrato social ou às alterações contratuais, que digam respe
 de sócios, devem conter informações relacionadas a esses instrumentos, até que seja
 arquivada nova alteração contratual. (Incluído pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
-Art. 99.  As certidões mencionadas neste Capítulo serão expedidas mediante
+Art. 99. As certidões mencionadas neste Capítulo serão expedidas mediante
 requerimento do interessado, sem necessidade de alegar interesse ou motivo,
 acompanhado do respectivo comprovante de pagamento do serviço.
-§ 1º Os atos arquivados  nas juntas  comerciais revestidos  das formalidades legais
+§ 1º Os atos arquivados nas juntas comerciais revestidos das formalidades legais
 produzem efeitos perante terceiros, os quais não podem alegar desconhecimento (eficácia
 erga omnes), ainda que o acesso ao conteúdo de tais atos dependa de requerimento de
 certidão de inteiro teor mediante prévio pagamento de preço. (Incluído pela Instrução
@@ -2862,16 +2862,16 @@ dezembro de 2022)
 Art. 100. O requerimento deverá indicar o tipo de certidão a ser expedida.
 § 1º Quando o tipo requerido for a Certidão Específica, o interessado deverá indicar,
 expressamente, o dado ou dados a serem certificados.
-§ 2º Quando o tipo requerido  for a Certidão  de Inteiro Teor, o interessado deverá
+§ 2º Quando o tipo requerido for a Certidão de Inteiro Teor, o interessado deverá
 indicar o ato ou atos a serem certificados.
-§ 3º  Quando o tipo requerido for de Certidão Simplificada, o interessado deverá
+§ 3º Quando o tipo requerido for de Certidão Simplificada, o interessado deverá
 indicar no requerimento se deseja que dela conste o objeto ou o objeto social, conforme o
 caso.
 § 3º Quando o tipo requerido for de certidão simpliﬁcada, o interessado deverá indicar
 no requerimento se deseja que dela conste o objeto social da empresa e dos
 estabelecimentos. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
-Art. 101.  A certidão deverá ser entregue no prazo de até quatro dias úteis da
+Art. 101. A certidão deverá ser entregue no prazo de até quatro dias úteis da
 protocolização do pedido na sede da Junta Comercial e, no prazo de oito dias úteis, se em
 protocolo desconcentrado.
 Parágrafo único. Em caso de recusa ou demora na expedição da certidão, o requerente
@@ -2884,12 +2884,12 @@ reclamar à autoridade competente, que deverá providenciar, com presteza, sua e
 que o seu download pelo usuário poderá ser realizado quantas vezes se ﬁzerem necessárias
 durante este período, sem cobrança de novo preço. (Incluído pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
-Art. 102.  A Junta Comercial não atestará comprovação de exclusividade, a que se
+Art. 102. A Junta Comercial não atestará comprovação de exclusividade, a que se
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 84
 
-refere o inciso I, do  art. 25 da Lei nº 8.666, de 21 de junho de 1993, limitando-se, tão
+refere o inciso I, do art. 25 da Lei nº 8.666, de 21 de junho de 1993, limitando-se, tão
 somente, à expedição de certidão de inteiro teor do ato arquivado, devendo constar da
 certificação que os termos do ato são de exclusiva responsabilidade da empresa a que se
 referir.
@@ -2900,15 +2900,15 @@ contribuído para a formação ou aumento do capital social.
 Art. 104. As Juntas Comerciais poderão expedir as modalidades de certidão contidas
 no art. 95 de forma digital e online disponibilizando-as nos respectivos sítios na internet em
 formato PDF (portable digital file), devidamente assinadas com certificado digital emitido
-por entidade credenciada pela ICP - Brasil ou qualquer outro meio de comprovação da
+por entidade credenciada pela ICP- Brasil ou qualquer outro meio de comprovação da
 autoria e integridade de documentos em forma eletrônica, nos termos do § 2º do art. 10 da
 Medida Provisória nº 2.200-2, de 2001.
 Art. 104. As Juntas Comerciais poderão expedir as modalidades de certidão contidas
 no art. 95 de forma digital e online disponibilizando-as nos respectivos sítios na internet em
 formato PDF (portable digital file), devidamente assinadas com certificado digital emitido
-por entidade credenciada pela ICP - Brasil ou qualquer outro meio de comprovação da
+por entidade credenciada pela ICP- Brasil ou qualquer outro meio de comprovação da
 autoria e integridade de documentos em forma eletrônica, nos termos do § 2º do art. 10 da
-Medida Provisória nº 2.200-2, de 24  de agosto de 2001,  e da Lei nº 14. 063, de 23 de
+Medida Provisória nº 2.200-2, de 24 de agosto de 2001, e da Lei nº 14.063, de 23 de
 setembro de 2020. (Redação dada pela Instrução Normativa DREI nº 55, de 2 de junho de
 2021)
 § 1º A certidão simplificada também poderá ser expedida no modelo de certificado
@@ -2916,8 +2916,8 @@ de atributo, devidamente regulamentado pela ICP-Brasil.
 § 2º Caso a Junta Comercial permita a expedição de certidão simplificada no modelo
 de certificado de atributo, deve, obrigatoriamente, manter para o usuário a possibilidade
 de expedição em formato PDF (portable digital file).
-Art. 105.  No caso do empresário individual enquadrado na condição de
-Microempreendedor Individual - MEI, o Certificado da Condição  de Microempreendedor
+Art. 105. No caso do empresário individual enquadrado na condição de
+Microempreendedor Individual - MEI, o Certificado da Condição de Microempreendedor
 Individual - CCMEI, emitido por meio do Portal do Empreendedor, é o documento hábil para
 comprovar suas inscrições, alvarás, licenças e sua situação de enquadramento perante
 
@@ -2929,15 +2929,15 @@ informações constantes do seu cadastro sobre o microempreendedor individual.
 Art. 105. No caso do empresário individual enquadrado na condição de
 Microempreendedor Individual - MEI, o Certiﬁcado da Condição de Microempreendedor
 Individual - CCMEI, emitido por meio do Portal do Empreendedor, é o documento hábil para
-comprovar suas inscrições, alvarás, licenças e sua situação de enquadramento peran te
+comprovar suas inscrições, alvarás, licenças e sua situação de enquadramento perante
 terceiros não havendo óbice, ainda assim, que a Junta Comercial emita certidão das
 informações constantes do seu cadastro sobre o microempreendedor individual, mediante
-o pagamento do pre ço devido. (Redação dada pela Instrução Normativa DREI nº 01, de 24
+o pagamento do preço devido. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 
 CAPÍTULO II
 DA CARTEIRA DE EXERCÍCIO PROFISSIONAL
-Art. 106.  A Carteira de Exercício Profissional será expedida pela Junta Comercial
+Art. 106. A Carteira de Exercício Profissional será expedida pela Junta Comercial
 mediante requerimento dirigido ao respectivo Presidente.
 § 1º As Juntas Comerciais poderão adotar documento próprio de carteira de exercício
 profissional, por meio convencional ou decorrente do uso de outras tecnologias, desde que
@@ -2963,30 +2963,30 @@ procedimento para confecção, validade e uso da carteira de exercício profissi
 § 2º A Junta Comercial deverá estabelecer o procedimento para confecção, validade
 e uso da carteira de exercício proﬁssional, contudo, esses dois últimos devem estar
 vinculados à condição de empresário, administrador, tradutor e intérprete público, leiloeiro,
-trapicheiro e administrador de armazém geral.  (Redação dada pela Instrução Normativa
+trapicheiro e administrador de armazém geral. (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 § 3º Ocorrendo a perda da condição e não devolvida a carteira, esta será invalidada
 por ato do presidente, publicado no órgão de divulgação dos atos decisórios da Junta
 Comercial. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-Art. 106 -A. Em caso de perda, extravio ou destruição da Carteira de Exercício
+Art. 106-A. Em caso de perda, extravio ou destruição da Carteira de Exercício
 Proﬁssional, o fato deverá ser comunicado pelo seu titular, no prazo de quarenta e oito
 horas, à Junta Comercial, que fará publicar o fato no órgão de divulgação dos atos decisórios,
-sem prejuízo do registro do boletim de ocorrência policial.  (Incluído pela Instrução
+sem prejuízo do registro do boletim de ocorrência policial. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 Parágrafo único. A expedição de nova carteira, com a menção do número da
 respectiva via, quando solicitada, somente será providenciada após os procedimentos
-previstos no caput deste artigo, mediante recolhimento do preço público.  (Incluído pela
+previstos no caput deste artigo, mediante recolhimento do preço público. (Incluído pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 106-B. A Junta Comercial poderá, mediante convênio, ajustar a cooperação com
-órgãos da administração direta, autarquias, fundações públicas e entidades privadas,  sem
-fins lucrativos, na expedição da Carteira de Exercício Profissional . (Incluído pela Instrução
+órgãos da administração direta, autarquias, fundações públicas e entidades privadas, sem
+fins lucrativos, na expedição da Carteira de Exercício Profissional. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 CAPÍTULO III
 DA MEDIDA DA INATIVAÇÃO
 Art. 107. O empresário individual, a EIRELI, a sociedade empresária ou a cooperativa,
 que não procederem a qualquer arquivamento no período de dez anos, contados da data do
-último arquivamento, deverão comunicar à Junta Comercial que desejam manter -se em
+último arquivamento, deverão comunicar à Junta Comercial que desejam manter-se em
 funcionamento, sob pena de serem considerados inativos, promovendo o cancelamento do
 registro, com a perda automática da proteção do seu nome empresarial. (Revogado pela
 Instrução Normativa DREI nº 55, de 2 de junho de 2021)
@@ -3006,11 +3006,11 @@ de que trata este artigo, deverá ser arquivada a competente alteração.
 Art. 108. A Junta Comercial, identificando empresário individual, EIRELI, sociedade
 empresária ou cooperativa que no período dos últimos dez anos, não tenha procedido a
 qualquer arquivamento, a notificará, por meio do órgão de divulgação dos atos decisórios
-da Junta Comercial, informando que estará  disponível para consulta no sítio eletrônico da
+da Junta Comercial, informando que estará disponível para consulta no sítio eletrônico da
 Junta Comercial, e em local visível ao público na sede da Junta Comercial e nas unidades
 desconcentradas, relação contendo CNPJ e nomes empresariais que serão inativados, para
 que no prazo de trinta dias, prorrogável a critério daquele órgão, requeira o arquivamento
-da "Comunicação de Funcionamento" ou da  competente alteração ou do distrato.
+da "Comunicação de Funcionamento" ou da competente alteração ou do distrato.
 (Revogado pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 Art. 109. O empresário individual, a EIRELI, a sociedade empresária ou a cooperativa
 que não atenderem à notificação, conforme disposto no artigo anterior, serão considerados
@@ -3018,7 +3018,7 @@ inativos, promovendo a Junta Comercial o cancelamento do seu registro, com a per
 automática da proteção de seu nome empresarial. (Revogado pela Instrução Normativa
 DREI nº 55, de 2 de junho de 2021)
 § 1º A Junta Comercial processará e arquivará no cadastro documento administrativo
-único, contendo  certificação de  notificação, transcurso de prazo  sem comunicação,
+único, contendo certificação de notificação, transcurso de prazo sem comunicação,
 declaração de inatividade e decisão de cancelamento de registro.
 § 2º O cancelamento será publicado no órgão de divulgação dos atos decisórios da
 Junta Comercial.
@@ -3032,68 +3032,68 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 tenha filial ou nome empresarial protegido, para fins do respectivo cancelamento.
 § 4º A Junta Comercial enviará relação dos cancelamentos efetuados às autoridades
 arrecadadoras no prazo de dez dias da sua publicação.
-Art. 110.  A Junta Comercial deverá, no mínimo, uma vez por ano, proceder ao
+Art. 110. A Junta Comercial deverá, no mínimo, uma vez por ano, proceder ao
 cancelamento do registro do empresário individual, da EIRELI, da sociedade empresária ou
 cooperativa consideradas inativas. (Revogado pela Instrução Normativa DREI nº 55, de 2 de
 junho de 2021)
 Parágrafo único. A qualquer tempo, constatada a colidência de nome empresarial com
 empresário individual, EIRELI, sociedade empresária ou cooperativa que não tenham
-procedido qualquer  arquivamento nos últimos dez anos, a Junta Comercial iniciará, de
+procedido qualquer arquivamento nos últimos dez anos, a Junta Comercial iniciará, de
 imediato, o processo de cancelamento com a perda automática da proteção do nome
 empresarial, não caracterizando a extinção.
 Art. 111. O empresário individual, a EIRELI, a sociedade empresária ou cooperativa,
 que tiverem seus registros cancelados, nos termos deste Capítulo, poderão ser reativados
 perante o Registro Público de Empresas, obedecidos os mesmos procedimentos requeridos
-para sua constituição, por meio de  instrumento próprio de atualização e consolidação de
+para sua constituição, por meio de instrumento próprio de atualização e consolidação de
 seus atos. (Revogado pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 Parágrafo único. Constatada a colidência de nomes, a requerente deverá alterar o seu
 nome empresarial.
-Art. 112.  Na hipótese de paralisação temporária de suas atividades, o empresário
+Art. 112. Na hipótese de paralisação temporária de suas atividades, o empresário
 individual, a EIRELI, a sociedade empresária ou cooperativa deverão arquivar "Comunicação
 de Paralisação Temporária de Atividades", anexo IX, não promovendo o cancelamento de
-seus registros ou perda da proteção ao  nome empresarial, observado o prazo previsto no
-caput do art. 107 desta Instrução Normativa.  (Revogado pela Instrução Normativa DREI nº
+seus registros ou perda da proteção ao nome empresarial, observado o prazo previsto no
+caput do art. 107 desta Instrução Normativa. (Revogado pela Instrução Normativa DREI nº
 55, de 2 de junho de 2021)
 Parágrafo único. A comunicação de que trata este artigo deverá ser assinada pelo
 empresário, titular de EIRELI, sócios, acionistas ou associados da sociedade empresária ou
 cooperativa.
-Art. 112 -A. O empresário individual, a sociedade empresária ou a cooperativa que
-tiveram seus registros cancelados, com base no revogado art. 60 da Lei nº 8.934, de  1994,
-poderão reativá -los perante a Junta Comercial, desde que obedecidos os mesmos
+Art. 112-A. O empresário individual, a sociedade empresária ou a cooperativa que
+tiveram seus registros cancelados, com base no revogado art. 60 da Lei nº 8.934, de 1994,
+poderão reativá-los perante a Junta Comercial, desde que obedecidos os mesmos
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 89
 
-procedimentos requeridos para sua constituição.  (Incluído pela Instrução Normativa DREI
+procedimentos requeridos para sua constituição. (Incluído pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
 Parágrafo único. Considerando que o procedimento de cancelamento gerava a perda
 automática da proteção ao nome empresarial, caso seja constatada a colidência de nomes,
-a requerente deverá alterar o seu nome empresarial.  (Incluído pela Instrução Normativa
+a requerente deverá alterar o seu nome empresarial. (Incluído pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
-Art. 112 -B. Na hipótese de paralisação temporária e reinício de suas atividades, o
+Art. 112-B. Na hipótese de paralisação temporária e reinício de suas atividades, o
 empresário individual, a sociedade empresária ou cooperativa poderá arquivar a
 "Comunicação de Paralisação Temporária de Atividades" e “Comunicação de Reinício de
 Atividades Paralisadas Temporariamente”, em razão dos efeitos ﬁscais e tributários
 decorrentes de outros órgãos integrados a REDESIM e independente da comunicação
-prévia à RFB, fisco estadual e municipal.  (Incluído pela Instrução Normativa DREI nº 01, de
+prévia à RFB, fisco estadual e municipal. (Incluído pela Instrução Normativa DREI nº 01, de
 24 de janeiro de 2024)
 § 1º A comunicação de que trata este artigo deverá ser assinada pelo empresário,
 sócios, acionistas ou associados ou administradores da sociedade empresária ou
 cooperativa. (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 § 2º A suspensão temporariamente das atividades da empresa não acarreta na junta
-comercial a perda da proteção do nome empresarial.  (Incluído pela Instrução Normativa
+comercial a perda da proteção do nome empresarial. (Incluído pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 § 3º Em caso de ﬁlial em outro estado a comunicação arquivada na sede pode ser
 arquivada como documento de interesse da empresa na UF da filial. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 Art. 113. A Junta Comercial decidirá pela criação de arquivo independente, contendo
 os documentos do empresário individual, da EIRELI, da sociedade empresária ou
-cooperativa que tiveram  seus registros cancelados, nos termos deste Capítulo. (Revogado
+cooperativa que tiveram seus registros cancelados, nos termos deste Capítulo. (Revogado
 pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
-Art. 114.  A Junta Comercial, a fim de manter atualizado o Cadastro Estadual de
-Empresas, poderá  promover o recadastramento do empresário individual, da EIRELI, da
-sociedade empresária ou  cooperativa nela registrada, mediante arquivamento de ato de
-alteração, conforme o caso, observada a  natureza do Registro Público de Empresas.
+Art. 114. A Junta Comercial, a fim de manter atualizado o Cadastro Estadual de
+Empresas, poderá promover o recadastramento do empresário individual, da EIRELI, da
+sociedade empresária ou cooperativa nela registrada, mediante arquivamento de ato de
+alteração, conforme o caso, observada a natureza do Registro Público de Empresas.
 (Revogado pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
@@ -3101,16 +3101,16 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 
 CAPÍTULO IV
 DO PROCEDIMENTO DE CANCELAMENTO EM DECORRÊNCIA DE FALSIFICAÇÃO
-Art. 115.  O cancelamento de arquivamento em decorrência da verificação da
+Art. 115. O cancelamento de arquivamento em decorrência da verificação da
 falsificação de assinatura em documento público ou particular ocorrerá mediante solicitação
 encaminhada ao Presidente da Junta Comercial, devidamente instruída com os documentos
-comprobatórios da alegada falsidade  lastreada, preferencialmente em laudo oficial e
+comprobatórios da alegada falsidade lastreada, preferencialmente em laudo oficial e
 boletim de ocorrência policial.
 Art. 115. O cancelamento de arquivamento em decorrência da verificação da
 falsificação de assinatura em documento público ou particular ocorrerá mediante solicitação
 encaminhada ao Presidente da Junta Comercial, devidamente instruída com os documentos
-comprobatórios da alegada falsidade, lastreada, preferencialmente,  em laudo oficial e
-boletim de ocorrência  e, quando o lesado  for falecido,  a respectiva certidão de óbito.
+comprobatórios da alegada falsidade, lastreada, preferencialmente, em laudo oficial e
+boletim de ocorrência e, quando o lesado for falecido, a respectiva certidão de óbito.
 (Redação pela Instrução Normativa DREI/ME nº 88, de 23 de dezembro de 2022)
 § 1º O Presidente da Junta Comercial deverá promover a intimação dos interessados
 para manifestação no prazo de dez dias úteis.
@@ -3118,7 +3118,7 @@ para manifestação no prazo de dez dias úteis.
 Secretaria Geral o encaminhará à Procuradoria, se entender necessário, para se pronunciar
 no prazo de dez dias úteis, e, em seguida, retorná-lo àquela unidade.
 § 3º Recebido o processo, a Secretaria Geral o fará concluso ao Presidente para, nos
-três dias subsequentes,  decidir pelo desarquivamento do ato viciado e determinar a
+três dias subsequentes, decidir pelo desarquivamento do ato viciado e determinar a
 comunicação do fato à Polícia Civil, ao Ministério Público e às autoridades fazendárias, para
 que sejam tomadas as medidas cabíveis.
 § 4º O Presidente da Junta Comercial deverá sustar liminarmente os efeitos do ato até
@@ -3132,9 +3132,9 @@ documento após o falecimento do assinante, a assinatura por certiﬁcado digita
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 91
 
-fraudulento pela própria certificadora, entre outras hipóteses.  (Incluído pela Instrução
+fraudulento pela própria certificadora, entre outras hipóteses. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
-Art. 116.  No caso de não serem apresentados os documentos comprobatórios da
+Art. 116. No caso de não serem apresentados os documentos comprobatórios da
 alegada falsidade, contudo, existirem indícios substanciais de falsificação, o Presidente da
 Junta Comercial deverá determinar a suspensão dos efeitos do ato até que seja comprovada
 a veracidade da assinatura.
@@ -3146,14 +3146,14 @@ administrativas, judiciais ou arbitrais competentes. (Redação dada pela Instru
 DREI/ME nº 88, de 23 de dezembro de 2022)
 Parágrafo único. A suspensão dos efeitos do ato a que se refere o caput não se
 confunde com o cancelamento e, portanto, enseja apenas a anotação cadastral quanto à
-suspensão, não implicando no retorno  dos dados cadastrais  ao status  do documento
+suspensão, não implicando no retorno dos dados cadastrais ao status do documento
 anteriormente arquivado. (Incluído pela Instrução Normativa DREI/ME nº 88, de 23 de
 dezembro de 2022)
 
 CAPÍTULO V
 DO PROCEDIMENTO DE RERRATIFICAÇÃO
 Art. 117. Detectado vício sanável pela Administração Pública, independentemente de
-prazo, a irregularidade  será comunicada à parte interessada para que regularize o ato,
+prazo, a irregularidade será comunicada à parte interessada para que regularize o ato,
 mediante requerimento de arquivamento de outro documento de mesma natureza do ato
 a ser rerratificado.
 Parágrafo único. Entende-se por vícios sanáveis os decorrentes de erros materiais ou
@@ -3162,7 +3162,7 @@ do ato, não acarretem lesão ao interesse público, prejuízo a terceiros ou in
 às informações prestadas pelas Juntas Comerciais.
 Art. 118. O requerimento de que trata o artigo anterior será processado mediante
 pagamento do preço devido à Junta Comercial e o ato de rerratificação deverá conter
-cláusula ou deliberação que especifique o item, o número e a  data do arquivamento que
+cláusula ou deliberação que especifique o item, o número e a data do arquivamento que
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 92
@@ -3178,20 +3178,20 @@ por aquele que detiver competência para o respectivo ato.
 Art. 118-A. Nos casos de transferência de sede e/ou conversão de sociedade simples
 para empresária, e vice-versa, a competência para a rerratiﬁcação será do órgão de destino,
 se já efetuada a transferência ou conversão, ainda que o ato a ser retiﬁcado tenha sido
-arquivado no órgão de origem.  (Incluído pela Instrução Normativa DREI nº 01, de 24 de
+arquivado no órgão de origem. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 Parágrafo único. O órgão de origem, em exercício de autotutela, pode desarquivar
 atos realizados em contrariedade a lei, comunicando o órgão de destino sobre a decisão
 tomada, para as devidas providências.(Incluído pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
-Art. 119.  Identificado o vício pelo empresário individual, pela EIRELI, sociedade
-empresária ou  cooperativa, independentemente de prazo, este poderá propor seu
+Art. 119. Identificado o vício pelo empresário individual, pela EIRELI, sociedade
+empresária ou cooperativa, independentemente de prazo, este poderá propor seu
 saneamento junto à Junta Comercial, nos moldes do art. 118.
 Art. 119. Identificado o vício pelo empresário individual, pela sociedade empresária ou
-cooperativa, independentemente de  prazo, este poderá propor seu saneamento junto à
+cooperativa, independentemente de prazo, este poderá propor seu saneamento junto à
 Junta Comercial, nos moldes do art. 118. (Redação dada pela Instrução Normativa DREI nº
 112, de 20 de janeiro de 2022)
-Parágrafo único. Qualquer solicitação de rerratificação que caracterize  alteração de
+Parágrafo único. Qualquer solicitação de rerratificação que caracterize alteração de
 cláusulas e ou promova alterações que não sejam meramente corretivas, serão indeferidas.
 
 CAPÍTULO VI
@@ -3209,7 +3209,7 @@ pedidos de registro, as que indeferirem pedido de reconsideração, bem como con
 aplicarem sanções aos agentes auxiliares ou determinarem o arquivamento de denúncia em
 desfavor destes; e
 III - Recurso ao Departamento Nacional de Registro Empresarial e Integração (DREI),
-como última instância administrativa,  de decisão do plenário que manteve ou reformou
+como última instância administrativa, de decisão do plenário que manteve ou reformou
 decisão singular ou de turma em pedidos de registro, bem como que deliberou pela
 destituição de agentes auxiliares.
 Art. 121. O Pedido de Reconsideração, o Recurso ao Plenário e o Recurso ao DREI,
@@ -3226,7 +3226,7 @@ Parágrafo único. Quando a petição for subscrita por advogado sem o devido
 instrumento de mandato, deverá a parte exibi-lo no prazo de cinco dias úteis, sob pena de
 arquivamento do processo.
 Art. 122. O Pedido de Reconsideração deverá ser apresentado no prazo dos trinta dias
-concedidos para  o cumprimento da exigência e, protocolizado, enviado à autoridade ou
+concedidos para o cumprimento da exigência e, protocolizado, enviado à autoridade ou
 órgão de deliberação inferior, prolator do despacho reconsiderando, que o apreciará em até
 cinco dias úteis da data da sua protocolização.
 § 1º O pedido de reconsideração resolve-se com o reexame da matéria, devendo,
@@ -3239,55 +3239,55 @@ Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 formuladas, recomeçando a contagem a partir do primeiro dia útil subsequente à data da
 ciência pelo interessado ou da publicação do despacho da decisão que as mantiver no todo
 ou em parte.
-Art. 123. O Recurso ao Plenário, protocolizado, será enviado à Secretaria -Geral para
+Art. 123. O Recurso ao Plenário, protocolizado, será enviado à Secretaria-Geral para
 autuar, registrar e notificar, no prazo de três dias úteis, as partes interessadas, as quais terão
 o prazo de dez dias úteis para apresentar as contrarrazões, caso tenham interesse.
 § 1º Juntadas as contrarrazões ao processo ou esgotado o prazo de manifestação, a
 Secretaria- Geral o encaminhará à Procuradoria, quando esta não for a recorrente, para se
 pronunciar no prazo de dez dias úteis, e, em seguida, retorná-lo àquela unidade.
-§ 2º  Recebido o processo de recurso da Procuradoria, a Secretaria -Geral o fará
+§ 2º Recebido o processo de recurso da Procuradoria, a Secretaria-Geral o fará
 concluso ao Presidente que, no prazo de três dias úteis, se manifestará quanto ao seu
 recebimento e designará, quando for o caso, o Vogal Relator, notificando-o.
 § 2º-A Não sendo admitido o Recurso ao Plenário, por não preencher os requisitos de
 admissibilidade, não é cabível Recurso ao DREI, por ausência de decisão plenária, podendo
-o interessado, provocar nova manifestação do plenário da junta comercial,  para fins de
-viabilizar o seu acesso a esta instância recursal administrativa.  (Incluído pela Instrução
+o interessado, provocar nova manifestação do plenário da junta comercial, para fins de
+viabilizar o seu acesso a esta instância recursal administrativa. (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
-§ 3º Admitido o recurso pelo Presidente, inicia -se a fase de julgamento que deverá
-ser concluída no prazo de trinta dias úteis, iniciando -se no primeiro dia útil subsequente à
+§ 3º Admitido o recurso pelo Presidente, inicia-se a fase de julgamento que deverá
+ser concluída no prazo de trinta dias úteis, iniciando-se no primeiro dia útil subsequente à
 data da ciência pelo Vogal Relator.
 § 4º O Vogal Relator, no prazo de dez dias úteis, elaborará o relatório e o remeterá à
 Secretaria- Geral, para conhecimento dos demais vogais, nos cinco dias úteis subsequentes,
 os quais poderão requerer cópias do processo a que se referir.
 § 5º Nos últimos dez dias úteis para encerramento do prazo a que alude o § 3º deste
 artigo, a Secretaria-Geral incluirá o recurso na pauta de julgamento de sessão do plenário.
-Se necessário, o Presidente convocará sessão extraordinária para que se cumpra o praz o
+Se necessário, o Presidente convocará sessão extraordinária para que se cumpra o prazo
 fixado.
 § 6º Se algum dos vogais, na sessão plenária de julgamento, solicitar vista do processo
 o Presidente o deferirá, desde que se obedeça ao prazo previsto nos §§ 3º e 5º deste artigo.
-§ 7º  No caso de inobservância do prazo de trinta dias, previsto para a fase de
+§ 7º No caso de inobservância do prazo de trinta dias, previsto para a fase de
 
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 95
 
-julgamento, a parte interessada  poderá requerer ao Presidente da Junta Comercial tudo o
+julgamento, a parte interessada poderá requerer ao Presidente da Junta Comercial tudo o
 que se afigurar necessário, inclusive as providências contra abusos e infrações e o envio ao
 DREI, para as providências de sua competência.
 § 8º As partes nas razões e nas contrarrazões deverão apresentar todos os
 fundamentos de direito e de fato, bem como os documentos comprobatórios das alegações,
 os quais determinarão os limites de julgamento do recurso.
-Art. 124. O Recurso ao DREI, protocolizado, será enviado à Secretaria -Geral para
+Art. 124. O Recurso ao DREI, protocolizado, será enviado à Secretaria-Geral para
 autuar, registrar e notificar no prazo de três dias úteis as partes interessadas, as quais terão
 o prazo de dez dias úteis para apresentar as contrarrazões, caso tenham interesse.
 § 1º Juntadas as contrarrazões ao processo ou esgotado o prazo de manifestação, a
 Secretaria Geral o encaminhará à Procuradoria, quando esta não for a recorrente, para se
 pronunciar no prazo de dez dias úteis, e, em seguida, retorná-lo àquela unidade.
-§ 2º  Recebido o processo de recurso da Procuradoria, a Secretaria Geral, após
+§ 2º Recebido o processo de recurso da Procuradoria, a Secretaria Geral, após
 certificar tal circunstância nos autos, o fará concluso ao Presidente para, nos três dias
 subsequentes, manifestar-se, obrigatoriamente, quanto ao seu recebimento bem como à
 concessão ou não de efeito suspensivo.
-§ 3º  Presentes os requisitos de admissibilidade, o Presidente da Junta Comercial
-encaminhará eletronicamente ao DREI, que no prazo de dez dias úteis, deverá manifestar -
+§ 3º Presentes os requisitos de admissibilidade, o Presidente da Junta Comercial
+encaminhará eletronicamente ao DREI, que no prazo de dez dias úteis, deverá manifestar-
 se e submetê-lo à decisão final, a ser proferida em igual prazo.
 § 4º Os pedidos de diligência, após encaminhado o processo ao DREI, suspenderão os
 prazos previstos no parágrafo anterior.
@@ -3308,18 +3308,18 @@ III - interpostos fora do prazo ou antes da decisão definitiva; ou
 IV - quando já houver se exaurido a esfera administrativa.
 Art. 126. Os recursos aqui previstos não suspendem os efeitos da decisão a que se
 referirem.
-Parágrafo único.  Havendo justo receio de prejuízo de difícil ou incerta reparação
+Parágrafo único. Havendo justo receio de prejuízo de difícil ou incerta reparação
 decorrente da execução ou cumprimento de decisão, a autoridade recorrida ou a
 imediatamente superior poderá, de ofício ou a pedido, em decisão fundamentada, atribuir
 efeito suspensivo ao recurso.
-Art. 127.  As decisões proferidas em sede de Recurso ao Plenário se efetivam de
-imediato, salvo tratando -se de vício sanável, quando o interessado deverá retificá-lo no
+Art. 127. As decisões proferidas em sede de Recurso ao Plenário se efetivam de
+imediato, salvo tratando-se de vício sanável, quando o interessado deverá retificá-lo no
 prazo de trinta dias, sob pena de desarquivamento, bem como demonstração de justo receio
 ou de prejuízo de difícil ou incerta reparação.
 Art. 128. O prazo para interposição dos recursos é de dez dias úteis, contados a partir
 do primeiro dia útil subsequente ao da data da ciência pelo interessado ou da publicação do
 despacho, considerando- se o que ocorrer por derradeiro.
-Art. 128 -A. As Juntas Comerciais manterão, permanentemente, em seus sítios
+Art. 128-A. As Juntas Comerciais manterão, permanentemente, em seus sítios
 eletrônicos decisões plenárias tomadas pelo Colegiado de Vogais e pareceres jurídicos de
 relevante matéria em registro de empresas. (Incluído pela Instrução Normativa DREI nº 01,
 de 24 de janeiro de 2024)
@@ -3330,7 +3330,7 @@ DA RETRIBUIÇÃO DOS SERVIÇOS
 Art. 129. Os atos integrantes da Tabela de Preços dos Serviços pertinentes ao Registro
 Público de Empresas e Atividades Afins são os especificados no anexo X desta Instrução
 Normativa.
-§ 1º  Os atos especificados excluem qualquer outra modalidade de cobrança, por
+§ 1º Os atos especificados excluem qualquer outra modalidade de cobrança, por
 serviços de natureza de registro, prestados pelas Juntas Comerciais, de modo que é vedada
 a cobrança por evento.
 § 2º É vedada a cobrança de preço pelo serviço de arquivamento dos documentos
@@ -3373,7 +3373,7 @@ DARF correspondente ao recolhimento devido.
 Instrução Normativa 1 (39711171) SEI 19687.103059/2023-18 / pg.
 98
 
-§ 2º  A guia de recolhimento que instruirá o respectivo processo deverá nele
+§ 2º A guia de recolhimento que instruirá o respectivo processo deverá nele
 permanecer após o seu arquivamento.
 
 TÍTULO VII
@@ -3381,7 +3381,7 @@ DAS DISPOSIÇÕES FINAIS
 
 Art. 133. Os documentos sujeitos a arquivamento e autenticação nos termos
 da Lei nº 8.934, de 1994, e do Decreto nº 1800, de 1996, poderão ser eliminados pelas Juntas
-Comerciais conforme disposições  do Decreto nº 10.278, de 18 de março de 2020,
+Comerciais conforme disposições do Decreto nº 10.278, de 18 de março de 2020,
 que regulamentou o disposto no X do caput do art. 3º da Lei nº 13.874, de 20 de setembro
 de 2019.
 Art. 134. Ficam revogadas:

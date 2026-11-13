@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "texto atualizado publicado pelo MTE (não substitui o DOU)"
 fonte: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes"
 arquivo: "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/1988/portaria_3-067_nrr_revogada.pdf"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # NR-31 - SEGURANÇA E SAÚDE NO TRABALHO NA AGRICULTURA, PECUÁRIA SILVICULTURA, EXPLORAÇÃO FLORESTAL E AQUICULTURA
@@ -25,10 +25,10 @@ Aprova Normas Regulamentadoras Rurais – NRR do
 art. 13 da Lei n.º 5.889, de 05 de junho de 1973,
 relativas à Segurança e Higiene do Trabalho Rural.
 
-O MINISTRO DE ESTADO, em uso de suas atribuições le gais e considerando o disposto
+O MINISTRO DE ESTADO, em uso de suas atribuições legais e considerando o disposto
 no art. 13 da Lei n.º 5.889, de 05 de junho de 1973, resolve
 
-Art. 1º  Aprovar as seguintes Normas Regulamentadoras Rurai s – NRR, relativas à
+Art. 1º  Aprovar as seguintes Normas Regulamentadoras Rurais – NRR, relativas à
 Segurança e Higiene  do Trabalho Rural:
 
 NORMAS REGULAMENTADORAS
@@ -39,10 +39,10 @@ NRR-3 - Comissão Interna de Prevenção de Acidentes do Trabalho Rural - CIPATR
 NRR-4 - Equipamento de Proteção Individual - EPI
 NRR-5 - Produtos Químicos
 
-Art. 2º  As alterações posteriores, decorrentes da experiên cia e necessidade, serão baixadas
+Art. 2º  As alterações posteriores, decorrentes da experiência e necessidade, serão baixadas
 pelo Ministério do Trabalho.
 
-Art. 3º  Os casos omissos e as dúvidas suscitadas serão dec ididas pelo Ministério do
+Art. 3º  Os casos omissos e as dúvidas suscitadas serão decididas pelo Ministério do
 Trabalho.
 
 Art. 4º  Esta portaria entrará em vigor na data de sua publicação.
@@ -53,39 +53,39 @@ NRR – 1 – DISPOSIÇÕES GERAIS
 1.1 - As Normas Regulamentadoras Rurais - NRR, relativas à segurança e higiene do trabalho rural são de
 observância obrigatória, conforme disposto no art. 13 da Lei n.° 5.889, de 08 de junho de 1973.
 
-1.2 - A observância das NRR não desobriga os empreg adores e trabalhadores rurais do cumprimento de
-outras disposições que, com relação à matéria, seja m baixadas pelos estados ou municípios, bem como
+1.2 - A observância das NRR não desobriga os empregadores e trabalhadores rurais do cumprimento de
+outras disposições que, com relação à matéria, sejam baixadas pelos estados ou municípios, bem como
 daquelas oriundas de acordos e convenções coletivas de trabalho.
 
-1.3 - A Secretaria de Segurança e Medicina do Traba lho - SSMT é o órgão de âmbito nacional
-competente para coordenar, orientar, controlar e supervisionar as atividades relacionadas com a segura nça
-e higiene do trabalho rural, inclusive a Campanha N acional de Prevenção de Acidentes do Trabalho Rural
+1.3 - A Secretaria de Segurança e Medicina do Trabalho - SSMT é o órgão de âmbito nacional
+competente para coordenar, orientar, controlar e supervisionar as atividades relacionadas com a segurança
+e higiene do trabalho rural, inclusive a Campanha Nacional de Prevenção de Acidentes do Trabalho Rural
 - CANPAT RURAL.
 
 1.4. A fiscalização do cumprimento das NRR compete às Delegacias Regionais do Trabalho e, mediante
 convênio autorizado pelo Ministro do Trabalho, a outros órgãos federais, estaduais ou municipais.
 
 1.5. Compete às Delegacias Regionais do Trabalho, nos limites de suas respectivas jurisdições:
-a)  adotar medidas necessárias à fiel observância desta s normas e aplicar as penalidades cabíveis pelo
+a)  adotar medidas necessárias à fiel observância destas normas e aplicar as penalidades cabíveis pelo
 seu descumprimento;
 b)  atender a requisições judiciais para realização de perícias.
 
-1.6. Os recursos voluntários ou de ofício das decis ões proferidas pelos Delegados Regionais do Trabalh o
-em matéria de segurança e higiene do trabalho rural  serão conhecidos pela SSMT e, em última instância,
+1.6. Os recursos voluntários ou de ofício das decisões proferidas pelos Delegados Regionais do Trabalho
+em matéria de segurança e higiene do trabalho rural serão conhecidos pela SSMT e, em última instância,
 pelo Ministro do Trabalho.
 
 1.7. Cabe ao empregador rural:
 a)  cumprir e fazer cumprir as NRR;
 
-b)  expedir e divulgar ordens de serviço sobre seguranç a e higiene do trabalho rural, tendo em conta os
+b)  expedir e divulgar ordens de serviço sobre segurança e higiene do trabalho rural, tendo em conta os
 riscos genéricos e específicos do estabelecimento e de cada atividade;
-c)  orientar os trabalhadores sobre técnicas prevencion istas a serem adotadas, objetivando evitar
+c)  orientar os trabalhadores sobre técnicas prevencionistas a serem adotadas, objetivando evitar
 acidentes do trabalho e doenças profissionais;
 d)  determinar os procedimentos que deverão ser adotados em caso de acidente do trabalho rural;
 e)  colaborar com as autoridades na adoção de medidas que visem à proteção dos trabalhadores rurais.
 
 1.8. Cabe ao trabalhador rural:
-a)  cumprir as NRR, bem como as ordens de serviço que f oram estabelecidas para o desempenho de suas
+a)  cumprir as NRR, bem como as ordens de serviço que foram estabelecidas para o desempenho de suas
 funções;
 b)  usar, obrigatoriamente, os EPI.
 
@@ -94,29 +94,29 @@ b)  usar, obrigatoriamente, os EPI.
 1.10. Constituem direitos dos trabalhadores:
 a)  conhecer os riscos de suas atividades;
 b)  promover a correção dos riscos;
-c)  denunciar à autoridade competente a existência de a tividades em condições de riscos graves e
+c)  denunciar à autoridade competente a existência de atividades em condições de riscos graves e
 iminentes.
 
-1.11. Nos cursos e treinamentos de formação profiss ional rural promovidos pelo Serviço Nacional de
-Formação Profissional Rural - SENAR, serão incluído s tópicos sobre prevenção de riscos e de acidentes
+1.11. Nos cursos e treinamentos de formação profissional rural promovidos pelo Serviço Nacional de
+Formação Profissional Rural - SENAR, serão incluídos tópicos sobre prevenção de riscos e de acidentes
 do trabalho de acordo com as peculiaridades de cada atividade.
 
-1.12. Além das NRR aplicam-se ao trabalho rural, no  que couber, as seguintes Normas Regulamentadoras
+1.12. Além das NRR aplicam-se ao trabalho rural, no que couber, as seguintes Normas Regulamentadoras
 - NR aprovadas pela Portaria n.º 3.214, de 08 de junho de 1978, observadas as alterações posteriores:
 a)  NR 7 - Exame Médico;
 b)  NR 15 - Atividade e Operações Insalubres;
 c)  NR 16 - Atividades e Operações Perigosas.
 
-NRR – 2 – SERVIÇO ESPECIALIZADO EM PREVENÇÃO DE ACI DENTES DO TRABALHO
+NRR – 2 – SERVIÇO ESPECIALIZADO EM PREVENÇÃO DE ACIDENTES DO TRABALHO
 RURAL - SEPATR
-2.1 - A propriedade rural com 100 (cem) ou mais tra balhadores é obrigada a organizar e manter em
+2.1 - A propriedade rural com 100 (cem) ou mais trabalhadores é obrigada a organizar e manter em
 funcionamento o Serviço Especializado em Prevenção de Acidentes do Trabalho Rural - SEPATR.
 
-2.2 - O SEPATR dos estabelecimentos rurais que oper em em regime sazonal será dimensionado pelo
-órgão regional do Ministério do Trabalho com a cola boração das entidades de classe, tomando-se por
+2.2 - O SEPATR dos estabelecimentos rurais que operem em regime sazonal será dimensionado pelo
+órgão regional do Ministério do Trabalho com a colaboração das entidades de classe, tomando-se por
 base a média aritmética do número de trabalhadores do ano civil anterior.
 
-2.2.1 - Nos estabelecimentos em fase de instalação,  a média será calculada com base no número previsto
+2.2.1 - Nos estabelecimentos em fase de instalação, a média será calculada com base no número previsto
 de trabalhadores no ano.
 
 2.3 - Ficará por conta exclusiva do empregador rural todo o ônus decorrente da organização e manutenção
@@ -140,17 +140,17 @@ TRABALHADROES ENGºs de SEGURANÇA MÉDICOS DO TRAB. TÉCNICOS DE SEG. ENFERM. D
 acima de 1000 1 1 3 1 2
  (*) profissional em tempo parcial.
 
-2.5 - Caso o empregador rural mantenha 100 (cem) ou  mais trabalhadores distribuídos em propriedades
-que distem entre si menos de cem quilômetros, o SEP ATR será centralizado, dimensionado em função do
+2.5 - Caso o empregador rural mantenha 100 (cem) ou mais trabalhadores distribuídos em propriedades
+que distem entre si menos de cem quilômetros, o SEPATR será centralizado, dimensionado em função do
 número total de trabalhadores e localizado de forma a assegurar cobertura efetiva a todos.
 
-2.5.1 - Na hipótese anterior, a distribuição e loca lização do SEPATR serão submetidas à homologação do
+2.5.1 - Na hipótese anterior, a distribuição e localização do SEPATR serão submetidas à homologação do
 órgão regional do MTb.
 
-2.6 - A propriedade rural com mais de 29 e menos de  100 trabalhadores deve ser assistida por SEPATR
+2.6 - A propriedade rural com mais de 29 e menos de 100 trabalhadores deve ser assistida por SEPATR
 comum a várias empresas, de forma autônoma.
 
-2.6.1 - A prestação de SEPATR sob forma autônoma po derá ser contratada com sociedade civil ou
+2.6.1 - A prestação de SEPATR sob forma autônoma poderá ser contratada com sociedade civil ou
 mediante convênio, efetivado através de uma das seguintes pessoas jurídicas:
 a)  entidades de classe;
 b)  associação de produtores rurais;
@@ -165,29 +165,29 @@ TRABALHADORES TÉCNICO DE SEGURANÇA AUXILIAR DE ENFERMAGEM
 60 a 79 24 h/mês 24 h/mês
 80 a 99 40 h/mês 40 h/mês
 
-2.8 - Sempre que em uma frente de trabalho houver d ez ou mais trabalhadores, um dos efetivos deverá ser
+2.8 - Sempre que em uma frente de trabalho houver dez ou mais trabalhadores, um dos efetivos deverá ser
 treinado em segurança e higiene do trabalho e prestação de primeiros socorros.
 
 2.8.1 - Será fornecido, pelo empregador, para cada frente de trabalho, o material necessário para prestação
 de primeiros socorros e recursos mínimos para atendimento de urgência.
 
-NRR – 3 – COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTE S DO TRABALHO RURAL
+NRR – 3 – COMISSÃO INTERNA DE PREVENÇÃO DE ACIDENTES DO TRABALHO RURAL
 – CIPATR
 
-3.1 - O empregador rural que mantenha a média de 20  ou mais trabalhadores fica obrigado a organizar e
-manter em funcionamento, por estabelecimento, uma C omissão Interna de Prevenção de Acidentes do
+3.1 - O empregador rural que mantenha a média de 20 ou mais trabalhadores fica obrigado a organizar e
+manter em funcionamento, por estabelecimento, uma Comissão Interna de Prevenção de Acidentes do
 Trabalho Rural – CIPATR.
 
-3.1.1 - O número de empregados para aplicação deste  item será obtido pela média aritmética do número
+3.1.1 - O número de empregados para aplicação deste item será obtido pela média aritmética do número
 de trabalhadores do ano civil anterior.
 
-3.1.2 - Nos estabelecimentos em instalação, o cálcu lo será realizado com base no número de
+3.1.2 - Nos estabelecimentos em instalação, o cálculo será realizado com base no número de
 trabalhadores previsto no ano.
 
-3.1.3 - O cálculo da média dos trabalhadores será realizado pelo órgão regional do Ministério do Traba lho
+3.1.3 - O cálculo da média dos trabalhadores será realizado pelo órgão regional do Ministério do Trabalho
 com colaboração das entidades de classe.
 
-3.2 - A CIPATR será composta de representantes do e mpregador e dos empregados, de acordo com a
+3.2 - A CIPATR será composta de representantes do empregador e dos empregados, de acordo com a
 seguinte proporção mínima:
 
 n.º de trabalhadores
@@ -208,28 +208,28 @@ empregados 1 2 4 1
 
 3.4 - Os representantes dos trabalhadores serão por estes eleitos.
 
-3.4.1 - Os candidatos votados e não-eleitos deverão  ser relacionados na ata de eleição e apuração, em
+3.4.1 - Os candidatos votados e não-eleitos deverão ser relacionados na ata de eleição e apuração, em
 ordem decrescente de votos, possibilitando sua nomeação posterior, em caso de vacância.
 
 3.5 - O mandato dos membros da CIPATR será de 2 dois anos, permitida uma recondução.
 
 3.6 - Organizada a CIPATR, a mesma deverá ser registrada no órgão regional do Ministério do Trabalho.
 
-3.6.1 - O registro será feito mediante requerimento  ao Delegado Regional do Trabalho, acompanhado de
-cópias das atas da eleição e da instalação e posse,  contendo o calendário anual das reuniões ordinária s da
+3.6.1 - O registro será feito mediante requerimento ao Delegado Regional do Trabalho, acompanhado de
+cópias das atas da eleição e da instalação e posse, contendo o calendário anual das reuniões ordinárias da
 CIPATR, constando hora, dia, mês e local de realização.
 
-3.7 - A eleição para o novo mandato da CIPATR dever á ser convocada pelo empregador, pelo menos 45
-dias antes do término do mandato e realizada com an tecedência mínima de 30 dias do término do
+3.7 - A eleição para o novo mandato da CIPATR deverá ser convocada pelo empregador, pelo menos 45
+dias antes do término do mandato e realizada com antecedência mínima de 30 dias do término do
 mandato.
 
-3.8 - Os membros da CIPATR, eleitos e designados pa ra um novo mandato, serão empossados
+3.8 - Os membros da CIPATR, eleitos e designados para um novo mandato, serão empossados
 automaticamente no 1º (primeiro) dia após o término do mandato anterior.
 
 3.9 - Os membros da CIPATR escolherão o presidente e o vice-presidente. Em caso de empate, terá
 preferência o empregado com maior tempo de serviço no estabelecimento.
 
-3.10 - O secretário da CIPATR será escolhido, em co mum acordo, pelo presidente e vice-presidente,
+3.10 - O secretário da CIPATR será escolhido, em comum acordo, pelo presidente e vice-presidente,
 podendo a escolha recair em pessoa não-integrante da CIPATR.
 
 3.11 - Compete ao presidente da CIPATR:
@@ -249,7 +249,7 @@ a)  elaborar as atas das reuniões;
 b)  exercer as atribuições que lhe forem delegadas.
 
 3.14 - A CIPATR terá as seguintes atribuições:
-a)  manter registro, estudar e participar de estudos da s causas e conseqüências dos acidentes do trabalho
+a)  manter registro, estudar e participar de estudos das causas e conseqüências dos acidentes do trabalho
 rural;
 b)  propor a realização de inspeção nas instalações ou áreas de atividades do estabelecimento rural,
 verificando as situações de riscos de acidentes e comunicando-as ao empregador;
@@ -257,45 +257,45 @@ c)  estudar, por iniciativa própria ou por sugestão de outros trabalhadores, m
 acidentes do trabalho, recomendando-as ao empregador;
 d)  promover a divulgação e zelar pela observância das NRR, de Normas Complementares, dos
 regulamentos e das instruções de serviço emitidos pelo empregador;
-e)  promover atividades que visem a despertar o interes se dos trabalhadores pelos assuntos de prevenção
+e)  promover atividades que visem a despertar o interesse dos trabalhadores pelos assuntos de prevenção
 de acidentes do trabalho;
-f)  propor a realização de cursos e treinamentos que ju lgar necessários para melhorar o desenvolvimento
+f)  propor a realização de cursos e treinamentos que julgar necessários para melhorar o desenvolvimento
 profissional dos trabalhadores;
-g)  elaborar o calendário anual de reuniões ordinárias,  encaminhando-o ao órgão regional do Ministério
+g)  elaborar o calendário anual de reuniões ordinárias, encaminhando-o ao órgão regional do Ministério
 do Trabalho e à entidade de classe dos trabalhadores;
-h)  convocar pessoas no âmbito do estabelecimento rural , para tomada de informações por ocasião dos
+h)  convocar pessoas no âmbito do estabelecimento rural, para tomada de informações por ocasião dos
 estudos dos acidentes do trabalho.
 
 3.15 - Cabe ao empregador:
 
-a)  prestigiar integralmente a CIPATR, concedendo a seu s componentes os meios necessários ao
+a)  prestigiar integralmente a CIPATR, concedendo a seus componentes os meios necessários ao
 desempenho de suas atribuições;
 b)  estudar as recomendações e determinar a adoção das medidas viáveis, mantendo a CIPATR
 informada;
-c)  promover para todos os membros da CIPATR, inclusive  para o secretário, em horário de expediente
+c)  promover para todos os membros da CIPATR, inclusive para o secretário, em horário de expediente
 normal do estabelecimento rural, curso sobre prevenção de acidentes do trabalho.
 
 3.16 - Cabe aos trabalhadores:
-a)  indicar à CIPATR situações de risco e apresentar su gestões para a melhoria das condições de
+a)  indicar à CIPATR situações de risco e apresentar sugestões para a melhoria das condições de
 trabalho;
-b)  cumprir as NRR, as Normas Complementares, os regula mentos e as instruções de serviço emitidos
+b)  cumprir as NRR, as Normas Complementares, os regulamentos e as instruções de serviço emitidos
 pelo empregador rural sobre o assunto.
 
 3.17 - A CIPATR reunir-se-á 1 (uma) vez por mês, em local apropriado, obedecendo ao calendário anual.
 
-3.18 - Em caso de acidentes com conseqüência de mai or gravidade ou prejuízo de grande monta, a
-CIPATR reunir-se-á em caráter extraordinário, com a  presença do responsável pelo setor em que ocorreu
+3.18 - Em caso de acidentes com conseqüência de maior gravidade ou prejuízo de grande monta, a
+CIPATR reunir-se-á em caráter extraordinário, com a presença do responsável pelo setor em que ocorreu
 o acidente, no máximo até 5 (cinco) dias após ocorrência.
 
-3.19 - A CIPATR manterá livro apropriado, previamen te autenticado pelo órgão regional do Ministério
+3.19 - A CIPATR manterá livro apropriado, previamente autenticado pelo órgão regional do Ministério
 do Trabalho, para lavratura das atas das suas sessões.
 
-3.20 - Quando o empregador contratar empreiteiras o u sub-empreiteiras, estas poderão participar da
-CIPATR da contratante principal a pedido ou por con vocação, enquanto estiverem atuando no
+3.20 - Quando o empregador contratar empreiteiras ou sub-empreiteiras, estas poderão participar da
+CIPATR da contratante principal a pedido ou por convocação, enquanto estiverem atuando no
 estabelecimento rural, através de um representante do empregador e um dos empregados.
 
-3.21 - Os membros da CIPATR, representantes dos tra balhadores, não poderão sofrer despedida
-arbitrária, entendendo-se como tal a que não se fun dar em motivo disciplinar, técnico, econômico ou
+3.21 - Os membros da CIPATR, representantes dos trabalhadores, não poderão sofrer despedida
+arbitrária, entendendo-se como tal a que não se fundar em motivo disciplinar, técnico, econômico ou
 financeiro.
 
 NRR – 4 – EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI
@@ -303,14 +303,14 @@ NRR – 4 – EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL - EPI
 4.1. Considera-se EPI, para os fins de aplicação desta Norma, todo dispositivo de uso individual destinado
 a preservar e proteger a integridade física do trabalhador.
 
-4.2. O empregador rural é obrigado a fornecer, grat uitamente, EPI adequados ao risco e em perfeito
+4.2. O empregador rural é obrigado a fornecer, gratuitamente, EPI adequados ao risco e em perfeito
 estado de conservação e funcionamento nas seguintes circunstâncias:
-a)  sempre que as medidas de proteção coletiva forem te cnicamente inviáveis ou não oferecerem
+a)  sempre que as medidas de proteção coletiva forem tecnicamente inviáveis ou não oferecerem
 completa proteção contra os riscos de acidentes do trabalho e/ou doenças profissionais;
 b)  enquanto as medidas de proteção coletiva estiverem sendo implantadas;
 c)  para atender a situações de emergência.
 
-4.3. Atendidas as peculiaridades de cada atividade,  o empregador rural deve fornecer aos trabalhadores  os
+4.3. Atendidas as peculiaridades de cada atividade, o empregador rural deve fornecer aos trabalhadores os
 seguintes EPI:
 I - Proteção da cabeça:
 a)  capacete de segurança contra impactos provenientes de queda ou projeção de objetos;
@@ -318,11 +318,11 @@ b)  chapéu de palha de abas largas e cor clara para proteção contra o sol, ch
 c)  protetores de cabeça impermeáveis e resistentes nos trabalhos com produtos químicos.
 
 II - Proteção dos olhos e da face:
-a)  protetores faciais destinados à proteção contra les ões ocasionadas por partículas, respingos, vapores
+a)  protetores faciais destinados à proteção contra lesões ocasionadas por partículas, respingos, vapores
 de produtos químicos e radiações luminosas intensas;
-b)  óculos de segurança para trabalhos que possam causa r ferimentos provenientes do impacto de
+b)  óculos de segurança para trabalhos que possam causar ferimentos provenientes do impacto de
 partículas, ou de objetos pontiagudos ou cortantes;
-c)  óculos de segurança contra respingos para trabalhos  que possam causar irritação e outras lesões
+c)  óculos de segurança contra respingos para trabalhos que possam causar irritação e outras lesões
 decorrentes da ação de líquidos agressivos;
 d)  óculos de segurança contra poeira e pólen.
 
@@ -333,7 +333,7 @@ IV - Proteção das vias respiratórias:
 a)  respiradores com filtros mecânicos para trabalhos que impliquem produção de poeiras;
 
 b)  respiradores e máscaras de filtro químico, para trabalhos com produtos químicos;
-c)  respiradores e máscaras de filtros combinados (quím icos e mecânicos) para atividades em que haja
+c)  respiradores e máscaras de filtros combinados (químicos e mecânicos) para atividades em que haja
 emanação de gases e poeiras tóxicas;
 d)  aparelhos de isolamento, autônomos ou de adução de ar para locais de trabalho onde o teor de
 oxigênio (O2) seja inferior a 18% (dezoito por cento) em volume.
@@ -341,16 +341,16 @@ oxigênio (O2) seja inferior a 18% (dezoito por cento) em volume.
 V - Proteção dos membros superiores
 Luvas e/ou mangas de proteção nas atividades em que haja perigo de lesões provocadas por:
 a)  materiais ou objetos escoriantes, abrasivos, cortantes ou perfurantes;
-b)  produtos químicos tóxicos, alergênicos, corrosivos,  cáusticos, solventes orgânicos e derivados de
+b)  produtos químicos tóxicos, alergênicos, corrosivos, cáusticos, solventes orgânicos e derivados de
 petróleo;
 c)  materiais ou objetos aquecidos;
 d)  operações com equipamentos elétricos;
-e)  tratos com animais, suas vísceras e detritos e na p ossibilidade de transmissão de doenças decorrentes
+e)  tratos com animais, suas vísceras e detritos e na possibilidade de transmissão de doenças decorrentes
 de produtos infecciosos ou parasitários;
 f)  picadas de animais peçonhentos.
 
 VI - Proteção dos membros inferiores:
-a)  botas impermeáveis e com estrias no solado para tra balhos em terrenos úmidos, lamacentos,
+a)  botas impermeáveis e com estrias no solado para trabalhos em terrenos úmidos, lamacentos,
 encharcados ou com dejetos de animais;
 b)  botas com biqueira reforçada para trabalhos em que haja perigo de queda de materiais, objetos
 pesados e pisões de animais;
@@ -361,7 +361,7 @@ e)  calçados impermeáveis e resistentes em trabalhos com produtos químicos;
 f)  calçados de couro para as demais atividades.
 
 VII - Proteção do tronco
-Aventais, jaquetas, capas e outros para proteção no s trabalhos em que haja perigo de lesões provocadas
+Aventais, jaquetas, capas e outros para proteção nos trabalhos em que haja perigo de lesões provocadas
 por:
 a)  riscos de origem térmica;
 b)  riscos de origem mecânica;
@@ -372,10 +372,10 @@ VIII - Proteção contra quedas com diferença de nível
 Cintas e correias de segurança.
 
 4.4. Os EPI e roupas utilizados em tarefas onde se empregam substâncias tóxicas ou perigosas serão
-rigorosamente higienizados e mantidos em locais apr opriados, onde não possam contaminar a roupa de
+rigorosamente higienizados e mantidos em locais apropriados, onde não possam contaminar a roupa de
 uso comum do trabalhador e seus familiares.
 
-4.5. Compete ao empregador rural, e cabe a ele exig ir de seus sub-contratantes de mão-de-obra, quanto
+4.5. Compete ao empregador rural, e cabe a ele exigir de seus sub-contratantes de mão-de-obra, quanto
 aos EPI:
 a)  instrução e conscientização do trabalhador quanto ao uso adequado;
 b)  substituição imediata do equipamento danificado ou extraviado;
@@ -383,11 +383,11 @@ c)  responsabilização pela manutenção e esterilização.
 
 4.6. Compete ao trabalhador:
 a)  usar obrigatoriamente os EPI indicados para a finalidade a que se destinarem;
-b)  responsabilizar-se pela danificação dos EPI, ocasio nada pelo uso inadequado ou fora das atividades a
+b)  responsabilizar-se pela danificação dos EPI, ocasionada pelo uso inadequado ou fora das atividades a
 que se destinam, bem como pelo seu extravio.
 
 4.7. Compete aos órgãos regionais do Ministério do Trabalho:
-a)  orientar os empregadores e trabalhadores rurais qua nto ao uso dos EPI, quando solicitados ou em
+a)  orientar os empregadores e trabalhadores rurais quanto ao uso dos EPI, quando solicitados ou em
 inspeção de rotina;
 b)  fiscalizar o uso adequado e qualidade dos EPI.
 
@@ -395,59 +395,59 @@ b)  fiscalizar o uso adequado e qualidade dos EPI.
 
 NRR – 5 – PRODUTOS QUÍMICOS
 
-5.1. Esta Norma trata dos seguintes produtos químic os utilizados no trabalho rural: agrotóxicos e afin s,
+5.1. Esta Norma trata dos seguintes produtos químicos utilizados no trabalho rural: agrotóxicos e afins,
 fertilizantes e corretivos.
 
-5.1.1. Entende-se por agrotóxicos as substâncias ou  misturas de substâncias de natureza química quando
+5.1.1. Entende-se por agrotóxicos as substâncias ou misturas de substâncias de natureza química quando
 destinadas a prevenir, destruir ou repelir, direta ou indiretamente, qualquer forma de agente patogênico ou
-de vida animal ou vegetal que seja nociva às planta s e animais úteis, seus produtos e subprodutos e ao
-homem. Serão considerados produtos afins os hormôni os, reguladores de crescimento e produtos
+de vida animal ou vegetal que seja nociva às plantas e animais úteis, seus produtos e subprodutos e ao
+homem. Serão considerados produtos afins os hormônios, reguladores de crescimento e produtos
 químicos e bioquímicos de uso veterinário.
 
 5.1.2. Entende-se por fertilizantes as substâncias minerais ou orgânicas, naturais ou sintéticas,
 fornecedoras de um ou mais nutrientes das plantas, os produtos que contenham princípio ativo ou agente
-capaz de ativar, direta ou indiretamente, sobre o t odo ou parte das plantas, visando a elevar sua
+capaz de ativar, direta ou indiretamente, sobre o todo ou parte das plantas, visando a elevar sua
 produtividade.
 
-5.1.3. Entende-se por corretivos os produtos destin ados a corrigir uma ou mais características do solo
+5.1.3. Entende-se por corretivos os produtos destinados a corrigir uma ou mais características do solo
 desfavoráveis às plantas.
 
-5.2. É expressamente proibido o uso de qualquer pro duto químico industrializado que não esteja
+5.2. É expressamente proibido o uso de qualquer produto químico industrializado que não esteja
 registrado e autorizado pelos órgãos governamentais competentes.
 
 5.3. Manipulação, preparo e aplicação.
 
 5.3.1. É de responsabilidade do empregador rural e seus prepostos a orientação dos trabalhadores na
-utilização e manuseio dos produtos, sendo que a man ipulação, preparo e aplicação de agrotóxicos e afin s
+utilização e manuseio dos produtos, sendo que a manipulação, preparo e aplicação de agrotóxicos e afins
 somente poderão ser feitos por pessoas previamente treinadas.
 
-5.3.2. O empregador ou contratante de trabalhadores  rurais ou seus prepostos serão co-responsáveis na
-ocorrência de intoxicação humana ou animal, prejuíz o em lavoura e contaminação inaceitável de coleção
-de água ou do meio ambiente, provocados por manipul adores ou aplicadores de agrotóxicos e afins,
-fertilizantes ou corretivos, sob sua responsabilida de, ainda que com eles não mantenham, explicitament e,
+5.3.2. O empregador ou contratante de trabalhadores rurais ou seus prepostos serão co-responsáveis na
+ocorrência de intoxicação humana ou animal, prejuízo em lavoura e contaminação inaceitável de coleção
+de água ou do meio ambiente, provocados por manipuladores ou aplicadores de agrotóxicos e afins,
+fertilizantes ou corretivos, sob sua responsabilidade, ainda que com eles não mantenham, explicitamente,
 qualquer vínculo empregatício.
 
-5.3.3. A utilização das formulações enquadradas pel os órgãos competentes como de uso exclusivo por
-aplicador certificado só poderá ser feita por profi ssional habilitado, obedecida a legislação relativa  à
+5.3.3. A utilização das formulações enquadradas pelos órgãos competentes como de uso exclusivo por
+aplicador certificado só poderá ser feita por profissional habilitado, obedecida a legislação relativa à
 classificação toxicológica, registro e comercialização desses produtos.
 
-5.3.3.1. Serão considerados profissionais habilitad os os portadores de certificados expedidos pelos
+5.3.3.1. Serão considerados profissionais habilitados os portadores de certificados expedidos pelos
 Ministérios da Saúde, da Agricultura e do Trabalho, ou por órgãos pelos mesmos delegados.
 
-5.3.3.2. A formação, atuação, atribuições e respons abilidade do aplicador deverão atender a normas a
+5.3.3.2. A formação, atuação, atribuições e responsabilidade do aplicador deverão atender a normas a
 serem estabelecidas pelos Ministérios da Agricultura, da Saúde e do Trabalho.
 
-5.3.3.2.1. A partir da data de vigência da presente  norma, dar-se-á o prazo de 180 dias para o
+5.3.3.2.1. A partir da data de vigência da presente norma, dar-se-á o prazo de 180 dias para o
 cumprimento do disposto no item 5.3.3.2 e de 1 (um) ano para início da exigência do certificado.
 
-5.3.4. O trabalhador que apresentar sintomas de int oxicação será imediatamente afastado das atividades  e
-encaminhado a atendimento médico, levando os rótulo s das embalagens ou relação dos produtos com os
+5.3.4. O trabalhador que apresentar sintomas de intoxicação será imediatamente afastado das atividades e
+encaminhado a atendimento médico, levando os rótulos das embalagens ou relação dos produtos com os
 quais tenha tido contato.
 
 5.3.5. A manipulação e preparo dos produtos serão feitos em locais abertos e ventilados.
 
-5.3.6. Serão respeitados os intervalos entre uma ap licação e a entrada de pessoas desprotegidas ou
-animais domésticos dentro dos períodos de risco est abelecidos pelos Ministérios da Agricultura, da Saú de
+5.3.6. Serão respeitados os intervalos entre uma aplicação e a entrada de pessoas desprotegidas ou
+animais domésticos dentro dos períodos de risco estabelecidos pelos Ministérios da Agricultura, da Saúde
 e do Trabalho.
 
 5.4. Equipamentos de aplicação.
@@ -458,19 +458,19 @@ b)  inspecionados antes de cada aplicação;
 c)  utilizados para a finalidade indicada;
 d)  enquadrados nos limites indicados pelo fabricante.
 
-5.4.2. A conservação, limpeza e utilização dos equi pamentos só poderão ser realizadas por pessoas
+5.4.2. A conservação, limpeza e utilização dos equipamentos só poderão ser realizadas por pessoas
 previamente treinadas.
 
 5.4.2.1. A limpeza dos equipamentos será executada de forma a não contaminar poços, rios, córregos e
 quaisquer outras coleções de água.
 
-5.4.2.2. A água utilizada na lavagem dos equipament os não poderá retornar à fonte de abastecimento,
+5.4.2.2. A água utilizada na lavagem dos equipamentos não poderá retornar à fonte de abastecimento,
 devendo ser conduzida à fossa especial de inativação do produto.
 
-5.4.3. Os equipamentos só serão submetidos a reparo s quando estiverem perfeitamente limpos, por
+5.4.3. Os equipamentos só serão submetidos a reparos quando estiverem perfeitamente limpos, por
 pessoas aptas, protegidas por EPI.
 
-5.4.4. Na utilização dos equipamentos de aplicação,  serão respeitadas as especificações indicadas pelo
+5.4.4. Na utilização dos equipamentos de aplicação, serão respeitadas as especificações indicadas pelo
 fabricante.
 
 5.5. Da embalagem e restos do produto.
@@ -479,25 +479,25 @@ fabricante.
 
 5.5.2. Os produtos serão conservados em suas embalagens originais.
 
-5.5.2.1. Quando os produtos ou restos de produtos t iverem de ser conservados em embalagens diferentes
-das originais, estas deverão ser identificadas cont endo, pelo menos, o nome comercial do produto e sua s
+5.5.2.1. Quando os produtos ou restos de produtos tiverem de ser conservados em embalagens diferentes
+das originais, estas deverão ser identificadas contendo, pelo menos, o nome comercial do produto e suas
 especificações.
 
-5.5.3. É proibido utilizar para acondicionamento de  produtos químicos recipientes que possam ser
-confundidos com outros usados para alimentos, raçõe s, medicamentos, cosméticos ou produtos
+5.5.3. É proibido utilizar para acondicionamento de produtos químicos recipientes que possam ser
+confundidos com outros usados para alimentos, rações, medicamentos, cosméticos ou produtos
 domissanitários.
 
-5.5.4. As embalagens vazias serão destruídas e ente rradas, observando as normas técnicas do Ministério
+5.5.4. As embalagens vazias serão destruídas e enterradas, observando as normas técnicas do Ministério
 da Agricultura.
 
-5.5.5. Para a realização de trabalhos de destruição  e descarte de embalagens, serão utilizados os mesm os
+5.5.5. Para a realização de trabalhos de destruição e descarte de embalagens, serão utilizados os mesmos
 EPI recomendados para aplicações de produto.
 
 5.5.6. Os restos de calda diluída serão descartados em fossa seca ou em bacia de retenção e desativação.
 
 5.7. Armazenagem.
 
-5.7.1. É proibida a armazenagem de produtos químico s ao relento, salvo os fertilizantes, em caráter
+5.7.1. É proibida a armazenagem de produtos químicos ao relento, salvo os fertilizantes, em caráter
 temporário e observadas as seguintes condições:
 a)  em locais não propícios a inundações ou enxurradas;
 b)  colocação do produto sobre estrado ou sobre plástico;
@@ -508,24 +508,24 @@ e)  proteção da pilha com lona plástica devidamente amarrada.
 5.7.2. As edificações destinadas ao armazenamento dos produtos químicos deverão:
 a)  ter paredes sólidas e cobertura;
 b)  ser fechadas a chave;
-c)  possuir abertura de ventilação comunicando-se exclu sivamente com o exterior, dotada de proteção
+c)  possuir abertura de ventilação comunicando-se exclusivamente com o exterior, dotada de proteção
 que não permita o acesso de animais;
 d)  ter afixadas placas ou cartazes com símbolos de perigo;
-e)  estar situadas a mais de 30 (trinta) metros das hab itações e locais onde são conservados ou
+e)  estar situadas a mais de 30 (trinta) metros das habitações e locais onde são conservados ou
 consumidos alimentos, medicamentos ou outros materiais, e de fontes de água;
 f)  apresentar condições que possibilitem sua limpeza e descontaminação.
 
 5.7.3. O armazenamento nos depósitos deverá obedecer às seguintes recomendações básicas:
-a)  as embalagens devem ser colocadas sobre estrados, e vitando contato com o piso, e dispostas de tal
+a)  as embalagens devem ser colocadas sobre estrados, evitando contato com o piso, e dispostas de tal
 forma que as pilhas fiquem afastadas das paredes e do teto;
-b)  o empilhamento de embalagens será feito de modo a m anter o equilíbrio estável da pilha e observará
+b)  o empilhamento de embalagens será feito de modo a manter o equilíbrio estável da pilha e observará
 as recomendações do fabricante do produto;
 
-c)  os produtos inflamáveis serão mantidos em local suf icientemente ventilado e onde não haja
+c)  os produtos inflamáveis serão mantidos em local suficientemente ventilado e onde não haja
 possibilidade de aparecimento de centelhas e outras fontes de combustão.
 
-5.7.4. O empregador rural e/ou seus prepostos são r esponsáveis pelo armazenamento dos produtos
-químicos e pelas conseqüências decorrentes da estoc agem inadequada e da contaminação, em qualquer
+5.7.4. O empregador rural e/ou seus prepostos são responsáveis pelo armazenamento dos produtos
+químicos e pelas conseqüências decorrentes da estocagem inadequada e da contaminação, em qualquer
 nível, de seres vivos e do meio ambiente.
 
 5.8. Transporte.
@@ -536,7 +536,7 @@ resistentes.
 5.8.2. É vedado transportar no mesmo compartimento produtos químicos e pessoas, animais, alimentos,
 ração, forragens, utensílios de uso pessoal e doméstico.
 
-5.8.2.1. Qualquer produto alimentício que for trans portado no mesmo compartimento que os produtos
+5.8.2.1. Qualquer produto alimentício que for transportado no mesmo compartimento que os produtos
 químicos será apreendido pela autoridade competente.
 
 5.8.2.2. Os veículos utilizados para transporte de produtos químicos que forem destinados para outros fins
@@ -547,9 +547,9 @@ passarão, previamente, por processos de higienização e descontaminação.
 5.8.3. As embalagens marcadas como "frágeis" por palavras ou ilustrações serão especialmente protegidas
 durante o transporte contra danos, rupturas e vazamentos.
 
-5.8.4. Em caso de acidente com veículo que provoque  vazamento excessivo de produtos, o motorista
-deverá tomar as precauções necessárias e recomendad as para conter o vazamento e evitar que sejam
+5.8.4. Em caso de acidente com veículo que provoque vazamento excessivo de produtos, o motorista
+deverá tomar as precauções necessárias e recomendadas para conter o vazamento e evitar que sejam
 atingidas coleções de água, grupamentos humanos ou animais.
 
-5.8.4.1. Quando o vazamento ocorrer em estrada de u so comum ou em local que ponha em risco a
+5.8.4.1. Quando o vazamento ocorrer em estrada de uso comum ou em local que ponha em risco a
 comunidade, será obrigatória a comunicação imediata do fato às autoridades locais.

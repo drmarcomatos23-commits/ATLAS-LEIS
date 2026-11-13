@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/in81questoesquenaoensejamformulacaodeexigencias.pdf/@@display-file/file"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # QUESTÕES QUE NÃO SÃO PASSÍVEIS DE FORMULAÇÃO DE EXIGÊNCIAS
@@ -17,10 +17,10 @@ QUESTÕES QUE NÃO SÃO PASSÍVEIS DE FORMULAÇÃO DE EXIGÊNCIAS
 
 DESCRIÇÃO DISPOSITIVOS RELACIONADOS
 1 Retirar pendência administrativa existente no nome/CPF do empresário ou sócio. Lei nº 8.934/94, art. 37 Decreto nº 1.800/96, art. 34
-2 Na incorporação, o  patrimônio vertido deverá ser no mínimo igual ao valor do capital a realizar
+2 Na incorporação, o patrimônio vertido deverá ser no mínimo igual ao valor do capital a realizar
 CC, arts. 1.116, 1.117.
 LSA, arts. 226 e 227.
-IN DREI nº 81 /2020, art.  7,
+IN DREI nº 81/2020, art. 7,
 parágrafo único.
 3
 Comprovar a titularidade do bem utilizado para a integralização
@@ -62,30 +62,30 @@ Lei nº 8.934/94, art. 37.
 Decreto nº 1.800/96, art. 34.
 LC 123, de 2006, art. 9º
 Manual de registro de LTDA, IN DREI
-nº 81 /2020, item 4.4.1, seção I V,
+nº 81/2020, item 4.4.1, seção IV,
 capítulo II.
 8 Administrador residir na mesma UF da sede da sociedade. Lei nº 8.934/94, art. 37. Decreto nº 1.800/96, art. 34.
-9 Indicar se a transferência ou cessão de quotas foi gratuita ou onerosa. Manual de registro de LTDA, IN DREI nº 81 /2020, item 4.4.1, seção IV, capítulo II.
-10 Indicar em cláusula própria a regência suplet iva da sociedade limitada pelas normas da sociedade anônima.
+9 Indicar se a transferência ou cessão de quotas foi gratuita ou onerosa. Manual de registro de LTDA, IN DREI nº 81/2020, item 4.4.1, seção IV, capítulo II.
+10 Indicar em cláusula própria a regência supletiva da sociedade limitada pelas normas da sociedade anônima.
 CC, art. 1.053, par. único.
 Manual de registro de LTDA, IN DREI
-nº 81 /2020, item 5.3, seção I,
+nº 81/2020, item 5.3, seção I,
 capítulo II.
 11 Juntar aprovação prévia de empresas sujeitas a controle de órgãos de fiscalização de exercício profissional. Decreto nº 1.800/96, art. 37 IN DREI nº 81/2020, art. 9º, § 1º
 
 12 Anexar certidão de casamento Lei nº 8.934/94, art. 37  Decreto nº 1.800/96, art. 34
 13 Anexar comprovante de regularidade fiscal. Lei nº 8.934/94, art. 37 Decreto nº 1.800/96, art. 34
 14
-Alterar o nome empresarial em virtude de colidência com  nome
+Alterar o nome empresarial em virtude de colidência com nome
 fantasia de outra empresa
 
 Nota: Não cabe às Juntas Comerciais verificara existência ou não
-de colidência entre nome empresarial e marca registr ada ou
+de colidência entre nome empresarial e marca registrada ou
 entre nome empresarial e denominações registradas em outros
 órgãos de registro.
 CC, art. 1.163
 IN DREI nº 81/2020, art. 24.
-15 Apresentar o  documento com espaço reservado em branco de cinco centímetros no rodapé para utilização da chancela digital. IN DREI nº 81/2020, art. 30, §4º.
+15 Apresentar o documento com espaço reservado em branco de cinco centímetros no rodapé para utilização da chancela digital. IN DREI nº 81/2020, art. 30, §4º.
 16
 Apor a assinatura de testemunhas.
 

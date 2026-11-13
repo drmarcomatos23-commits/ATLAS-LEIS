@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/in812020anexoviii.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Anexo VIII - Modelos de Certidões
@@ -59,7 +59,7 @@ Nome do Empresário:
 Identidade:                                                                                            CPF:
 Estado civil:                                     Regime de bens:
 Observações:
-(Os textos dos registros cadastrais efetuados como Anotação Judicial  ou Extrajudicial devem ser lançados neste campo)
+(Os textos dos registros cadastrais efetuados como Anotação Judicial ou Extrajudicial devem ser lançados neste campo)
 Número do protocolo:                                                                                          Informação opcional:
 Número do protocolo                                 Local, Data                                       Eu, (carimbo com o nome e matrícula)
 em código de barras                                                                                              Conferi e assino.
@@ -115,7 +115,7 @@ na data da sua expedição.
 Nome Empresarial:
 Natureza Jurídica:
 CNPJ Data de Arquivamento do Ato Constitutivo  Data de Início de Atividade
-Endereço Completo (Logradouro, Nº e Complemento, Bairro/Distrito, Município,  UF, CEP)
+Endereço Completo (Logradouro, Nº e Complemento, Bairro/Distrito, Município, UF, CEP)
 Objeto Social
 Capital Social
 R$                                              (Capital social, por extenso)

@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-v-sa_link.pdf/@@display-file/file"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # Anexo V - Manual de Registro de Sociedade Anônima
@@ -317,17 +317,17 @@ INFORMAÇÕES BÁSICAS PARA O REGISTRO
 
 1. DOCUMENTAÇÃO COMUM EXIGIDA
 Nos termos do parágrafo único do art. 37 da Lei nº 8.934, de 1994, além dos
-documentos específicos  para os atos de constituição, alteração e extinção, nenhum outro
+documentos específicos para os atos de constituição, alteração e extinção, nenhum outro
 documento será exigido, além dos abaixo especificados, conforme o caso:
 
 1.1. REQUERIMENTO (CAPA DO PROCESSO)
 Os pedidos de registro serão levados a arquivamento mediante requerimento
 dirigido ao Presidente da Junta Comercial, assinado pelo administrador, acionista ou
-procurador, com poderes gerais  ou específicos, ou por terceiro interessado
+procurador, com poderes gerais ou específicos, ou por terceiro interessado
 obrigatoriamente identificado (nome completo por extenso, CPF, e-mail e telefone).
 
 Nota: No caso de registro digital não é necessária a utilização desse requerimento, podendo
-o sistema eletrônico  utilizado pela Junta Comercial consolidar os dados do ato levado a
+o sistema eletrônico utilizado pela Junta Comercial consolidar os dados do ato levado a
 arquivamento e solicitar a assinatura digital do requerente.
 
 1.2. PROCURAÇÃO
@@ -337,8 +337,8 @@ Notas:
 I. No caso de outorgante analfabeto e de relativamente incapaz, a procuração deverá ser
 passada por instrumento público.
 II. A procuração poderá, a critério do interessado, apenas instruir o requerimento,
-devendo ser anexada ao ato (preferencialmente, utilizando -se o evento específico) a ser
-arquivado, ou ser arquivada em processo separado (utilizando -se o ato específico). Nesta
+devendo ser anexada ao ato (preferencialmente, utilizando-se o evento específico) a ser
+arquivado, ou ser arquivada em processo separado (utilizando-se o ato específico). Nesta
 última hipótese, com pagamento do preço do serviço devido.
 III. O arquivamento de procuração em ato próprio dispensa a sua juntada em atos
 posteriores, desde que citado no instrumento que se pretende registrar o número do
@@ -346,7 +346,7 @@ arquivamento, sob o qual a procuração foi devidamente registrada.
 
 12
 
-1.3. FOLHA DO DIÁRIO  OFICIAL DA UNIÃO, DO ESTADO, DO DF OU DO MUNICÍPIO QUE
+1.3. FOLHA DO DIÁRIO OFICIAL DA UNIÃO, DO ESTADO, DO DF OU DO MUNICÍPIO QUE
 CONTIVER O ATO DE AUTORIZAÇÃO LEGISLATIVA, SE TIVER PARTICIPAÇÃO SOCIETÁRIA DE
 EMPRESA PÚBLICA, SOCIEDADE DE ECONOMIA MISTA, AUTARQUIA OU FUNDAÇÃO
 PÚBLICA (ART. 37, INCISO XX DA CF E ART. 2º, § 2º, DA LEI Nº 13.303, DE 30 DE JUNHO DE
@@ -371,7 +371,7 @@ deliberação altere dado constante da Ficha.
 1.5. CONSULTA DE VIABILIDADE DEFERIDA EM UMA VIA OU PESQUISA DE NOME
 EMPRESARIAL (BUSCA PRÉVIA)
 Deverá ser apresentada juntamente com os instrumentos de constituição e
-alteração, neste  último caso quando houver modificação do nome empresarial, objeto
+alteração, neste último caso quando houver modificação do nome empresarial, objeto
 social e/ou endereço.
 Quando necessária, deverá ser apresentada juntamente com os instrumentos de
 constituição e alteração, neste último caso quando houver modificação do nome
@@ -389,20 +389,20 @@ apresentação deste documento. (Redação dada pela Instrução Normativa DREI 
 de junho de 2021)
 II. Nos termos da Resolução nº 61, de 2020, do CGSIM, a pesquisa prévia de nome
 empresarial será dispensada na hipótese de a pessoa jurídica optar por utilizar o número
-do Cadastro Nacional de Pessoa  Jurídica - CNPJ como nome empresarial, seguido da
+do Cadastro Nacional de Pessoa Jurídica - CNPJ como nome empresarial, seguido da
 partícula identificadora do tipo societário. (Incluído pela Instrução Normativa DREI nº 55,
 de 2 de junho de 2021)
 III. Para os fins do inciso II, quando se tratar de constituição, o titular deverá indicar no ato
 constitutivo que irá utilizar o número do CNPJ como nome empresarial. Por sua vez, cabe a
 Junta Comercial, após a criação do CNPJ, atualizar o cadastro da empresa com número do
-CNPJ acrescida da partícula  identificadora do  tipo societário. (Incluído pela Instrução
+CNPJ acrescida da partícula identificadora do tipo societário. (Incluído pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021)
-IV. Em se  tratando de viabilidade  locacional, deverá ser  observada os casos de  dispensa
+IV. Em se tratando de viabilidade locacional, deverá ser observada os casos de dispensa
 previstos na Resolução CGSIM nº 61, de 2020. (Incluído pela Instrução Normativa DREI nº
 55, de 2 de junho de 2021)
 
 1.6. DOCUMENTO BÁSICO DE ENTRADA (DBE)
-Caso a Junta  Comercial utilize sistema de integração entre os  órgãos de registro e
+Caso a Junta Comercial utilize sistema de integração entre os órgãos de registro e
 legalização de empresas, que permita transmissão eletrônica dos dados, fica dispensada
 a apresentação deste documento.
 
@@ -414,7 +414,7 @@ quando não for possível sua verificação por rotina automatizada.
 1.8.   ASSENTIMENTO PRÉVIO DO CONSELHO DE DEFESA NACIONAL (Revogado
 
 14
-pela Instrução Normativa DREI/ME nº 88, de 23 de dezembro de 2022)  Observar a tabela
+pela Instrução Normativa DREI/ME nº 88, de 23 de dezembro de 2022) Observar a tabela
 constante do item 2.1 deste Capítulo.
 
 1.9. FICHA DE CADASTRO NACIONAL - FCN, QUE PODERÁ SER EXCLUSIVAMENTE
@@ -428,21 +428,21 @@ legalização de empresas, que permita transmissão eletrônica dos dados, fica 
 apresentação deste documento.
 II. No caso de AGO: Caso haja eleição/reeleição/alteração da diretoria.
 III. No caso de AGE: Na hipótese de haver alteração eleição/reeleição/alteração da
-diretoria/conselho de  administração; alteração do nome empresarial; do capital social; do
+diretoria/conselho de administração; alteração do nome empresarial; do capital social; do
 objetivo social ou do endereço da sede social.
 IV. No caso de Ata de Reunião do Conselho de Administração e da Diretoria: Caso a
 deliberação altere dado constante da Ficha.
 
 2. ATOS SUJEITOS A APROVAÇÃO DE ÓRGÃOS E ENTIDADES GOVERNAMENTAIS
 À título de ilustração, as atividades elencadas abaixo não são passíveis de
-exigências quando da  análise do registro pelas Juntas Comerciais, conforme parágrafo
+exigências quando da análise do registro pelas Juntas Comerciais, conforme parágrafo
 único do art. 35 da Lei nº 8.934, de 1994. Contudo, dependem de aprovação prévia para
 seu funcionamento, devendo portanto ser observadas as respectivas legislações.
 Nos termos art. 9º da Instrução Normativa DREI nº 81, de 2020, o arquivamento dos
-instrumentos de cons tituição, alteração e ex tinção de sociedade anônima que contenha
+instrumentos de constituição, alteração e extinção de sociedade anônima que contenha
 atividades reguladas por órgãos públicos, não depende de autorização governamental,
 contudo, as Juntas Comerciais deverão realizar comunicação aos órgãos públicos que
-demonstrarem interesse, nos termos do § 1º do art. 35 da Lei nº 8.934, de 1994.  (Redação
+demonstrarem interesse, nos termos do § 1º do art. 35 da Lei nº 8.934, de 1994. (Redação
 dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 A sociedade anônima que depende de aprovação prévia de órgãos públicos para o
 funcionamento (início da atividade), deve observar as respectivas legislações. (Redação
@@ -451,7 +451,7 @@ dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 15
 O DREI disponibilizará em seu portal eletrônico listagem com os "ATOS SUJEITOS A
 APROVAÇÃO DE ÓRGÃOS E ENTIDADES GOVERNAMENTAIS PARA FUNCIONAMENTO",
-contendo informações gerais sobre as atividades reguladas.  (Redação dada pela Instrução
+contendo informações gerais sobre as atividades reguladas. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 2.1.  ATOS SUJEITOS AO ASSENTIMENTO PRÉVIO DO CONSELHO DE DEFESA NACIONAL
@@ -464,7 +464,7 @@ Instrução Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 
 2.1. Atos de sociedades que atuam em faixa de Fronteira
 Os atos de constituição e as alterações, inclusive abertura de filiais na Faixa de
-Fronteira, não dependem  de assentimento prévio para que possam ser registrados pela
+Fronteira, não dependem de assentimento prévio para que possam ser registrados pela
 Junta Comercial, conforme previsão do parágrafo único do art. 35 da Lei nº 8.934, de 1994,
 e do art. 42 do Decreto nº 85.064, de 26 de agosto de 1980, com redação dada pelo
 Decreto nº 11.076, de 20 de maio de 2022.
@@ -501,7 +501,7 @@ existência do certificado de que trata a alínea “a”.
 Notas:
 I - As declarações poderão constar do ato de alteração ou de documento em separado.
 II - Para solicitação da declaração, as juntas comerciais deverão criar filtro no sistema para
-identificar as empresas  que informarem códigos de atividades relacionados ao conteúdo
+identificar as empresas que informarem códigos de atividades relacionados ao conteúdo
 previsto nesse item e que declarem que atuem em faixa de fronteira.
 III - A ausência de declaração de que trata a alínea "a" dos incisos I, II e III do item
 2.1.1, não impede o arquivamento do ato.
@@ -509,7 +509,7 @@ IV - Na ausência da declaração prevista na alínea "b" dos incisos I, II e II
 o arquivamento deve ser colocado em exigência.
 
 2.1.2. - As Juntas Comerciais irão promover o registro dos atos de alteração da
-sociedade empresária; contudo, deverão realizar comunicação, nos termos do art. 49 -B do
+sociedade empresária; contudo, deverão realizar comunicação, nos termos do art. 49-B do
 Decreto nº 85.064, de 26 de agosto de 1980.Procedimento de bloqueio
 No exercício das atividades que envolvam assuntos sujeito à aprovação
 governamental, o órgão federal controlador da atividade, comunicará ao Departamento
@@ -588,9 +588,9 @@ de dez anos, aos quais caberá a responsabilidade por sua administração e orie
 intelectual. É vedada a participação de pessoa jurídica no capital social, exceto a de
 partido político e de sociedade cujo capital pertença exclusiva e nominalmente a
 brasileiros. Tal participação só se efetuará através de capital sem direito a voto e não
-poderá exceder a trinta por cento do capital social. Tratando -se de estrangeiro de
+poderá exceder a trinta por cento do capital social. Tratando-se de estrangeiro de
 nacionalidade portuguesa, segundo o Estatuto de Igualdade, são vedadas a
-responsabilidade e a orienta ção intelectual e administrativa, em empresas
+responsabilidade e a orientação intelectual e administrativa, em empresas
 jornalísticas e de empresas de radiodifusão sonora e de sons e imagens.
 
 art. 222 e parágrafos, da
@@ -651,8 +651,8 @@ representante residente no País, com poderes para, até, no mínimo, 3 (três) 
 após o término do prazo de gestão do administrador, receber: I - citações em ações
 contra ele propostas com base na legislação societária; e II - citações e intimações
 em processos administrativos instaurados pela Comissão de Valores Mobiliários, no
-caso de exercício de cargo  de administração em companhia aberta. A subsidiária
-integral terá como único acionista sociedade brasileira. Tratando -se de grupo de
+caso de exercício de cargo de administração em companhia aberta. A subsidiária
+integral terá como único acionista sociedade brasileira. Tratando-se de grupo de
 sociedades, a sociedade controladora, ou de comando do grupo, deverá ser
 brasileira. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
@@ -708,8 +708,8 @@ estatuto ou contrato social que, pelo menos, cinquenta e um por cento do seu
 capital pertencerá a brasileiros e que a administração ou gerência caberá sempre a
 maioria de brasileiros, assegurados a estes poderes predominantes. (Redação dada
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
-Na faixa de Fronteira, as empresas que se dedicarem às a tividades deverão,
-obrigatoriamente, satisfazer às seguintes condições:  (Redação dada  pela Instrução
+Na faixa de Fronteira, as empresas que se dedicarem às atividades deverão,
+obrigatoriamente, satisfazer às seguintes condições: (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 I - pelo menos 51% (cinquenta e um por cento) do capital pertencer a brasileiros;
 II - pelo menos 2/3 (dois terços) de trabalhadores serem brasileiros; e
@@ -719,7 +719,7 @@ No caso de empresário individual ou empresa individual, só a brasileiro será
 permitido o estabelecimento ou exploração das atividades de mineração na faixa de
 fronteira. A administração ou gerência caberá sempre a brasileiros, sendo vedada a
 delegação de poderes, direção ou gerência a estrangeiros, ainda que por
-procuração outorgada pela sociedade ou empresário individual.  (Redação dada pela
+procuração outorgada pela sociedade ou empresário individual. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 EMPRESA DE COLONIZAÇÃO E LOTEAMENTOS RURAIS
@@ -738,7 +738,7 @@ III - caber a administração ou gerência a maioria de brasileiros, assegurados
 os poderes predominantes.
 As empresas constituídas sob a forma de sociedade anônima deverão, ainda, fazer
 constar em seu estatuto social que as ações representativas do capital social
-revestirão sempre a forma nominativa. (Redação dada  pela Instrução Normativa
+revestirão sempre a forma nominativa. (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 
 art. 3º, I e III, da Lei nº 6.634, de
@@ -759,13 +759,13 @@ SEÇÃO I
 CONSTITUIÇÃO
 
 Conforme previsão do art. 94 da Lei nº 6.404, de 1976, nenhuma companhia poderá
-funcionar sem que sejam arquivados e publicados seus atos cons titutivos. Assim, após o
-registro dos atos cons titutivos da sociedade anônima, ainda que em decorrência de
+funcionar sem que sejam arquivados e publicados seus atos constitutivos. Assim, após o
+registro dos atos constitutivos da sociedade anônima, ainda que em decorrência de
 transformação, os seus administradores providenciarão, nos 30 (trinta) dias subsequentes,
-a publicação deles, devendo esta ser arquivada na Junta Comercial. (Redação dada  pela
+a publicação deles, devendo esta ser arquivada na Junta Comercial. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Não arquivada a comprovação da publicação, a Junta Comercial lançará bloqueio
-administrativo no cadastro da sociedade.  (Redação dada pela Instrução Normativa DREI nº
+administrativo no cadastro da sociedade. (Redação dada pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
@@ -831,11 +831,11 @@ HOUVER
 Deverá ser autenticada pelos administradores, presidente ou secretário da assembleia.
 
 1.8.   FOLHAS DO DIÁRIO OFICIAL E DO JORNAL DE GRANDE CIRCULAÇÃO QUE
-PUBLICARAM O  ANÚNCIO CONVOCATÓRIO DA ASSEMBLEIA DE CONSTITUIÇÃO E DAS
+PUBLICARAM O ANÚNCIO CONVOCATÓRIO DA ASSEMBLEIA DE CONSTITUIÇÃO E DAS
 ASSEMBLEIAS PRELIMINARES, SE FOR O CASO
-Nota: É dispensada a apresentação  das folhas quando  a ata  consignar os  nomes,
+Nota: É dispensada a apresentação das folhas quando a ata consignar os nomes,
 respectivas datas e folhas dos jornais onde foram efetuadas as publicações. A publicação
-do anúncio convocatório será  dispensada quando constar da ata a presença da totalidade
+do anúncio convocatório será dispensada quando constar da ata a presença da totalidade
 dos acionistas.
 
 1.8. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O ANÚNCIO
@@ -846,11 +846,11 @@ Notas:
 I. O resumo do documento deverá ser publicado no jornal de grande circulação impresso e,
 de forma simultânea, a íntegra do documento será divulgada no sítio eletrônico da internet
 do mesmo jornal.
-II. É dispensada a apresentação das folhas quando  a ata consignar os nomes,
+II. É dispensada a apresentação das folhas quando a ata consignar os nomes,
 respectivas datas e folhas dos jornais onde foram efetuadas as publicações.
 III. A publicação do anúncio convocatório será dispensada quando constar da ata a
 presença da totalidade dos acionistas.
-IV. Conforme inciso IV do art. 294 -A e art. 294-B,caput e § 2º, II, da Lei nº 6.404, de 1976, e
+IV. Conforme inciso IV do art. 294-A e art. 294-B,caput e § 2º, II, da Lei nº 6.404, de 1976, e
 
 24
 Resolução CVM nº 166, de 1º de setembro de 2022, as companhias abertas de menor
@@ -862,8 +862,8 @@ ou Fundos.Net, conforme o caso, sendo dispensada a apresentação do comprovante
 quando a ata consignar o meio eletrônico e as datas onde foram realizadas as publicações.
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
-1.8-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM  RECEITA BRUTA
-ANUAL DE ATÉ  R$ 78.000.000,00 QUE PUBLICOU O ANÚNCIO CONVOCATÓRIO DA
+1.8-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA BRUTA
+ANUAL DE ATÉ R$ 78.000.000,00 QUE PUBLICOU O ANÚNCIO CONVOCATÓRIO DA
 ASSEMBLEIA DE CONSTITUIÇÃO
 E DAS ASSEMBLEIAS PRELIMINARES, SE FOR O CASO (Incluído pela Instrução Normativa
 DREI nº 112, de 21 de janeiro de 2022)
@@ -875,12 +875,12 @@ a ata consignar o meio eletrônico e as datas onde foram realizadas as publicaç
 Nota: O SPED permite a emissão de documentos que comprovem a autenticidade, a
 inalterabilidade e a data de publicação dos atos.
 
-1.9. FOLHA DO DIÁRIO  OFICIAL DA UNIÃO, DO ESTADO, DO DF OU DO MUNICÍPIO
-QUE CONTIVER  O ATO DE AUTORIZAÇÃO LEGISLATIVA, SE TIVER PARTICIPAÇÃO
+1.9. FOLHA DO DIÁRIO OFICIAL DA UNIÃO, DO ESTADO, DO DF OU DO MUNICÍPIO
+QUE CONTIVER O ATO DE AUTORIZAÇÃO LEGISLATIVA, SE TIVER PARTICIPAÇÃO
 SOCIETÁRIA DE EMPRESA PÚBLICA, SOCIEDADE DE ECONOMIA MISTA, AUTARQUIA OU
 FUNDAÇÃO PÚBLICA
 
-1.10. CÓPIA DA IDENTIDADE DOS DIRETORES  - vide art. 2º da Lei nº 12.037, de 1º de
+1.10. CÓPIA DA IDENTIDADE DOS DIRETORES - vide art. 2º da Lei nº 12.037, de 1º de
 outubro de 2009.
 
 2. ATA DE ASSEMBLEIA GERAL DE CONSTITUIÇÃO
@@ -903,7 +903,7 @@ IV - as publicações do edital de convocação, salvo no caso de comparecimento
 subscritores, que torna desnecessárias as publicações; (Redação dada pela Instrução
 Normativa DREI nº 112, de 21 de janeiro de 2022)
 A indicação do jornal de grande publicação que publicou o edital, por três vezes,
-mencionando, ainda,  as datas e os  números das folhas  tornam desnecessária a
+mencionando, ainda, as datas e os números das folhas tornam desnecessária a
 apresentaçãoà Junta Comercial dos originais dos jornais para arquivamento/anotação.
 (Redação dada pela Instrução Normativa DREI nº 112, de 21 de janeiro de 2022)
 São necessárias três publicações, simultâneas, no jornal impresso e no sítio eletrônico da
@@ -915,7 +915,7 @@ esta será feita quando da primeira publicação resumida no jornal impresso, de
 manter-se disponível até a realização do conclave. (Redação dada pela Instrução Normativa
 DREI/ME nº 11, de 9 de março de 2022)
 A companhia fechada que tiver que tiver receita bruta anual de até R$ 78.000.000,00
-(setenta e oito milhões de reais)  deverá citar o sítio eletrônico/sistema (Central  de
+(setenta e oito milhões de reais) deverá citar o sítio eletrônico/sistema (Central de
 Balanços do SPED) em que foram publicados. A declaração do preenchimento do requisito
 exigido em relação a receita bruta anual, bem como a menção do meio eletrônico e das
 datas dispensará a apresentação dos mesmos à Junta Comercial, quer seja acompanhando
@@ -952,7 +952,7 @@ VII - fecho da ata e assinatura dos subscritores.
 Observação: Para fins de registro, nos termos dos arts. 87, 88, 95 da Lei 6.404, de 1976,
 deverá ser apresentada cópia ou certidão da respectiva ata autenticada pelo presidente ou
 secretário da assembleia, facultada a assinatura dos demais acionistas presentes. Quando
-se tratar de cópia, poderá  ser autenticada por quem possui capacidade para autenticar
+se tratar de cópia, poderá ser autenticada por quem possui capacidade para autenticar
 cópia de documentos nos termos dessa Instrução Normativa.
 
 27
@@ -962,28 +962,28 @@ validade das deliberações.
 Se da ata não constar a transcrição do estatuto, este deverá ser assinado por todos
 os subscritores.
 Se o estatuto constar da transcrição da ata, esta deverá vir assinada por todos os
-subscritores (inciso I do art. 95 da Lei nº 6.404, de 1976) (Redação dada  pela Instrução
+subscritores (inciso I do art. 95 da Lei nº 6.404, de 1976) (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 2.2. VISTO DE ADVOGADO
 Deverá conter o visto do advogado na ata da assembleia de constituição quando o
 estatuto estiver transcrito nesta. Quando não estiver transcrito, deverá conter no estatuto
-o visto do advogado,  com indicação do nome completo e número de inscrição na respectiva
+o visto do advogado, com indicação do nome completo e número de inscrição na respectiva
 seccional da Ordem dos Advogados do Brasil.
 
 3. “QUORUM” DE INSTALAÇÃO DA ASSEMBLEIA
-A assembleia de constituição instalar -se-á, em primeira convocação, com a
-presença de subscritores  que representem, no mínimo, metade do capital social e, em
+A assembleia de constituição instalar-se-á, em primeira convocação, com a
+presença de subscritores que representem, no mínimo, metade do capital social e, em
 segunda convocação, com qualquer número.
 
 4. DECLARAÇÃO DE CONSTITUIÇÃO
-Observadas as  formalidades legais  e não havendo oposição de subscritores  que
+Observadas as formalidades legais e não havendo oposição de subscritores que
 representem mais da metade do capital social, o presidente da assembleia geral de
 constituição declarará constituída a companhia.
 
 5. INTEGRALIZAÇÃO DO CAPITAL SOCIAL COM BENS
 A ata da assembleia que aprovar a incorporação deverá identificar o bem com
-precisão, mas poderá descrevê -lo sumariamente, desde que seja suplementada por
+precisão, mas poderá descrevê-lo sumariamente, desde que seja suplementada por
 declaração, assinada pelo subscritor, contendo todos os elementos necessários para a
 transcrição no registro público.
 No caso de imóvel, ou direitos a ele relativo, a ata deverá conter sua descrição,
@@ -997,10 +997,10 @@ A integralização de bens imóveis de menor depende de autorização judicial.
 A integralização de capital com bens imóveis de incapaz depende de autorização
 judicial. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 A integralização do capital social com bens e direitos depende de apresentação de
-laudo de avaliação feita por três  peritos ou por empresa especializada, nomeados em
+laudo de avaliação feita por três peritos ou por empresa especializada, nomeados em
 assembleia geral dos subscritores,
 Os peritos ou a empresa avaliadora deverão apresentar laudo fundamentado, com a
-indicação dos critérios  de avaliação e dos elementos de comparação adotados e instruído
+indicação dos critérios de avaliação e dos elementos de comparação adotados e instruído
 com os documentos relativos aos bens avaliados, e estarão presentes à assembleia que
 conhecer do laudo, a fim de prestarem as informações que lhes forem solicitadas.
 Os bens não poderão ser incorporados ao patrimônio da companhia por valor acima
@@ -1025,7 +1025,7 @@ quotas foram conferidas para integralizar o capital social, consignando a saída
 ingresso da sociedade que passa a ser titular das quotas.
 
 29
-Se as sedes  das empresas  envolvidas estiverem  situadas na mesma unidade da
+Se as sedes das empresas envolvidas estiverem situadas na mesma unidade da
 federação, os respectivos processos de constituição e de alteração tramitarão vinculados.
 Caso as sociedades envolvidas estejam sediadas em unidades da federação
 diferentes, deverá ser primeiramente, promovido o arquivamento da alteração contratual,
@@ -1034,13 +1034,13 @@ juntando para comprovação, a alteração contratual já arquivada.
 Na integralização de capital com ações de outras sociedades juntar as copias das
 referidas transcrições no livro da companhia, não havendo necessidade de assembleia geral
 na sociedade que deu as referidas ações para a referida integralização para comprovação da
-referida alteração uma vez que trata -se de uma sociedade de capital, e como tal cabe
+referida alteração uma vez que trata-se de uma sociedade de capital, e como tal cabe
 apenas a companhia o controle dos seus acionistas.
 
 5.1. Integralização com quotas ou ações de outras sociedades (Incluído pela Instrução
 Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 A integralização de capital com quotas ou ações de outras sociedades pode ser
-realizado utilizando -se o capital total ou parcial, para constituição de outra sociedade ou
+realizado utilizando-se o capital total ou parcial, para constituição de outra sociedade ou
 aumento de capital.
 UTILIZAÇÃO DE TODO O CAPITAL
 I. A integralização de capital com quotas ou ações de outras sociedades implicará na
@@ -1056,7 +1056,7 @@ Na hipótese de a empresa receptora estar em constituição deverá ser menciona
 quotas serão utilizadas para constituição de sociedade.
 b) Empresa receptora (2º Ato): Deverá constar em cláusula que o sócio integraliza o
 capital com as quotas que possui na outra sociedade (qualificação completa), descrevendo
-a quantidade e o valor do  capital que detém, e a indicação do respectivo ATO em que se
+a quantidade e o valor do capital que detém, e a indicação do respectivo ATO em que se
 deu o compartilhamento de quotas (1º Ato).
 
 30
@@ -1078,7 +1078,7 @@ do capital que detém na sociedade (qualificação completa) e a indicação do 
 em que se deu o compartilhamento de capital social.
 
 Notas:
-I. Caso as sociedades envolvidas possuam sede na mesma  unidade federativa, os processos
+I. Caso as sociedades envolvidas possuam sede na mesma unidade federativa, os processos
 deverão tramitar conjuntamente.
 II. A sociedade poderá integralizar seu capital com ações de uma sociedade anônima.
 Nessa hipótese a sociedade passará a ser titular das ações, o que deverá ser averbado nos
@@ -1087,9 +1087,9 @@ No ato da sociedade receptora deverá ser indicado a quantidade de ações, esp�
 e forma, bem como apresentar o valor nominal (se houver).
 
 6. ASSEMBLEIA GERAL COM INTERRUPÇÃO DOS TRABALHOS
-A assembleia geral pode ser suspensa, admitindo -se a continuidade em data
+A assembleia geral pode ser suspensa, admitindo-se a continuidade em data
 posterior, sem necessidade de novos editais de convocação, desde que determinados o
-local, a data e a hora de prosseguimento  da sessão e que, tanto na ata da abertura quanto
+local, a data e a hora de prosseguimento da sessão e que, tanto na ata da abertura quanto
 na do reinício, conste o “quorum” legal e seja respeitada a ordem do dia constante do
 edital.
 
@@ -1101,13 +1101,13 @@ da capacidade civil;
 II - o menor emancipado;
 III - os relativamente incapazes a certos atos ou à maneira de exercê-los, desde que
 assistidos;
-IV - os menores de dezesseis anos  (absolutamente incapazes de exercer pessoalmente os
+IV - os menores de dezesseis anos (absolutamente incapazes de exercer pessoalmente os
 atos da vida civil), desde que representados; e
 V – pessoa jurídica nacional ou estrangeira.
 
 Notas:
 I. prova da emancipação do menor, quando nomeado para cargos de direção, deverá ser
-comprovada através  da apresentação da certidão do registro civil, que deverá instruir o
+comprovada através da apresentação da certidão do registro civil, que deverá instruir o
 processo ou ser arquivada em separado.
 II. A capacidade dos índios é regulada por lei especial (Estatuto do Índio).
 III. A sociedade, constituída apenas por pessoas físicas residentes no exterior e ou por
@@ -1118,12 +1118,12 @@ assisti-los até
 completarem a maioridade. Sendo desnecessária, para fins do registro, esclarecimento
 quanto ao motivo da falta.
 IV. Conforme art. 1.690 do Código Civil compete aos pais representar os sócios menores
-de dezesseis anos, bem como assisti -los até completarem a maioridade. De forma
+de dezesseis anos, bem como assisti-los até completarem a maioridade. De forma
 excepcional, na falta de um deles, poderá ser representado pelo outro. Nesses casos,
 caberá à parte interessada declarar o motivo da falta no instrumento, respondendo pela
 veracidade das informações levadas a registro, sob as penas da lei. Os motivos poderão
 ser, a título de exemplo: morte de um dos pais, família monoparental, decisão judicial que
-conceda o poder familiar para apenas um dos pais, dentre outros. (Redação dada  pela
+conceda o poder familiar para apenas um dos pais, dentre outros. (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Não será aceito como motivo a falta de concordância de um dos pais (REsp n.
 
@@ -1131,7 +1131,7 @@ Não será aceito como motivo a falta de concordância de um dos pais (REsp n.
 1.816.742/SP, relator Ministro Paulo de Tarso Sanseverino, Terceira Turma, julgado em
 27/10/2020, DJe de 19/11/2020).
 Não caberá à Junta Comercial exigir documentação comprobatória do motivo da falta (art.
-37, parágrafo único, lei 8.934/1994).  (Redação dada pela Instrução Normativa DREI nº 01,
+37, parágrafo único, lei 8.934/1994). (Redação dada pela Instrução Normativa DREI nº 01,
 de 24 de janeiro de 2024)
 V. A vedação da sociedade entre cônjuges contida no art. 977 do Código Civil não se aplica
 às sociedades anônimas (Enunciado nº 94, da III Jornada de Direito Comercial do Conselho
@@ -1139,7 +1139,7 @@ da Justiça Federal).
 VI.O relativamente incapaz deverá assinar o os atos conjuntamente com o seu assistente.
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
-8. IMPEDIMENTOS PARA SER MEMBRO DO CONSELHO DE  ADMINISTRAÇÃO, DIRETOR E
+8. IMPEDIMENTOS PARA SER MEMBRO DO CONSELHO DE ADMINISTRAÇÃO, DIRETOR E
 MEMBRO DO CONSELHO FISCAL
 
 8.1. MEMBRO DO CONSELHO DE ADMINISTRAÇÃO, DIRETOR OU MEMBRO DO CONSELHO
@@ -1170,10 +1170,10 @@ e art. 42 do Decreto nº 3.259, de 11 de abril de 1899);
 2. o médico para o exercício simultâneo da farmácia, o farmacêutico, para o exercício
 simultâneo da medicina;
 3. os servidores públicos civis da ativa, federais, inclusive Ministros de Estado e ocupantes
-de cargos públicos comissionados em geral (art. 117, inciso X, da Lei nº 8.112, de 11  de
-dezembro de 1990 e Portaria Normativa MPOG nº 6,  de 15 de junho de 2018, art. 5º). Em
+de cargos públicos comissionados em geral (art. 117, inciso X, da Lei nº 8.112, de 11 de
+dezembro de 1990 e Portaria Normativa MPOG nº 6, de 15 de junho de 2018, art. 5º). Em
 relação aos servidores estaduais e municipais observar a legislação respectiva;
-III - os servidores militares da ativa  das Forças Armadas e das  Polícias Militares (art. 29 da
+III - os servidores militares da ativa das Forças Armadas e das Polícias Militares (art. 29 da
 Lei nº 6.880, de 9 de dezembro de 1980);
 IV - menor de dezesseis anos e/ou relativamente incapaz (art. 974 do Código Civil);
 V - a pessoa jurídica (art. 146 da Lei 6.404, de 1976); e
@@ -1186,13 +1186,13 @@ janeiro de 2022)
 9. MEMBRO DO CONSELHO DE ADMINISTRAÇÃO
 Poderão ser eleitas para membros dos órgãos de administração pessoas naturais,
 devendo os diretores ser residentes no País (art. 146 da Lei nº 6.404, de 1976).
-Poderão ser eleitas para membros dos órgãos de administração  pessoas naturais
+Poderão ser eleitas para membros dos órgãos de administração pessoas naturais
 (art. 146 da Lei nº 6.404, de 1976). (Redação dada pela Instrução Normativa DREI nº 112,
 de 21 de janeiro de 2022)
 A ata da assembleia geral ou da reunião do conselho de administração que eleger
 administradores deverá conter a qualificação e o prazo de gestão de cada um dos eleitos,
 devendo ser arquivada no registro público de empresas e publicada.
-A posse do conselheiro residente ou domiciliado  no exterior fica condicionada à
+A posse do conselheiro residente ou domiciliado no exterior fica condicionada à
 constituição de representante residente no País, com poderes para receber citação em
 
 34
@@ -1208,18 +1208,18 @@ de Valores Mobiliários, no caso de exercício de cargo de administração em co
 aberta. (Redação dada pela Instrução Normativa DREI nº 112, de 21 de janeiro de 2022)
 
 Nota: É vedada, nas companhias abertas, a acumulação do cargo de presidente do
-conselho de administração e do cargo de diretor -presidente ou de principal executivo da
+conselho de administração e do cargo de diretor-presidente ou de principal executivo da
 companhia, ressalvada normatização da Comissão de Valores Mobiliários para as
 companhias de menor porte previstas no art. 294-B da Lei nº 6.404, de 1976 (Produção de
 efeitos após 360 dias, contados da data da publicação da Lei 14.195, de 2021). (Incluído pela
 Instrução Normativa DREI nº 112, de 21 de janeiro de 2022)
 I. É vedada, nas companhias abertas, a acumulação do cargo de presidente do conselho de
-administração e do cargo de diretor -presidente ou de principal execu tivo da companhia,
+administração e do cargo de diretor-presidente ou de principal executivo da companhia,
 ressalvada normatização da Comissão de Valores Mobiliários para as companhias de menor
-porte previstas no art. 294 -B da Lei nº 6.404, de 1976. (Redação dada pela Instrução
+porte previstas no art. 294-B da Lei nº 6.404, de 1976. (Redação dada pela Instrução
 Normativa DREI nº  01, de 24 de janeiro de 2024)
 II. O conselho de administração é órgão de deliberação colegiada, sendo a representação
-da companhia priva tiva dos diretores. Diante disso, para fins cadastrais nos órgãos de
+da companhia privativa dos diretores. Diante disso, para fins cadastrais nos órgãos de
 registro e de legalização competentes, basta ser informado no cadastro da sociedade
 anônima a diretoria, sendo facultativo a informação do conselho de administração.
 (Redação dada pela Instrução Normativa DREI nº  01, de 24 de janeiro de 2024)
@@ -1228,7 +1228,7 @@ anônima a diretoria, sendo facultativo a informação do conselho de administra
 Os diretores devem residir no Brasil (art. 146 da Lei nº 6.404, de 1976)
 Os diretores devem ser pessoas naturais, podendo ou não serem residentes ou
 domiciliados no Brasil. Caso o diretor seja residente ou domiciliado no exterior deverá ser
-observada a mesma regra do administrador,  ou seja, constituir representante residente no
+observada a mesma regra do administrador, ou seja, constituir representante residente no
 País (art. 146 da Lei nº 6.404, de 1976). (Redação dada pela Instrução Normativa DREI nº
 
 35
@@ -1244,7 +1244,7 @@ ou do mesmo grupo;
 III - empregado da companhia ou de sociedade controlada ou do mesmo grupo; e
 IV - o cônjuge ou parente, até terceiro grau, de administrador da companhia.
 
-11-A. TERMO DE POSSE DE ADMINISTRADOR / DIRETOR / CONSELHEIRO  (Incluído pela
+11-A. TERMO DE POSSE DE ADMINISTRADOR / DIRETOR / CONSELHEIRO (Incluído pela
 Instrução Normativa DREI nº  01, de 24 de janeiro de 2024)
  O termo de posse pode instruir o processo que solicitou o arquivamento da ata de
 assembleia geral ordinária ou extraordinária que nomeou a diretoria ou os membros do
@@ -1262,7 +1262,7 @@ Comissão de Valores Mobiliários (CVM).
 CONSELHO DE ADMINISTRAÇÃO, DIRETOR E MEMBRO DO CONSELHO FISCAL
 Compete à assembleia geral de acionistas, quando a lei estabelecer certos
 requisitos para a investidura do cargo, exigir a exibição dos comprovantes respectivos, dos
-quais se arquivará cópia autêntica  na sede da companhia, bem como os comprovantes das
+quais se arquivará cópia autêntica na sede da companhia, bem como os comprovantes das
 demais condições de elegibilidade (inexistência de impedimentos).
 
 36
@@ -1285,22 +1285,22 @@ VII - a autorização governamental para constituir-se a companhia, se necessár
 VIII - as datas de início e do término do prazo da subscrição e as instituições autorizadas a
 receber as entradas;
 IX - a solução prevista para o caso de excesso de subscrição;
-X - o prazo dentro do qual deverá realizar -se a assembleia de constituição da companhia,
+X - o prazo dentro do qual deverá realizar-se a assembleia de constituição da companhia,
 ou a assembleia preliminar para avaliação dos bens, se for o caso;
 XI - o nome, nacionalidade, estado civil (no caso de união estável, citar o estado civil),
-profissão e  residência dos fundadores, ou, se pessoa jurídica, a firma ou denominação,
+profissão e residência dos fundadores, ou, se pessoa jurídica, a firma ou denominação,
 nacionalidade e sede, bem como o número e espécie de ações que cada um houver
 subscrito; e
-XII - a instituição financeira intermediária do lançamento, em cujo  poder ficarão
+XII - a instituição financeira intermediária do lançamento, em cujo poder ficarão
 depositados os originais do prospecto e do projeto do estatuto, com os documentos a que
 fizerem menção, para exame de qualquer interessado (alínea “c” do § 1º do art. 82 da Lei
 nº 6.404, de 1976).
 
-Nota: A entrada de que trata o inciso IV supracitado, diz respeito  à realização, como
-entrada, de dez por  cento, no mínimo, do preço  de emissão das ações subscritas  em
+Nota: A entrada de que trata o inciso IV supracitado, diz respeito à realização, como
+entrada, de dez por cento, no mínimo, do preço de emissão das ações subscritas em
 
 37
-dinheiro, ou seja, este requisito só  se aplica quando a integralização for em dinheiro e a
+dinheiro, ou seja, este requisito só se aplica quando a integralização for em dinheiro e a
 prazo (não se aplica quando a integralização for em bens).
 
 15. ESTATUTO SOCIAL
@@ -1308,7 +1308,7 @@ O estatuto social deverá conter, necessariamente, o seguinte:
 I - denominação social (art. 3º da Lei 6.404, de 1976);
 II - prazo de duração;
 III - sede: município;
-Observação: Quando  no estatuto social constar apenas  o município  da sede, o  endereço
+Observação: Quando no estatuto social constar apenas o município da sede, o endereço
 completo da sede deverá constar no corpo de ata de constituição (alínea “e” do inciso III do
 art. 53 do Decreto nº 1.800, de 1996).
 IV - objeto social, definido de modo preciso e completo (§ 2º do art. 2º da Lei nº 6.404, de
@@ -1334,7 +1334,7 @@ diretor (art. 143 da Lei nº 6.404, de 1976); (Redação dada pela Instrução N
 nº 112, de 21 de janeiro de 2022)
 
 38
-VIII - conselho fiscal, estabelecendo se o seu funcionamento será ou não  permanente,
+VIII - conselho fiscal, estabelecendo se o seu funcionamento será ou não permanente,
 com a indicação do número de seus membros - mínimo de três e máximo de cinco membros
 efetivos e suplentes em igual número. (art. 161 da Lei nº 6.404, de 1976); e
 Observação: O funcionamento do conselho fiscal será permanente nas sociedades de
@@ -1342,7 +1342,7 @@ economia mista (art. 240 da Lei nº 6.404, de 1976).
 IX - término do exercício social, fixando a data;
 São necessários dispositivos específicos, quando houver:
 X - ações preferenciais: indicação de suas vantagens e as restrições a que ficarão sujeitas;
-XI - aumento do “ quorum” de deliberações: especificação, além do percentual, das
+XI - aumento do “quorum” de deliberações: especificação, além do percentual, das
 matérias a ele sujeitas; e
 XII - conselho de administração: número de membros ou limites máximo ou mínimo de sua
 composição, processo de escolha e substituição do presidente do Conselho, o modo de
@@ -1382,7 +1382,7 @@ administração.
 
 15.1. DENOMINAÇÃO
 A sociedade será designada por denominação, de maneira que poderão ser
-utilizadas quaisquer  palavras na língua nacional ou estrangeira, acompanhada das
+utilizadas quaisquer palavras na língua nacional ou estrangeira, acompanhada das
 expressões “companhia” ou “sociedade anônima”, expressas por extenso ou
 abreviadamente. Sendo vedada a utilização da primeira ao final.
 A sociedade anônima pode optar por utilizar o número de inscrição no Cadastro
@@ -1453,11 +1453,11 @@ de constituição ou diretor, no caso da relação de subscrição, ou assinatur
 subscritores, no caso de lista, boletim ou carta de subscrição.
 
 17. PUBLICAÇÕES ORDENADAS PELA LEI Nº 6.404, DE 1976
-As publicações, nos termos do art. 289  da Lei nº  6.404, de 1976, serão  feitas em
+As publicações, nos termos do art. 289 da Lei nº 6.404, de 1976, serão feitas em
 órgão oficial e em jornal de grande circulação, editado na localidade em que está situada a
 sede da companhia.
 As publicações, nos termos do art. 289 da Lei nº 6.404, de 1976, com redação dada
-pela Lei nº  13.818, de 24 de abril de 2019, serão realizadas em jornal de grande circulação
+pela Lei nº 13.818, de 24 de abril de 2019, serão realizadas em jornal de grande circulação
 (impresso e digital), editado na localidade em que está situada a sede da companhia.
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 
@@ -1470,7 +1470,7 @@ em que estiver situada a sede da companhia não for editado jornal, a publicaç�
 órgão de grande circulação local.".
 I. O jornal de grande circulação deve ser editado na localidade em que está situada a sede
 da companhia, ressalvado o disposto no § 2º do art. 289, da Lei 6.404, de 1976: “Se no
-lugar em que estiver  situada a sede da companhia não for editado jornal, a publicação se
+lugar em que estiver situada a sede da companhia não for editado jornal, a publicação se
 fará em órgão de grande circulação local.". (Redação dada pela Instrução Normativa DREI
 nº 112, de 20 de janeiro de 2022)
 Cabe a mesa verificar se o jornal é de grande circulação e se foi publicado na sede, de
@@ -1484,17 +1484,17 @@ jornal. (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeir
 II. Quando a lei exigir a realização de três publicações, estas serão feitas de forma resumida
 em jornal impresso de grande circulação. Quanto à divulgação da íntegra dos documentos
 na página do mesmo jornal na internet, esta será feita quando da primeira publicação
-resumida no jornal impresso, devendo  manter-se disponível até a realização do conclave.
+resumida no jornal impresso, devendo manter-se disponível até a realização do conclave.
 (Redação dada pela Instrução Normativa DREI/ME nº 11, de 9 de março de 2022)
 * Caso, entretanto, a divulgação da íntegra dos documentos ocorra por meio de periódico
-digital, deve  ser feita três vezes, nas mesmas datas das publicações resumidas no jornal
+digital, deve ser feita três vezes, nas mesmas datas das publicações resumidas no jornal
 impresso. (Redação dada pela Instrução Normativa DREI/ME nº 11, de 9 de março de 2022)
 III. As publicações devem ser realizadas de forma resumida no jornal impresso e,
 simultaneamente, a íntegra do documento deverá ser divulgada no sítio eletrônico da
 internet do mesmo jornal. (Redação dada pela Instrução Normativa DREI nº 112, de 20 de
 janeiro de 2022)
 IV. Não compete à Junta Comercial analisar o mérito das publicações que devem ser
-realizadas de forma  resumida no jornal impresso, salvo no caso do resumo de
+realizadas de forma resumida no jornal impresso, salvo no caso do resumo de
 demonstrações financeiras, que deve conter o mínimo contido no inciso II do art. 289 Lei nº
 6.404, de 1976. (Incluído pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 V. As companhias devem, na versão resumida publicada no jornal impresso, indicar um link
@@ -1512,7 +1512,7 @@ Normativa DREI nº 01, de 24 de janeiro de 2024)
 Para fins de arquivamento deve ser u$lizado o ato e evento “arquivamento de publicações
 de atos de sociedade”, podendo sob o mesmo processo ser arquivado mais de uma
 publicação, desde que se trate de publicações referentes a uma mesma assembleia ou de
-uma mesma operação societária . (Incluído pela Instrução Normativa DREI nº 01, de 2 4 de
+uma mesma operação societária. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
 
 17.1. PUBLICAÇÕES DE COMPANHIAS FECHADAS COM RECEITA BRUTA ANUAL
@@ -1521,13 +1521,13 @@ janeiro de 2022)
 As companhias fechadas, com receita bruta anual de até R$ 78.000.000,00 (setenta
 e oito milhões de reais), em exceção ao art. 289 da Lei nº 6.404, de 1976, poderão realizar
 suas publicações na Central de Balanços - CB do Sistema Público de Escrituração Digital -
-SPED e no sítio  eletrônico da companhia, nos termos do disposto no art. 294 da Lei nº
+SPED e no sítio eletrônico da companhia, nos termos do disposto no art. 294 da Lei nº
 6.404, de 1976, e na Portaria ME nº 12.071, de 7 de outubro de 2021.
 As companhias fechadas, com receita bruta anual de até R$ 78.000.000,00 (setenta
-e oito milhões  de reais), em exceção ao art. 289 da Lei nº 6.404, de 1976, poderão realizar
-suas publicações na  Central de Balanços - CB do Sistema Público de Escrituração Digital -
+e oito milhões de reais), em exceção ao art. 289 da Lei nº 6.404, de 1976, poderão realizar
+suas publicações na Central de Balanços - CB do Sistema Público de Escrituração Digital -
 SPED, nos termos do disposto no art. 294 da Lei nº 6.404, de 1976, e na Portaria ME nº
-12.071, de 7 de outubro de 2021, alterada  pela Portaria ME nº 10.031, de 22 de novembro
+12.071, de 7 de outubro de 2021, alterada pela Portaria ME nº 10.031, de 22 de novembro
 de 2022. (Redação dada pela Instrução Normativa DREI /ME nº 88, de 23 de dezembro de
 2022)
 
@@ -1553,9 +1553,9 @@ se continuar observando o prazo legal para a realização dessa primeira e únic
 (Incluído pela Instrução Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 
 17.2. PUBLICAÇÕES DE COMPANHIAS ABERTAS DE MENOR PORTE - Resolução CVM nº
-166, de 1º de setembro de 2022. (Incluído pela Instrução Normativa DREI nº 01, de 2 4 de
+166, de 1º de setembro de 2022. (Incluído pela Instrução Normativa DREI nº 01, de 24 de
 janeiro de 2024)
-As companhias abertas de menor porte, conforme arts. 289, 294 -A, IV, e 294 -B,
+As companhias abertas de menor porte, conforme arts. 289, 294-A, IV, e 294-B,
 caput e § 2º, II, da Lei nº 6.404, de 1976, e Resolução CVM nº 166, de 1º de setembro de
 2022, podem realizar as publicações ordenadas na Lei nº 6.404, de 1976, ou previstas na
 regulamentação editada pela CVM por meio dos sistemas Empresas.NET ou Fundos.Net,
@@ -1574,14 +1574,14 @@ divulgados nos Sistemas Empresas.NET ou Fundos.Net.
 III. A interpretação conjunta dos arts. 124 e 294 da LSA, é no sen$do de que a convocação
 dos acionistas para as assembleias gerais será feita mediante uma única publicação, e não
 três, nos Sistemas Empresas.NET ou Fundos.Net, pois essa atende as finalidades legais.
-Contudo, deve -se con$nuar observando o prazo legal para a realização dessa primeira e
+Contudo, deve-se con$nuar observando o prazo legal para a realização dessa primeira e
 única convocação.
 
 18. CARACTERIZAÇÃO COMO SOCIEDADE DE PROPÓSITO ESPECÍFICO (SPE)
-O fato de a sociedade anônima caracterizar -se como Sociedade de Propósito
+O fato de a sociedade anônima caracterizar-se como Sociedade de Propósito
 Específico não altera a análise pela Junta Comercial para fins de registro, que ficará adstrita
 aos aspectos formais aplicáveis ao tipo societário de que trata este Manual.
-O fato de a sociedade anônima caracterizar -se como Sociedade de Propósito
+O fato de a sociedade anônima caracterizar-se como Sociedade de Propósito
 Específico não altera a análise pela Junta Comercial para fins de registro, que ficará adstrita
 aos aspectos formais aplicáveis ao tipo societário de que trata este Manual. (Redação dada
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -1596,10 +1596,10 @@ pois para fins de registro, o prazo deve ser representado por uma delimitação 
 Sendo por prazo determinado ou indeterminado, o estatuto social estipulará a vinculação
 do prazo à consecução do objeto social, ou seja, os elementos acidentais, como, por
 exemplo, um evento futuro e incerto (ex.: o prazo de duração é indeterminado,
-perdurando até que concluído [o propósito pelo qual foi criada]).  (Redação dada  pela
+perdurando até que concluído [o propósito pelo qual foi criada]).  (Redação dada pela
 Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 III. A classificação como SPE poderá ser modificada, hipótese em que a sociedade deixará
-de ser caracterizada como de propósito específico. (Redação dada  pela Instrução
+de ser caracterizada como de propósito específico. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 19. DO ENQUADRAMENTO COMO STARTUP (Incluído pela Instrução Normativa DREI nº
@@ -1633,8 +1633,8 @@ SEÇÃO II
 ASSEMBLEIA GERAL ORDINÁRIA
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
 1.1. CERTIDÃO OU CÓPIA DA ATA DA ASSEMBLEIA GERAL ORDINÁRIA
-Deverá ser autenticada pelo presidente ou secretário da assembleia,  facultada a
-assinatura dos  demais acionistas presentes. Quando se tratar de cópia, poderá ser
+Deverá ser autenticada pelo presidente ou secretário da assembleia, facultada a
+assinatura dos demais acionistas presentes. Quando se tratar de cópia, poderá ser
 autenticada por quem possui capacidade para autenticar cópia de documentos nos termos
 dessa Instrução Normativa.
 
@@ -1642,7 +1642,7 @@ dessa Instrução Normativa.
 
 1.3.  FOLHAS DO DIÁRIO OFICIAL E DO JORNAL DE GRANDE CIRCULAÇÃO QUE
 PUBLICARAM O AVISO DE QUE O RELATÓRIO DA ADMINISTRAÇÃO, CÓPIA DAS
-DEMONSTRAÇÕES FINANCEIRAS E, SE  HOUVER, PARECER DOS AUDITORES
+DEMONSTRAÇÕES FINANCEIRAS E, SE HOUVER, PARECER DOS AUDITORES
 INDEPENDENTES, SE ACHAM À DISPOSIÇÃO DOS ACIONISTAS
 Nota: A publicação do aviso será dispensada quando:
 a)  os documentos indicados nos incisos I, II e III do art. 133 da Lei nº 6.404, de 15 de
@@ -1657,14 +1657,14 @@ arquivamento da ata de assembleia geral ordinária.
 1.3. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O AVISO DE QUE O
 RELATÓRIO DA ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES FINANCEIRAS E, SE
 HOUVER, PARECER DOS AUDITORES INDEPENDENTES, SE ACHAM À DISPOSIÇÃO DOS
-ACIONISTAS (Redação dada pela Instrução Normativa DREI nº 112, de 20 de  janeiro de
+ACIONISTAS (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de
 2022)
 
 48
 
 Notas:
 I. O resumo do documento será publicado no jornal de grande circulação impresso e,
-de forma simultânea, a  íntegra do  documento será divulgada no sítio eletrônico da
+de forma simultânea, a íntegra do documento será divulgada no sítio eletrônico da
 internet do mesmo jornal.
 Nos termos do inciso II do art. 289, da Lei nº 6.404, de 1976, a publicação de forma
 resumida de demonstrações financeiras, deverá conter, no mínimo, em comparação com
@@ -1681,7 +1681,7 @@ III. É dispensada a apresentação de folhas de jornais, quando a ata consignar
 mesmos, respectivas datas e folhas onde foram feitas as publicações do aviso ou quando
 estas forem arquivadas em processo em separado, anteriormente ao arquivamento da ata
 de assembleia geral ordinária.
-IV. Conforme inciso IV do art. 294 -A e art. 294-B,caput e § 2º, II, da Lei nº 6.404, de 1976, e
+IV. Conforme inciso IV do art. 294-A e art. 294-B,caput e § 2º, II, da Lei nº 6.404, de 1976, e
 Resolução CVM nº 166, de 1º de setembro de 2022, as companhias abertas de menor
 porte, podem realizar as publicações ordenadas na Lei nº 6.404, de 1976, ou previstas na
 regulamentação editada pela CVM por meio dos sistemas Empresas.NET ou Fundos.Net,
@@ -1691,8 +1691,8 @@ ou Fundos.Net, conforme o caso, sendo dispensada a apresentação do comprovante
 quando a ata consignar o meio eletrônico e as datas onde foram realizadas as publicações.
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
-1.3-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM  RECEITA BRUTA
-ANUAL DE ATÉ  R$ 78.000.000,00, QUE PUBLICOU O AVISO DE QUE O RELATÓRIO DA
+1.3-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA BRUTA
+ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O AVISO DE QUE O RELATÓRIO DA
 ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES FINANCEIRAS E, SE HOUVER, PARECER
 
 49
@@ -1715,7 +1715,7 @@ PUBLICARAM O EDITAL DE CONVOCAÇÃO DA AGO
 
 Notas:
 I.  A companhia fechada que tiver menos de vinte acionistas, com patrimônio líquido
-inferior a R$  10.000.000,00 (dez milhões de reais) (Lei nº 13.818, de 24 de abril de 2019)
+inferior a R$ 10.000.000,00 (dez milhões de reais) (Lei nº 13.818, de 24 de abril de 2019)
 poderá (art. 294 da Lei nº 6.404, de 1976 - modificada pela Lei nº 10.303, de 31 de outubro
 de 2001):
 a)   Convocar assembleia geral por anúncio entregue a todos os acionistas, contra recibo,
@@ -1725,7 +1725,7 @@ demonstrações financeiras e o parecer dos auditores independentes, se houver, 
 disposição dos acionistas, bem como deixar de publicar tais documentos.
 Nessa hipótese, cópias autenticadas dos recibos da correspondência e dos documentos
 citados deverão ser arquivadas junto com a cópia da ata da assembleia que deliberar sobre
-os documentos.  Essas disposições não se aplicam à companhia controladora de grupo de
+os documentos. Essas disposições não se aplicam à companhia controladora de grupo de
 sociedades, ou a ela filiadas.
 II.  A publicação da convocação é dispensada quando constar da ata a presença da
 
@@ -1738,7 +1738,7 @@ arquivamento da ata de AGO
 Mesmo presente à assembleia a totalidade dos acionistas, a publicação dos documentos
 indicados nos incisos I, II e III do art. 133 da Lei nº 6.404, de 15 de dezembro de 1976,
 é obrigatória antes da realização da AGO (§ 4º do art. 133 da Lei nº 6.404, de 15 de
-dezembro de 1976), para as  companhias que não se enquadrarem nas disposições do art.
+dezembro de 1976), para as companhias que não se enquadrarem nas disposições do art.
 294, da lei supracitada.
 
 1.4. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O EDITAL DE
@@ -1753,7 +1753,7 @@ totalidade dos acionistas  (§  4º  do  art.  124  da  Lei  nº  6.404  de  15 
 dezembro  de  1976)
 III. É dispensada a apresentação de folhas de jornais, quando a ata consignar os nomes dos
 mesmos, respectivas datas e nos de folhas onde foram feitas as publicações do aviso ou
-quando estas forem arquivadas  em processo em separado, anteriormente ao
+quando estas forem arquivadas em processo em separado, anteriormente ao
 arquivamento da ata de AGO.
 IV.  Mesmo presente à assembleia a totalidade dos acionistas, a publicação dos documentos
 indicados nos incisos I, II e III do art. 133 da Lei nº 6.404, de 15 de dezembro de 1976, é
@@ -1762,7 +1762,7 @@ de 1976), para as companhias que não se enquadrarem nas disposições do art. 2
 supracitada.
 IV. Mesmo presente à assembleia a totalidade dos acionistas, a publicação dos documentos
 indicados nos incisos I, II e III do art. 133 da Lei nº 6.404, de 15 d e dezembro de 1976, é
-obrigatória antes da  realização da AGO (§ 4º do art. 133 da Lei nº 6.404, de 15 de
+obrigatória antes da realização da AGO (§ 4º do art. 133 da Lei nº 6.404, de 15 de
 dezembro de 1976), inclusive para as companhias que se enquadrarem nas disposições do
 
 51
@@ -1801,13 +1801,13 @@ março de 2022)
 
 52
 1.5.   FOLHAS DO DIÁRIO OFICIAL E DO JORNAL DE GRANDE CIRCULAÇÃO QUE
-PUBLICARAM O  RELATÓRIO DA ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES
+PUBLICARAM O RELATÓRIO DA ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES
 FINANCEIRAS E O PARECER DOS AUDITORES INDEPENDENTES, SE HOUVER.
 
 Nota:
 A companhia fechada que tiver menos de vinte acionistas, com patrimônio líquido inferior
 a R$ 10.000.000,00 (dez milhões de reais) (Lei nº 13.818, de 24 de abril de 2019) poderá
-(art. 294 da Lei  nº 6.404, de 1976 - modificada pela Lei nº 10.303, de 31 de outubro de
+(art. 294 da Lei nº 6.404, de 1976 - modificada pela Lei nº 10.303, de 31 de outubro de
 2001):
 a)   convocar assembleia geral por anúncio entregue a todos os acionistas, contra recibo,
 com a antecedência de oito dias, se em 1ª convocação e cinco dias, em 2ª; e
@@ -1816,7 +1816,7 @@ demonstrações financeiras e o parecer dos auditores independentes, se houver, 
 disposição dos acionistas, bem como deixar de publicar tais documentos.
 Nessa hipótese, cópias autenticadas dos recibos da correspondência e dos documentos
 citados deverão ser arquivadas junto com a cópia da ata da assembleia que deliberar sobre
-os documentos.  Essas disposições não se aplicam à companhia controladora de grupo de
+os documentos. Essas disposições não se aplicam à companhia controladora de grupo de
 sociedades, ou a ela filiadas.
 
 1.5. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O
@@ -1826,7 +1826,7 @@ Normativa DREI nº 112, de 20 de janeiro de 2022)
 
 Notas:
 I. O resumo do documento será publicado no jornal de grande circulação impresso e,
-de forma simultânea, a  íntegra do  documento será divulgada no sítio eletrônico da
+de forma simultânea, a íntegra do documento será divulgada no sítio eletrônico da
 internet do mesmo jornal.
 Nos termos do inciso II do art. 289, da Lei nº 6.404, de 1976, a publicação de forma
 resumida de demonstrações financeiras, deverá conter, no mínimo, em comparação com
@@ -1845,7 +1845,7 @@ III. É dispensada a apresentação de folhas de jornais, quando a ata consignar
 mesmos, respectivas datas e folhas onde foram feitas as publicações do aviso ou
 quando estas forem arquivadas em processo em separado, anteriormente ao
 arquivamento da ata de assembleia geral ordinária.
-V.Conforme inciso IV do art. 294 -A e art. 294-B, caput e § 2º, II, da Lei nº 6.404, de 1976, e
+V.Conforme inciso IV do art. 294-A e art. 294-B, caput e § 2º, II, da Lei nº 6.404, de 1976, e
 Resolução CVM nº 166, de 1º de setembro de 2022, as companhias abertas de menor
 porte, podem realizar as publicações ordenadas na Lei nº 6.404, de 1976, ou previstas na
 regulamentação editada pela CVM por meio dos sistemas Empresas.NET ou Fundos.Net,
@@ -1857,7 +1857,7 @@ quando a ata consignar o meio eletrônico e as datas onde foram realizadas as pu
 
 1.5.-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA BRUTA
 ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O RELATÓRIO DA ADMINISTRAÇÃO,
-CÓPIA DAS  DEMONSTRAÇÕES FINANCEIRAS E O PARECER DOS AUDITORES
+CÓPIA DAS DEMONSTRAÇÕES FINANCEIRAS E O PARECER DOS AUDITORES
 INDEPENDENTES, SE HOUVER (Incluído pela Instrução Normativa DREI nº 112, de 20 de
 janeiro de 2022)
 Os recibos das divulgações emitidos pela Central de Balanços (CB) do Sistema
@@ -1876,19 +1876,19 @@ ressalvadas as exceções previstas em lei.
 A assembleia geral ordinária instalar-se-á, em primeira convocação, com a presença
 de acionistas que representem, no mínimo, 1/4 (um quarto) do total de votos conferidos
 pelas ações com direito a voto e, em segunda convocação, com qualquer número (art. 125
-da Lei nº 6.404, de 1976),  ressalvadas as exceções previstas em lei. (Redação dada pela
+da Lei nº 6.404, de 1976), ressalvadas as exceções previstas em lei. (Redação dada pela
 Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 
 3. “QUORUM” DE DELIBERAÇÃO
 As deliberações serão tomadas pela maioria absoluta de votos dos presentes, não
-computados os votos em branco, podendo o  estatuto da companhia fechada aumentar  o
+computados os votos em branco, podendo o estatuto da companhia fechada aumentar o
 “quorum” exigido para certas deliberações, desde que especifique as matérias (art. 129 da
 Lei nº 6.404, de 1976).
 Se o arquivamento for negado, por inobservância de prescrição ou exigência legal
 ou por irregularidade verificada na constituição da companhia, os primeiros
 administradores deverão convocar imediatamente a assembleia geral para sanar a falta ou
-irregularidade, ou autorizar as providências  que se fizerem necessárias. A instalação e
-funcionamento da assembleia obedecerão as regras  atinentes à Assembleia de
+irregularidade, ou autorizar as providências que se fizerem necessárias. A instalação e
+funcionamento da assembleia obedecerão as regras atinentes à Assembleia de
 Constituição, devendo a deliberação ser tomada por acionistas que representem, no
 mínimo, metade do capital social. Se a falta for do estatuto, poderá ser sanada na mesma
 assembleia, a qual deliberará, ainda, sobre se a companhia deve promover a
@@ -1939,11 +1939,11 @@ b) se eletrônica, a companhia fechada que tiver receita bruta anual de até R$
 (Central de Balanços do SPED) em que foi publicado.
 
 56
-c) a companhia aberta de menor porte, deverá citar o sí tio eletrônico/sistema
+c) a companhia aberta de menor porte, deverá citar o sítio eletrônico/sistema
 (Empresas.NET ou Fundos.Net) em que foram publicados. A declaração do preenchimento
 do requisito exigido em relação a receita bruta anual, bem como a menção do meio
 eletrônico e das datas dispensará a apresentação dos mesmos à Junta Comercial, quer seja
-acompanhando a ata, quer seja para anotação.  (Incluído pela Instrução Normativa DREI nº
+acompanhando a ata, quer seja para anotação. (Incluído pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 A declaração do preenchimento do requisito exigido em relação a receita bruta
 anual, bem como a menção do meio eletrônico e das datas dispensará a apresentação dos
@@ -1964,12 +1964,12 @@ mudança deverá ser precedida de aviso aos acionistas no extrato da ata da Asse
 Geral Ordinária (art. 289 da Lei nº 6.404, de 1976).
 A companhia fechada, que tiver menos de vinte acionistas e cujo patrimônio líquido
 for inferior a R$ 10.000.000,00 (dez milhões de reais), na data do balanço, poderá deixar de
-publicar o  anúncio, bem como os documentos a que ele se  refere. Neste caso, cópias
-autenticadas dos recibos  da correspondência e dos documentos citados deverão ser
+publicar o anúncio, bem como os documentos a que ele se refere. Neste caso, cópias
+autenticadas dos recibos da correspondência e dos documentos citados deverão ser
 arquivadas junto com a cópia da ata da AGO que deliberar sobre os documentos
 A menção das datas e dos números das folhas das publicações ou, ainda, do meio
-eletrônico, dispensará a  apresentação das mesmas  à Junta Comercial, quer seja
-acompanhando a  ata, quer seja para anotação. (Redação dada pela Instrução Normativa
+eletrônico, dispensará a apresentação das mesmas à Junta Comercial, quer seja
+acompanhando a ata, quer seja para anotação. (Redação dada pela Instrução Normativa
 DREI nº 112, de 20 de janeiro de 2022)
 A companhia deve fazer as publicações sempre no mesmo jornal, e qualquer
 
@@ -1990,7 +1990,7 @@ c) a deliberação sobre a destinação de lucro líquido do exercício e a dist
 dividendos, se houver;
 d) a eleição dos administradores e dos membros do Conselho Fiscal, se for o caso;
 VIII - fecho: mencionar o encerramento dos trabalhos, a lavratura da ata, sua leitura e
-aprovação, seguindo -se as assinaturas membros da mesa e acionistas presentes, sendo
+aprovação, seguindo-se as assinaturas membros da mesa e acionistas presentes, sendo
 suficiente a assinatura de quantos bastem para constituir a maioria necessária para as
 deliberações tomadas na assembleia.
 
@@ -2002,7 +2002,7 @@ II - nacionalidade;
 III - estado civil (no caso de união estável, citar o estado civil);
 IV - profissão;
 V- CPF; e
-V-  CPF (apenas no caso de diretor); e  (Redação dada pela Instrução Normativa DREI nº 01,
+V-  CPF (apenas no caso de diretor); e (Redação dada pela Instrução Normativa DREI nº 01,
 de 24 de janeiro de 2024)
 VI- endereço.
 
@@ -2012,11 +2012,11 @@ reeleição, bem como o prazo de gestão dos eleitos (§ 1º do art. 146 da Lei 
 1976), inclusive sua remuneração (art. 152 da Lei nº 6.404, de 1976).
 
 6. AGO REALIZADA FORA DO PRAZO DE 4 MESES
-É admissível o arquivamento da ata de assembleia geral ordinária realizada fora do  prazo
+É admissível o arquivamento da ata de assembleia geral ordinária realizada fora do prazo
 legal.
 
 7. ASSEMBLEIA GERAL COM INTERRUPÇÃO DOS TRABALHOS
-A assembleia geral pode ser suspensa, admitindo -se a continuidade em data
+A assembleia geral pode ser suspensa, admitindo-se a continuidade em data
 posterior, sem necessidade de novos editais de convocação, desde que determinados o
 local, a data e a hora de prosseguimento da sessão e que, tanto na ata da abertura quanto
 na do reinício, conste o “quorum” legal e seja respeitada a ordem do dia constante do
@@ -2030,7 +2030,7 @@ ASSEMBLEIA GERAL EXTRAORDINÁRIA
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
 1.1. CERTIDÃO OU CÓPIA DA ATA DA ASSEMBLEIA GERAL EXTRAORDINÁRIA
 Deverá ser autenticada pelo presidente ou secretário da assembleia. Quando se
-tratar de cópia,  poderá ser autenticada por quem possui capacidade para autenticar cópia
+tratar de cópia, poderá ser autenticada por quem possui capacidade para autenticar cópia
 de documentos nos termos dessa Instrução Normativa.
 
 1.2. CÓPIA DA IDENTIDADE DOS NOVOS ADMINISTRADORES, QUANDO HOUVER ELEIÇÃO
@@ -2060,15 +2060,15 @@ janeiro de 2022)
 
 Notas:
 I. O resumo do documento será publicado no jornal de grande circulação impresso e,
-de forma simultânea, a  íntegra do  documento será divulgada no sítio eletrônico da
+de forma simultânea, a íntegra do documento será divulgada no sítio eletrônico da
 internet do mesmo jornal.
-II. A publicação da convocação é dispensada quando constar  da ata a presença da
+II. A publicação da convocação é dispensada quando constar da ata a presença da
 totalidade dos acionistas (§ 4° do art. 124 da Lei n° 6.404 de 15 de dezembro de 1976)
 III. É dispensada a apresentação das folhas dos jornais quando a ata consignar os nomes dos
 mesmos, respectivas datas e números das folhas onde foram feitas as publicações da
 convocação ou quando estas forem arquivadas em processo em separado, anteriormente
 ao arquivamento da ata de AGE.
-IV. Conforme inciso IV do art. 294 -A e art. 294-B,caput e § 2º, II, da Lei nº 6.404, de 1976, e
+IV. Conforme inciso IV do art. 294-A e art. 294-B,caput e § 2º, II, da Lei nº 6.404, de 1976, e
 Resolução CVM nº 166, de 1º de setembro de 2022, as companhias abertas de menor
 porte, podem realizar as publicações ordenadas na Lei nº 6.404, de 1976, ou previstas na
 regulamentação editada pela CVM por meio dos sistemas Empresas.NET ou Fundos.Net,
@@ -2101,19 +2101,19 @@ a assinatura dos demais acionistas presentes.
 1.6. CERTIDÃO OU CÓPIA DA ATA DE DELIBERAÇÃO SOBRE LAUDO DE AVALIAÇÃO DOS
 BENS
 Deverá ser autenticada pelo presidente ou secretário da assembleia, se não contida
-a deliberação  na ata de AGE quando houver aumento de capital com realização em bens,
+a deliberação na ata de AGE quando houver aumento de capital com realização em bens,
 acompanhada do laudo, salvo se transcrito na ata, facultada a assinatura dos demais
 acionistas presentes.
 
 2. “QUORUM” DE INSTALAÇÃO DA ASSEMBLEIA
-A assembleia geral extraordinária instalar -se-á, em primeira convocação, com a
-presença de  acionistas que representem, no mínimo, 1/4 do capital social com direito a
-voto e, em segunda  convocação, com qualquer número, ressalvadas as exceções previstas
+A assembleia geral extraordinária instalar-se-á, em primeira convocação, com a
+presença de acionistas que representem, no mínimo, 1/4 do capital social com direito a
+voto e, em segunda convocação, com qualquer número, ressalvadas as exceções previstas
 em lei. (art. 125 da Lei nº 6.404, de 1976).
-A assembleia geral extraordinária instalar -se-á, em primeira convocação, com a
+A assembleia geral extraordinária instalar-se-á, em primeira convocação, com a
 presença de acionistas que representem, no mínimo, 1/4 (um quarto) do total de votos
 conferidos pelas ações com direito a voto e, em segunda convocação, com qualquer
-número (art. 125 da Lei nº 6.404, de 1976),  ressalvadas as exceções previstas em lei.
+número (art. 125 da Lei nº 6.404, de 1976), ressalvadas as exceções previstas em lei.
 (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 
 2.1. REFORMA DO ESTATUTO
@@ -2126,17 +2126,17 @@ A assembleia geral extraordinária para apreciar proposta de reforma do estatuto
 instalar-se- á, em primeira convocação, com a presença de acionistas que representem, no
 
 62
-mínimo, 2/3 do total de  votos conferidos pelas ações com direito a voto, e em segunda
+mínimo, 2/3 do total de votos conferidos pelas ações com direito a voto, e em segunda
 convocação, com qualquer número. A convocação deverá indicar a matéria estatutária a
 ser alterada (art. 135 da Lei nº 6.404, de 1976). (Redação dada pela Instrução Normativa
 DREI nº 112, de 20 de janeiro de 2022)
 Sempre que houver alteração estatutária, recomenda-se o registro do estatuto
 consolidado.
 Sempre que o estatuto consolidado for arquivado em ato separado, fazer constar a
-exigência de apresentar  CNPJ e a assinatura do presidente e secretário da
+exigência de apresentar CNPJ e a assinatura do presidente e secretário da
 assembleia que aprovou a consolidação.
 Nas companhias fechadas de capital fixo, a Assembleia Geral pode, a qualquer
-tempo, deliberar  modificação estatutária para criar ou suprimir o Conselho de
+tempo, deliberar modificação estatutária para criar ou suprimir o Conselho de
 Administração, sem que caiba ao acionista direito de retirada.
 
 3. “QUORUM” DE DELIBERAÇÃO
@@ -2183,8 +2183,8 @@ das seguintes condições:
 1.  menos de vinte acionistas; e
 2.  patrimônio líquido de até R$ 10.000.000,00 (dez milhões de reais);
 A companhia fechada, que preencher as condições previstas no art. 294, poderá
-deixar de  publicar o edital de convocação. Neste caso, devem ser juntadas à ata, cópias
-autenticadas dos  recibos da correspondência de convocação da AGE, que deverão ser
+deixar de publicar o edital de convocação. Neste caso, devem ser juntadas à ata, cópias
+autenticadas dos recibos da correspondência de convocação da AGE, que deverão ser
 arquivadas juntamente com a cópia da ata da assembleia.
 a) se por edital, citar o jornal de grande circulação em que foi publicado. A menção, ainda,
 das datas e dos números das folhas das publicações dispensará apresentação das mesmas
@@ -2200,7 +2200,7 @@ c) a companhia aberta de menor porte, deverá citar o sí$o eletrônico/sistema
 (Empresas.NET ou Fundos.Net) em que foram publicados. A declaração do preenchimento
 do requisito exigido em relação a receita bruta anual, bem como a menção do meio
 eletrônico e das datas dispensará a apresentação dos mesmos à Junta Comercial, quer seja
-acompanhando a ata, quer seja para anotação.  (Incluído pela Instrução Normativa DREI nº
+acompanhando a ata, quer seja para anotação. (Incluído pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
 A declaração do preenchimento do requisito exigido em relação a receita bruta
 anual, bem como a menção do meio eletrônico e das datas dispensará a apresentação dos
@@ -2209,7 +2209,7 @@ mesmos à Junta Comercial, quer seja acompanhando a ata, quer seja para anotaç�
 VI - ordem do dia: registrar;
 VII - fatos ocorridos e deliberações: registrar, em conformidade com a ordem do dia
 transcrita, os fatos ocorridos, inclusive dissidências ou protestos e as deliberações da
-assembleia; e o registro  dos fatos ocorridos, inclusive dissidências ou protestos, pode ser
+assembleia; e o registro dos fatos ocorridos, inclusive dissidências ou protestos, pode ser
 lavrado na forma de sumário, devendo as deliberações tomadas serem transcritas.
 VIII - fecho: mencionar o encerramento dos trabalhos, a lavratura da ata, sua leitura e
 aprovação, seguindo-se as assinaturas dos membros da mesa e acionistas presentes, sendo
@@ -2231,13 +2231,13 @@ de janeiro de 2024)
 VI - endereço.
 A qualificação completa dos administradores ou conselheiros fiscais é necessária
 mesmo no caso de reeleição. No caso de administradores, deve ser, também, indicado o
-prazo de gestão dos eleitos  (§ 1º do art. 146 da Lei nº 6.404, de 15 de dezembro de 1976),
+prazo de gestão dos eleitos (§ 1º do art. 146 da Lei nº 6.404, de 15 de dezembro de 1976),
 inclusive sua remuneração (art. 152 da Lei nº 6.404, de15 de dezembro de 1976).
 
 6. ASSEMBLEIA GERAL COM INTERRUPÇÃO DOS TRABALHOS
-A assembleia geral pode ser suspensa, admitindo -se a continuidade em data
+A assembleia geral pode ser suspensa, admitindo-se a continuidade em data
 posterior, sem necessidade de novos editais de convocação, desde que determinados o
-local, a data e a hora de prosseguimento  da sessão e que, tanto na ata da abertura quanto
+local, a data e a hora de prosseguimento da sessão e que, tanto na ata da abertura quanto
 na do reinício, conste o “quorum” legal e seja respeitada a ordem do dia constante do
 edital.
 
@@ -2252,7 +2252,7 @@ ata ainda esteja em tramitação.
 
 8. AUMENTO DE CAPITAL
 8.1. LIMITE MÍNIMO DE REALIZAÇÃO PARA AUMENTO DO CAPITAL POR SUBSCRIÇÃO
-Somente depois de realizados 3/4 do capital social, a companhia pode aumentá -lo
+Somente depois de realizados 3/4 do capital social, a companhia pode aumentá-lo
 mediante subscrição pública ou particular de ações.
 
 Nota: No aumento de capital, mesmo que a integralização seja em dinheiro e a prazo, não
@@ -2262,14 +2262,14 @@ mínimo, do preço de emissão das ações subscritas em dinheiro.
 
 66
 8.2. FORMA DE REALIZAÇÃO
-Havendo aumento de capital, a ata deve indicar  a forma de sua realização, tais
+Havendo aumento de capital, a ata deve indicar a forma de sua realização, tais
 como: moeda nacional, bens móveis, imóveis, títulos e reservas, com o devido valor de
 mercado.
 
 8.3. REALIZAÇÃO COM BENS
 Na realização com bens, é indispensável a avaliação por três peritos ou por empresa
 especializada, à escolha da assembleia geral.
-A deliberação sobre a avaliação desses bens é sempre da assembleia, por tratar -se
+A deliberação sobre a avaliação desses bens é sempre da assembleia, por tratar-se
 de competência privativa.
 Admite-se a suspensão dos trabalhos da assembleia pelo tempo necessário a
 apresentação do laudo de avaliação.
@@ -2277,7 +2277,7 @@ A integralização do capital social com bens e direitos depende de apresentaç�
 laudo de avaliação feita por três peritos ou por empresa especializada, nomeados em
 assembleia geral dos subscritores.
 Os peritos ou a empresa avaliadora deverão apresentar laudo fundamentado, com a
-indicação dos critérios  de avaliação e dos elementos de comparação adotados e instruído
+indicação dos critérios de avaliação e dos elementos de comparação adotados e instruído
 com os documentos relativos aos bens avaliados, e estarão presentes à assembleia que
 conhecer do laudo, a fim de prestarem as informações que lhes forem solicitadas.
 Os bens não poderão ser incorporados ao patrimônio da companhia por valor acima
@@ -2288,7 +2288,7 @@ A integralização de capital com quotas societárias de outra sociedade implica
 correspondente alteração contratual modificando o quadro societário da sociedade cujas
 quotas foram conferidas para integralizar o capital social, consignando a saída do sócio e
 ingresso da sociedade que passa a ser titular das quotas.
-Se as sedes  das empresas  envolvidas estiverem  situadas na mesma unidade da
+Se as sedes das empresas envolvidas estiverem situadas na mesma unidade da
 federação, os respectivos processos de constituição e de alteração tramitarão vinculados.
 Caso as sociedades envolvidas estejam sediadas em unidades da federação
 diferentes, deverá ser primeiramente, promovido o arquivamento da alteração contratual,
@@ -2299,7 +2299,7 @@ juntando para comprovação, a alteração contratual já arquivada.
 Na integralização de capital com ações de outras sociedades juntar as copias das
 referidas transcrições no livro da companhia, não havendo necessidade de assembleia geral
 na sociedade que deu as referidas ações para a referida integralização para comprovação da
-referida alteração uma vez que trata -se de uma sociedade de capital, e como tal cabe
+referida alteração uma vez que trata-se de uma sociedade de capital, e como tal cabe
 apenas a companhia o controle dos seus acionistas.
 
 8.4. Integralização com quotas ou ações de outras sociedades (Redação dada pela
@@ -2321,7 +2321,7 @@ Na hipótese da empresa receptora estar em constituição deverá ser mencionado
 quotas serão utilizadas para constituição de sociedade.
 b) Empresa receptora (2º Ato): Deverá constar em cláusula que o sócio integraliza o capital
 com as quotas que possui na outra sociedade (qualificação completa), descrevendo a
-quantidade e o valor do  capital que detém, e a indicação do respectivo ATO em que se deu
+quantidade e o valor do capital que detém, e a indicação do respectivo ATO em que se deu
 o compartilhamento de quotas (1º Ato).
 
 II. UTILIZAÇÃO DE PARTE DO CAPITAL
@@ -2333,8 +2333,8 @@ operação, deve estar totalmente integralizado.
 68
 a) Empresa Compartilhadora (1º ato): Primeiramente, deverá constar em cláusula que o
 capital do sócio (qualificação completa) será utilizado para integralizar o capital da
-sociedade, e consignar a redução  do capital do sócio e o ingresso do sócio que receberá
-o capital (qualificação completa). Na  hipótese de a empresa receptora estar em
+sociedade, e consignar a redução do capital do sócio e o ingresso do sócio que receberá
+o capital (qualificação completa). Na hipótese de a empresa receptora estar em
 constituição deverá ser mencionado, em cláusula, que as quotas serão utilizadas para a
 constituição da sociedade.
 b) Empresa receptora (2º Ato): Deverá constar em cláusula que o titular integraliza o
@@ -2354,8 +2354,8 @@ e forma, bem como apresentar o valor nominal (se houver).
 8.5. DELIBERAÇÃO EM ASSEMBLEIA COM SUSPENSÃO DOS TRABALHOS
 O aumento de capital, mesmo com bens sujeitos à avaliação, pode ser proposto e
 deliberado em uma única assembleia, já que se poderá suspender os trabalhos para o
-cumprimento de formalidades, e continuá -los em outro dia, fixado na própria assembleia,
-se nessa segunda parte houver, também, o “ quorum” legal, respeitada a ordem do dia
+cumprimento de formalidades, e continuá-los em outro dia, fixado na própria assembleia,
+se nessa segunda parte houver, também, o “quorum” legal, respeitada a ordem do dia
 prevista no edital.
 
 8.6. SOCIEDADE DE CAPITAL AUTORIZADO
@@ -2366,7 +2366,7 @@ bem como seu limite.
 
 69
 8.7. DIREITO DE PREFERÊNCIA
-No aumento de capital por subscrição particular ou pública, observar -se-á o direito
+No aumento de capital por subscrição particular ou pública, observar-se-á o direito
 de preferência para a subscrição do aumento pelos acionistas, na proporção de ações que
 tiverem, respeitado o prazo mínimo de trinta dias para o exercício dessa preferência,
 contados da data da publicação da ata ou do aviso próprio, ou da comunicação pessoal,
@@ -2389,7 +2389,7 @@ Fiscal, se em funcionamento.
 9. REDUÇÃO DO CAPITAL
 A assembleia geral poderá deliberar a redução do capital social se houver perda, até
 o montante dos prejuízos acumulados, ou se julgá-lo excessivo (art. 173, da Lei nº 6.404, de
-1976), e nas  demais hipóteses expressamente previstas na Lei das Sociedades por Ações,
+1976), e nas demais hipóteses expressamente previstas na Lei das Sociedades por Ações,
 como por exemplo:
 i) resgate de ações mediante redução (art. 44, § 1º); ii) restituições (art. 30, alínea "d"); iii)
 reembolso (art. 45, § 6º); e iv) ações caída em comisso (art. 107, §4º).
@@ -2453,7 +2453,7 @@ está registrada, podendo essa mudança ser efetuada no próprio instrumento de 
 do ato constitutivo para transferência da sede.
 Não sendo feita a proteção ou a busca prévia e havendo colidência de nome na
 Junta Comercial da outra unidade da federação, deverão ser apresentados para
-arquivamento dois processos,  sendo um correspondente à transferência da sede e outro
+arquivamento dois processos, sendo um correspondente à transferência da sede e outro
 referente à alteração do nome empresarial.
 A sociedade deverá promover o arquivamento da alteração do instrumento de
 constituição, com consolidação do instrumento, quando revestir a forma particular ou da
@@ -2467,7 +2467,7 @@ anteriormente nela registrado. (Redação dada pela Instrução Normativa DREI n
 de janeiro de 2024)
 Havendo colidência, será necessário alterar o nome da sociedade na Junta em que
 está registrada, podendo essa mudança ser efetuada no próprio instrumento de alteração
-para transferência da sede. ( Redação dada pela Instrução Normativa DREI nº 01, de 24 de
+para transferência da sede. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de
 
 72
 janeiro de 2024)
@@ -2475,12 +2475,12 @@ Não sendo realizada a pesquisa prévia ou proteção do nome empresarial e,
 havendo colidência na Junta Comercial da outra unidade da federação, após deferido o ato
 de transferência pela Junta Comercial da sede anterior, deverão ser apresentados para
 arquivamento dois processos, sendo um correspondente à transferência da sede e outro
-referente à alteração do nome empresarial.  (Redação dada pela Instrução Normativa DREI
+referente à alteração do nome empresarial. (Redação dada pela Instrução Normativa DREI
 nº 01, de 24 de janeiro de 2024)
 
 11.2. PROVIDÊNCIAS NA JUNTA COMERCIAL DE DESTINO
 A sociedade deverá promover o arquivamento do documento referente à
-transferência da sede  (cópia da ata de assembleia geral extraordinária, quando revestir a
+transferência da sede (cópia da ata de assembleia geral extraordinária, quando revestir a
 forma particular, ou certidão de inteiro teor, com consolidação do estatuto, quando
 revestir a forma pública), devidamente arquivado na Junta Comercial da unidade da
 federação onde essa se localizava.
@@ -2497,9 +2497,9 @@ tenha sido arquivado no órgão de origem. (Redação dada pela Instrução Norm
 
 11.3. NÃO EFETIVAÇÃO DO ATO DE TRANSFERÊNCIA DE SEDE
 Não sendo efetivado o ato da transferência de sede para a outra UF, e havendo
-interesse de retornar  a para a Junta de origem, a fim de regularizar a situação da sociedade
+interesse de retornar a para a Junta de origem, a fim de regularizar a situação da sociedade
 anônima, o interessado deverá juntar certidão expedida pela Junta Comercial para onde a
-sociedade seria transferida, onde  constará a informação de que o ato de transferência
+sociedade seria transferida, onde constará a informação de que o ato de transferência
 não foi arquivado naquela UF, e protocolar juntamente com a alteração constando o
 novo endereço.
 
@@ -2509,9 +2509,9 @@ AGO/AGE
 A assembleia geral ordinária e a assembleia geral extraordinária poderão ser,
 cumulativamente, convocadas e realizadas no mesmo local, data e hora e instrumentadas
 em ata única.
-A documentação a ser apresentada  à Junta Comercial para arquivamento da ata
+A documentação a ser apresentada à Junta Comercial para arquivamento da ata
 obedecerá à especificação determinada nas seções deste Manual, próprios de cada
-assembleia. Os requisitos de convocação, instalação, ordem do dia e “ quorum” devem ser
+assembleia. Os requisitos de convocação, instalação, ordem do dia e “quorum” devem ser
 observados, de forma individualizada, em relação a cada assembleia.
 
 74
@@ -2525,8 +2525,8 @@ Notas:
 I. A cópia da ata deve conter, no fecho:
 a) as assinaturas dos acionistas que subscreveram o original lavrado no livro próprio e as
 do presidente ou secretário da assembleia; ou
-b) os nomes de todos os que assinaram,  com a declaração de que a mesma confere com o
-original e a indicação do livro e folhas em que foi lavrada,  devendo ser assinada pelo
+b) os nomes de todos os que assinaram, com a declaração de que a mesma confere com o
+original e a indicação do livro e folhas em que foi lavrada, devendo ser assinada pelo
 presidente ou secretário da assembleia.
 II. Quando se tratar de cópia, poderá ser autenticada por quem possui capacidade para
 autenticar cópia de documentos nos termos dessa Instrução Normativa.
@@ -2543,7 +2543,7 @@ ao arquivamento da ata de assembleia geral extraordinária.
 II.  A companhia fechada que tiver menos de vinte acionistas, com patrimônio líquido de
 até R$ 10.000.000,00 (dez milhões de reais) poderá convocar assembleia geral por anúncio
 entregue a todos os acionistas, contra recibo, com a antecedência de oito dias, se em 1ª
-convocação e cinco  dias, em  2ª. Nessa hipótese, cópias autenticadas dos recibos do
+convocação e cinco dias, em 2ª. Nessa hipótese, cópias autenticadas dos recibos do
 anúncio convocatório deverão ser arquivadas juntas com a cópia da ata da assembleia.
 
 75
@@ -2593,7 +2593,7 @@ As deliberações serão tomadas por titulares de mais de metade da classe de a�
 preferenciais interessadas, nos casos de:
 I - criação de ações preferenciais ou aumento de classe existente sem guardar proporção
 com as demais, salvo se já previstos ou autorizados pelo estatuto; e
-II - alterações nas preferências, vantagens  e condições de resgate ou amortização  de uma
+II - alterações nas preferências, vantagens e condições de resgate ou amortização de uma
 ou mais classes de ações preferenciais, ou criação de nova classe mais favorecida.
 A aprovação prévia, ou a ratificação, em assembleia especial, por titulares de mais
 de metade da classe de ações preferenciais interessadas, é condição de eficácia da
@@ -2629,17 +2629,17 @@ I - local, hora, dia, mês e ano de sua realização;
 II - composição da mesa: nome do presidente e do secretário;
 III - “quorum” de instalação;
 IV - convocação:
-a)  se por edital, citar os jornais (Diário Oficial e jornal local de grande circulação) em  que
+a)  se por edital, citar os jornais (Diário Oficial e jornal local de grande circulação) em que
 foi publicado. A menção, ainda, das datas e dos números das folhas das publicações
 dispensará a apresentação das mesmas à Junta Comercial, quer seja acompanhando ata,
 quer seja para anotação;
 b)   se por correspondência, entregue a todos os acionistas, contra recibo, no caso de
-companhia fechada, informar essa circunstância, declarando o preenchimento  cumulativo
+companhia fechada, informar essa circunstância, declarando o preenchimento cumulativo
 das seguintes condições:
 1.  menos de vinte acionistas; e
 2.  patrimônio líquido de até R$ 10.000.000,00 (dez milhões de reais).
 A companhia fechada, que preencher as condições previstas no art. 294 da Lei nº
-6.404, de 1976, poderá deixar de publicar o  edital de convocação. Neste caso  devem ser
+6.404, de 1976, poderá deixar de publicar o edital de convocação. Neste caso devem ser
 juntadas à ata cópias autenticadas dos recibos da correspondência de convocação da AGE.
 a) se por edital, citar o jornal local de grande circulação em que foi publicado. A menção,
 ainda, das datas e dos números das folhas das publicações dispensará a apresentação das
@@ -2655,10 +2655,10 @@ c) a companhia aberta de menor porte, deverá citar o sí$o eletrônico/sistema
 (Empresas.NET ou Fundos.Net) em que foram publicados. A declaração do preenchimento
 do requisito exigido em relação a receita bruta anual, bem como a menção do meio
 eletrônico e das datas dispensará a apresentação dos mesmos à Junta Comercial, quer seja
-acompanhando a ata, quer seja para anotação.  (Redação dada pela Instrução Normativa
+acompanhando a ata, quer seja para anotação. (Redação dada pela Instrução Normativa
 DREI nº 01, de 24 de janeiro de 2024)
 A declaração do preenchimento do requisito exigido em relação a receita bruta
-anual, bem como  a menção do meio eletrônico e das datas dispensará a apresentação
+anual, bem como a menção do meio eletrônico e das datas dispensará a apresentação
 dos mesmos à Junta Comercial, quer seja acompanhando a ata, quer seja para anotação.
 (Incluído pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 V - ordem do dia: registrar;
@@ -2668,14 +2668,14 @@ assembleia;
 O registro dos fatos ocorridos, inclusive dissidências ou protestos, pode ser lavrado na
 forma de sumário, devendo as deliberações tomadas serem transcritas.
 V - fecho: mencionar o encerramento dos trabalhos, a lavratura da ata, sua leitura e
-aprovação, seguindo -se as assinaturas dos membros da mesa e dos presentes, sendo
+aprovação, seguindo-se as assinaturas dos membros da mesa e dos presentes, sendo
 suficiente a assinatura de quantos bastem para constituir a maioria necessária para as
 deliberações tomadas na assembleia.
 
 7. ASSEMBLEIA GERAL COM INTERRUPÇÃO DOS TRABALHOS
-A assembleia geral pode ser suspensa, admitindo -se a continuidade em data
+A assembleia geral pode ser suspensa, admitindo-se a continuidade em data
 posterior, sem necessidade de novos editais de convocação, desde que determinados o
-local, a data e a hora de prosseguimento  da sessão e que, tanto na ata da abertura quanto
+local, a data e a hora de prosseguimento da sessão e que, tanto na ata da abertura quanto
 na do reinício, conste o “quorum” legal e seja respeitada a ordem do dia constante do
 edital.
 
@@ -2685,8 +2685,8 @@ ATA DE REUNIÃO DO CONSELHO DE ADMINISTRAÇÃO
 
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
 1.1. CERTIDÃO OU CÓPIA DA ATA DA REUNIÃO
-Deve conter  a assinatura  do presidente ou secretário e,  se assim  quiserem, dos
-conselheiros. Quando  se tratar de cópia, poderá ser autenticada por quem possui
+Deve conter a assinatura do presidente ou secretário e, se assim quiserem, dos
+conselheiros. Quando se tratar de cópia, poderá ser autenticada por quem possui
 capacidade para autenticar cópia de documentos nos termos dessa Instrução Normativa.
 
 2. ELEIÇÃO DE DIRETORES OU SUBSTITUTO DE MEMBRO DO CONSELHO DE
@@ -2722,7 +2722,7 @@ A deliberação sobre a avaliação desses bens é sempre da assembleia, por
 tratar-se de competência privativa.
 
 4.4. DIREITO DE PREFERÊNCIA
-No aumento de capital por subscrição particular ou pública, observar -se-á o direito
+No aumento de capital por subscrição particular ou pública, observar-se-á o direito
 de preferência para a subscrição do aumento pelos acionistas, na proporção de ações que
 tiverem, respeitado o prazo mínimo de trinta dias para o exercício dessa preferência,
 contados da data da publicação da ata ou do aviso próprio, ou da comunicação pessoal
@@ -2761,10 +2761,10 @@ I - local, hora, dia, mês e ano de sua realização;
 II - deliberações: registrar as decisões tomadas na reunião, indicando, se tratar de aumento
 de capital no limite do autorizado, além do valor e as condições do aumento: prazo e
 forma de integralização; número e espécie das ações lançadas a subscrição; classe, quando
-for o caso;  prazo para o exercício de preferência ou a inexistência deste direito de
+for o caso; prazo para o exercício de preferência ou a inexistência deste direito de
 preferência, nos casos do art. 172 da Lei nº 6.404, de 15 de dezembro de 1976; o montante
 do capital já subscrito e realizado, como também o limite da autorização; o aumento de
-capital nas sociedades  anônimas pelo Conselho de Administração, só é possível quando a
+capital nas sociedades anônimas pelo Conselho de Administração, só é possível quando a
 companhia tiver “capital autorizado” (art. 168 da Lei nº 6.404, de 1976); e
 III - fecho: mencionar o encerramento dos trabalhos, a lavratura da ata, sua leitura e
 aprovação, seguindo-se as assinaturas dos conselheiros.
@@ -2783,7 +2783,7 @@ VI- endereço.
 
 82
 O prazo de gestão, a qualificação completa do membro do conselho ou diretor,
-deverão constar,  mesmo que se encontre qualificado em outro ato arquivado  na Junta
+deverão constar, mesmo que se encontre qualificado em outro ato arquivado na Junta
 Comercial (art. 146 da Lei nº 6.404, de 1976).
 
 83
@@ -2835,7 +2835,7 @@ presencial seja convertida em caráter semipresencial ou digital. (Incluído pel
 Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 O requerimento poderá ser feito pelo acionista com antecedência mínima de 24
 (vinte e quatro) horas e as informações de acesso ao meio eletrônico lhe deverão ser
-franqueadas com antecedência mínima  de 30 (trinta) minutos, ambos contados com
+franqueadas com antecedência mínima de 30 (trinta) minutos, ambos contados com
 relação ao horário de realização da assembleia. (Incluído pela Instrução Normativa DREI
 /ME nº 88, de 23 de dezembro de 2022)
 
@@ -2853,7 +2853,7 @@ I. As reuniões e assembleias semipresenciais ou digitais deverão obedecer às 
 atinentes à sociedade anônima, bem como às normas do estatuto social, quanto à
 convocação, instalação e deliberação.
 II. Os documentos e informações a serem disponibilizados previamente à realização da
-reunião ou assembleia semipresencial ou digital  devem não apenas  observar os
+reunião ou assembleia semipresencial ou digital devem não apenas observar os
 mecanismos de divulgação já previstos em lei, como também ser disponibilizados por meio
 digital seguro.
 III. O instrumento de convocação deve informar, em destaque, que a reunião ou
@@ -2864,7 +2864,7 @@ convocação de forma resumida, com indicação de endereço eletrônico na rede
 computadores onde as informações completas devem estar disponíveis de forma segura.
 V. A sociedade deve adotar sistema e tecnologia acessíveis para que todos os acionistas
 participem e votem a distância na assembleia ou reunião semipresencial ou digital.
-VI. O anúncio de convocação deve  listar os documentos exigidos  para que os acionistas,
+VI. O anúncio de convocação deve listar os documentos exigidos para que os acionistas,
 bem como seus eventuais representantes legais, sejam admitidos à reunião ou assembleia
 semipresencial ou digital.
 VII. A sociedade pode solicitar o envio prévio dos documentos mencionados no anúncio de
@@ -2887,7 +2887,7 @@ assembleia semipresencial ou digital, bem como a gravação integral dela, pelo 
 aplicável à ação que vise a anulá-la.
 c) A sociedade deverá manter arquivados todos os documentos relativos à reunião ou
 assembleia semipresencial ou digital, bem como a gravação integral dela, caso seja gravada,
-pelo prazo aplicável à ação que vise a anulá -la. (Redação dada pela Instrução Normativa
+pelo prazo aplicável à ação que vise a anulá-la. (Redação dada pela Instrução Normativa
 DREI /ME nº 88, de 23 de dezembro de 2022)
 d) Salvo disposição estatutária em contrário, a gravação de sons ou imagens deverá ser
 previamente informada antes de sua realização, bem como poderá ser vedada a
@@ -2984,7 +2984,7 @@ II. Os membros da mesa da reunião ou assembleia semipresencial ou digital dever
 assinar a ata respectiva e consolidar, em documento único, a lista de presença.
 III. Quando a ata do conclave não for elaborada em documento físico:
 a) as assinaturas dos membros da mesa deverão ser feitas com certificado digital emitido
-por entidade  credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil ou
+por entidade credenciada pela Infraestrutura de Chaves Públicas Brasileira - ICP-Brasil ou
 qualquer outro meio de comprovação da autoria e integridade de documentos em forma
 eletrônica;
 b) devem ser assegurados meios para que possa ser impressa em papel, de forma legível e a
@@ -2995,7 +2995,7 @@ IV. Aplicam-se às reuniões e assembleias semipresenciais e digitais, subsidiar
 que com elas forem compatíveis, as disposições legais e regulamentares relativas às
 reuniões e assembleias exclusivamente presenciais.
 V. As reuniões ou assembleias presenciais já convocadas e ainda não realizadas, em
-virtude das restrições decorrentes da pandemia do Coronavírus (Covid -19), poderão ser
+virtude das restrições decorrentes da pandemia do Coronavírus (Covid-19), poderão ser
 realizadas de forma semipresencial ou digital, desde que todos os acionistas se façam
 presentes, nos termos do item 3 desta seção, ou declarem expressamente sua
 concordância.
@@ -3006,8 +3006,8 @@ da sociedade. (Incluído pela Instrução Normativa DREI nº 55, de 2 de junho d
 SEÇÃO IX
 ABERTURA, ALTERAÇÃO E EXTINÇÃO DE FILIAIS
 
-A abertura de filial pode constar em ata da  assembleia; ou em certidão  de inteiro
-teor da ata da  assembleia, quando revestir a forma pública; ou em ata de reunião do
+A abertura de filial pode constar em ata da assembleia; ou em certidão de inteiro
+teor da ata da assembleia, quando revestir a forma pública; ou em ata de reunião do
 Conselho de Administração ou de Diretoria, ou em ato de diretor, observado o disposto no
 estatuto social.
 
@@ -3043,12 +3043,12 @@ II. A sociedade empresária poderá indicar em seus atos constitutivos que serã
 exclusivamente atividades de administração no(s) endereço(s) de algum(ns) dos
 estabelecimentos, independentemente de ser sede ou filial.
 III. Atividades de administração são aquelas de apoio ou relacionadas à gestão dos
-negócios da sociedade  empresária, sem constituir a  realização de  alguma das atividades
+negócios da sociedade empresária, sem constituir a realização de alguma das atividades
 econômicas contidas no objeto social.
 
 3. FILIAL EM OUTRA UNIDADE DA FEDERAÇÃO
 Quando se tratar de filial em outra unidade da federação, o arquivamento do ato
-deve ser promovido  exclusivamente na Junta Comercial da unidade da federação onde se
+deve ser promovido exclusivamente na Junta Comercial da unidade da federação onde se
 localizar a sede, uma vez que após o deferimento do ato, os dados relativos à sede e à filial
 serão encaminhados eletronicamente para Junta Comercial da outra Unidade da
 Federação.
@@ -3074,7 +3074,7 @@ deve ser complementado com o arquivamento da documentação própria no órgão 
 registro do outro país, observada a legislação local.
 
 Nota: É obrigatória, em relação a filial aberta, a indicação do endereço completo da filial no
-exterior e, quando  for o caso, os caracteres dos vocábulos da língua estrangeira deverão
+exterior e, quando for o caso, os caracteres dos vocábulos da língua estrangeira deverão
 ser substituídos por caracteres correspondentes no vocábulo nacional.
 
 93
@@ -3122,13 +3122,13 @@ I - determinar o modo de liquidação; e
 II - nomear o liquidante e o conselho fiscal que devem funcionar durante o período de
 liquidação.
 Nota: O cargo de liquidante pode ser ocupado tanto por pessoa natural, quanto por pessoa
-jurídica, sendo  obrigatória, neste último caso, a indicação do nome do profissional
+jurídica, sendo obrigatória, neste último caso, a indicação do nome do profissional
 responsável pela condução dos trabalhos, que deverá atender aos requisitos e
-impedimentos previstos em lei, e sobre o qual recairão  os deveres e as responsabilidades
+impedimentos previstos em lei, e sobre o qual recairão os deveres e as responsabilidades
 legais (Enunciado nº 87, da III Jornada de Direito Comercial do Conselho de Justiça Federal).
 
 3.1. Conselho de Administração
-A companhia  que tiver conselho de administração poderá  mantê-lo, competindo -
+A companhia que tiver conselho de administração poderá mantê-lo, competindo-
 lhe nomear o liquidante.
 
 3.2. Funcionamento do Conselho Fiscal
@@ -3144,9 +3144,9 @@ necessário “quorum”, mínimo, de metade das ações com direito de voto.
 A ata da assembleia geral extraordinária que deliberar sobre a dissolução deverá
 registrar as decisões tomadas e, especificamente:
 I - a nomeação do liquidante, qualificando-o (nacionalidade, estado civil - no caso de união
-estável, citar o estado civil), profissão, nº de identidade -órgão expedidor- UF, nº do CPF e
+estável, citar o estado civil), profissão, nº de identidade-órgão expedidor- UF, nº do CPF e
 endereço completo);
-II - a eleição  do conselho fiscal, se requerida a sua  instalação ou funcionamento,
+II - a eleição do conselho fiscal, se requerida a sua instalação ou funcionamento,
 qualificando os seus membros; e
 III - o acréscimo à denominação da expressão “Em liquidação”.
 
@@ -3156,7 +3156,7 @@ EXTINÇÃO
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
 1.1. CERTIDÃO OU CÓPIA DA ATA DA AGE
 Certidão ou cópia da ata da AGE que deliberou aprovar o encerramento da
-liquidação, e consequente extinção  da companhia, autenticada  pelo presidente ou
+liquidação, e consequente extinção da companhia, autenticada pelo presidente ou
 secretário da assembleia, com a aprovação prévia do órgão governamental competente,
 quando for o caso;
 ou
@@ -3175,7 +3175,7 @@ I - prestação de contas do liquidante; e
 II - se aprovadas as contas, declaração do encerramento da liquidação e a da extinção da
 sociedade.
 O arquivamento que deliberou a extinção da sede, que contêm filiais na unidade da
-federação da sede e/ou fora da unidade da federação da sede, considerar -se-á extinta
+federação da sede e/ou fora da unidade da federação da sede, considerar-se-á extinta
 quando da aprovação do ato.
 
 4. EXTINÇÃO DA SOCIEDADE POR SENTENÇA JUDICIAL
@@ -3193,7 +3193,7 @@ sociedade serão arquivados somente mediante requerimento do acionista, administ
 do representante legal ou do procurador. (Redação dada pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024
 
-Nota: Somente os requerimentos de averbação de pré -penhora feita pelo exequente (art.
+Nota: Somente os requerimentos de averbação de pré-penhora feita pelo exequente (art.
 828 e seguintes do Código de Processo Civil); termo ou ordem judicial de penhora de
 quotas; formal/escritura de partilha feito por cônjuge ou herdeiro para conservação de
 direitos e oposição a terceiros; bem como outras decisões judiciais, são exceção à regra do
@@ -3221,7 +3221,7 @@ III - pelo menos uma via deverá ser original.
 Somente é obrigatório o arquivamento de procuração nomeando preposto quanto
 houver limitações contidas na outorga de poderes, para serem opostas a terceiros, salvo se
 provado serem conhecidas da pessoa que tratou com o gerente (art. 1.174 do Código Civil).
-A modificação ou  revogação do mandato  deve, também, ser  arquivada, para o
+A modificação ou revogação do mandato deve, também, ser arquivada, para o
 mesmo efeito e com idêntica ressalva (parágrafo único do art. 1.174 do Código Civil).
 
 3. CONTRATO DE ALIENAÇÃO, USUFRUTO OU ARRENDAMENTO DE ESTABELECIMENTO
@@ -3232,7 +3232,7 @@ poderá ser em forma de extrato, desde que expressamente autorizada no contrato.
 
 4. CARTA DE EXCLUSIVIDADE
 O documento apresentado para arquivamento na Junta Comercial e que tenha por
-finalidade fazer  prova que o interessado detém a exclusividade sobre algum produto ou
+finalidade fazer prova que o interessado detém a exclusividade sobre algum produto ou
 serviço, deverá atender os seguintes requisitos:
 I - o documento deverá ser produzido pelo agente concedente da exclusividade sobre o
 produto ou sobre o serviço, na forma de “Carta de Exclusividade”, ou; documento que
@@ -3242,7 +3242,7 @@ II - pelo menos uma via do documento deverá ser original; e
 III - o documento oriundo do exterior, além atender os itens I e II acima, deverá também
 conter: o visto do Consulado Brasileiro no País de origem ou a apostila nos termos da
 Convenção sobre a Eliminação da Exigência de Legalização de Documentos Públicos
-Estrangeiros, celebrada em Haia,  em 5 de outubro de 1961,  e ser acompanhado da
+Estrangeiros, celebrada em Haia, em 5 de outubro de 1961, e ser acompanhado da
 tradução, feita por tradutor público juramentado.
 
 5. RECUPERAÇÃO JUDICIAL E FALÊNCIA
@@ -3254,8 +3254,8 @@ Cabe à Junta Comercial efetuar a anotação pertinente (cadastro), alterando o 
 empresarial para inserir a expressão “em recuperação judicial” ou “falido”, conforme o
 caso, não podendo a empresa, após a anotação, cancelar o seu registro.
 Na recuperação judicial, a Junta Comercial poderá arquivar alterações do ato
-constitutivo, desde  que não importem em alienação de  bens do ativo permanente, salvo
-com autorização  do Juiz competente ou aqueles relacionados no plano de recuperação
+constitutivo, desde que não importem em alienação de bens do ativo permanente, salvo
+com autorização do Juiz competente ou aqueles relacionados no plano de recuperação
 judicial.
 
 6. DECISÕES JUDICIAIS E ADMINISTRATIVAS
@@ -3283,7 +3283,7 @@ de dezembro de 2019).
 
 7. ESCRITURA DE DEBÊNTURES
 Para emissão de debêntures é necessário o registro da certidão ou cópia da ata da
-assembleia geral  ou da reunião do conselho de administração, que deliberou sobre a
+assembleia geral ou da reunião do conselho de administração, que deliberou sobre a
 
 100
 emissão na Junta Comercial da sede da companhia e arquivamento da escritura de emissão
@@ -3321,7 +3321,7 @@ ainda, mediante o recebimento da transferência do clube ou da pessoa jurídica 
 seus ativos, tais como, mas não exclusivamente, nome, marca, dísticos, símbolos,
 propriedades, patrimônio, ativos imobilizados e mobilizados, inclusive registros, licenças,
 direitos desportivos sobre atletas e sua repercussão econômica. Nessa hipótese, o clube ou
-a pessoa jurídica original irá constituir uma SAF e  transferir-lhe patrimônio para
+a pessoa jurídica original irá constituir uma SAF e transferir-lhe patrimônio para
 integralização do capital subscrito, nos moldes do art. 27, § 2º da Lei 9.615, de 1998.
 
 Notas:
@@ -3364,7 +3364,7 @@ a obtenção de receitas decorrentes da transação dos seus direitos desportivo
 
 103
 III - a exploração, sob qualquer forma, dos direitos de propriedade intelectual de sua
-titularidade ou dos quais seja cessionária, incluídos os cedidos pelo clube  ou pessoa
+titularidade ou dos quais seja cessionária, incluídos os cedidos pelo clube ou pessoa
 jurídica original que a constituiu;
 IV - a exploração de direitos de propriedade intelectual de terceiros, relacionados ao
 futebol;
@@ -3383,30 +3383,30 @@ expressão "Sociedade Anônima do Futebol" ou a abreviatura "S.A.F.".
 5. CAPITAL SOCIAL
 O capital social, expresso em moeda nacional, deve constar do estatuto social,
 contudo, o clube ou pessoa jurídica original poderá integralizar a sua parcela ao capital
-social por meio da transferência  à companhia de seus ativos, tais como, mas não
+social por meio da transferência à companhia de seus ativos, tais como, mas não
 exclusivamente, nome, marca, dísticos, símbolos, propriedades, patrimônio, ativos
 imobilizados e mobilizados, inclusive registros, licenças, direitos desportivos sobre atletas e
 sua repercussão econômica.
 Nos termos da Lei nº 9.615, de 1998, as entidades de prática desportiva
-participantes de competições  profissionais e as entidades de administração de desporto ou
+participantes de competições profissionais e as entidades de administração de desporto ou
 ligas, independentemente da forma jurídica adotada, poderão utilizar seus bens
 patrimoniais, desportivos ou sociais, inclusive imobiliários ou de propriedade intelectual,
 para integralizar sua parcela no capital de Sociedade Anônima do Futebol.
 
 Notas:
 I. O acionista controlador da Sociedade Anônima do Futebol, individual ou integrante de
-acordo de controle,  não poderá deter participação, direta ou indireta, em outra Sociedade
+acordo de controle, não poderá deter participação, direta ou indireta, em outra Sociedade
 
 104
 Anônima do Futebol.
 II. O acionista que detiver 10% (dez por cento) ou mais do capital votante ou total da
-Sociedade Anônima do Futebol, sem a controlar,  se participar do capital  social de outra
+Sociedade Anônima do Futebol, sem a controlar, se participar do capital social de outra
 Sociedade Anônima do Futebol, não terá direito a voz nem a voto nas assembleias gerais,
 nem poderá participar da administração dessas companhias, diretamente ou por pessoa
 por ele indicada.
 
 6. ASSEMBLEIA GERAL (DELIBERAÇÕES SOCIAIS)
-Enquanto as ações ordinárias  da classe A corresponderem a pelo menos 10% (dez
+Enquanto as ações ordinárias da classe A corresponderem a pelo menos 10% (dez
 por cento) do capital social votante ou do capital social total, o voto afirmativo do seu
 titular no âmbito da assembleia geral será condição necessária para a Sociedade Anônima
 do Futebol deliberar sobre:
@@ -3462,7 +3462,7 @@ Anônima do Futebol.
 A Sociedade Anônima do Futebol que tiver receita bruta anual de até R$
 78.000.000,00 (setenta e oito milhões de reais) poderá realizar todas as publicações
 obrigatórias por lei de forma eletrônica, incluídas as convocações, atas e demonstrações
-financeiras, e deverá mantê -las, no próprio sítio eletrônico, durante o prazo de 10 (dez)
+financeiras, e deverá mantê-las, no próprio sítio eletrônico, durante o prazo de 10 (dez)
 anos.
 
 106
@@ -3476,22 +3476,22 @@ MODELOS DE DECLARAÇÕES DE QUE TRATA O PARÁGRAFO
 1. Sociedade que tenha como objeto a radiodifusão sonora ou de sons e imagens
 Para os efeitos do parágrafo único, inciso I, do art. 42 do Decreto nº 85.064, de 26 de agosto
 de 1980, com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso I, do
-subitem 2.1.1., do item  2 do Capítulo do Manual de Registro de Sociedade Anônima,
+subitem 2.1.1., do item 2 do Capítulo do Manual de Registro de Sociedade Anônima,
 aprovado pela Instrução Normativa DREI nº 81, de 2020, a sociedade   inscrita
 sob o CNPJ nº             , representada por seus acionistas/administrador                 ,
 nacionalidade  , inscrito no CPF sob o nº  , declara, sob as penas da Lei,
 que:
-- NÃO POSSUI / POSSUI  outorga para a exploração de serviços de radiodifusão sonora ou
+- NÃO POSSUI / POSSUI outorga para a exploração de serviços de radiodifusão sonora ou
 de sons e imagens, na Faixa de Fronteira; e
 - ATENDE aos limites percentuais de participação estrangeira estabelecidos no § 1º do art.
 222 da Constituição, no sentido de que, pelo menos setenta por cento do capital total e do
-capital votante pertence,  direta ou indiretamente, a brasileiros natos ou naturalizados
+capital votante pertence, direta ou indiretamente, a brasileiros natos ou naturalizados
 há mais de dez anos, que exercem obrigatoriamente a gestão das atividades.
 
 2. Sociedade que tenha como objeto a mineração:
 Para os efeitos do parágrafo único, inciso I, do art. 42 do Decreto nº 85.064, de 26 de agosto
 de 1980, com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso I, do
-subitem 2.1.1., do item  2 do Capítulo do Manual de Registro de Sociedade Anônima,
+subitem 2.1.1., do item 2 do Capítulo do Manual de Registro de Sociedade Anônima,
 aprovado pela Instrução Normativa DREI nº 81, de 2020, a sociedade   inscrita
 sob o CNPJ nº             , representada por seus acionistas/administrador                ,
 nacionalidade  , inscrito no CPF sob o nº  , declara, sob as penas da Lei,
@@ -3502,14 +3502,14 @@ Faixa de Fronteira; e
 
 107
 - ATENDE às condições estabelecidas no art. 3º da Lei nº 6.634, de 1979, ou seja: i) pelo
-menos 51% (cinquenta  e um por cento) do capital é de titularidade de brasileiros; ii) pelo
+menos 51% (cinquenta e um por cento) do capital é de titularidade de brasileiros; ii) pelo
 menos 2/3 (dois terços) de trabalhadores são brasileiros; e iii) a administração é exercida
 em maioria por brasileiros, assegurados a estes os poderes predominantes.
 
 3. Sociedade que tenha como objeto a colonização e loteamento rural:
 Para os efeitos do parágrafo único, inciso III, do art. 42 do Decreto nº 85.064, de 26 de
 agosto de 1980, com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso
-III, do subitem 2.1.1.,  do item 2 do Capítulo do Manual de Registro de Sociedade Anônima,
+III, do subitem 2.1.1., do item 2 do Capítulo do Manual de Registro de Sociedade Anônima,
 aprovado pela Instrução Normativa DREI nº 81, de 2020, a sociedade             inscrita
 sob o CNPJ nº             , representada por seus acionistas/administrador             ,
 nacionalidade             , inscrito no CPF sob o nº            , declara, sob as penas da

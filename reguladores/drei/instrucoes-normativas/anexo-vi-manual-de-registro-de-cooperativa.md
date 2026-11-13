@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/anexo-vi-cooperativa_link.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Anexo VI - Manual de Registro de Cooperativa
@@ -243,12 +243,12 @@ documento será exigido, além dos abaixo especificados, conforme o caso:
 
 1.1. REQUERIMENTO (CAPA DO PROCESSO)
 Os pedidos de registro serão levados a arquivamento mediante requerimento
-dirigido ao  Presidente da Junta Comercial, assinado pelo presidente ou procurador, com
+dirigido ao Presidente da Junta Comercial, assinado pelo presidente ou procurador, com
 poderes gerais ou específicos, ou por terceiro interessado obrigatoriamente identificado
 (nome completo por extenso, CPF, e-mail e telefone).
 
 Nota: No caso de registro digital não é necessária a utilização desse requerimento,
-podendo o sis - tema eletrônico utilizado pela Junta Comercial consolidar os dados do ato
+podendo o sis- tema eletrônico utilizado pela Junta Comercial consolidar os dados do ato
 levado a arquivamento e                                            solicitar a assinatura digital do requerente.
 
 1.2. PROCURAÇÃO
@@ -259,7 +259,7 @@ I. No caso de outorgante analfabeto e de relativamente incapaz, a procuração d
 passada por instrumento público.
 II. A procuração poderá, a critério do interessado, apenas instruir o requerimento, devendo
 ser anexada ao ato (preferencialmente, utilizando-se o evento específico) a ser arquivado,
-ou ser arquivada em processo separado (utilizando -se o ato específico). Nesta última
+ou ser arquivada em processo separado (utilizando-se o ato específico). Nesta última
 hipótese, com pagamento do preço do serviço devido.
 III. O arquivamento de procuração em ato próprio dispensa a sua juntada em atos
 posteriores, desde que citado no instrumento que se pretende registrar o número do
@@ -278,7 +278,7 @@ apresentação deste documento.
 1.4. CONSULTA DE VIABILIDADE DEFERIDA EM UMA VIA OU PESQUISA DE NOME
 EMPRESARIAL (BUSCA PRÉVIA)
 Deverá ser apresentada juntamente com os instrumentos de constituição e
-alteração, neste último caso quando houver modificação  do nome empresarial, objeto
+alteração, neste último caso quando houver modificação do nome empresarial, objeto
 social e/ou endereço.
 Quando necessária, deverá ser apresentada juntamente com os instrumentos de
 constituição e alteração, neste último caso quando houver modificação do nome
@@ -295,15 +295,15 @@ apresentação deste do- cumento. (Redação dada pela Instrução Normativa DRE
 2 de junho de 2021)
 II. Nos termos da Resolução nº 61, de 2020, do CGSIM, a pesquisa prévia de nome
 empresarial será dispensada na hipótese de a pessoa jurídica optar por utilizar o número
-do Cadastro Nacional de  Pessoa Jurídica - CNPJ como nome empresarial, seguido da
-partícula identificadora do tipo societá - rio. (Incluído pela Instrução Normativa DREI nº 55,
+do Cadastro Nacional de Pessoa Jurídica - CNPJ como nome empresarial, seguido da
+partícula identificadora do tipo societá- rio. (Incluído pela Instrução Normativa DREI nº 55,
 de 2 de junho de 2021)
 
 9
 
 III. Para os fins do inciso II, quando se tratar de constituição, deverá indicar no ato
 constitutivo que irá utilizar o número do CNPJ como nome empresarial. Por sua vez, cabe a
-Junta Comercial, após a  criação do CNPJ, atualizar o cadastro da sociedade com número do
+Junta Comercial, após a criação do CNPJ, atualizar o cadastro da sociedade com número do
 CNPJ acrescida da partícula iden- tificadora do tipo societário. (Incluído pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021)
 IV. Em se tratando de viabilidade locacional, deverá ser observada os casos de dispensa
@@ -320,7 +320,7 @@ A prova do recolhimento do preço do serviço da Junta Comercial será anexada a
 processo ou terá seus dados informados na Capa do Processo ou Requerimento Eletrônico,
 quando não for possível sua verificação por rotina automatizada.
 
-1.7. ASSENTIMENTO PRÉVIO DO  CONSELHO DE DEFESA NACIONAL  (Revogado pela
+1.7. ASSENTIMENTO PRÉVIO DO CONSELHO DE DEFESA NACIONAL (Revogado pela
 Instrução Normativa DREI/ME nº 88, de 23 de dezembro de 2022)
 Observar a tabela constante do item 2.1 deste Capítulo.
 
@@ -341,17 +341,17 @@ quando da análise do registro pelas Juntas Comerciais, conforme parágrafo úni
 da Lei nº 8.934, de 1994. Contudo, dependem de aprovação prévia para seu funcionamento,
 devendo, portanto, ser observadas as respectivas legislações.
 Nos termos art. 9º e §§ da Instrução Normativa DREI nº 81, de 2020, o arquivamento
-dos instrumentos  de constituição, alteração e extinção de cooperativa que
-contenha atividade  regulada por órgãos públicos, não depende de autorização
-governamental, contudo,  as Juntas Comerciais deverão realizar comunicação aos
+dos instrumentos de constituição, alteração e extinção de cooperativa que
+contenha atividade regulada por órgãos públicos, não depende de autorização
+governamental, contudo, as Juntas Comerciais deverão realizar comunicação aos
 órgãos públicos que demonstrarem interesse, nos termos do § 1º do art. 35 da Lei nº
-8.934, de 1994.  (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
+8.934, de 1994. (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
 A cooperativa que depende de aprovação prévia de órgãos públicos para
 o funcionamento (início da atividade), devem observar as respectivas legislações.
 (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 O DREI disponibilizará em seu portal eletrônico listagem com os "ATOS
-SUJEITOS A APROVAÇÃO  DE ÓRGÃOS  E ENTIDADES  GOVERNAMENTAIS PARA
+SUJEITOS A APROVAÇÃO DE ÓRGÃOS E ENTIDADES GOVERNAMENTAIS PARA
 FUNCIONAMEN
 contendo informações gerais sobre as atividades reguladas. (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
@@ -363,7 +363,7 @@ Instrução Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 Os atos de constituição e as alterações, inclusive abertura de filiais na Faixa de
 Fronteira, não dependem de assentimento prévio para que possam ser registrados pela
 Junta Comercial, conforme previsão do parágrafo único do art. 35 da Lei nº 8.934, de 1994,
-e do art. 42 do Decreto nº 85.064,  de 26  de agosto  de 1980, com redação  dada pelo
+e do art. 42 do Decreto nº 85.064, de 26 de agosto de 1980, com redação dada pelo
 Decreto nº 11.076, de 20 de maio de 2022.
 
 2.1.1. Alterações que impliquem na modificação da composição do capital societário
@@ -373,7 +373,7 @@ ou de sua administração
 
 Para os fins do disposto no art. 5º da Lei nº 6.634, de 1979, as Juntas Comerciais,
 quando do pedido de arquivamento de alterações que impliquem modificação da
-composição do capital societário  ou de sua administração, deverão solicitar as seguintes
+composição do capital societário ou de sua administração, deverão solicitar as seguintes
 declarações:
 
 I - na hipótese de sociedade de radiodifusão sonora ou de sons e imagens:
@@ -410,13 +410,13 @@ impede o arquivamento do ato.
 IV - Na ausência da declaração prevista na alínea "b" dos incisos I, II e III do item 2.1.1, o
 arquiva- mento deve ser colocado em exigência.
 V - As Juntas Comerciais irão promover o registro dos atos de alteração da cooperativa;
-contudo, deverão realizar comunicação, nos termos do art. 49 -B do Decreto nº 85.064, de
+contudo, deverão realizar comunicação, nos termos do art. 49-B do Decreto nº 85.064, de
 26 de agosto de 1980.
 
 2.1.2. Procedimento de bloqueio
 No exercício das atividades que envolvam assuntos sujeito à aprovação
-governamental, o  órgão federal controlador da atividade, comunicará ao Departamento
-Nacional de Registro Empre sarial e Integração, mediante ofício que contenha, inclusive, as
+governamental, o órgão federal controlador da atividade, comunicará ao Departamento
+Nacional de Registro Empresarial e Integração, mediante ofício que contenha, inclusive, as
 medidas exigidas para a regularidade do ato.
 Após comunicação do DREI, a Junta Comercial lançará o consequente bloqueio, em
 virtude das irregularidades apontadas pelo órgão federal controlador, até que a empresa
@@ -430,9 +430,9 @@ irregularidade apontada pelo órgão federal controlador.
 2.1.3. Atualização cadastral
 Para fins de atender a disposição contida nos arts. 10 e 17 do Decreto nº 85.064, de
 1980, as sociedades titulares de outorga para exploração de serviços de radiodifusão
-sonora e de sons e  imagens ou execução das atividades de pesquisa, de lavra, de
-exploração e de aproveitamento de  recursos minerais, inclusive de lavra garimpeira, na
-Faixa de Fronteira, deverão arquivar formulário padronizado, em código  de ato  e evento
+sonora e de sons e imagens ou execução das atividades de pesquisa, de lavra, de
+exploração e de aproveitamento de recursos minerais, inclusive de lavra garimpeira, na
+Faixa de Fronteira, deverão arquivar formulário padronizado, em código de ato e evento
 específico, apresentando os seguintes dados:
 I - à sua administração e gerência;
 II - à sua cadeia de participação societária;
@@ -446,7 +446,7 @@ IV - àqueles autorizados a representar as pessoas de que tratam os incisos I, I
 3. RESTRIÇÕES E IMPEDIMENTOS AOS ESTRANGEIROS
 Observar a tabela abaixo para o arquivamento de atos societários de que conste
 participação de estrangeiros residentes e domiciliados no Brasil, pessoas físicas, brasileiras
-ou estrangeiras, residentes e  domiciliadas no exterior e pessoas jurídicas com sede no
+ou estrangeiras, residentes e domiciliadas no exterior e pessoas jurídicas com sede no
 exterior.
 
 RESTRIÇÕES E IMPEDIMENTOS BASE LEGAL
@@ -470,9 +470,9 @@ art. 23 da Lei nº 8.080, de 19 de setembro de
 1990.
 EMPRESA DE NAVEGAÇÃO DE CABOTAGEM
 Somente brasileiro poderá ser titular de empresário individual de navega-
-ção de cabotagem. Tratando -se de sociedade empresária, cinquenta por
-cento mais uma quota ou ação, no mínimo, deverão pertencer a brasilei -
-ros. Em qualquer caso, a administração deverá ser constituída com a mai -
+ção de cabotagem. Tratando-se de sociedade empresária, cinquenta por
+cento mais uma quota ou ação, no mínimo, deverão pertencer a brasilei-
+ros. Em qualquer caso, a administração deverá ser constituída com a mai-
 oria de brasileiros, ou a brasileiros deverão ser delegados todos os poderes
 de gerência.
 
@@ -491,7 +491,7 @@ sociedade cujo capital pertença exclusiva e nominalmente a brasileiros. Tal
 par- ticipação só se efetuará através de capital sem direito a voto e não
 poderá exceder a trinta por cento do capital social. Tratando-se de
 estrangeiro de nacionalidade portuguesa, segundo o Estatuto de
-Igualdade, são vedadas  a responsabilidade e a orientação intelectual e
+Igualdade, são vedadas a responsabilidade e a orientação intelectual e
 administrativa, em empresas jornalísticas e de empresas de radiodifusão
 sonora e de sons e imagens.
 
@@ -502,8 +502,8 @@ Lei nº 10.610, de 20 de dezembro 2002.
 14
 
 EMPRESAS DE MINERAÇÃO E DE ENERGIA HIDRÁULICA
-A pesquisa e a lavra de recursos minerais e o aproveitamento dos poten -
-ciais de energia hidráulica somente poderão ser efetuados mediante au -
+A pesquisa e a lavra de recursos minerais e o aproveitamento dos poten-
+ciais de energia hidráulica somente poderão ser efetuados mediante au-
 torização ou concessão da União, no interesse nacional, por brasileiros ou
 empresa constituída sob as leis brasileiras e que tenha sua sede e adminis-
 tração no País.
@@ -512,16 +512,16 @@ art. 176, § 1º, da Constituição Federal.
 SISTEMA FINANCEIRO NACIONAL
 Não havendo autorização específica do governo brasileiro, é vedada a ins-
 talação, no país, de novas agências de instituições financeiras domiciliadas
-no exterior. É igualmente vedado o aumento do percentual de participa -
+no exterior. É igualmente vedado o aumento do percentual de participa-
 ção de pessoas físicas ou jurídicas residentes ou domiciliadas no exterior
-no capital de instituições financeiras com sede no país, sem a referida au -
+no capital de instituições financeiras com sede no país, sem a referida au-
 torização. O governo brasileiro poderá emitir decreto autorizando, de
 forma específica, as condutas descritas acima, quando resultantes de acor-
-dos internacionais, de reciprocidade, ou quando for de interesse do Go -
+dos internacionais, de reciprocidade, ou quando for de interesse do Go-
 verno brasileiro.
 Nota: Nos termos do Decreto nº 10.029, de 2019, o Banco Central do Brasil
 fica autorizado a reconhecer como de interesse do Governo brasileiro:
-I - a instalação, no País, de novas agências de instituições financeiras do -
+I - a instalação, no País, de novas agências de instituições financeiras do-
 miciliadas no exterior; e
 II - o aumento do percentual de participação, no capital de instituições fi-
 nanceiras com sede no País, de pessoas físicas ou jurídicas residentes ou
@@ -541,10 +541,10 @@ de janeiro de 2007.
 SOCIEDADE ANÔNIMA - QUALQUER ATIVIDADE
 O imigrante poderá ser membro dos órgãos de administração, contudo,
 somente poderá ser diretor e membro de conselho fiscal se residir no Bra-
-sil. A posse dos membros dos órgãos de administração residentes ou do -
+sil. A posse dos membros dos órgãos de administração residentes ou do-
 miciliados no exterior fica condicionada à constituição de representante
-residente no País. A subsidiária integral terá como único acionista socie -
-dade brasileira. Tratando-se de grupo de sociedades, a sociedade contro -
+residente no País. A subsidiária integral terá como único acionista socie-
+dade brasileira. Tratando-se de grupo de sociedades, a sociedade contro-
 ladora, ou de comando do grupo, deverá ser brasileira.
 
 arts. 146, 162 e 251 da Lei nº 6.404, de 15 de
@@ -554,18 +554,18 @@ EMPRESA DE RADIODIFUSÃO SONORA E DE SONS E IMAGENS
 O capital da empresa de radiodifusão sonora e de sons e imagens, na faixa
 de fronteira, pertencerá somente a pessoas físicas brasileiras. A responsa-
 bilidade e orientação intelectual e administrativa caberão somente a bra-
-sileiros. As quotas ou ações representativas do capital social serão inalie -
+sileiros. As quotas ou ações representativas do capital social serão inalie-
 náveis e incaucionáveis a estrangeiros ou a pessoas jurídicas.
 EMPRESA DE MINERAÇÃO
-A sociedade empresária  de mineração  deverá fazer constar expressa-
+A sociedade empresária de mineração deverá fazer constar expressa-
 mente de seu estatuto ou contrato social que, pelo menos, cinquenta e
 um por cento do seu capital pertencerá a brasileiros e que a administração
 ou gerência caberá sempre a maioria de brasileiros, assegurados a estes
 poderes predominantes. No caso de empresário individual, só a brasileiro
-será permitido o estabelecimento ou exploração das atividades de mine -
+será permitido o estabelecimento ou exploração das atividades de mine-
 ração na faixa de fronteira. A administração ou gerência caberá sempre a
 brasileiros, sendo vedada a delegação de poderes, direção ou gerência a
-estrangeiros, ainda que por procuração outorgada pela sociedade ou em -
+estrangeiros, ainda que por procuração outorgada pela sociedade ou em-
 presário individual.
 
 art. 3º, incisos I e III, da Lei nº 6.634, de 2 de
@@ -581,19 +581,19 @@ arts. 10, 15, 17, 18 e 23 do Decreto nº
 
 EMPRESA DE COLONIZAÇÃO E LOTEAMENTOS RURAIS
 Salvo assentimento prévio do órgão competente, será vedada, na Faixa de
-Fronteira, a prática dos atos referentes a: colonização e loteamentos ru -
+Fronteira, a prática dos atos referentes a: colonização e loteamentos ru-
 rais. Na Faixa de Fronteira, as empresas que se dedicarem às atividades
 acima, deverão obrigatoriamente ter pelo menos cinquenta e um por
 cento pertencente a brasileiros e caber à administração ou gerência à mai-
 oria de brasileiros, assegurados a estes os poderes predominantes.
 
-EMPRESAS EM MUNICÍPIO  LOCALIZADO  TOTAL O U
+EMPRESAS EM MUNICÍPIO LOCALIZADO TOTAL O U
 PARCIALMENTE NA FAIXA DE FRONTEIRA (Redação dada pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
-EMPRESA DE RADIODIFUSÃO SONORA  E DE SONS E IMAGENS
+EMPRESA DE RADIODIFUSÃO SONORA E DE SONS E IMAGENS
 (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
-A propriedade de empresa jornalística e de  radiodifusão sonora e de
+A propriedade de empresa jornalística e de radiodifusão sonora e de
 sons e imagens é privativa de brasileiros natos ou naturalizados há
 mais de dez anos, ou de pessoas jurídicas constituídas sob as leis
 brasileiras e que tenham sede no País.
@@ -656,8 +656,8 @@ II - pelo menos 2/3 (dois terços) de trabalhadores serem brasileiros;
 e
 III - caber a administração ou gerência a maioria de brasileiros,
 assegurados a estes os poderes predominantes.
-As empresas constituídas sob a forma de sociedade anônima  deverão,
-ainda, fazer constar em seu estatuto  social que as ações
+As empresas constituídas sob a forma de sociedade anônima deverão,
+ainda, fazer constar em seu estatuto social que as ações
 representativas do capital social revestirão sempre a forma nominativa.
 
 art. 3º, I e III, da Lei nº 6.634, de 1979; e
@@ -679,11 +679,11 @@ instrumento público de constituição.
 
 Notas:
 I. Para fins de registro, deverá ser apresentada cópia/certidão da ata autenticada pelo
-presidente ou secretário da assembleia, facultada  a assinatura dos demais associados
+presidente ou secretário da assembleia, facultada a assinatura dos demais associados
 presentes.
 II. Os anexos à Ata poderão, a critério do interessado, apenas instruir o requerimento ou
-ser arqui - vados em processo separado, exceto o estatuto quando não transcrito na Ata,
-que deverá necessariamente ser  arquivado em  processo separado, com tramitação
+ser arqui- vados em processo separado, exceto o estatuto quando não transcrito na Ata,
+que deverá necessariamente ser arquivado em processo separado, com tramitação
 vinculada.
 
 1.2. ESTATUTO SOCIAL
@@ -699,11 +699,11 @@ na Ordem dos Advogados do Brasil.
 
 18
 
-ASSOCIADOS ELEI-TOS DOS ÓRGÃOS DE  ADMINISTRAÇÃO E FISCALIZAÇÃO, SALVO  SE
+ASSOCIADOS ELEI-TOS DOS ÓRGÃOS DE ADMINISTRAÇÃO E FISCALIZAÇÃO, SALVO SE
 CONSTAR NA ATA
 
 1.4. CÓPIA DA IDENTIDADE DOS ADMINISTRADORES (CONSELHEIROS DE
-ADMINISTRAÇÃO OU DI RETORES) - vide art. 2º da Lei  nº 12.037, de 1º de  outubro de
+ADMINISTRAÇÃO OU DI RETORES) - vide art. 2º da Lei nº 12.037, de 1º de outubro de
 2009.
 
 2. ASPECTOS CONCEITUAIS
@@ -736,7 +736,7 @@ Para constituição de uma cooperativa singular é necessário o mínimo de vint
 pessoas físicas, sendo, excepcionalmente, permitida a admissão de pessoas jurídicas; três
 cooperativas singulares para formar uma cooperativa central ou federação, podendo
 admitir, excepcionalmente, associados individuais; e, no mínimo, três cooperativas
-centrais ou federações de cooperativas, da  mesma ou de diferentes modalidades, para
+centrais ou federações de cooperativas, da mesma ou de diferentes modalidades, para
 formarem uma confederação de cooperativas (art. 6º da Lei nº 5.764, de 1971).
 No caso das cooperativas de trabalho, o número mínimo necessário para sua
 constituição será de sete associados (art. 6º da Lei nº 12.690, de 19 de julho de 2012).
@@ -745,8 +745,8 @@ constituição será de sete associados (art. 6º da Lei nº 12.690, de 19 de ju
 4.1. PESSOA FÍSICA
 O ingresso nas cooperativas é livre a todos que desejarem utilizar dos serviços
 prestados pela sociedade, desde que adiram aos propósitos sociais e preencham as
-condições estabelecidas  no estatuto. O número de associados é ilimitado, salvo
-impossibilidade técnica de prestação de ser- viços (art. 6º do inciso I, e art. 29 da Lei  nº
+condições estabelecidas no estatuto. O número de associados é ilimitado, salvo
+impossibilidade técnica de prestação de ser- viços (art. 6º do inciso I, e art. 29 da Lei nº
 5.764, de 1971).
 
 Nota: A vedação da sociedade entre cônjuges contida no art. 977 do Código Civil não se
@@ -762,8 +762,8 @@ As pessoas jurídicas que forem admitidas deverão ser sediadas na respectiva á
 de opera ções da Sociedade Cooperativa.
 Não poderão ser admitidas as pessoas jurídicas que operem no mesmo campo
 econômico da Sociedade Cooperativa, exceto aquelas que pratiquem as mesmas
-atividades econômicas das  pessoas físicas associadas às cooperativas de pesca e nas
-constituídas por produtores rurais ou ex trativistas, bem como de eletrificação, irrigação e
+atividades econômicas das pessoas físicas associadas às cooperativas de pesca e nas
+constituídas por produtores rurais ou extrativistas, bem como de eletrificação, irrigação e
 telecomunicação, nestes últimos casos, desde que sediadas na área de operações da
 Sociedade Cooperativa (§§ 2º, 3º e 4º do art. 29 da Lei nº 5.764, de 1971).
 
@@ -779,7 +779,7 @@ outro, com       exclusividade, representar os associados menores de dezesseis a
 assisti-los até com pletarem a maioridade.
 Quando o associado for representado ou assistido, deverá ser indicada a condição e
 qualifi- cação desses, em seguida à qualificação do associado, incluindo: nome civil,
-nacionalidade, estado  civil, profissão, nº e órgão expedidor da RG, nº do CPF e endereço
+nacionalidade, estado civil, profissão, nº e órgão expedidor da RG, nº do CPF e endereço
 completo (alínea “d” do inc. III do art. 53 do Decreto nº 1.800, de 1996).
 De forma excepcional, na falta de um deles, poderá ser representado pelo outro.
 Nesses casos, caberá a parte interessada declarar o motivo da falta no instrumento,
@@ -796,7 +796,7 @@ Normativa DREI nº 01, de 24 de janeiro de 2024)
 Quando o associado for representado ou assistido, deverá ser indicada a condição
 e qualiﬁcação desses, em seguida à qualiﬁcação do associado, incluindo: nome civil,
 nacionalidade, estado civil, proﬁssão, nº e órgão expedidor da RG, nº do CPF e endereço
-completo (alínea “d” do inc. III do art. 53 do Decreto nº 1.800, de 1996).  (Redação dada
+completo (alínea “d” do inc. III do art. 53 do Decreto nº 1.800, de 1996). (Redação dada
 pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 
 6. EMANCIPAÇÃO
@@ -813,15 +813,15 @@ nº 5.764, de 1971).
 7.2. POR DELEGADOS
 Nas cooperativas singulares pode o estatuto estabelecer que os sócios sejam
 representados nas Assembleias por delegados que tenham a qualidade de associados no
-gozo de seus direitos sociais  e não  exerçam cargos eletivos  na sociedade,  somente nos
+gozo de seus direitos sociais e não exerçam cargos eletivos na sociedade, somente nos
 seguintes casos:
 I - quando o número de associados exceder a três mil (§ 2º do art. 42 da Lei nº 5.764, de
 1971).
 II - quando existir filiados residindo a mais de cinquenta quilômetros da sede (§ 4º do art.
 42 da Lei nº 5.764, de 1971).
 O estatuto deve determinar o número de delegados, a época e forma de sua
-escolha por  grupos seccionais de associados de igual número e o tempo de duração da
-delegação. Os demais  associados poderão comparecer à assembleia, contudo privados de
+escolha por grupos seccionais de associados de igual número e o tempo de duração da
+delegação. Os demais associados poderão comparecer à assembleia, contudo privados de
 voz e voto (§§ 3º e 5º do art. 42 da Lei nº 5.764, de 1971).
 As assembleias gerais compostas por delegados decidem sobre todas as matérias
 que, nos termos da lei ou do estatuto, constituem objeto de decisão da assembleia geral
@@ -874,19 +874,19 @@ VII - data do levantamento do balanço geral;
 
 23
 
-VIII - capital social mínimo expresso em moeda corrente nacional;  IX - natureza da
+VIII - capital social mínimo expresso em moeda corrente nacional; IX - natureza da
 responsabilidade dos associados;
 X - direitos e deveres dos associados;
 XI - condições de admissão, demissão, eliminação e exclusão dos associados e normas
 para a representação de associados nas assembleias gerais;
-XII - o capital social mínimo, valor da quota -parte, o mínimo de quotas -partes a ser subs -
+XII - o capital social mínimo, valor da quota-parte, o mínimo de quotas-partes a ser subs-
 crito pelo associado e a forma e prazo de integralização, bem como as condições de sua
 retirada nos casos de demissão, eliminação ou exclusão de associado;
-XIII - fundos obrigatórios e demais fundos que porventura forem criados;  XIV - forma de
+XIII - fundos obrigatórios e demais fundos que porventura forem criados; XIV - forma de
 devolução das sobras ou do rateio das perdas;
 XV - modo de administração e fiscalização, estabelecendo os respectivos órgãos, com defi-
 nição de suas atribuições, poderes e funcionamento, a representação ativa da sociedade
-em juízo ou fora dele, o prazo de mandato, bem como o processo de substituição dos ad -
+em juízo ou fora dele, o prazo de mandato, bem como o processo de substituição dos ad-
 ministradores e conselheiros fiscais;
 XVI - formalidades de convocação das assembleias gerais e a maioria requerida para a sua
 instalação e validade de suas deliberações, vedado o direito de voto aos que nelas tiveram
@@ -898,8 +898,8 @@ XX - número mínimo de associados, nas cooperativas singulares.
 
 A Cooperativa de Trabalho deve garantir aos sócios os seguintes direitos, além de
 outros que a Assembleia Geral venha a instituir:
-I - retiradas não inferiores ao piso da categoria profissional e, na ausência deste, não infe -
-riores ao salário mínimo, calculadas de forma proporcional às horas trabalhadas ou às ati -
+I - retiradas não inferiores ao piso da categoria profissional e, na ausência deste, não infe-
+riores ao salário mínimo, calculadas de forma proporcional às horas trabalhadas ou às ati-
 vidades desenvolvidas;
 II - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro horas
 semanais, exceto quando a atividade, por sua natureza, demandar a prestação de trabalho
@@ -949,12 +949,12 @@ sociedade, so- mente poderá ser invocada depois de judicialmente exigida da coo
 9.3. OBJETO SOCIAL
 A cooperativa deverá delimitar de forma clara e precisa seu objetivo, isto é, quais os serviços
 diretos que serão prestados aos associados, bem como os objetos de funcionamento e
-operacional, reali - zados com fins à consecução do objetivo delineado, informando as
+operacional, reali- zados com fins à consecução do objetivo delineado, informando as
 atividades desenvolvidas (art. 4º, 5º e 7º da Lei nº 5.764, de 1971).
 A cooperativa deverá delimitar seu objetivo, isto é, quais os serviços diretos que
 serão prestados aos associados, bem como os objetos de funcionamento e operacional,
 realizados com fins à consecução do objetivo delineado, informando as atividades
-desenvolvidas (art. 4º, 5º e 7º  da Lei nº 5.764, de 1971). (Redação dada pela Instrução
+desenvolvidas (art. 4º, 5º e 7º da Lei nº 5.764, de 1971). (Redação dada pela Instrução
 Normativa DREI nº 55, de 2 de junho de 2021)
 O objetivo de toda sociedade cooperativa será sempre a prestação direta de
 serviços aos associados, na forma do art. 7º da Lei nº 5.764, de 1971. Os objetos são as
@@ -965,16 +965,16 @@ O capital social da cooperativa é variável, podendo ser integralizado em moeda
 bens, com estipulação de seu valor mínimo e expresso seu montante em moeda corrente
 nacional. O capital social será subdividido em quotas-partes, cujo valor unitário não poderá
 ser superior ao maior salário mínimo vigente no País. Nenhum associado poderá
-subscrever mais de um terço do total das  quotas-partes, salvo nas sociedades em que a
+subscrever mais de um terço do total das quotas-partes, salvo nas sociedades em que a
 subscrição deva ser diretamente proporcional ao mo vimento financeiro do cooperado, ou
-ao quantitativo dos produtos a serem comercializados, bene  ficiados ou transportados, ou
+ao quantitativo dos produtos a serem comercializados, bene ficiados ou transportados, ou
 ainda, em relação à área cultivada ou ao número de plantas e animais em exploração (art.
 24 da Lei nº 5.764, de 1971).
 
 9.5. FUNDOS
 O estatuto deverá estabelecer, obrigatoriamente, a constituição do Fundo de
-Reserva e do  Fundo de Assistência Técnica, Educacional e Social, sendo -lhes cabível o
-percentual mínimo de dez  por cento e cinco por cento, respectivamente, sobre as sobras
+Reserva e do Fundo de Assistência Técnica, Educacional e Social, sendo-lhes cabível o
+percentual mínimo de dez por cento e cinco por cento, respectivamente, sobre as sobras
 líquidas do exercício (art. 28 da Lei nº 5.764, de 1971).
 A Assembleia Geral poderá criar outros fundos, inclusive rotativos, com recursos
 
@@ -1021,7 +1021,7 @@ III. Importante observar o § 4º do art. 3º da Lei Complementar nº 123, de 20
 as vedações para o enquadramento como microempresa (ME) e empresa de pequeno
 porte (EPP), in verbis: (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de
 2024)
-Art. 3º (...) § 4 º Não poderá se beneﬁciar do tratamento jurídico diferenciado previsto nesta Lei
+Art. 3º (...) § 4º Não poderá se beneﬁciar do tratamento jurídico diferenciado previsto nesta Lei
 Complementar, incluído o regime de que trata o art. 12 desta Lei Complementar, para nenhum
 efeito legal, a pessoa jurídica:
 I - de cujo capital participe outra pessoa jurídica;
@@ -1038,7 +1038,7 @@ lucrativos, desde que a receita bruta global ultrapasse o limite de que trata o 
 deste artigo;
 VI - constituída sob a forma de cooperativas, salvo as de consumo;
 VII - que participe do capital de outra pessoa jurídica;
-VIII - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de  caixa
+VIII - que exerça atividade de banco comercial, de investimentos e de desenvolvimento, de caixa
 econômica, de sociedade de crédito, financiamento e investimento ou de crédito imobiliário, de
 corretora ou de distribuidora de titulos, valores mobiliários e câmbio, de empresa de
 arrendamento mercantil, de seguros privados e de capitalização ou de previdência
@@ -1051,9 +1051,9 @@ XI - cujos titulares ou sócios guardem, cumulativamente, com o contratante do s
 28
 
 de pessoalidade, subordinação e habitualidade.
-§ 5o O disposto nos incisos IV e VII do § 4 o deste artigo não se aplica à participação no capital de
+§ 5o O disposto nos incisos IV e VII do § 4o deste artigo não se aplica à participação no capital de
 cooperativas de crédito, bem como em centrais de compras, bolsas de subcontratação, no
-consórcio referido no art. 50 desta Lei Complementar e na sociedade de  propósito especíﬁco
+consórcio referido no art. 50 desta Lei Complementar e na sociedade de propósito especíﬁco
 prevista no art. 56 desta Lei Complementar, e em associações assemelhadas, sociedades de
 interesse econômico, sociedades de garantia solidária e outros tipos de sociedade, que tenham
 como objetivo social a defesa exclusiva dos interesses econômicos das microempresas e
@@ -1063,13 +1063,13 @@ empresas de pequeno porte.
 112, de 20 de janeiro de 2022)
 Nos termos do art. 4º da Lei Complementar nº 182, de 1º de junho de 2021, é
 enquadrada como startup a cooperativa, em constituição ou em operação recente, cuja
-atuação caracteriza -se pela inovação aplicada  a modelo de negócios ou a  produtos ou
+atuação caracteriza-se pela inovação aplicada a modelo de negócios ou a produtos ou
 serviços ofertados.
 
 10.1. REQUISITOS (Incluído pela Instrução Normativa DREI nº 112, de 20 de janeiro de
 2022)
 Para fins de registro, os cooperados da cooperativa devem fazer constar declaração
-em seu  ato constitutivo ou alterador de que se enquadra como uma startup, conforme
+em seu ato constitutivo ou alterador de que se enquadra como uma startup, conforme
 prevê a alínea "a", do inciso III, do § 1º, do art. 4º da Lei Complementar nº 182, de 2021.
 Notas:
 I. A declaração de que trata o item 10.1 deve constar do próprio instrumento de
@@ -1078,7 +1078,7 @@ I. A declaração de que trata o item 10.1 deve constar do próprio instrumento 
 constituição/alteração ou instrumento de enquadramento em processo apartado,
 mediante ato e evento próprio. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
-II. Além das especificidades aplicáveis às startups, deverão ser  observadas as  demais
+II. Além das especificidades aplicáveis às startups, deverão ser observadas as demais
 regras aplicáveis à sociedade cooperativa.
 
 29
@@ -1098,7 +1098,7 @@ II. No caso de transferência de sede: Cópia autêntica da ata da AGE, com indi
 novo ende- reço da sede social, quando revestir a forma particular.
 
 1.2. DECLARAÇÃO DE DESIMPEDIMENTO PARA O EXERCÍCIO DO CARGO DOS
-ASSOCIADOS ELEI TOS DOS ÓRGÃOS DE  ADMINISTRAÇÃO E FISCALIZAÇÃO, SALVO  SE
+ASSOCIADOS ELEITOS DOS ÓRGÃOS DE ADMINISTRAÇÃO E FISCALIZAÇÃO, SALVO SE
 CONSTAR NA ATA
 
 1.3. CÓPIA DA IDENTIDADE DOS ADMINISTRADORES, QUANDO HOUVER ELEIÇÃO
@@ -1106,18 +1106,18 @@ CONSTAR NA ATA
 1.4. FOLHA DO JORNAL QUE PUBLICOU O EDITAL DE CONVOCAÇÃO
  Notas:
 I. A publicação do edital de convocação será feita, por uma vez, em jornal de circulação
-regular e  geral, editado ou não no município da sede da cooperativa (não serão aceitas,
+regular e geral, editado ou não no município da sede da cooperativa (não serão aceitas,
 portanto, publicações em jornais ou informativos de cooperativas de produção, prefeituras
 municipais, clubes, associações, etc. ou publicado em folha sem identificação do jornal ou
-sem determinação precisa da data  de publicação), na sede da cooperativa ou região onde
+sem determinação precisa da data de publicação), na sede da cooperativa ou região onde
 ela exercer suas atividades.
 II. É dispensada a apresentação de folhas de jornais, quando a ata consignar os nomes dos
 
 30
 
 mesmos, respectivas datas e nº de folhas onde foram feitas as publicações do aviso.
-III. A publicação do edital de convocação da assembleia geral poderá ser realizada  através
-de jornal em papel ou jornal digital, pois a Lei nº 5.764, de 1971, e a Lei nº  12.690, de
+III. A publicação do edital de convocação da assembleia geral poderá ser realizada através
+de jornal em papel ou jornal digital, pois a Lei nº 5.764, de 1971, e a Lei nº 12.690, de
 2012, não especificam jornal físico. (Redação dada pela Instrução Normativa DREI nº 01, de
 24 de janeiro de 2024)
 
@@ -1125,10 +1125,10 @@ de jornal em papel ou jornal digital, pois a Lei nº 5.764, de 1971, e a Lei nº
 DEPENDÊNCIAS COMUMENTE MAIS FREQUENTADAS PELOS ASSOCIADOS
 
 1.6. CÓPIA DA COMUNICAÇÃO AOS ASSOCIADOS POR INTERMÉDIO DE CIRCULARES,
-SENDO DIS PENSADA A SUA APRESENTAÇÃO QUANDO A ATA CONSIGNAR QUE ESSE
+SENDO DISPENSADA A SUA APRESENTAÇÃO QUANDO A ATA CONSIGNAR QUE ESSE
 PROCEDIMENTO FOI OB SERVADO
 
-1.7. CONVOCAÇÃO NO SÍTIO ELETRÔNICO DA COOPERATIVA OU EM REPOSITÓRI O
+1.7. CONVOCAÇÃO NO SÍTIO ELETRÔNICO DA COOPERATIVA OU EM REPOSITÓRIO
 ACESSO PÚBLICO IRRESTRITO NA INTERNET, NO CASO DE COOPERATIVA DE CRÉDITO
 (Incluído pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 É dispensada a apresentação de cópia da publicação, quando a ata consignar o endereço
@@ -1144,7 +1144,7 @@ O comparecimento da totalidade dos associados, expresso na ata, sana as
 irregularidades de convocação.
 A assembleia poderá ser realizada em segunda ou terceira convocações desde que
 assim permitam os estatutos e conste do respectivo edital, observado o intervalo mínimo
-de uma hora  entre a realização por uma ou outra convocação (art. 38 da Lei  nº 5.764, de
+de uma hora entre a realização por uma ou outra convocação (art. 38 da Lei nº 5.764, de
 1971).
 A convocação para participação em Assembleias Gerais das cooperativas abrangidas
 
@@ -1152,24 +1152,24 @@ A convocação para participação em Assembleias Gerais das cooperativas abrang
 
 pela Lei nº 12.690, de 2012 será realizado mediante notificação pessoal do associado e
 ocorrerá com antecedência mínima de dez dias de sua realização. Na impossibilidade de
-notificação pessoal, a notificação dar -se-á por via postal, respeitada  a antecedência
+notificação pessoal, a notificação dar-se-á por via postal, respeitada a antecedência
 mínima.
 Na impossibilidade de realização das notificações pessoal e postal, os sócios serão
 notificados mediante edital afixado na sede e em outros locais previstos nos estatutos e
 publicado em jornal de grande circulação na região da sede da cooperativa ou na região
-onde ela exerça suas atividades, respeitada a antecedência mínima  de dez dias da
+onde ela exerça suas atividades, respeitada a antecedência mínima de dez dias da
 realização da Assembleia Geral.
 
-2.1. CONVOCAÇÃO PARA AS COOPERATIVAS DE CRÉDITO  (Incluído pela Instrução
+2.1. CONVOCAÇÃO PARA AS COOPERATIVAS DE CRÉDITO (Incluído pela Instrução
 Normativa DREI nº 01, de 24 de janeiro de 2024)
 As convocações para as assembleias gerais serão efetuadas com antecedência
 mínima de 10 (dez) dias e divulgadas, em destaque, no sítio eletrônico da cooperativa ou
-em repositório de acesso público irrestrito na internet (art. 17 -B da Lei Complementar nº
+em repositório de acesso público irrestrito na internet (art. 17-B da Lei Complementar nº
 130, de 2009).
 O editais de publicação podem ser publicados no próprio site da cooperativa ou em
 qualquer site que permita o acesso público, irrestrito e ilimitado ao conteúdo do edital por
 qualquer interessado.
-Nota: Por “repositório de acesso público irrestrito na internet” entende -se o ambiente
+Nota: Por “repositório de acesso público irrestrito na internet” entende-se o ambiente
 virtual de acesso à informação, disponibilizado ao quadro social e a toda a sociedade, de
 forma gratuita, na internet, sem qualquer forma de restrição para consulta, e sem
 necessidade de realização de cadastro, assinatura ou pagamento para acesso ao texto ou
@@ -1201,15 +1201,15 @@ b) se constam os requisitos mínimos no edital de convocação.
 3. “QUORUM” DE INSTALAÇÃO
 O "quorum" para instalação da Assembleia Geral é de dois terços do número de
 associados, em primeira convocação; de metade mais um dos associados, em segunda
-convocação; e de no  mínimo de dez associados na terceira convocação, ressalvado o caso
-de cooperativas centrais, fe - derações e confederações que se instalarão com qualquer
+convocação; e de no mínimo de dez associados na terceira convocação, ressalvado o caso
+de cooperativas centrais, fe- derações e confederações que se instalarão com qualquer
 número (art. 40 da Lei nº 5.764, de 1971).
 Para as cooperativas de trabalho, regidas pela Lei nº 12.690, de 2012, o quorum
 mínimo de instalação das Assembleias Gerais será de: dois terços do número de associados,
 em primeira convocação; metade mais um dos associados, em segunda convocação;
 cinquenta sócios ou, no mínimo, vinte por cento do total de associados, prevalecendo o
 menor número, em terceira convocação, exigida a presença de, no mínimo, quatro sócios
-para as cooperativas que possuam até dezenove  associados matriculados (inciso III do § 3º
+para as cooperativas que possuam até dezenove associados matriculados (inciso III do § 3º
 do art. 11 da Lei nº 12.690, de 2012).
 
 4. ATA DA ASSEMBLEIA GERAL
@@ -1228,7 +1228,7 @@ b) por edital afixado em locais apropriados. A menção, ainda, da data e dos lo
 foram afixados dispensará a apresentação do mesmo à Junta Comercial; e
 c) por comunicação aos associados por intermédio de circular. A menção, ainda, da data e
 número da circular dispensará a apresentação da mesma à Junta Comercial;
-d) por jornal, a menção, ainda, da data e da(s) página(s) onde foram publicados dispen -
+d) por jornal, a menção, ainda, da data e da(s) página(s) onde foram publicados dispen-
 sará a apresentação do mesmo à Junta Comercial;
 a) por edital aﬁxado em locais apropriados: A menção da data e dos locais onde foram
 afixados dispensará a apresentação do mesmo à Junta Comercial; (Redação dada pela
@@ -1255,10 +1255,10 @@ Poderão ser adotados livros de folhas soltas ou fichas, conforme dispõe o par�
 
 5. DELIBERAÇÕES
 As deliberações da assembleia geral ordinária ou extraordinária deverão estar
-previstas na  ordem do dia do edital de convocação. Em assuntos gerais não será aceito
+previstas na ordem do dia do edital de convocação. Em assuntos gerais não será aceito
 nenhum tipo de deliberação (caput dos arts. 44 e 45 da Lei nº 5.764, de 1971).
 A ata da Assembleia deve indicar os fatos ocorridos e as deliberações: O registro
-dos fatos  ocorridos, inclusive dissidências ou protestos, pode ser lavrado na forma de
+dos fatos ocorridos, inclusive dissidências ou protestos, pode ser lavrado na forma de
 inteiro teor, sumária ou reduzida, devendo as deliberações tomadas estar transcritas,
 expressando as modificações introduzidas.
 
@@ -1266,8 +1266,8 @@ expressando as modificações introduzidas.
 6.1. PERÍODO DE REALIZAÇÃO DA ASSEMBLEIA
 A assembleia geral ordinária deverá ser realizada anualmente nos três primeiros
 meses após o término do exercício social (art. 44 da Lei nº 5.764, de 1971), salvo nos casos
-das cooperativas de  crédito que poderão ser realizadas nos quatro primeiros meses do
-exercício social (art. 17 da Lei  Complementar nº 130, de 17 de abril de 2009). Passado este
+das cooperativas de crédito que poderão ser realizadas nos quatro primeiros meses do
+exercício social (art. 17 da Lei Complementar nº 130, de 17 de abril de 2009). Passado este
 período será realizada Assembleia Ge ral Extraordinária.
 
 6.2. COMPETÊNCIA
@@ -1299,22 +1299,22 @@ presentes com direito de votar (§ 3º do art. 38 da Lei nº 5.764, de 1971).
 
 6.4.1. Impedimento de votação dos órgãos de administração e do conselho fiscal
 Os membros dos órgãos de administração e do Conselho Fiscal não poderão
-participar da  votação da prestação de contas e da fixação do valor de honorários,
+participar da votação da prestação de contas e da fixação do valor de honorários,
 gratificações e cédulas de presença (§ 1º do art. 44 da Lei nº 5.764, de 1971), além dos
-casos em que tenha interesse oposto ao  da cooperativa, segundo disciplina o art. 52 da Lei
+casos em que tenha interesse oposto ao da cooperativa, segundo disciplina o art. 52 da Lei
 nº 5.764, de 1971.
 
 6.5. DESTINAÇÃO DAS SOBRAS OU RATEIO DAS PERDAS
 A destinação das sobras apuradas ou rateio das perdas decorrentes da insuficiência
 das con- tribuições para cobertura das despesas da sociedade deve constar expressamente
-na ata. No caso  de haver sobras, a sua destinação somente poderá ocorrer depois de ter
-sido descontado o percentual legal ou estatutário dos fundos  obrigatórios, que também
+na ata. No caso de haver sobras, a sua destinação somente poderá ocorrer depois de ter
+sido descontado o percentual legal ou estatutário dos fundos obrigatórios, que também
 deverá constar na ata.
 
 6.5.1. Qualificação dos membros eleitos
 Quando houver eleição dos órgãos da administração e fiscalização ou outros, é
 necessário nominar e qualificar completamente os eleitos (nome, nacionalidade, estado
-civil, documento de  identidade, seu número e órgão expedidor, nº do CPF, profissão,
+civil, documento de identidade, seu número e órgão expedidor, nº do CPF, profissão,
 domicílio e residência), bem como mencionar a duração do mandato dos Diretores ou
 
 36
@@ -1340,12 +1340,12 @@ Assembleia Geral Extraordinária deliberar sobre os assuntos da AGO, nos termos 
 da Lei nº 5.764, 1971.
 No caso da Assembleia Geral Extraordinária deliberar sobre reforma estatutária, o
 Estatuto Social aprovado deverá ser arquivado em processo separado, com o pagamento
-do preço devido,  desde que não transcrito na integra no corpo  da ata,  seguido das
+do preço devido, desde que não transcrito na integra no corpo da ata, seguido das
 respectivas assinaturas.
 
 7.3. “QUORUM” DE DELIBERAÇÃO
-O " quorum" de deliberação das matérias arroladas no item 7.2 acima, em
-assembleia geral  extraordinária, é de dois terços dos associados presentes. As demais
+O "quorum" de deliberação das matérias arroladas no item 7.2 acima, em
+assembleia geral extraordinária, é de dois terços dos associados presentes. As demais
 deliberações serão tomadas por maioria de votos dos associados presentes (§ 3º do art. 38,
 parágrafo único, do art. 46 da Lei nº 5.764, de 1971).
 
@@ -1362,7 +1362,7 @@ deverá consolidar o estatuto social.
 7.4.1. Providências na Junta Comercial da sede
 Antes de dar entrada na documentação, é recomendável, preferencialmente,
 promover a proteção do nome empresarial da cooperativa ou solicitar a pesquisa deste à
-Junta Comercial da  unidade da federação para onde ela será transferida, para evitar
+Junta Comercial da unidade da federação para onde ela será transferida, para evitar
 sustação do registro naquela Junta por colidência (por identidade ou semelhança) com
 outro nome anteriormente nela registrado.
 Havendo colidência, será necessário mudar o nome da cooperativa na Junta em
@@ -1378,12 +1378,12 @@ certidão de inteiro teor da alteração, com consolidação, quando revestir a 
 (Redação dada pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 Antes de dar entrada na documentação, é recomendável, preferencialmente,
 promover a proteção do nome empresarial da cooperativa ou solicitar a pesquisa deste à
-Junta Comercial  da unidade da federação para onde ela será transferida, para evitar o
-bloqueio do  registro naquela Junta por colidência (por identidade) com outro nome
+Junta Comercial da unidade da federação para onde ela será transferida, para evitar o
+bloqueio do registro naquela Junta por colidência (por identidade) com outro nome
 anteriormente nela registrado. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 Havendo colidência, será necessário alterar o nome da cooperativa na Junta em
-que está registrada,  podendo essa mudança ser efetuada no próprio instrumento de
+que está registrada, podendo essa mudança ser efetuada no próprio instrumento de
 alteração para transferência da sede. (Redação dada pela Instrução Normativa DREI nº 01,
 
 38
@@ -1399,7 +1399,7 @@ nº 01, de 24 de janeiro de 2024)
 A cooperativa deverá promover o arquivamento do documento referente à
 transferência da sede (cópia da ata de assembleia geral extraordinária, quando revestir a
 forma particular, ou certidão de inteiro teor, com consolidação do estatuto, quando
-revestir a forma pública), devidamente  arquivado na Junta  Comercial da unidade da
+revestir a forma pública), devidamente arquivado na Junta Comercial da unidade da
 federação onde essa se localizava.
 A cooperativa deverá promover o arquivamento da alteração do documento
 referente à transferência da sede (cópia da ata de assembleia geral extraordinária, quando
@@ -1415,9 +1415,9 @@ nº 01, de 24 de janeiro de 2024)
 7.4.3. Não efetivação do ato de transferência de sede
 Não sendo efetivado o ato da transferência de sede para a outra UF, e havendo
 interesse de retornar a cooperativa para a Junta de origem, a fim de regularizar a situação
-da cooperativa, o  interessado deverá juntar certidão expedida pela Junta Comercial para
+da cooperativa, o interessado deverá juntar certidão expedida pela Junta Comercial para
 onde a sociedade seria transferida, onde constará a informação de que o ato de
-transferência não foi arquivado naquela UF, e  protocolar juntamente  com a alteração
+transferência não foi arquivado naquela UF, e protocolar juntamente com a alteração
 constando o novo endereço.
 
 39
@@ -1442,7 +1442,7 @@ A assembleia geral ordinária e a assembleia geral extraordinária poderão ser,
 cumulativa- mente, convocadas e realizadas no mesmo local, data e hora e instrumentadas
 em ata única.
 A documentação a ser apresentada à Junta Comercial para arquivamento da ata
-obedecerá à especificação determinada  nas seções  deste Manual, próprios de cada
+obedecerá à especificação determinada nas seções deste Manual, próprios de cada
 assembleia.
 Os requisitos de convocação, instalação, ordem do dia e quorum devem ser
 observados, de forma individualizada, em relação a cada assembleia.
@@ -1456,7 +1456,7 @@ para deliberar, entre outros assuntos especificados no edital de convocação, s
 
 40
 
-da cooperativa, disciplina, direitos e  deveres dos sócios, planejamento e resultado
+da cooperativa, disciplina, direitos e deveres dos sócios, planejamento e resultado
 econômico dos projetos e contratos firmados e orga nização do trabalho.
 
 11. ABERTURA, ALTERAÇÃO OU EXTINÇÃO DE FILIAL
@@ -1467,19 +1467,19 @@ estatuto social quanto à competência para deliberação, bem como quanto à á
 da cooperativa.
 
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser apresentada
-uma FCN,  assim como deverá ser apresentada uma FCN individualizada para a sede
-quando da alteração do  ato constitutivo constar, além dos atos relativos a filiais,
+uma FCN, assim como deverá ser apresentada uma FCN individualizada para a sede
+quando da alteração do ato constitutivo constar, além dos atos relativos a filiais,
 alteração de outras cláusulas cujos da- dos sejam objeto de cadastramento. (Revogado
 pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser apresentada
-uma FCN,  assim como deverá ser apresentada uma FCN individualizada para a sede
-quando da alteração do  ato constitutivo constar, além dos atos relativos a filiais, alteração
-de outras cláusulas cujos dados  sejam objeto de cadastramento. (Incluído pela Instrução
+uma FCN, assim como deverá ser apresentada uma FCN individualizada para a sede
+quando da alteração do ato constitutivo constar, além dos atos relativos a filiais, alteração
+de outras cláusulas cujos dados sejam objeto de cadastramento. (Incluído pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
 
 11.1. DADOS OBRIGATÓRIOS
 É obrigatória, em relação a filial aberta, a indicação do endereço completo (tipo e
-nome do  logradouro, número, complemento, bairro/distrito, município, unidade da
+nome do logradouro, número, complemento, bairro/distrito, município, unidade da
 federação e CEP) e, nos casos de alteração, transferência ou extinção, também o seu CNPJ.
 
 11.2. DADOS FACULTATIVOS
@@ -1504,8 +1504,8 @@ contidas no objeto social.
 11.3. FILIAL EM OUTRA UNIDADE DA FEDERAÇÃO
 Quando se tratar de filial em outra unidade da federação, o arquivamento do ato
 deve ser promovido exclusivamente na Junta Comercial da unidade da federação onde se
-localizar a sede,  uma vez que após o deferimento do ato, os dados relativos à sede e filial
-serão encaminhados ele - tronicamente para Junta Comercial da  outra Unidade da
+localizar a sede, uma vez que após o deferimento do ato, os dados relativos à sede e filial
+serão encaminhados ele- tronicamente para Junta Comercial da outra Unidade da
 Federação.
 Contudo, antes de dar entrada da documentação na Junta Comercial da sede da
 empresa, nos casos de ABERTURA de primeira filial, ALTERAÇÃO, quando houver alteração
@@ -1538,12 +1538,12 @@ Nota: Esta seção não se aplica às reuniões e assembleias em que a participa
 de associados sejam exclusivamente presenciais.
 Salvo disposição contratual em contrário, é direito de qualquer cooperado exigir da
 administração da cooperativa que a reunião ou assembleia convocada exclusivamente em
-caráter presencial seja  convertida em caráter semipresencial ou digital. (Incluído pela
+caráter presencial seja convertida em caráter semipresencial ou digital. (Incluído pela
 Instrução Normativa DREI /ME nº 88, de 23 de dezembro de 2022)
 O requerimento poderá ser feito pelo sócio com antecedência mínima de 24 (vinte e
 quatro) horas e as informações de acesso ao meio eletrônico lhe deverão ser franqueadas
 com antecedência mínima de 30 (trinta) minutos, ambos contados com relação ao horário
-de realização da reunião ou  assembleia. (Incluído pela Instrução Normativa DREI /ME nº
+de realização da reunião ou assembleia. (Incluído pela Instrução Normativa DREI /ME nº
 88, de 23 de dezembro de 2022)
 
 1. FORMAS DE PARTICIPAÇÃO E VOTAÇÃO A DISTÂNCIA
@@ -1556,14 +1556,14 @@ como realizadas na sede da sociedade.
 
 2. FORMALIDADES PRÉVIAS AO CONCLAVE
 I. As reuniões e assembleias semipresenciais ou digitais deverão obedecer às normas
-atinentes à  cooperativa, bem como às normas do estatuto social, quanto à convocação,
+atinentes à cooperativa, bem como às normas do estatuto social, quanto à convocação,
 instalação e deliberação.
 II. Os documentos e informações a serem disponibilizados previamente à realização da
-reunião ou  assembleia semipresencial ou digital devem não apenas observar os
+reunião ou assembleia semipresencial ou digital devem não apenas observar os
 mecanismos de divulgação já previstos em lei, como também ser disponibilizados por meio
 digital seguro.
 III. O instrumento de convocação deve informar, em destaque, que a reunião ou
-assembleia será  semipresencial ou digital, conforme o caso, detalhando como os
+assembleia será semipresencial ou digital, conforme o caso, detalhando como os
 associados podem participar e vo tar a distância.
 IV. As informações de que trata o inciso III deste item poderão ser divulgadas no anúncio de
 convocação de forma resumida, com indicação de endereço eletrônico na rede mundial de
@@ -1581,11 +1581,11 @@ abertura dos traba lhos, ainda que tenha deixado de enviá-los previamente.
 
 Notas:
 a) A sociedade não poderá ser responsabilizada por problemas decorrentes dos
-equipamentos de  informática ou da conexão à rede mundial de computadores dos
-associados, assim como por quaisquer outras situações  que não  estejam sob o seu
+equipamentos de informática ou da conexão à rede mundial de computadores dos
+associados, assim como por quaisquer outras situações que não estejam sob o seu
 controle.
 b) A sociedade pode contratar terceiros para administrar, em seu nome, o processamento
-das in formações nas reuniões ou assembleias semipresenciais e digitais, mas permanece
+das informações nas reuniões ou assembleias semipresenciais e digitais, mas permanece
 
 44
 
@@ -1595,7 +1595,7 @@ assembleia semipresencial ou digital, bem como a gravação integral dela, pelo 
 aplicável à ação que vise a anulá-la.
 c) A sociedade deverá manter arquivados todos os documentos relativos à reunião ou
 assembleia semipresencial ou digital, bem como a gravação integral dela, caso seja gravada,
-pelo prazo aplicável à ação que vise a anulá -la. (Alterado pela Instrução Normativa DREI
+pelo prazo aplicável à ação que vise a anulá-la. (Alterado pela Instrução Normativa DREI
 /ME nº 88, de 23 de dezembro de 2022)
 d) Salvo disposição estatutária em contrário, a gravação de sons ou imagens deverá ser
 previamente informada antes de sua realização, bem como poderá ser vedada a
@@ -1618,7 +1618,7 @@ I - a segurança, a confiabilidade e a transparência do conclave;
  II - o registro de presença dos associados;
 III - a preservação do direito de participação a distância do associado durante todo o con-
 clave;
-IV - o exercício do direito de voto a distância por parte do associado, bem como o seu res -
+IV - o exercício do direito de voto a distância por parte do associado, bem como o seu res-
 pectivo registro;
 
 45
@@ -1647,8 +1647,8 @@ impressão e preenchimento manual, por meio de sistema eletrônico disponível n
 mundial de computa- dores.
 Notas: (Redação dada pela Instrução Normativa DREI nº 112, de 20 de janeiro de 2022)
 I. Quando a sociedade adotar o boletim de voto a distância em meio físico, deve
-disponibilizar a  versão passível de impressão e preenchimento manual, por meio de
-sistema eletrônico disponível  na rede mundial de computadores. (Incluído pela Instrução
+disponibilizar a versão passível de impressão e preenchimento manual, por meio de
+sistema eletrônico disponível na rede mundial de computadores. (Incluído pela Instrução
 Normativa DREI nº 112, de 20 de janeiro de 2022)
 II. O boletim de voto a distância, quando admitido pela sociedade, poderá se dar
 exclusivamente pela via eletrônica. (Incluído pela Instrução Normativa DREI nº 112, de 20
@@ -1671,7 +1671,7 @@ exigidos por lei ou por esta seção.
 4.2.3. PROCEDIMENTO DE ENVIO E RECEPÇÃO
 I. o boletim de voto a distância deve ser enviado ao associado na data da publicação da
 primeira convocação para a reunião ou assembleia semipresencial ou digital a que se
-refere, e deve ser devolvido à  sociedade no mínimo cinco dias antes da data da realização
+refere, e deve ser devolvido à sociedade no mínimo cinco dias antes da data da realização
 do conclave.
 Nota: No caso de utilização de boletim de voto pela via eletrônica, o prazo de devolução do
 mesmo para a cooperativa será definido no edital de convocação, não se aplicando o
@@ -1684,10 +1684,10 @@ a) o recebimento do boletim de voto a distância, bem como que o boletim e event
 documentos que o acompanham são suficientes para que o voto do associado seja
 considerado válido; ou
 b) a necessidade de retificação ou reenvio do boletim de voto a distância ou dos
-documentos que o acompanham, descrevendo os procedimentos e  prazos necessários à
+documentos que o acompanham, descrevendo os procedimentos e prazos necessários à
 regularização.
 Nota: Quando utilizado o boletim de voto pela via eletrônica, não se aplica a exigência do
-inciso II  em relação ao prazo para comunicação da sociedade. (Incluído pela Instrução
+inciso II em relação ao prazo para comunicação da sociedade. (Incluído pela Instrução
 
 47
 
@@ -1698,7 +1698,7 @@ que o acompanham, observado o prazo previsto no inciso I deste subitem.
 
 IV. o envio de boletim de voto a distância não impede o associado de se fazer presente à
 reunião ou assembleia semipresencial ou digital respectiva e exercer seu direito de
-participação e votação  durante o conclave, caso  em que o boletim enviado será
+participação e votação durante o conclave, caso em que o boletim enviado será
 desconsiderado.
 
 5. ASSINATURAS DA ATA E DOS LIVROS
@@ -1733,8 +1733,8 @@ IV. Aplicam-se às reuniões e assembleias semipresenciais e digitais, subsidiar
 que com elas forem compatíveis, as disposições legais e regulamentares relativas às
 reuniões e assembleias exclusivamente presenciais.
 V. As reuniões ou assembleias presenciais já convocadas e ainda não realizadas, em
-virtude das  restrições decorrentes da pandemia do Coronavírus (Covid -19), poderão ser
-realizadas de forma  semipresencial ou digital, desde que todos os associados se façam
+virtude das restrições decorrentes da pandemia do Coronavírus (Covid-19), poderão ser
+realizadas de forma semipresencial ou digital, desde que todos os associados se façam
 presentes, nos termos do item 3 desta seção, ou declarem expressamente sua
 concordância.
 VI. O registro da respectiva ata não fica condicionado à prévia autenticação de livro social
@@ -1753,11 +1753,11 @@ Administração (art. 47 da Lei nº 5.764, de 1971).
 O Conselho de Administração, que terá função precipuamente deliberativa, deve
 ser formado exclusivamente por associados. Entretanto, nada impede que estes possam
 contratar gerentes técnicos ou comerciais (arts. 47 e 48 da Lei nº 5.764, de 1971), podendo
-nesse caso, ser criada  uma diretoria profissionalizada, ocupada por associados ou por
+nesse caso, ser criada uma diretoria profissionalizada, ocupada por associados ou por
 gestores contratados, com função meramente executiva. A Diretoria ficará subordinada ao
 Conselho de Administração.
 Não poderão compor os Órgãos de Administração, além das pessoas impedidas por
-lei, os  condenados a pena que vede, ainda que temporariamente, o acesso a cargos
+lei, os condenados a pena que vede, ainda que temporariamente, o acesso a cargos
 públicos; ou por crime falimentar, de prevaricação, peita, ou suborno, concussão, peculato,
 ou contra a economia popular, fé pública ou a propriedade e os parentes entre si até o
 segundo grau, em linha reta ou colateral (art. 51 da Lei nº 5.764, de 1971).
@@ -1770,7 +1770,7 @@ mas apenas uma Diretoria, essa incorporará as características e atribuições 
 (função executiva e função deliberativa).
 As cooperativas de crédito com conselho de administração podem criar diretoria
 executiva a ele subordinada, na qualidade de órgão estatutário composto por pessoas
-físicas associadas ou  não, indicadas por aquele conselho (art.  5º da Lei Complementar nº
+físicas associadas ou não, indicadas por aquele conselho (art. 5º da Lei Complementar nº
 130, de 2009).
 
 50
@@ -1854,14 +1854,14 @@ Para ocorrer o desmembramento são necessárias duas Assembleias Gerais. A
 Assembleia que deliberar pelo desmembramento deverá designar uma comissão para
 elaborar os estudos necessários. Estas providências, as quais deverão conter plano de
 rateio do ativo e passivo da sociedade desmembrada, atribuição do capital social da
-sociedade desmembrada a cada nova cooper ativa e montante das quotas-partes no caso
+sociedade desmembrada a cada nova cooperativa e montante das quotas-partes no caso
 de constituição de central ou federação, cujos relatórios deverão ser apreciados em nova
 Assembleia, convocada especialmente para este fim.
 
 4. TRANSFORMAÇÃO
 Deverá ser arquivada a Ata de Assembleia Geral Extraordinária que deliberar sobre
 a transformação da cooperativa em sociedade empresária, conforme prevê esta Instrução
-Normativa e  decisão do Superior  Tribunal de Justiça (STJ) no Recurso  Especial nº
+Normativa e decisão do Superior Tribunal de Justiça (STJ) no Recurso Especial nº
 
 54
 
@@ -1893,7 +1893,7 @@ ou administradores.
 1.2. CÓPIA DA IDENTIDADE DOS LIQUIDANTES ELEITOS
 
 1.3. DECLARAÇÃO DE DESIMPEDIMENTO PARA O EXERCÍCIO DO CARGO DOS
-ASSOCIADOS ELEITOS DOS ÓRGÃOS DE  ADMINISTRAÇÃO E FISCALIZAÇÃO, SALVO  SE
+ASSOCIADOS ELEITOS DOS ÓRGÃOS DE ADMINISTRAÇÃO E FISCALIZAÇÃO, SALVO SE
 CONSTAR NA ATA
 
 2. DISSOLUÇÃO
@@ -1925,9 +1925,9 @@ liquidante e um conselho fiscal de três membros para proceder a sua liquidaçã
 Lei nº 5.764, de 1971).
 
 4. ATA DE ASSEMBLEIA GERAL EXTRAORDINÁRIA
-A ata da assembleia geral extraordinária , que deliberar sobre a dissolução, deverá
+A ata da assembleia geral extraordinária, que deliberar sobre a dissolução, deverá
 registrar as decisões tomadas e, especificamente:
-I - a nomeação do liquidante, qualificando -o (nome, nacionalidade, idade, estado civil, do -
+I - a nomeação do liquidante, qualificando-o (nome, nacionalidade, idade, estado civil, do-
 cumento de identidade, seu número e órgão expedidor, nº do CPF, profissão e endereço
 completo);
 II - a eleição do conselho fiscal, qualificando os seus membros; e
@@ -1939,8 +1939,8 @@ jurídica, sendo obrigatória, neste último caso, a indicação do nome do prof
 57
 
 responsável pela condução dos trabalhos, que deverá atender aos requisitos e
-impedimentos previstos em lei, e sobre o  qual recairão os deveres e as responsabilidades
-legais (Enunciado nº 87, da III Jornada de Direito  Comercial do  Conselho de Justiça
+impedimentos previstos em lei, e sobre o qual recairão os deveres e as responsabilidades
+legais (Enunciado nº 87, da III Jornada de Direito Comercial do Conselho de Justiça
 Federal).
 
 5. OBRIGAÇÕES DO LIQUIDANTE QUANTO A ARQUIVAMENTO DE ATOS
@@ -1955,7 +1955,7 @@ EXTINÇÃO
 1. DOCUMENTAÇÃO ESPECÍFICA EXIGIDA
 1.1. CERTIDÃO OU CÓPIA AUTENTICADA DA ATA
 Certidão ou cópia da ata da assembleia geral extraordinária que declarou encerrada
-a liquidação  e declarou a extinção da cooperativa, com a aprovação prévia do órgão
+a liquidação e declarou a extinção da cooperativa, com a aprovação prévia do órgão
 governamental com petente, quando for o caso;
 ou
 Cópia autêntica da decisão judicial de extinção, com prova de trânsito em julgado.
@@ -2001,7 +2001,7 @@ Conforme art. 46 do Decreto nº 1.800, de 1996, os documentos de interesse da
 cooperativa serão arquivados somente mediante requerimento do cooperado, do
 representante legal ou do procurador. (Redação dada pela Instrução Normativa DREI nº
 01, de 24 de janeiro de 2024)
-Nota: Somente os requerimentos de averbação de pré -penhora feita pelo
+Nota: Somente os requerimentos de averbação de pré-penhora feita pelo
 exequente (art. 828 e seguintes do Código de Processo Civil); termo ou ordem judicial de
 penhora de quotas; formal/escritura de partilha feito por cônjuge ou herdeiro para
 conservação de direitos e oposição a terceiros; bem como outras decisões judiciais, são
@@ -2012,7 +2012,7 @@ pela Instrução Normativa DREI nº 01, de 24 de janeiro de 2024)
 1. EMPRESAS JORNALÍSTICAS E DE RADIODIFUSÃO
 Os documentos das empresas jornalísticas e as concessionárias e permissionárias
 de radiodifusão, apresentados para arquivamento na Junta Comercial em virtude do
-disposto nos arts. 4º e  7º da Lei nº  10.610, de 2002, deverão atender  os seguintes
+disposto nos arts. 4º e 7º da Lei nº 10.610, de 2002, deverão atender os seguintes
 requisitos, cumulativamente:
 I - o ato contendo a composição de seu capital social, incluindo a nomeação dos brasileiros
 natos ou naturalizados há mais de dez anos titulares direta ou indiretamente, de pelo
@@ -2048,7 +2048,7 @@ pelo Sindicato, Federação ou Confederação Patronal pertinente à categoria;
 II - pelo menos uma via do documento deverá ser original; e
 III - o documento oriundo do exterior, além atender os itens I e II acima, deverá também
 conter: o visto do Consulado Brasileiro no País de origem ou a apostila nos termos da Con-
-venção sobre a Eliminação da Exigência de Legalização de Documentos Públicos Estrangei -
+venção sobre a Eliminação da Exigência de Legalização de Documentos Públicos Estrangei-
 ros, celebrada em Haia, em 5 de outubro de 1961, e ser acompanhado da tradução, feita
 por tradutor público juramentado.
 
@@ -2060,7 +2060,7 @@ anotado nos cadastros da respectiva cooperativa.
 
 Quando se tratar de decisão de natureza transitória, como as liminares,
 antecipação de tutela, ou cautelar, esta será arquivada, com anotação do seu teor nos
-cadastros da respectiva cooperativa,  acompanhado de informação de que se trata de
+cadastros da respectiva cooperativa, acompanhado de informação de que se trata de
 decisão revogável, não definitiva.
 As decisões administrativas que, por força de Lei, sejam dirigidas à Junta Comercial
 terão seu teor anotado nos cadastros da respectiva cooperativa.
@@ -2068,14 +2068,14 @@ As decisões judiciais ou administrativas levadas a registro pela cooperativa de
 ser arquivadas como documentos de interesse, com recolhimento do preço devido.
 As decisões judiciais ou administrativas levadas a registro pela cooperativa ou
 terceiro interessado deverão ser arquivadas como documentos de interesse, com
-recolhimento do preço devido. (Redação dada pela Instrução Normativa DREI nº 01 , de 24
+recolhimento do preço devido. (Redação dada pela Instrução Normativa DREI nº 01, de 24
 de janeiro de 2024)
 
 Notas:
 I. O registro das decisões judiciais ensejará a alteração imediata do cadastro da
 cooperativa, independentemente do registro do ato de alteração estatutária.
 II. A alteração dos dados cadastrais da cooperativa será realizada mediante anotação de
-que a alteração ocorreu  por força de decisão judicial (Decreto nº 10.173, de 13 de
+que a alteração ocorreu por força de decisão judicial (Decreto nº 10.173, de 13 de
 dezembro de 2019).
 
 63
@@ -2113,10 +2113,10 @@ A Cooperativa de Trabalho deverá ser constituída com número mínimo de sete s
 
 5. ESTATUTO SOCIAL (art. 7º da Lei nº 12.690, de 2012)
 O estatuto social da Cooperativa de Trabalho deverá indicar relativamente aos
-sócios/associados os seguintes  direitos, além de outros que a  Assembleia Geral  venha a
+sócios/associados os seguintes direitos, além de outros que a Assembleia Geral venha a
 instituir:
-I - retiradas não inferiores ao piso da categoria profissional e, na ausência deste, não infe -
-riores ao salário mínimo, calculadas de forma proporcional às horas trabalhadas ou às ati -
+I - retiradas não inferiores ao piso da categoria profissional e, na ausência deste, não infe-
+riores ao salário mínimo, calculadas de forma proporcional às horas trabalhadas ou às ati-
 vidades desenvolvidas;
 II - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro horas
 semanais, exceto quando a atividade, por sua natureza, demandar a prestação de trabalho
@@ -2138,10 +2138,10 @@ nº 12.690, de 2012).
 6.1. OBJETO SUJEITO A COORDENAÇÃO ESPECIAL QUANTO AO LOCAL DE PRESTAÇÃO
 As atividades identificadas com o objeto social da Cooperativa de Trabalho, prevista
 no caput e inciso II do art. 4º da Lei nº 12.690, de 2012, quando prestadas fora do
-estabelecimento da  cooperativa, deverão ser submetidas a uma coordenação com
-mandato nunca superior a um ano  ou ao prazo estipulado para a realização dessas
-atividades, eleita em reunião específica pelos sócios que se disponham a realizá -las, onde
-serão expostos os requisitos para sua consecução, os valores  contratados e a retribuição
+estabelecimento da cooperativa, deverão ser submetidas a uma coordenação com
+mandato nunca superior a um ano ou ao prazo estipulado para a realização dessas
+atividades, eleita em reunião específica pelos sócios que se disponham a realizá-las, onde
+serão expostos os requisitos para sua consecução, os valores contratados e a retribuição
 pecuniária de cada sócio partícipe (§ 6º do art. 7º da Lei nº 12.690, de 2012).
 
 65
@@ -2162,7 +2162,7 @@ IV - congruência com o objeto estatuído.
 Além da realização da Assembleia Geral Ordinária e Extraordinária para deliberar
 sobre os assuntos previstos na Lei nº 5.764, de 1971, e no Estatuto Social, a Cooperativa de
 Trabalho deverá realizar anualmente, no mínimo, mais uma Assembleia Geral Especial para
-deliberar, entre outros  assuntos especificados no edital de convocação, sobre gestão da
+deliberar, entre outros assuntos especificados no edital de convocação, sobre gestão da
 cooperativa, disciplina, direitos e deveres dos sócios, planejamento e resultado econômico
 dos projetos e contratos firmados e orga nização do trabalho.
 A referida Assembleia Geral Especial deverá ser realizada no segundo semestre do
@@ -2190,7 +2190,7 @@ publicado em jornal de grande circulação na região da sede da cooperativa ou 
 onde ela exerça suas atividades, respeitada a antecedência prevista no caput deste artigo.
 Além das matérias previstas no art. 44 da Lei nº 5.764, de 1971 devem ainda a
 Cooperativa de Trabalho deliberar, anualmente, em Assembleia Geral Ordinária, sobre a
-adoção ou não de diferentes faixas  de retirada dos sócios (art.  14 da Lei  nº 12.690, de
+adoção ou não de diferentes faixas de retirada dos sócios (art. 14 da Lei nº 12.690, de
 2012).
 No caso de fixação de faixas de retirada, a diferença entre as de maior e as de
 menor valor deverá ser fixada na Assembleia.
@@ -2198,7 +2198,7 @@ menor valor deverá ser fixada na Assembleia.
 10. CONSELHO DE ADMINISTRAÇÃO
 O Conselho de Administração ou Diretoria será composto por, no mínimo, três
 sócios, eleitos pela Assembleia Geral, para um prazo de gestão não superior a quatro anos,
-sendo obrigatória a  renovação de, no mínimo, um terço do colegiado  (art. 15 da  Lei nº
+sendo obrigatória a renovação de, no mínimo, um terço do colegiado (art. 15 da Lei nº
 12.690, de 2012).
 
 10.1. EXCEÇÕES À COMPOSIÇÃO
@@ -2212,7 +2212,7 @@ Conselho Fiscal, constituído de três membros efetivos e três suplentes, todos
 eleitos anualmente pela Assembleia Geral, sendo permitida a reeleição de apenas um terço
 dos seus componentes. Caso a Cooperativa seja constituída por até dezenove associados, a
 Lei nº 12.690, de 2012 autoriza uma composição para o Conselho Fiscal distinta da prevista
-no art. 56 da Lei nº 5.764, de  1971, desde que assegurados, no mínimo, três conselheiros
+no art. 56 da Lei nº 5.764, de 1971, desde que assegurados, no mínimo, três conselheiros
 fiscais.
 
 67
@@ -2225,7 +2225,7 @@ Considera-se Cooperativa Social as organizações constituídas com a finalidade
 inserir as pessoas em desvantagem no mercado econômico, por meio do trabalho.
 Fundamentam-se no interesse geral da comunidade em promover a pessoa
 humana e a integração social, laboral e econômica dos cidadãos considerados pessoas em
-desvantagem (art. 1º  da Lei nº 9.867, de 10 de novembro de 1999 e art. 2º, inciso I, do
+desvantagem (art. 1º da Lei nº 9.867, de 10 de novembro de 1999 e art. 2º, inciso I, do
 Decreto nº 8.163, de 20 de dezem- bro de 2013).
 
 2. PESSOAS EM DESVANTAGEM
@@ -2241,11 +2241,11 @@ vista econômico, social ou afetivo.
 
 3. COMPROVAÇÃO DA CONDIÇÃO DE PESSOAS EM DESVANTAGEM
 A condição de pessoa em desvantagem deve ser atestada por meio de
-documentação pro- veniente de órgãos da administração pública, ressalvando -se o direito
+documentação pro- veniente de órgãos da administração pública, ressalvando-se o direito
 à privacidade (art. 3º, § 3º, da Lei nº 9.867, de 1999).
 
 4. ATIVIDADES
-As Cooperativas Sociais incluem entre suas atividades (art. 1º da Lei nº 9.867, de 1999):  I - a
+As Cooperativas Sociais incluem entre suas atividades (art. 1º da Lei nº 9.867, de 1999): I - a
 organização e gestão de serviços sociossanitários e educativos; e
 II - o desenvolvimento de atividades agrícolas, industriais, comerciais e de serviços.
 
@@ -2273,34 +2273,34 @@ Aos XX dias do mês de XX do ano de XXXX, às XX:XX horas, em (indicar a localid
 PLETO: RUA, NÚMERO, BAIRRO, CEP E CIDADE), reuniram-se com o propósito de constituírem uma
 sociedade cooperativa, nos termos da legislação vigente, as seguintes pessoas: nome por extenso,
 nacionalidade, idade, estado civil, profissão, RG, CPF, residência (endereço completo: rua, número,
-bairro, cidade e CEP) (QUALIFICAR TODOS OS ASSOCIADOS FUNDADORES DA COOPERATIVA. LEM -
-BRANDO QUE  PARA SE  CONSTITUIR UMA  COOPERATIVA A MESMA DEVERÁ  TER NO MÍNIMO
+bairro, cidade e CEP) (QUALIFICAR TODOS OS ASSOCIADOS FUNDADORES DA COOPERATIVA. LEM-
+BRANDO QUE PARA SE CONSTITUIR UMA COOPERATIVA A MESMA DEVERÁ TER NO MÍNIMO
 VINTE PESSOAS FÍSICAS - EXCEÇÃO: COOPERATIVAS DE TRABALHO, QUE PODEM SER CONSTITUÍDAS
-COM APENAS 7 FUNDADORES) , e valor e número das quotas partes subscritas de cada fundador
+COM APENAS 7 FUNDADORES), e valor e número das quotas partes subscritas de cada fundador
 (forma e prazo de integralização).
 Foi aclamado para presidir coordenar os trabalhos o Senhor (nome do presidente), que convidou a
 mim (nome do secretário), para lavrar a presente Ata, tendo participado ainda da mesa as seguintes
 pessoas: (nome e função das pessoas de cada participante da mesa).
-O presidente solicitou que fosse apresentado, explicado e debatido o Projeto de Estatuto da socie -
+O presidente solicitou que fosse apresentado, explicado e debatido o Projeto de Estatuto da socie-
 dade, anteriormente elaborado, o que foi feito artigo por artigo. O Estatuto foi aprovado pelo voto
 dos associados fundadores, cujos nomes estão devidamente consignados nesta Ata. A seguir, o pre-
 sidente determinou que se procedesse à eleição dos membros dos órgãos sociais, conforme dispõe
 o Estatuto recém-aprovado. Procedida à votação, foram eleitos para comporem o Conselho de Ad-
-ministração, (ou Diretoria, conforme o caso) , os seguintes associados: (cargos, qualificação com -
+ministração, (ou Diretoria, conforme o caso), os seguintes associados: (cargos, qualificação com-
 pleta - nome, nacionalidade, estado civil, profissão e residência / art. 15, IV, da Lei nº 5764, de 1971
-- dos associados), com mandato até a  Assembleia Geral Ordinária de XXXX ou até dia 31 de março
+- dos associados), com mandato até a Assembleia Geral Ordinária de XXXX ou até dia 31 de março
 de XXXX, para membros efetivos do Conselho Fiscal foram eleitos os seguintes associados: (qualifi-
 cação completa - nome, nacionalidade, estado civil, profissão e residência / art. 15, IV, da Lei nº
 5764, de 1971 - dos associados eleitos), e para seus suplentes os senhores (qualificação completa -
 nome, nacionalidade, estado civil, profissão e residência / art. 15, IV, da Lei nº 5764, de 1971), de-
-vendo haver, anualmente, a renovação de dois terços dos integrantes do Conselho Fiscal. Prosse -
+vendo haver, anualmente, a renovação de dois terços dos integrantes do Conselho Fiscal. Prosse-
 guindo, todos foram empossados nos seus cargos e OS ELEITOS DECLARAM, SOB AS PENAS DA LEI,
-QUE NÃO ESTÃO IMPEDIDOS DE EXERCEREM A ADMINISTRAÇÃO e/ou a FISCALIZAÇÃO DA COO -
-PERATIVA, POR LEI ESPECIAL OU EM VIRTUDE DE CONDENAÇÃO CRIMINAL, OU POR SE ENCON -
+QUE NÃO ESTÃO IMPEDIDOS DE EXERCEREM A ADMINISTRAÇÃO e/ou a FISCALIZAÇÃO DA COO-
+PERATIVA, POR LEI ESPECIAL OU EM VIRTUDE DE CONDENAÇÃO CRIMINAL, OU POR SE ENCON-
 TRAREM SOB OS EFEITOS DELA, A PENA QUE VEDE, AINDA QUE TEMPORARIAMENTE, O ACESSO
 A CARGOS PÚBLICOS, OU POR CRIME FALIMENTAR, DE PREVARICAÇÃO, PEITA OU SUBORNO,
 CONCUSSÃO, PECULATO, OU CONTRA A ECONOMIA POPULAR, CONTRA O SISTEMA FINANCEIRO
-NACIONAL, CONTRA NORMAS DE DEFESA DE CONCORRÊNCIA, CONTRA AS RELAÇÕES DE CON -
+NACIONAL, CONTRA NORMAS DE DEFESA DE CONCORRÊNCIA, CONTRA AS RELAÇÕES DE CON-
 SUMO, FÉ PÚBLICA, OU A PROPRIEDADE DE ACORDO COM O ART. 51 DA LEI Nº 5.761, DE 1971 E
 § 1º, ART. 1.011 DO CÓDIGO CIVIL BRASILEIRO, BEM COMO NÃO SÃO PARENTES ENTRE SI ATÉ
 SEGUNDO GRAU, EM LINHA RETA OU COLATERAL. O Presidente do Conselho de Administração (ou
@@ -2312,7 +2312,7 @@ Diretoria, conforme o caso), assumindo a direção dos trabalhos, declarou defin
 por objeto: (acrescentar um resumo do objeto transcrito no estatuto).
 Como nada mais houvesse a ser tratado, o Senhor Presidente deu por encerrados os trabalhos e eu,
 que servi de Secretário, lavrei a presente Ata que, lida e achada conforme, contém as assinaturas
-de todos os associados fundadores, como prova a livre vontade de cada um de organizar a coope -
+de todos os associados fundadores, como prova a livre vontade de cada um de organizar a coope-
 rativa (local a data).
 
 (Assinaturas do Presidente e Secretário da Assembleia)
@@ -2333,10 +2333,10 @@ Art. 1º A Cooperativa  (DENOMINAÇÃO SOCIAL COMPLETA), constituída
 em            / / , de acordo com a Ata de Assembleia Geral de Constituição, neste Esta-
 tuto Social designada simplesmente de Cooperativa, sociedade de pessoas, sem fins lucrativos,
 rege-se pelos princípios do cooperativismo, por este Estatuto Social e pela legislação vigente, tendo:
-a) sede, administração e foro jurídico em   (INSERIR ENDEREÇO  COM-
+a) sede, administração e foro jurídico em   (INSERIR ENDEREÇO COM-
 PLETO, INCLUSIVE CEP) na cidade de , (UF).
 b) área de admissão de associados, abrangendo (LISTAR ESTADO E/OU MU-
-NICÍPIOS QUE IRÃO COMPOR A ÁREA DE ADMISSÃO DE ASSOCIADOS) , podendo atuar em todo o
+NICÍPIOS QUE IRÃO COMPOR A ÁREA DE ADMISSÃO DE ASSOCIADOS), podendo atuar em todo o
 território nacional.
 c) prazo de duração indeterminado e exercício social com duração de doze meses, com início em 1º
 de janeiro e término em 31 de dezembro de cada ano.
@@ -2373,7 +2373,7 @@ SEJE LIMITAR O QUADRO ASSOCIATIVO ÀS PESSOAS QUE EXERÇAM DETERMINADA ATIVIDADE
 OU PROFISSÃO, OU ESTEJAM VINCULADAS A DETERMINADA ENTIDADE, CONFORME § 1º DO ART.
 29 DA LEI 5.764, DE 16 DE DEZEMBRO DE 1971).
 § 1º Poderão ingressar na Cooperativa, excepcionalmente, pessoas jurídicas que tenham por objeto
-as mesmas ou correlatas atividades econômicas das pessoas físicas ou, ainda, aquelas sem fins lu -
+as mesmas ou correlatas atividades econômicas das pessoas físicas ou, ainda, aquelas sem fins lu-
 crativos, desde que satisfaçam as condições estabelecidas neste Estatuto Social.
 § 2º Não podem ingressar no quadro da Cooperativa os agentes de comércio e empresários que
 operem no mesmo campo econômico da sociedade.
@@ -2385,7 +2385,7 @@ Art. 4º O número de associados será ilimitado quanto ao máximo, não podendo
 vinte pessoas físicas.
 
 Art. 5º Para adquirir a qualidade de associado, o interessado deverá ter a sua admissão aprovada
-pelo órgão de administração da Cooperativa, subscrever as quotas -partes na forma prevista neste
+pelo órgão de administração da Cooperativa, subscrever as quotas-partes na forma prevista neste
 Estatuto Social, assinar o Livro de Matrícula e outros documentos necessários para a efetivação da
 associação.
 Parágrafo único. Cumprido o que dispõe o caput deste artigo, o associado adquire todos os direitos
@@ -2408,7 +2408,7 @@ V - examinar, mediante pedido formal prévio, informações e documentos relativ
 aos negócios e à administração da Cooperativa;
 VI - receber devolução do capital integralizado, juros e sobras, nos termos deste Estatuto Social;
 VII - tomar conhecimento dos normativos da Cooperativa;
-VIII - demitir-se da Cooperativa quando lhe convier, obedecidas as disposições aplicáveis deste Es -
+VIII - demitir-se da Cooperativa quando lhe convier, obedecidas as disposições aplicáveis deste Es-
 tatuto Social.
 Parágrafo único. A fim de serem apreciadas pela Assembleia Geral, as propostas dos associados,
 referidas neste Estatuto, deverão ser previamente apresentadas ao órgão de administração e cons-
@@ -2424,11 +2424,11 @@ III - integralizar as quotas-partes do capital subscritas, nos termos deste Esta
 IV - cobrir as perdas do exercício, quando houver, proporcionalmente às operações que realizou
 com a Cooperativa, se o Fundo de Reserva não for suficiente para cobri-las;
 V - arcar, na proporção direta da fruição de serviços prestados pela Cooperativa, com a cobertura
-das despesas da sociedade, bem como das taxas de serviço e encargos operacionais que forem es -
+das despesas da sociedade, bem como das taxas de serviço e encargos operacionais que forem es-
 tabelecidos;
 VI - cumprir as disposições da lei e deste Estatuto Social, as deliberações das Assembleias Gerais, do
 órgão de administração, da Diretoria Executiva (SOMENTE UTILIZAR CASO A COOPERATIVA TENHA
-UMA DIRETORIA EXECUTIVA), bem como de outros instrumentos de normatização destinados di -
+UMA DIRETORIA EXECUTIVA), bem como de outros instrumentos de normatização destinados di-
 reta ou indiretamente aos associados;
 VII - zelar pelos interesses morais, éticos, sociais e materiais da Cooperativa;
 VIII - prestar, quando solicitado, esclarecimentos sobre as suas atividades à Cooperativa;
@@ -2460,7 +2460,7 @@ Livro de Matrícula, será aplicada em virtude de infração legal ou estatutár
 I - exercer qualquer atividade considerada prejudicial à Cooperativa;
 II - praticar atos que, a critério da Cooperativa, a desabonem, como emissão de cheques sem fundos
 em qualquer instituição financeira, inclusão nos sistemas de proteção ao crédito, pendências regis-
-tradas no Banco Central do Brasil, atrasos constantes e relevantes em operações de crédito e ope -
+tradas no Banco Central do Brasil, atrasos constantes e relevantes em operações de crédito e ope-
 rações baixadas em prejuízo na Cooperativa;
 III - deixar de honrar qualquer compromisso perante a Cooperativa, ou perante terceiro, no qual a
 Cooperativa tenha prestado qualquer espécie de garantia pela qual ela seja obrigada a honrar em
@@ -2498,18 +2498,18 @@ com os motivos que a determinaram, observadas as regras para eliminação de ass
 SEÇÃO IV
 DISPOSIÇÕES GERAIS
 
-Art. 12. Em qualquer caso de demissão, eliminação ou exclusão, o associado só terá direito à resti -
+Art. 12. Em qualquer caso de demissão, eliminação ou exclusão, o associado só terá direito à resti-
 tuição do capital integralizado, das sobras e de outros créditos que lhe tiverem sido registrados.
 § 1º A restituição de que trata este artigo somente poderá ser exigida depois de aprovado, pela
 Assembleia Geral, o balanço do exercício em que o associado tenha sido desligado da Cooperativa.
 § 2º O órgão de administração da Cooperativa poderá determinar que a restituição deste capital
-seja feita em parcelas, a partir do exercício financeiro que se seguir àquele em que se deu o desli -
+seja feita em parcelas, a partir do exercício financeiro que se seguir àquele em que se deu o desli-
 gamento e no mesmo prazo e condições da integralização.
 § 3º Os atos de demissão, eliminação ou exclusão acarretam o vencimento e pronta exigibilidade
 das dívidas do associado com a Cooperativa, sobre cuja liquidação caberá ao órgão de administração
 decidir.
-§ 4º Ocorrendo demissões, eliminações ou exclusões de associados em número tal que as restitui -
-ções das importâncias referidas neste artigo possam ameaçar a estabilidade econômico -financeira
+§ 4º Ocorrendo demissões, eliminações ou exclusões de associados em número tal que as restitui-
+ções das importâncias referidas neste artigo possam ameaçar a estabilidade econômico-financeira
 da Cooperativa, esta poderá restituí-las mediante critérios que resguardem a sua continuidade.
 
 CAPÍTULO V
@@ -2520,14 +2520,14 @@ ele subscrito e o montante das perdas que lhe couber.
 Parágrafo único. A responsabilidade do associado para com terceiros, como membro da sociedade,
 somente poderá ser invocada depois de judicialmente exigida da Cooperativa.
 OU
-Art. 13. O associado responde por todos os compromissos da Cooperativa, de forma pessoal, soli -
+Art. 13. O associado responde por todos os compromissos da Cooperativa, de forma pessoal, soli-
 dária e independente do valor do capital por ele subscrito.
 Parágrafo único. A responsabilidade do associado para com terceiros, como membro da sociedade,
 somente poderá ser invocada depois de judicialmente exigida da Cooperativa.
 
 76
 
-Art. 14. A responsabilidade do associado perante terceiros, por compromissos da sociedade, per -
+Art. 14. A responsabilidade do associado perante terceiros, por compromissos da sociedade, per-
 dura para os demitidos, eliminados ou excluídos até quando aprovadas as contas do exercício em
 que se deu o desligamento.
 Parágrafo único. As obrigações dos associados falecidos, contraídas com a sociedade, e as oriundas
@@ -2543,22 +2543,22 @@ TENSO).
 § 1º O capital é dividido em quotas-partes de valor unitário igual a R$ (VALOR POR
 EXTENSO) cada uma.
 § 2º A quota-parte é indivisível, intransferível a não associados, não podendo ser negociada de
-modo algum, nem dada em garantia, e todo o seu movimento de subscrição, integralização, trans -
+modo algum, nem dada em garantia, e todo o seu movimento de subscrição, integralização, trans-
 ferência e restituição será sempre escriturado no Livro de Matrícula.
 § 3º A transferência de quotas-partes entre associados, total ou parcial, será escriturada no Livro de
 Matrícula, mediante termo que contenha as assinaturas do cedente, do cessionário e do dirigente
 que o Estatuto designar.
-§ 4º O associado deve integralizar as quotas -partes à vista ou em parcelas periódicas devendo o
+§ 4º O associado deve integralizar as quotas-partes à vista ou em parcelas periódicas devendo o
 órgão de administração estabelecer o número e dia de vencimento para pagamento das parcelas.
-§ 5º A integralização de quotas -partes e o aumento do capital social poderão ser feitos com bens
-previamente avaliados e após homologação em Assembleia Geral ou mediante retenção de deter -
+§ 5º A integralização de quotas-partes e o aumento do capital social poderão ser feitos com bens
+previamente avaliados e após homologação em Assembleia Geral ou mediante retenção de deter-
 minada porcentagem do valor do movimento financeiro de cada associado.
-§ 6º É vedada a distribuição de qualquer espécie de benefício às quotas-partes do capital ou esta -
+§ 6º É vedada a distribuição de qualquer espécie de benefício às quotas-partes do capital ou esta-
 belecer outras vantagens ou privilégios, financeiros ou não, em favor de quaisquer associados ou
 terceiros.
 § 7º A cooperativa poderá distribuir juros de até doze por cento ao ano sobre o capital integralizado,
 se houver sobras, mediante deliberação da Assembleia Geral.
-§ 8º O capital social da Cooperativa será calculado pela multiplicação do valor unitário da quota -
+§ 8º O capital social da Cooperativa será calculado pela multiplicação do valor unitário da quota-
 parte pelo número mínimo de quotas-partes a serem subscritas por cada associado e pelo número
 mínimo de associados.
 
@@ -2570,7 +2570,7 @@ operativa.
 77
 
 Art. 17. Os herdeiros do associado falecido têm direito ao capital integralizado e demais créditos
-pertencentes ao mesmo, assegurando-lhes o direito de ingresso na Cooperativa, desde que preen -
+pertencentes ao mesmo, assegurando-lhes o direito de ingresso na Cooperativa, desde que preen-
 cham as condições estabelecidas neste Estatuto, mediante requerimento expresso.
 
 TÍTULO IV
@@ -2583,13 +2583,13 @@ decisão de interesse da sociedade, dentro dos limites da lei e deste Estatuto S
 Parágrafo único. As decisões tomadas em Assembleia Geral vinculam a todos os associados, ainda
 que ausentes ou discordantes e constarão de ata lavrada em livro próprio ou em folhas soltas.
 
-Art. 19. A Assembleia Geral será habitualmente convocada e dirigida pelo Presidente da Coopera -
+Art. 19. A Assembleia Geral será habitualmente convocada e dirigida pelo Presidente da Coopera-
 tiva.
 Parágrafo único. A Assembleia Geral, também, poderá ser convocada por qualquer dos órgãos de
 administração, pelo Conselho Fiscal, ou após solicitação não atendida, por um quinto dos associados
 em pleno gozo de seus direitos sociais.
 
-Art. 20. Em qualquer das hipóteses referidas neste Estatuto, as Assembleias Gerais serão convoca -
+Art. 20. Em qualquer das hipóteses referidas neste Estatuto, as Assembleias Gerais serão convoca-
 das com antecedência mínima de dez dias, com o horário definido para as três convocações, sendo
 de no mínimo uma hora o intervalo entre elas.
 
@@ -2600,8 +2600,8 @@ III - mínimo de dez associados em terceira convocação.
 §1º Para efeito de verificação do quorum de que trata este artigo, o número de associados presen-
 tes, em cada convocação, será contado por suas assinaturas apostas no Livro de Presença, seguidas
 do respectivo número de matrícula.
-§ 2º Constatada a existência de quorum no horário estabelecido no Edital de Convocação, o Presi -
-dente instalará a Assembleia, com a declaração do número de associados presentes, e fará trans -
+§ 2º Constatada a existência de quorum no horário estabelecido no Edital de Convocação, o Presi-
+dente instalará a Assembleia, com a declaração do número de associados presentes, e fará trans-
 crever estes dados para a respectiva ata.
 
 Art. 22. Não havendo quorum para instalação da Assembleia Geral, será feita nova convocação, com
@@ -2624,7 +2624,7 @@ rum de instalação; e
 VI - a data e assinatura do responsável pela convocação.
 § 1º No caso de a convocação ser feita por associados, o edital será assinado, no mínimo, por um
 quinto dos associados em pleno gozo dos seus direitos.
-§ 2º Os editais de convocação serão afixados em locais visíveis das dependências geralmente fre -
+§ 2º Os editais de convocação serão afixados em locais visíveis das dependências geralmente fre-
 quentadas pelos associados, publicados em jornal de circulação local ou regional, e comunicados
 aos associados por intermédio de circulares.
 
@@ -2638,7 +2638,7 @@ partir da vacância do cargo.
 tradores e/ou conselheiros fiscais, conforme o caso, cujo mandato será o equivalente ao tempo
 restante do mandato anterior.
 
-Art. 25. Os trabalhos das Assembleias Gerais serão dirigidos pelo Presidente, auxiliado por um se -
+Art. 25. Os trabalhos das Assembleias Gerais serão dirigidos pelo Presidente, auxiliado por um se-
 cretário ad hoc.
 Parágrafo único. Quando a Assembleia Geral não tiver sido convocada pelo Presidente, os trabalhos
 serão dirigidos por um associado escolhido na ocasião, e secretariado por outro, convidado por
@@ -2657,7 +2657,7 @@ para coordenar os debates e a votação da matéria.
 79
 
 § 1º Transmitida a direção dos trabalhos, o Presidente e demais dirigentes do órgão de administra-
-ção e os conselheiros fiscais, deixarão a mesa, permanecendo no recinto, à disposição da Assem -
+ção e os conselheiros fiscais, deixarão a mesa, permanecendo no recinto, à disposição da Assem-
 bleia Geral para os esclarecimentos que lhes forem solicitados.
 § 2º O coordenador indicado escolherá, dentre os associados, um secretário ad hoc para auxiliá-lo
 na redação das decisões a serem incluídas na ata pelo secretário da Assembleia Geral.
@@ -2666,7 +2666,7 @@ Art. 28. As deliberações das Assembleias Gerais somente poderão versar sobre 
 do Edital de Convocação.
 Parágrafo único. Os assuntos que não constarem expressamente do Edital de Convocação e os que
 não satisfizerem as limitações deste artigo, somente poderão ser discutidos depois de esgotada a
-ordem do dia, sendo que sua votação, se a matéria for considerada objeto de decisão, será obriga -
+ordem do dia, sendo que sua votação, se a matéria for considerada objeto de decisão, será obriga-
 toriamente assunto para nova Assembleia Geral.
 
 Art. 29. O que ocorrer na Assembleia Geral deverá constar de ata circunstanciada, lavrada no livro
@@ -2685,7 +2685,7 @@ vação pela Assembleia Geral das contas do exercício social em que haja ocorri
 trato de trabalho.
 
 Art. 32. Prescreve em quatro anos a ação para anular as deliberações da Assembleia Geral viciadas
-de erro, dolo, fraude ou simulação, ou tomadas com violação de lei ou deste Estatuto Social, con -
+de erro, dolo, fraude ou simulação, ou tomadas com violação de lei ou deste Estatuto Social, con-
 tado o prazo da data em que a Assembleia Geral tiver sido realizada.
 
 SEÇÃO I
@@ -2704,14 +2704,14 @@ b) balanço;
 c) demonstrativo das sobras apuradas ou das perdas decorrentes da insuficiência das contribuições
 para cobertura das despesas da sociedade e o parecer do Conselho Fiscal; e
 d) plano de atividades da Cooperativa para o exercício seguinte;
-II - destinação das sobras apuradas ou o rateio das perdas, deduzindo -se, no primeiro caso, as par-
+II - destinação das sobras apuradas ou o rateio das perdas, deduzindo-se, no primeiro caso, as par-
 celas para os fundos obrigatórios;
 III - eleição e posse dos componentes dos órgãos de administração e de outros órgãos necessários
 à administração, quando for o caso;
 IV - eleição e posse dos componentes do Conselho Fiscal e de outros, quando for o caso;
 V - quando previsto, a fixação do valor dos honorários, gratificações e cédula de presença dos mem-
 bros dos órgãos de administração e do Conselho Fiscal;
-VI - quaisquer assuntos de interesse social, excluídos aqueles de competência exclusiva da Assem -
+VI - quaisquer assuntos de interesse social, excluídos aqueles de competência exclusiva da Assem-
 bleia Geral Extraordinária enumerados neste Estatuto Social.
 § 1º Os membros dos órgãos de administração e fiscalização não poderão participar da votação das
 matérias referidas nos incisos I (exceto alínea “d”) e V deste artigo.
@@ -2745,14 +2745,14 @@ SEÇÃO I
 DO CONSELHO DE ADMINISTRAÇÃO
 
 Art. 36. O Conselho de Administração é o órgão competente e responsável pela decisão sobre todo
-e qualquer assunto de ordem econômica e social, de interesse da Cooperativa ou de seus associa -
+e qualquer assunto de ordem econômica e social, de interesse da Cooperativa ou de seus associa-
 dos, nos termos da lei, deste Estatuto Social e das recomendações da Assembleia Geral.
 
 Art. 37. O Conselho de Administração será composto de (INSERIR NÚMERO) membros,
 sendo um Presidente e (INSERIR DEMAIS CARGOS), todos associados no gozo de
 seus direitos sociais, eleitos pela Assembleia Geral para mandato de (INSERIR NÚMERO
-- não poderá ser superior a quatro anos, conforme art. 47 da Lei nº 5.764, de 1971 ) anos, sendo
-obrigatória, ao término de cada mandato, a renovação de, no mínimo, um terço dos seus compo -
+- não poderá ser superior a quatro anos, conforme art. 47 da Lei nº 5.764, de 1971) anos, sendo
+obrigatória, ao término de cada mandato, a renovação de, no mínimo, um terço dos seus compo-
 nentes.
 § 1º Não podem fazer parte do Conselho de Administração, além das pessoas impedidas por lei, os
 condenados a pena que vede, ainda que temporariamente, o acesso a cargos públicos; ou por crime
@@ -2766,13 +2766,13 @@ posse automaticamente quando for divulgado o resultado pela referida Assembleia.
 
 Art. 39. O Conselho de Administração rege-se pelas seguintes normas:
 I - reúne-se ordinariamente uma vez por mês, e extraordinariamente sempre que necessário, por
-convocação do Presidente, da maioria do próprio Conselho de Administração, ou, ainda, por solici -
+convocação do Presidente, da maioria do próprio Conselho de Administração, ou, ainda, por solici-
 tação do Conselho Fiscal;
-II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre -
+II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre-
 sentação, sendo as decisões tomadas pela maioria simples de votos dos presentes, reservado ao
 Presidente o voto de desempate;
 III - as deliberações serão consignadas em atas circunstanciadas lavradas em livro próprio, lidas,
-aprovadas e assinadas ao fim dos trabalhos pelos membros do Conselho de Administração presen -
+aprovadas e assinadas ao fim dos trabalhos pelos membros do Conselho de Administração presen-
 tes.
 Parágrafo único. Perderá automaticamente o cargo o membro do Conselho de Administração que,
 sem justificativa, faltar a (INSERIR NÚMERO) reuniões ordinárias consecutivas ou a
@@ -2782,12 +2782,12 @@ sem justificativa, faltar a (INSERIR NÚMERO) reuniões ordinárias consecutivas
 
 Art. 40. Cabem ao Conselho de Administração, dentro dos limites da lei e deste Estatuto Social, as
 seguintes atribuições:
-I - propor à Assembleia Geral as políticas e metas para orientação geral das atividades da Coopera -
+I - propor à Assembleia Geral as políticas e metas para orientação geral das atividades da Coopera-
 tiva, apresentando programas de trabalho e orçamento, além de sugerir as medidas a serem toma-
 das;
 II - programar as operações e serviços estabelecendo qualidade e fixando quantidades, valores, pra-
 zos, taxas, encargos e demais condições necessárias a sua efetivação;
-III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi -
+III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi-
 mento das operações e serviços;
 IV - estimar previamente a rentabilidade das operações e serviços, bem como a sua viabilidade;
 V - estabelecer as normas para funcionamento da Cooperativa;
@@ -2798,7 +2798,7 @@ dos contra disposições de lei, deste Estatuto Social, ou das regras de relacio
 que venham a ser estabelecidas;
 VIII - deliberar sobre a admissão, eliminação e exclusão de associados e suas implicações;
 IX - deliberar sobre a convocação da Assembleia Geral e estabelecer a ordem do dia, quando for o
-responsável pela sua convocação, considerando as propostas dos associados, nos termos deste Es -
+responsável pela sua convocação, considerando as propostas dos associados, nos termos deste Es-
 tatuto Social;
 X - estabelecer a estrutura operacional da administração executiva dos negócios, criando cargos,
 atribuindo funções, e fixando normas para a admissão e demissão dos empregados;
@@ -2808,7 +2808,7 @@ XIII - avaliar a conveniência e fixar o limite de fiança ou seguro de fidelida
 que manipulam dinheiro ou valores da Cooperativa;
 XIV - fixar as despesas de administração em orçamento anual que indique a fonte dos recursos para
 a sua cobertura;
-XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis -
+XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis-
 posto no art. 112 da Lei nº 5.764, de 1971;
 XVI - indicar instituições financeiras nas quais serão feitos negócios e depósitos de numerário, e fixar
 limite máximo que poderá ser mantido no caixa da Cooperativa;
@@ -2825,10 +2825,10 @@ compõem o ativo permanente da sociedade;
 
 XXI - zelar pelo cumprimento da legislação cooperativista e de outras aplicáveis, bem como pelo
 atendimento da legislação trabalhista e fiscal.
-§ 1º O Presidente da Cooperativa providenciará para que os demais membros do Conselho de Ad -
+§ 1º O Presidente da Cooperativa providenciará para que os demais membros do Conselho de Ad-
 ministração recebam, com a antecedência mínima de (INSERIR NÚMERO) dias, cópias dos
 balancetes e demonstrativos, planos e projetos e outros documentos sobre os quais tenham que se
-pronunciar, sendo-lhes facultado, ainda, anteriormente à reunião correspondente, inquirir empre -
+pronunciar, sendo-lhes facultado, ainda, anteriormente à reunião correspondente, inquirir empre-
 gados ou associados, pesquisar documentos, a fim de dirimir as dúvidas eventualmente existentes.
 § 2º O Conselho de Administração solicitará, sempre que julgar conveniente, o assessoramento de
 quaisquer funcionários graduados para auxiliá-lo no esclarecimento dos assuntos a decidir, podendo
@@ -2866,11 +2866,11 @@ deles logrado proveito.
 
 84
 
-§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po -
+§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po-
 dem ser declarados pessoalmente responsáveis pelas obrigações em nome dela contraídas, sem
 prejuízo das sanções penais cabíveis.
 § 3º O membro do Conselho de Administração que, em qualquer operação, tenha interesse oposto
-ao da Cooperativa, não poderá participar das deliberações relacionadas com essa operação, cum -
+ao da Cooperativa, não poderá participar das deliberações relacionadas com essa operação, cum-
 prindo-lhe declarar seu impedimento.
 § 4º Os componentes do Conselho de Administração, do Conselho Fiscal, bem como os liquidantes,
 equiparam-se aos administradores das sociedades anônimas para efeito de responsabilidade crimi-
@@ -2878,15 +2878,15 @@ nal.
 § 5º Sem prejuízo da ação que possa caber a qualquer associado, a Cooperativa, por seus dirigentes,
 ou representada por associado escolhido em Assembleia Geral, terá direito de ação contra os admi-
 nistradores, para promover a sua responsabilidade.
-Art. 43. O Conselho de Administração da Cooperativa poderá criar Diretoria Executiva a ele subor -
-dinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indica -
+Art. 43. O Conselho de Administração da Cooperativa poderá criar Diretoria Executiva a ele subor-
+dinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indica-
 das por aquele conselho.
 Parágrafo único. As funções da Administração Executiva dos negócios sociais poderão ser exercidas
-por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra -
+por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra-
 ção.
 
-Art. 44. O Conselho de Administração poderá criar comitês especiais, transitórios ou não, para es -
-tudar, planejar e coordenar a solução de questões específicas, relativas ao funcionamento da Coo -
+Art. 44. O Conselho de Administração poderá criar comitês especiais, transitórios ou não, para es-
+tudar, planejar e coordenar a solução de questões específicas, relativas ao funcionamento da Coo-
 perativa.
 
 OU
@@ -2899,9 +2899,9 @@ de ordem econômica e social, de interesse da Cooperativa ou de seus associados,
 deste Estatuto Social e das recomendações da Assembleia Geral.
 
 Art. 37. A Diretoria será composta de (INSERIR NÚMERO) membros, sendo um Presidente
-e (INSERIR DEMAIS CARGOS ), todos associados no gozo de seus direitos sociais,
+e (INSERIR DEMAIS CARGOS), todos associados no gozo de seus direitos sociais,
 eleitos pela Assembleia Geral para mandato de (INSERIR NÚMERO - não poderá ser su-
-perior a quatro anos, conforme art. 47 da Lei nº 5.764, de 1971 ) anos, sendo obrigatória, ao tér -
+perior a quatro anos, conforme art. 47 da Lei nº 5.764, de 1971) anos, sendo obrigatória, ao tér-
 mino de cada mandato, a renovação de, no mínimo, um terço dos seus componentes.
 § 1º Não podem fazer parte da Diretoria, além das pessoas impedidas por lei, os condenados a pena
 que vede, ainda que temporariamente, o acesso a cargos públicos; ou por crime falimentar, de pre-
@@ -2913,14 +2913,14 @@ propriedade.
 § 2º Não podem compor a mesma Diretoria os parentes entre si até segundo grau, em linha reta ou
 colateral.
 
-Art. 38. Os membros da Diretoria serão eleitos pela Assembleia Geral tomando posse automatica -
+Art. 38. Os membros da Diretoria serão eleitos pela Assembleia Geral tomando posse automatica-
 mente quando for divulgado o resultado pela referida Assembleia.
 
 Art. 39. A Diretoria rege-se pelas seguintes normas:
 I - reúne-se ordinariamente uma vez por mês, e extraordinariamente sempre que necessário, por
 convocação do Presidente, da maioria da própria Diretoria, ou, ainda, por solicitação do Conselho
 Fiscal;
-II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre -
+II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre-
 sentação, sendo as decisões tomadas pela maioria simples de votos dos presentes, reservado ao
 Presidente o voto de desempate; e
 III - as deliberações serão consignadas em atas circunstanciadas lavradas em livro próprio, lidas,
@@ -2935,7 +2935,7 @@ tiva, apresentando programas de trabalho e orçamento, além de sugerir as medid
 das;
 II - programar as operações e serviços estabelecendo qualidade e fixando quantidades, valores, pra-
 zos, taxas, encargos e demais condições necessárias a sua efetivação;
-III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi -
+III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi-
 mento das operações e serviços;
 IV - estimar previamente a rentabilidade das operações e serviços, bem como a sua viabilidade;
 V - estabelecer as normas para funcionamento da Cooperativa;
@@ -2946,7 +2946,7 @@ dos contra disposições de lei, deste Estatuto Social, ou das regras de relacio
 que venham a ser estabelecidas;
 VIII - deliberar sobre a admissão, eliminação e exclusão de associados e suas implicações;
 IX - deliberar sobre a convocação da Assembleia Geral e estabelecer a ordem do dia, quando for o
-responsável pela sua convocação, considerando as propostas dos associados, nos termos deste Es -
+responsável pela sua convocação, considerando as propostas dos associados, nos termos deste Es-
 tatuto Social;
 X - estabelecer a estrutura operacional da administração executiva dos negócios, criando cargos,
 atribuindo funções, e fixando normas para a admissão e demissão dos empregados;
@@ -2959,7 +2959,7 @@ XIII - avaliar a conveniência e fixar o limite de fiança ou seguro de fidelida
 que manipulam dinheiro ou valores da Cooperativa;
 XIV - fixar as despesas de administração em orçamento anual que indique a fonte dos recursos para
 a sua cobertura;
-XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis -
+XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis-
 posto no art. 112, da Lei nº 5.764, de 1971;
 XVI - indicar instituições financeiras nas quais serão feitos negócios e depósitos de numerário, e fixar
 limite máximo que poderá ser mantido no caixa da Cooperativa;
@@ -2975,10 +2975,10 @@ XXI - zelar pelo cumprimento da legislação cooperativista e de outras aplicáv
 atendimento da legislação trabalhista e fiscal.
 § 1º O Presidente da Cooperativa providenciará para que os demais membros da Diretoria recebam,
 com a antecedência mínima de (INSERIR NÚMERO) dias, cópias dos balancetes e demons-
-trativos, planos e projetos e outros documentos sobre os quais tenham que se pronunciar, sendo -
+trativos, planos e projetos e outros documentos sobre os quais tenham que se pronunciar, sendo-
 lhes facultado, ainda, anteriormente à reunião correspondente, inquirir empregados ou associados,
 pesquisar documentos, a fim de dirimir as dúvidas eventualmente existentes.
-§ 2º A Diretoria solicitará, sempre que julgar conveniente, o assessoramento de quaisquer funcio -
+§ 2º A Diretoria solicitará, sempre que julgar conveniente, o assessoramento de quaisquer funcio-
 nários graduados para auxiliá-lo no esclarecimento dos assuntos a decidir, podendo determinar que
 qualquer deles apresente, previamente, projetos sobre questões específicas.
 § 3º As normas estabelecidas pela Diretoria serão baixadas em forma de Resoluções, Regulamentos
@@ -3005,16 +3005,16 @@ X - prestar informações verbais ou escritas a Diretoria e ao Conselho Fiscal s
 ceira da Cooperativa, permitindo o livre exame dos livros e documentos; e
 XI - responsabilizar-se pelos valores e títulos de qualquer natureza pertencentes à Cooperativa.
 
-Art. 42. Os dirigentes, eleitos ou contratados, não serão pessoalmente responsáveis pelas obriga -
+Art. 42. Os dirigentes, eleitos ou contratados, não serão pessoalmente responsáveis pelas obriga-
 ções que contraírem em nome da Cooperativa, mas responderão solidariamente pelos prejuízos
 resultantes de desídia e omissão ou se agiram com culpa, dolo ou má fé.
 § 1º A Cooperativa responderá pelos atos a que se refere este artigo, se os houver ratificado ou
 deles logrado proveito.
-§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po -
+§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po-
 dem ser declarados pessoalmente responsáveis pelas obrigações em nome dela contraídas, sem
 prejuízo das sanções penais cabíveis.
 § 3º O membro da Diretoria que, em qualquer operação, tenha interesse oposto ao da Cooperativa,
-não poderá participar das deliberações relacionadas com essa operação, cumprindo -lhe declarar
+não poderá participar das deliberações relacionadas com essa operação, cumprindo-lhe declarar
 seu impedimento.
 § 4º Os componentes da Diretoria, do Conselho Fiscal, bem como os liquidantes, equiparam-se aos
 administradores das sociedades anônimas para efeito de responsabilidade criminal.
@@ -3025,10 +3025,10 @@ nistradores, para promover a sua responsabilidade.
 Art. 43. A Diretoria poderá criar Diretoria Executiva a ela subordinada, na qualidade de órgão esta-
 tutário composto por pessoas físicas associadas ou não, indicadas por aquela diretoria.
 Parágrafo único. As funções da Administração Executiva dos negócios sociais poderão ser exercidas
-por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra -
+por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra-
 ção.
 
-Art. 44. A Diretoria poderá criar comitês especiais, transitórios ou não, para estudar, planejar e co -
+Art. 44. A Diretoria poderá criar comitês especiais, transitórios ou não, para estudar, planejar e co-
 ordenar a solução de questões específicas, relativas ao funcionamento da Cooperativa.
 
 SEÇÃO II
@@ -3037,7 +3037,7 @@ DO CONSELHO FISCAL
 88
 
 Art. 45. A administração da Cooperativa será fiscalizada, assídua e minuciosamente, por um Conse-
-lho Fiscal, constituído de três membros efetivos e três suplentes, todos associados, eleitos anual -
+lho Fiscal, constituído de três membros efetivos e três suplentes, todos associados, eleitos anual-
 mente pela Assembleia Geral, sendo permitida a reeleição de apenas um terço dos seus componen-
 tes.
 § 1º Para concorrer ao cargo de conselheiro fiscal, o associado deverá estar em pleno gozo de seus
@@ -3045,7 +3045,7 @@ direitos, de acordo com os requisitos legais e estatutários.
 § 2º Não podem fazer parte do Conselho Fiscal, além dos inelegíveis enumerados neste Estatuto, os
 parentes dos membros do órgão de administração, até o segundo grau, em linha reta ou colateral,
 bem como os parentes entre si até esse grau.
-§ 3º O associado não pode exercer cumulativamente cargos nos órgãos de administração e de fis -
+§ 3º O associado não pode exercer cumulativamente cargos nos órgãos de administração e de fis-
 calização.
 
 Art. 46. O Conselho Fiscal reúne-se, ordinariamente, uma vez por mês e, extraordinariamente, sem-
@@ -3066,7 +3066,7 @@ horas, para efeito de convocação do respectivo suplente.
 bro efetivo, comparecer à reunião.
 § 2º Quando a comunicação não ocorrer nos moldes do caput deste artigo, o Conselheiro Fiscal terá
 o prazo de (INSERIR NÚMERO) dias, a contar da data em que sua ausência foi registrada,
-para se justificar, mediante exposição em reunião, ou em expediente do interessado ao Coordena -
+para se justificar, mediante exposição em reunião, ou em expediente do interessado ao Coordena-
 dor do Conselho Fiscal.
 § 3º O Conselheiro Fiscal que faltar, não poderá fazer jus ao recebimento de cédula de presença,
 instituída em Assembleia Geral, mesmo que a ausência seja justificada.
@@ -3079,8 +3079,8 @@ assumirá automaticamente o lugar do titular.
 
 89
 
-Art. 50. No caso de ocorrerem três ou mais vagas no Conselho Fiscal, deverá haver imediata comu -
-nicação ao órgão de administração da Cooperativa, para as providências de convocação de Assem -
+Art. 50. No caso de ocorrerem três ou mais vagas no Conselho Fiscal, deverá haver imediata comu-
+nicação ao órgão de administração da Cooperativa, para as providências de convocação de Assem-
 bleia Geral para o devido preenchimento das vagas.
 
 Art. 51. Compete ao Conselho Fiscal exercer assídua fiscalização sobre as operações, atividades e
@@ -3126,7 +3126,7 @@ nos prazos convencionados;
 § 1º Para o desempenho de suas funções, terá o Conselho Fiscal acesso a quaisquer livros, contas e
 documentos, a empregados, a associados e outros, independente de autorização prévia do órgão
 de administração.
-§ 2º Poderá o Conselho Fiscal, com autorização da Assembleia Geral, contratar o necessário asses -
+§ 2º Poderá o Conselho Fiscal, com autorização da Assembleia Geral, contratar o necessário asses-
 soramento técnico especializado, correndo as despesas por conta da Cooperativa.
 
 TÍTULO V
@@ -3148,7 +3148,7 @@ tenham ou não, no ano, usufruído dos serviços prestados pela Cooperativa.
 buídos da seguinte forma:
 I - no mínimo, dez por cento ao Fundo de Reserva; e
 II - no mínimo, cinco por cento ao Fundo de Assistência Técnica, Educacional e Social – FATES.
-§ 3º As sobras líquidas apuradas no exercício, depois de deduzidas os montantes dispostos nos in -
+§ 3º As sobras líquidas apuradas no exercício, depois de deduzidas os montantes dispostos nos in-
 cisos I e II do § 2º deste artigo, serão devolvidas aos associados, proporcionalmente às operações
 realizadas com a Cooperativa, salvo deliberação em contrário da Assembleia Geral.
 § 4º Os resultados negativos serão rateados entre os associados, na proporção das operações de
@@ -3164,7 +3164,7 @@ II - os auxílios e doações sem destinação especial.
 91
 
 Art. 55. O Fundo de Assistência Técnica, Educacional e Social - FATES destina-se à prestação de ser-
-viços aos associados e seus familiares, assim como aos empregados da própria Cooperativa, po -
+viços aos associados e seus familiares, assim como aos empregados da própria Cooperativa, po-
 dendo ser prestados mediante convênio com entidades públicas e privadas.
 Parágrafo único. Revertem também em favor do FATES, as rendas eventuais, de qualquer natureza,
 resultantes de operações ou atividades da Cooperativa com não associados, conforme art. 87 da Lei
@@ -3176,7 +3176,7 @@ TÍTULO VI
 DA DISSOLUÇÃO E LIQUIDAÇÃO
 
 Art. 57. A Cooperativa se dissolverá de pleno direito:
-I - quando assim deliberar a Assembleia Geral, desde que os associados, totalizando o número mí -
+I - quando assim deliberar a Assembleia Geral, desde que os associados, totalizando o número mí-
 nimo de vinte, não se disponham a assegurar a continuidade da Cooperativa;
 II - devido à alteração de sua forma jurídica;
 III - pela redução do número de associados a menos de vinte pessoas físicas ou do capital social em
@@ -3195,7 +3195,7 @@ social, pago o passivo e reembolsado os associados de suas quotas-partes, será 
 legislação vigente.
 
 Art. 59. Quando a dissolução da Cooperativa não for promovida voluntariamente, nas hipóteses
-previstas neste Estatuto, essa medida poderá ser tomada judicialmente, a pedido de qualquer as -
+previstas neste Estatuto, essa medida poderá ser tomada judicialmente, a pedido de qualquer as-
 sociado.
 
 TÍTULO VII
@@ -3216,7 +3216,7 @@ previamente aprovado em Assembleia Geral.
 
 Art. 62. A aquisição, alienação, doação ou oneração dos bens imóveis da Cooperativa dependerá de
 autorização (INSERIR ÓRGÃO RESPONSÁVEL PELA AUTORIZAÇÃO, COMO POR
-EXEMPLO ASSEMBLEIA GERAL E ÓRGÃO DE ADMINISTRAÇÃO ), que deliberará sobre seu modo e
+EXEMPLO ASSEMBLEIA GERAL E ÓRGÃO DE ADMINISTRAÇÃO), que deliberará sobre seu modo e
 processo de realização.
 
 Art. 63. A Cooperativa poderá agir como substituta processual dos associados, em defesa de seus
@@ -3235,7 +3235,7 @@ Visto: (OAB/UF XXXX)
 CLÁUSULAS PADRONIZADAS OPCIONAIS
 
 DAS FILIAIS (ART. 1.000 DO CC)
-Art. XX. Sem prejuízo da possibilidade de abrir ou fechar filial, ou qualquer dependência, a Coope -
+Art. XX. Sem prejuízo da possibilidade de abrir ou fechar filial, ou qualquer dependência, a Coope-
 rativa atuará:
 § 1º Em estabelecimento eleito como Sede (Matriz) situado na(o) (Logradouro), (Número), (Bairro),
 (Cidade) - UF, CEP, no qual será(ão) exercida(s) a(s) atividade(s) de (Descrição precisa e detalhada
@@ -3253,12 +3253,12 @@ Art. XX. Para a consecução de seus objetivos sociais, a Cooperativa, na medida
 des, deve:
 a) promover a difusão da doutrina cooperativista e seus princípios ao quadro social, técnico e fun-
 cional da Cooperativa;
-b) promover assistência social e educacional aos associados e respectivos familiares, utilizando -se
+b) promover assistência social e educacional aos associados e respectivos familiares, utilizando-se
 do Fundo de Assistência Técnica Educacional e Social (FATES), previsto no inciso II, art. 28 da Lei
 5.764, de 1971;
 c) propiciar, com recursos do FATES, convênios com entidades especializadas, públicas ou privadas,
 o aprimoramento técnico-profissional e capacitação cooperativista de seus associados;
-d) firmar contratos e intermediar operações de crédito e financiamento de interesse de seus asso -
+d) firmar contratos e intermediar operações de crédito e financiamento de interesse de seus asso-
 ciados;
 e) administrar, com eficiência, os recursos obtidos de seus associados para a manutenção da socie-
 dade;
@@ -3299,7 +3299,7 @@ ME, nos termos da Lei Complementar nº 123, de 14 de dezembro de 2006, e que nã
 em qualquer das hipóteses de exclusão relacionadas no § 4º do art. 3º da mencionada lei. (art. 3º,
 I, da Lei Complementar nº 123, de 2006)
 OU
-Art. XX. Os associados declaram que a cooperativa de consumo se enquadra como Empresa de Pe -
+Art. XX. Os associados declaram que a cooperativa de consumo se enquadra como Empresa de Pe-
 queno Porte - EPP, nos termos da Lei Complementar nº 123, de 14 de dezembro de 2006, e que não
 se enquadra em qualquer das hipóteses de exclusão relacionadas no § 4º do art. 3º da mencionada
 lei. (art. 3º, II, da Lei Complementar nº 123, de 2006)
@@ -3322,7 +3322,7 @@ DA DENOMINAÇÃO, SEDE, FORO, PRAZO DE DURAÇÃO, ÁREA DE AÇÃO E PRAZO DE DUR
 
 Art. 1º A Cooperativa de Trabalho (denominação social completa), consti-
 tuída em            / / , de acordo com a Ata da Assembleia Geral de Constituição (data
-da Assembleia Geral de constituição) , neste Estatuto Social designada simplesmente de Coopera -
+da Assembleia Geral de constituição), neste Estatuto Social designada simplesmente de Coopera-
 tiva, sociedade de pessoas, sem fins lucrativos, rege-se pelos princípios e valores do cooperativismo,
 por este Estatuto Social e pela legislação vigente, tendo:
 a) sede, administração e foro jurídico em  (INSERIR ENDEREÇO COM-
@@ -3343,7 +3343,7 @@ Art. 2º A Cooperativa, com base na colaboração recíproca a que se obrigam se
 riza pela prestação direta de serviços aos associado e tem por objeto social a produção em comum
 de bens de (inserir atividade(s) econômica(s) e respectivos
 códigos de Classificação Nacional de Atividades Econômicas – CNAE).
-§ 1º A Cooperativa deterá a posse, a qualquer título, dos meios de produção dos bens para a exe -
+§ 1º A Cooperativa deterá a posse, a qualquer título, dos meios de produção dos bens para a exe-
 cução do seu objeto social.
 § 2º Em todos os aspectos das atividades executadas na Cooperativa devem ser rigorosamente ob-
 servados os princípios da neutralidade política e da não discriminação religiosa, racial, social ou de
@@ -3356,17 +3356,17 @@ Art. 2º A Cooperativa, com base na colaboração recíproca a que se obrigam se
 riza pela prestação direta de serviços aos associado e tem por objeto social a prestação de serviços
 especializados a terceiros de (inserir atividade(s) econô-
 mica(s) e respectivos códigos de Classificação Nacional de Atividades Econômicas – CNAE).
-§ 1º A prestação de serviços especializados a terceiros será realizada sem a presença dos pressu -
+§ 1º A prestação de serviços especializados a terceiros será realizada sem a presença dos pressu-
 postos da relação de emprego.
 § 2º Em todos os aspectos das atividades executadas na Cooperativa devem ser rigorosamente ob-
 servados os princípios da neutralidade política e da não discriminação religiosa, racial, social ou de
 gênero.
 
-Art. 3º Quando prestadas fora do estabelecimento da Cooperativa, as atividades deverão ser sub -
+Art. 3º Quando prestadas fora do estabelecimento da Cooperativa, as atividades deverão ser sub-
 metidas a uma coordenação exercida por sócio, com mandato nunca superior a um ano ou ao prazo
 estipulado para a realização dessas atividades.
 § 1º A eleição do coordenador será realizada entre os sócios que se disponham a realizar as ativida-
-des, em reunião específica que tratará sobre os requisitos para sua consecução, os valores contra -
+des, em reunião específica que tratará sobre os requisitos para sua consecução, os valores contra-
 tados e a retribuição pecuniária de cada sócio partícipe.
 § 2º As atividades, tarefas, atribuições e responsabilidades do Coordenador poderão ser disciplina-
 das em forma de Resoluções, Regulamentos ou Instruções que, em seu conjunto, constituirão o
@@ -3385,7 +3385,7 @@ Estatuto, salvo se houver impossibilidade técnica de prestação de serviços p
 gência das operações, controle e prestação de serviços e congruente com o objeto deste Estatuto
 Social.
 § 2º Poderão ingressar na Cooperativa, excepcionalmente, pessoas jurídicas que tenham por objeto
-as mesmas ou correlatas atividades econômicas das pessoas físicas ou, ainda, aquelas sem fins lu -
+as mesmas ou correlatas atividades econômicas das pessoas físicas ou, ainda, aquelas sem fins lu-
 crativos, desde que satisfaçam as condições estabelecidas neste Estatuto Social.
 § 3º Não podem ingressar no quadro da Cooperativa os agentes de comércio e empresários que
 operem no mesmo campo econômico da sociedade.
@@ -3395,12 +3395,12 @@ representante, identificará os poderes de cada um.
 
 97
 
-Art. 5º O número de sócios será ilimitado quanto ao máximo, não podendo ser inferior a sete pes -
+Art. 5º O número de sócios será ilimitado quanto ao máximo, não podendo ser inferior a sete pes-
 soas físicas.
 
 Art. 6º Para adquirir a qualidade de sócio, o interessado deverá ter a sua admissão aprovada pelo
 órgão de administração da Cooperativa, subscrever as quotas-partes na forma prevista neste Esta-
-tuto Social, assinar o Livro de Matrícula e outros documentos necessários para a efetivação da as -
+tuto Social, assinar o Livro de Matrícula e outros documentos necessários para a efetivação da as-
 sociação.
 Parágrafo único. Cumprido o que dispõe o caput deste artigo, o sócio adquire todos os direitos e
 assume todos os deveres decorrentes da lei, deste Estatuto Social e das deliberações tomadas pela
@@ -3413,7 +3413,7 @@ Art. 7º São direitos do sócio, além de outros que a Assembleia Geral venha a
 I - retiradas não inferiores ao piso da categoria profissional e, na ausência deste, não inferiores ao
 salário mínimo, calculadas de forma proporcional às horas trabalhadas ou às atividades desenvolvi-
 das;
-II - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro horas sema -
+II - duração do trabalho normal não superior a oito horas diárias e quarenta e quatro horas sema-
 nais;
 III - repouso semanal remunerado, preferencialmente aos domingos;
 IV - repouso anual remunerado;
@@ -3440,13 +3440,13 @@ salário mínimo.
 § 2º A duração do trabalho dos sócios deverá observar o disposto nas normas de saúde, segurança
 e medicina do trabalho.
 § 3º A Assembleia Geral poderá prever jornada especial, em regime de plantão ou escala, para o
-sócio quando a atividade, por sua natureza, assim o demandar, facultada a compensação de horá -
+sócio quando a atividade, por sua natureza, assim o demandar, facultada a compensação de horá-
 rios.
 § 4º O disposto no parágrafo 3º deste artigo não prejudica a aplicação de regime diferenciado de
 duração do trabalho, quando previsto em norma específica.
 § 5º A Cooperativa deverá fixar, em Assembleia Geral, as regras de funcionamento da sociedade e
 a forma de execução dos trabalhos.
-§ 6º A fim de serem apreciadas pela Assembleia Geral, as propostas dos sócios, referidas neste Es -
+§ 6º A fim de serem apreciadas pela Assembleia Geral, as propostas dos sócios, referidas neste Es-
 tatuto deste artigo, deverão ser previamente apresentadas ao órgão de administração e constar do
 respectivo Edital de Convocação.
 
@@ -3454,7 +3454,7 @@ Art. 8º Não se aplica o disposto nos incisos III e IV do caput deste artigo no
 ções entre o sócio e a cooperativa sejam eventuais, salvo decisão assemblear em contrário (§ 1º do
 art. 7º da Lei 12.690, de 2012 - Cooperativas de Trabalho)
 Parágrafo único. Consideram-se operações eventuais entre o sócio e a Cooperativa aquelas que se
-desenvolvam de maneira ocasional e descontinuada, conforme parâmetros definidos em Assem -
+desenvolvam de maneira ocasional e descontinuada, conforme parâmetros definidos em Assem-
 bleia Geral.
 
 Art. 9º A Cooperativa buscará meios, inclusive mediante provisionamento de recursos, com base
@@ -3472,10 +3472,10 @@ III - integralizar as quotas-partes do capital subscritas, nos termos deste Esta
 IV - cobrir as perdas do exercício, quando houver, proporcionalmente às operações que realizou
 com a Cooperativa, se o Fundo de Reserva não for suficiente para cobri-las;
 V - arcar, na proporção direta da fruição de serviços prestados pela Cooperativa, com a cobertura
-das despesas da sociedade, bem como das taxas de serviço e encargos operacionais que forem es -
+das despesas da sociedade, bem como das taxas de serviço e encargos operacionais que forem es-
 tabelecidos;
 VI - cumprir as disposições da lei e deste Estatuto Social, as deliberações das Assembleias Gerais, do
-órgão de administração, da Diretoria Executiva (somente utilizar caso a Cooperativa tenha uma Di -
+órgão de administração, da Diretoria Executiva (somente utilizar caso a Cooperativa tenha uma Di-
 retoria Executiva), bem como de outros instrumentos de normatização destinados direta ou indire-
 tamente aos sócios;
 
@@ -3511,7 +3511,7 @@ Livro de Matrícula, será aplicada em virtude de infração legal ou estatutár
 I - exercer qualquer atividade considerada prejudicial à Cooperativa;
 II - praticar atos que, a critério da Cooperativa, a desabonem, como emissão de cheques sem fundos
 em qualquer instituição financeira, inclusão nos sistemas de proteção ao crédito, pendências regis-
-tradas no Banco Central do Brasil, atrasos constantes e relevantes em operações de crédito e ope -
+tradas no Banco Central do Brasil, atrasos constantes e relevantes em operações de crédito e ope-
 rações baixadas em prejuízo na Cooperativa;
 III - deixar de honrar qualquer compromisso perante a Cooperativa, ou perante terceiro, no qual a
 Cooperativa tenha prestado qualquer espécie de garantia pela qual ela seja obrigada a honrar em
@@ -3550,12 +3550,12 @@ com os motivos que a determinaram, observadas as regras para eliminação de só
 SEÇÃO IV
 DISPOSIÇÕES GERAIS
 
-Art. 15. Em qualquer caso de demissão, eliminação ou exclusão, o associado só terá direito à resti -
+Art. 15. Em qualquer caso de demissão, eliminação ou exclusão, o associado só terá direito à resti-
 tuição do capital integralizado das sobras e de outros créditos que lhe tiverem sido registrados.
 § 1º A restituição de que trata este artigo somente poderá ser exigida depois de aprovado, pela
 Assembleia Geral, o balanço do exercício em que o sócio tenha sido desligado da Cooperativa.
 § 2º O órgão de administração da Cooperativa poderá determinar que a restituição deste capital
-seja feita em parcelas, a partir do exercício financeiro que se seguir àquele em que se deu o desli -
+seja feita em parcelas, a partir do exercício financeiro que se seguir àquele em que se deu o desli-
 gamento e no mesmo prazo e condições da integralização.
 § 3º Os atos de demissão, eliminação ou exclusão acarretam o vencimento e pronta exigibilidade
 das dívidas do sócio com a Cooperativa, sobre cuja liquidação caberá ao órgão de administração
@@ -3564,7 +3564,7 @@ decidir.
 101
 
 § 4º Ocorrendo demissões, eliminações ou exclusões de sócios em número tal que as restituições
-das importâncias referidas neste artigo possam ameaçar a estabilidade econômico -financeira da
+das importâncias referidas neste artigo possam ameaçar a estabilidade econômico-financeira da
 Cooperativa, esta poderá restituí-las mediante critérios que resguardem a sua continuidade.
 
 CAPÍTULO V
@@ -3572,12 +3572,12 @@ DAS RESPONSABILIDADES
 
 Art. 16. O sócio responde pelos compromissos da Cooperativa limitado ao valor do capital por ele
 subscrito e o montante das perdas que lhe couber.
-Parágrafo único. A responsabilidade do sócio para com terceiros, como membro da sociedade, so -
+Parágrafo único. A responsabilidade do sócio para com terceiros, como membro da sociedade, so-
 mente poderá ser invocada depois de judicialmente exigida da Cooperativa.
 OU
 Art. 16. O sócio responde por todos os compromissos da Cooperativa, de forma pessoal, solidária e
 independente do valor do capital por ele subscrito.
-Parágrafo único. A responsabilidade do sócio para com terceiros, como membro da sociedade, so -
+Parágrafo único. A responsabilidade do sócio para com terceiros, como membro da sociedade, so-
 mente poderá ser invocada depois de judicialmente exigida da Cooperativa.
 
 Art. 17. A responsabilidade do sócio perante terceiros, por compromissos da sociedade, perdura
@@ -3595,30 +3595,30 @@ de quotas-partes subscritas, não podendo ser inferior a R$ (valor por ex-
 tenso).
 § 1º O capital é dividido em quotas-partes de valor unitário igual a R$ (valor por
 extenso) cada uma.
-§ 2º A quota -parte é indivisível, intransferível a não sócios, não podendo ser negociada de modo
+§ 2º A quota-parte é indivisível, intransferível a não sócios, não podendo ser negociada de modo
 algum, nem dada em garantia, e todo o seu movimento de subscrição, integralização, transferência
 e restituição será sempre escriturado no Livro de Matrícula.
 
 102
 
-§ 3º A transferência de quotas -partes entre sócios, total ou parcial, será escriturada no Livro de
+§ 3º A transferência de quotas-partes entre sócios, total ou parcial, será escriturada no Livro de
 Matrícula, mediante termo que contenha as assinaturas do cedente, do cessionário e do dirigente
 que o Estatuto designar.
-§ 4º O sócio deve integralizar as quotas -partes à vista ou em parcelas periódicas devendo o órgão
+§ 4º O sócio deve integralizar as quotas-partes à vista ou em parcelas periódicas devendo o órgão
 de administração estabelecer o número e dia de vencimento para pagamento das parcelas.
-§ 5º A integralização de quotas -partes e o aumento do capital social poderão ser feitos com bens
-previamente avaliados e após homologação em Assembleia Geral ou mediante retenção de deter -
+§ 5º A integralização de quotas-partes e o aumento do capital social poderão ser feitos com bens
+previamente avaliados e após homologação em Assembleia Geral ou mediante retenção de deter-
 minada porcentagem do valor do movimento financeiro de cada sócio.
 § 6º A cooperativa poderá distribuir juros de até doze por cento ao ano sobre o capital integralizado,
 se houver sobras, mediante deliberação da Assembleia Geral.
-§ 7º É vedada a distribuição de qualquer espécie de benefício às quotas -partes do capital ou esta -
+§ 7º É vedada a distribuição de qualquer espécie de benefício às quotas-partes do capital ou esta-
 belecer outras vantagens ou privilégios, financeiros ou não, em favor de quaisquer sócios ou tercei-
 ros.
-§ 8º O capital social da Cooperativa será calculado pela multiplicação do valor unitário da quota -
+§ 8º O capital social da Cooperativa será calculado pela multiplicação do valor unitário da quota-
 parte pelo número mínimo de quotas-partes a serem subscritas por cada associado e pelo número
 mínimo de associados.
 
-Art. 19. O número de quotas -partes do capital social a ser subscrito pelo sócio, por ocasião de sua
+Art. 19. O número de quotas-partes do capital social a ser subscrito pelo sócio, por ocasião de sua
 admissão não poderá ser inferior a (número de quotas-partes a ser subscrito
 por extenso) quotas-partes nem superior a um terço do total do capital social da Cooperativa.
 
@@ -3627,7 +3627,7 @@ centes ao mesmo, assegurando-lhes o direito de ingresso na Cooperativa, desde qu
 condições estabelecidas neste Estatuto, mediante requerimento expresso.
 
 Art. 21. É vedado à Cooperativa distribuir verbas de qualquer natureza entre os sócios, exceto a
-retirada devida em razão do exercício de sua atividade como sócio ou retribuição por conta de re -
+retirada devida em razão do exercício de sua atividade como sócio ou retribuição por conta de re-
 embolso de despesas comprovadamente realizadas em proveito da Cooperativa.
 
 TÍTULO IV
@@ -3640,7 +3640,7 @@ decisão de interesse da sociedade, dentro dos limites da lei e deste Estatuto S
 Parágrafo único. As decisões tomadas em Assembleia Geral vinculam a todos os sócios, ainda que
 ausentes ou discordantes e constarão de ata lavrada em livro próprio ou em folhas soltas.
 
-Art. 23. A Assembleia Geral será habitualmente convocada e dirigida pelo Presidente da Coopera -
+Art. 23. A Assembleia Geral será habitualmente convocada e dirigida pelo Presidente da Coopera-
 tiva.
 
 103
@@ -3649,7 +3649,7 @@ Parágrafo único. A Assembleia Geral, também, poderá ser convocada por qualqu
 administração, pelo Conselho Fiscal, ou após solicitação não atendida, por um quinto dos sócios em
 pleno gozo de seus direitos sociais.
 
-Art. 24. Em qualquer das hipóteses referidas neste Estatuto, as Assembleias Gerais serão convoca -
+Art. 24. Em qualquer das hipóteses referidas neste Estatuto, as Assembleias Gerais serão convoca-
 das com antecedência mínima de dez dias, com o horário definido para as três convocações, sendo
 de no mínimo uma hora o intervalo entre elas.
 
@@ -3657,12 +3657,12 @@ Art. 25. O quorum mínimo para instalação da Assembleia Geral será:
 I - dois terços do número de sócios, em primeira convocação;
 II - metade mais um dos sócios, em segunda convocação; e
 III - cinquenta associados, ou, no mínimo, vinte por cento do total de sócios, prevalecendo o menor
-número, em terceira convocação, exigida a presença de, no mínimo, quatro sócios, para as coope -
+número, em terceira convocação, exigida a presença de, no mínimo, quatro sócios, para as coope-
 rativas que possuam até dezenove sócios, matriculados.
 § 1º Para efeito de verificação do quorum de que trata este artigo, o número de sócios, presentes,
 em cada convocação, será contado por suas assinaturas apostas no Livro de Presença, seguidas do
 respectivo número de matrícula.
-§ 2º Constatada a existência de quorum no horário estabelecido no Edital de Convocação, o Presi -
+§ 2º Constatada a existência de quorum no horário estabelecido no Edital de Convocação, o Presi-
 dente instalará a Assembleia, com a declaração do número de sócios, presentes, e fará transcrever
 estes dados para a respectiva ata.
 
@@ -3687,7 +3687,7 @@ quinto dos sócios em pleno gozo dos seus direitos.
 104
 
 Art. 28. A notificação dos sócios, para participação das assembleias será pessoal e ocorrerá com
-antecedência mínima de dez dias de sua realização, com declaração de ciência do sócio, devida -
+antecedência mínima de dez dias de sua realização, com declaração de ciência do sócio, devida-
 mente datada, no ato da comunicação.
 § 1º Na impossibilidade de notificação pessoal, a notificação será realizada via postal, com Aviso de
 Recebimento – AR, respeitada a antecedência prevista no caput deste artigo.
@@ -3707,7 +3707,7 @@ partir da vacância do cargo.
 tradores e/ou conselheiros fiscais, conforme o caso, cujo mandato será o equivalente ao tempo
 restante do mandato anterior.
 
-Art. 30. Os trabalhos das Assembleias Gerais serão dirigidos pelo Presidente, auxiliado por um se -
+Art. 30. Os trabalhos das Assembleias Gerais serão dirigidos pelo Presidente, auxiliado por um se-
 cretário ad hoc.
 Parágrafo único. Quando a Assembleia Geral não tiver sido convocada pelo Presidente, os trabalhos
 serão dirigidos por um sócio escolhido na ocasião, e secretariado por outro, convidado por aquele.
@@ -3722,7 +3722,7 @@ social, o Presidente da Cooperativa, logo após a leitura do Relatório do órg�
 peças contábeis e do parecer do Conselho Fiscal, solicitará ao plenário que indique um sócio, para
 coordenar os debates e a votação da matéria.
 § 1º Transmitida a direção dos trabalhos, o Presidente e demais dirigentes do órgão de administra-
-ção e os conselheiros fiscais, deixarão a mesa, permanecendo no recinto, à disposição da Assem -
+ção e os conselheiros fiscais, deixarão a mesa, permanecendo no recinto, à disposição da Assem-
 bleia Geral para os esclarecimentos que lhes forem solicitados.
 § 2º O coordenador indicado escolherá, dentre os sócios, um secretário ad hoc para auxiliá-lo na
 redação das decisões a serem incluídas na ata pelo secretário da Assembleia Geral.
@@ -3733,7 +3733,7 @@ Art. 33. As deliberações das Assembleias Gerais somente poderão versar sobre 
 do Edital de Convocação.
 Parágrafo único. Os assuntos que não constarem expressamente do Edital de Convocação e os que
 não satisfizerem as limitações deste artigo, somente poderão ser discutidos depois de esgotada a
-ordem do dia, sendo que sua votação, se a matéria for considerada objeto de decisão, será obriga -
+ordem do dia, sendo que sua votação, se a matéria for considerada objeto de decisão, será obriga-
 toriamente assunto para nova Assembleia Geral.
 
 Art. 34. O que ocorrer na Assembleia Geral deverá constar de ata circunstanciada, lavrada no livro
@@ -3747,15 +3747,15 @@ quer que seja o número de suas quotas-partes.
 
 Art. 36. Fica impedido de votar e ser votado nas Assembleias Gerais, o sócio, que:
 I - tenha sido admitido após sua convocação;
-II - seja ou tenha se tornado empregado da Cooperativa perdurando este impedimento até a apro -
+II - seja ou tenha se tornado empregado da Cooperativa perdurando este impedimento até a apro-
 vação pela Assembleia Geral das contas do exercício social em que haja ocorrido a rescisão do con-
 trato de trabalho.
 
-Art. 37. A Cooperativa deverá estabelecer incentivos à participação efetiva dos associados, na As -
+Art. 37. A Cooperativa deverá estabelecer incentivos à participação efetiva dos associados, na As-
 sembleia Geral e eventuais sanções em caso de ausências injustificadas.
 
 Art. 38. Prescreve em quatro anos a ação para anular as deliberações da Assembleia Geral viciadas
-de erro, dolo, fraude ou simulação, ou tomadas com violação de lei ou deste Estatuto Social, con -
+de erro, dolo, fraude ou simulação, ou tomadas com violação de lei ou deste Estatuto Social, con-
 tado o prazo da data em que a Assembleia Geral tiver sido realizada.
 
 SEÇÃO I
@@ -3867,13 +3867,13 @@ posse automaticamente quando for divulgado o resultado pela referida Assembleia.
 
 Art. 46. O Conselho de Administração rege-se pelas seguintes normas:
 I - reúne-se ordinariamente uma vez por mês, e extraordinariamente sempre que necessário, por
-convocação do Presidente, da maioria do próprio Conselho de Administração, ou, ainda, por solici -
+convocação do Presidente, da maioria do próprio Conselho de Administração, ou, ainda, por solici-
 tação do Conselho Fiscal;
-II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre -
+II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre-
 sentação, sendo as decisões tomadas pela maioria simples de votos dos presentes, reservado ao
 Presidente o voto de desempate; e
 III - as deliberações serão consignadas em atas circunstanciadas lavradas em livro próprio, lidas,
-aprovadas e assinadas ao fim dos trabalhos pelos membros do Conselho de Administração presen -
+aprovadas e assinadas ao fim dos trabalhos pelos membros do Conselho de Administração presen-
 tes.
 Parágrafo único. Perderá automaticamente o cargo o membro do Conselho de Administração que,
 sem justificativa, faltar a (inserir número) reuniões ordinárias consecutivas ou a (in-
@@ -3881,12 +3881,12 @@ serir número) reuniões durante o ano.
 
 Art. 47. Cabem ao Conselho de Administração, dentro dos limites da lei e deste Estatuto Social, as
 seguintes atribuições:
-I - propor à Assembleia Geral as políticas e metas para orientação geral das atividades da Coopera -
+I - propor à Assembleia Geral as políticas e metas para orientação geral das atividades da Coopera-
 tiva, apresentando programas de trabalho e orçamento, além de sugerir as medidas a serem toma-
 das;
 II - programar as operações e serviços estabelecendo qualidade e fixando quantidades, valores, pra-
 zos, taxas, encargos e demais condições necessárias a sua efetivação;
-III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi -
+III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi-
 mento das operações e serviços;
 IV - estimar previamente a rentabilidade das operações e serviços, bem como a sua viabilidade;
 V - estabelecer as normas para funcionamento da Cooperativa;
@@ -3900,7 +3900,7 @@ dos contra disposições de lei, deste Estatuto Social, ou das regras de relacio
 que venham a ser estabelecidas;
 VIII - deliberar sobre a admissão, eliminação e exclusão de associados e suas implicações;
 IX - deliberar sobre a convocação da Assembleia Geral e estabelecer a ordem do dia, quando for o
-responsável pela sua convocação, considerando as propostas dos associados, nos termos deste Es -
+responsável pela sua convocação, considerando as propostas dos associados, nos termos deste Es-
 tatuto Social;
 X - estabelecer a estrutura operacional da administração executiva dos negócios, criando cargos,
 atribuindo funções, e fixando normas para a admissão e demissão dos empregados;
@@ -3910,7 +3910,7 @@ XIII - avaliar a conveniência e fixar o limite de fiança ou seguro de fidelida
 que manipulam dinheiro ou valores da Cooperativa;
 XIV - fixar as despesas de administração em orçamento anual que indique a fonte dos recursos para
 a sua cobertura;
-XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis -
+XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis-
 posto no art. 112, da Lei nº 5.764, de 1971;
 XVI - indicar instituições financeiras nas quais serão feitos negócios e depósitos de numerário, e fixar
 limite máximo que poderá ser mantido no caixa da Cooperativa;
@@ -3924,10 +3924,10 @@ XX - fixar anualmente taxas destinadas a cobrir depreciação ou desgaste dos va
 o ativo permanente da sociedade;
 XXI - zelar pelo cumprimento da legislação cooperativista e de outras aplicáveis, bem como pelo
 atendimento da legislação trabalhista e fiscal.
-§ 1º O Presidente da Cooperativa providenciará para que os demais membros do Conselho de Ad -
+§ 1º O Presidente da Cooperativa providenciará para que os demais membros do Conselho de Ad-
 ministração recebam, com a antecedência mínima de (inserir número) dias, cópias dos ba-
 lancetes e demonstrativos, planos e projetos e outros documentos sobre os quais tenham que se
-pronunciar, sendo-lhes facultado, ainda, anteriormente à reunião correspondente, inquirir empre -
+pronunciar, sendo-lhes facultado, ainda, anteriormente à reunião correspondente, inquirir empre-
 gados ou sócios, pesquisar documentos, a fim de dirimir as dúvidas eventualmente existentes.
 § 2º O Conselho de Administração solicitará, sempre que julgar conveniente, o assessoramento de
 quaisquer funcionários graduados para auxiliá-lo no esclarecimento dos assuntos a decidir, podendo
@@ -3964,30 +3964,30 @@ obrigações que contraírem em nome da Cooperativa, mas responderão solidariam
 ízos resultantes de desídia e omissão ou se agiram com culpa, dolo ou má fé.
 § 1º A Cooperativa responderá pelos atos a que se refere este artigo, se os houver ratificado ou
 deles logrado proveito.
-§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po -
+§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po-
 dem ser declarados pessoalmente responsáveis pelas obrigações em nome dela contraídas, sem
 prejuízo das sanções penais cabíveis.
 § 3º O membro do Conselho de Administração que, em qualquer operação, tenha interesse oposto
-ao da Cooperativa, não poderá participar das deliberações relacionadas com essa operação, cum -
+ao da Cooperativa, não poderá participar das deliberações relacionadas com essa operação, cum-
 prindo-lhe declarar seu impedimento.
 § 4º Os componentes do Conselho de Administração, do Conselho Fiscal, bem como os liquidantes,
 equiparam-se aos administradores das sociedades anônimas para efeito de responsabilidade crimi-
 nal.
 § 5º Sem prejuízo da ação que possa caber a qualquer associado, a Cooperativa, por seus dirigentes,
-ou representada por sócio, escolhido em Assembleia Geral, terá direito de ação contra os adminis -
+ou representada por sócio, escolhido em Assembleia Geral, terá direito de ação contra os adminis-
 tradores, para promover a sua responsabilidade.
 
 111
 
-Art. 50. O Conselho de Administração da Cooperativa poderá criar Diretoria Executiva a ele subor -
+Art. 50. O Conselho de Administração da Cooperativa poderá criar Diretoria Executiva a ele subor-
 dinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indica-
 das por aquele conselho.
 Parágrafo único. As funções da Administração Executiva dos negócios sociais poderão ser exercidas
-por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra -
+por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra-
 ção.
 
-Art. 51. O Conselho de Administração poderá criar comitês especiais, transitórios ou não, para es -
-tudar, planejar e coordenar a solução de questões específicas, relativas ao funcionamento da Coo -
+Art. 51. O Conselho de Administração poderá criar comitês especiais, transitórios ou não, para es-
+tudar, planejar e coordenar a solução de questões específicas, relativas ao funcionamento da Coo-
 perativa.
 
 OU
@@ -3996,8 +3996,8 @@ SEÇÃO I
 DA DIRETORIA
 
 Art. 43. A Diretoria é o órgão superior na hierarquia administrativa, sendo de sua competência e
-responsabilidade a decisão sobre todo e qualquer assunto de ordem econômica e social, de inte -
-resse da Cooperativa ou de seus sócios, nos termos da lei, deste Estatuto Social e das recomenda -
+responsabilidade a decisão sobre todo e qualquer assunto de ordem econômica e social, de inte-
+resse da Cooperativa ou de seus sócios, nos termos da lei, deste Estatuto Social e das recomenda-
 ções da Assembleia Geral.
 
 Art. 44. A Diretoria será composta por, no mínimo, três associados, sendo um Presidente e
@@ -4022,14 +4022,14 @@ colateral.
 
 112
 
-Art. 45. Os membros da Diretoria serão eleitos pela Assembleia Geral tomando posse automatica -
+Art. 45. Os membros da Diretoria serão eleitos pela Assembleia Geral tomando posse automatica-
 mente quando for divulgado o resultado pela referida Assembleia.
 
 Art. 46. A Diretoria rege-se pelas seguintes normas:
 I - reúne-se ordinariamente uma vez por mês, e extraordinariamente sempre que necessário, por
 convocação do Presidente, da maioria da própria Diretoria, ou, ainda, por solicitação do Conselho
 Fiscal;
-II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre -
+II - delibera validamente com a presença da maioria dos seus membros, estando proibida a repre-
 sentação, sendo as decisões tomadas pela maioria simples de votos dos presentes, reservado ao
 Presidente o voto de desempate; e
 III - as deliberações serão consignadas em atas circunstanciadas lavradas em livro próprio, lidas,
@@ -4039,12 +4039,12 @@ faltar a (inserir número) reuniões ordinárias consecutivas ou a (inserir nú-
 mero) reuniões durante o ano.
 
 Art. 47. Cabem à Diretoria, dentro dos limites da lei e deste Estatuto Social, as seguintes atribuições:
-I - propor à Assembleia Geral as políticas e metas para orientação geral das atividades da Coopera -
+I - propor à Assembleia Geral as políticas e metas para orientação geral das atividades da Coopera-
 tiva, apresentando programas de trabalho e orçamento, além de sugerir as medidas a serem toma-
 das;
 II - programar as operações e serviços estabelecendo qualidade e fixando quantidades, valores, pra-
 zos, taxas, encargos e demais condições necessárias a sua efetivação;
-III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi -
+III - avaliar e providenciar o montante dos recursos financeiros e dos meios necessários ao atendi-
 mento das operações e serviços;
 IV - estimar previamente a rentabilidade das operações e serviços, bem como a sua viabilidade;
 V - estabelecer as normas para funcionamento da Cooperativa;
@@ -4068,7 +4068,7 @@ que manipulam dinheiro ou valores da Cooperativa;
 
 XIV - fixar as despesas de administração em orçamento anual que indique a fonte dos recursos para
 a sua cobertura;
-XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis -
+XV - contratar, quando se fizer necessário, um serviço independente de auditoria, conforme dis-
 posto no art. 112 da Lei nº 5.764, de 1971;
 XVI - indicar instituições financeiras nas quais serão feitos negócios e depósitos de numerário, e fixar
 limite máximo que poderá ser mantido no caixa da Cooperativa;
@@ -4084,10 +4084,10 @@ XXI - zelar pelo cumprimento da legislação cooperativista e de outras aplicáv
 atendimento da legislação trabalhista e fiscal.
 § 1º O Presidente da Cooperativa providenciará para que os demais membros da Diretoria recebam,
 com a antecedência mínima de (inserir número) dias, cópias dos balancetes e demonstrati-
-vos, planos e projetos e outros documentos sobre os quais tenham que se pronunciar, sendo -lhes
+vos, planos e projetos e outros documentos sobre os quais tenham que se pronunciar, sendo-lhes
 facultado, ainda, anteriormente à reunião correspondente, inquirir empregados ou associados, pes-
 quisar documentos, a fim de dirimir as dúvidas eventualmente existentes.
-§ 2º A Diretoria solicitará, sempre que julgar conveniente, o assessoramento de quaisquer funcio -
+§ 2º A Diretoria solicitará, sempre que julgar conveniente, o assessoramento de quaisquer funcio-
 nários graduados para auxiliá-lo no esclarecimento dos assuntos a decidir, podendo determinar que
 qualquer deles apresente, previamente, projetos sobre questões específicas.
 § 3º As normas estabelecidas pela Diretoria serão baixadas em forma de Resoluções, Regulamentos
@@ -4115,38 +4115,38 @@ X - prestar informações verbais ou escritas a Diretoria e ao Conselho Fiscal s
 ceira da Cooperativa, permitindo o livre exame dos livros e documentos; e
 XI - responsabilizar-se pelos valores e títulos de qualquer natureza pertencentes à Cooperativa.
 
-Art. 49. Os dirigentes, eleitos ou contratados, não serão pessoalmente responsáveis pelas obriga -
+Art. 49. Os dirigentes, eleitos ou contratados, não serão pessoalmente responsáveis pelas obriga-
 ções que contraírem em nome da Cooperativa, mas responderão solidariamente pelos prejuízos
 resultantes de desídia e omissão ou se agiram com culpa, dolo ou má fé.
 § 1º A Cooperativa responderá pelos atos a que se refere este artigo, se os houver ratificado ou
 deles logrado proveito.
-§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po -
+§ 2º Os que participarem de ato ou operação social em que se oculte a natureza da sociedade, po-
 dem ser declarados pessoalmente responsáveis pelas obrigações em nome dela contraídas, sem
 prejuízo das sanções penais cabíveis.
 § 3º O membro da Diretoria que, em qualquer operação, tenha interesse oposto ao da Cooperativa,
-não poderá participar das deliberações relacionadas com essa operação, cumprindo -lhe declarar
+não poderá participar das deliberações relacionadas com essa operação, cumprindo-lhe declarar
 seu impedimento.
-§ 4º Os componentes da Diretoria, do Conselho Fiscal, bem como os liquidantes, equiparam -se aos
+§ 4º Os componentes da Diretoria, do Conselho Fiscal, bem como os liquidantes, equiparam-se aos
 administradores das sociedades anônimas para efeito de responsabilidade criminal.
 § 5º Sem prejuízo da ação que possa caber a qualquer sócio, a Cooperativa, por seus dirigentes, ou
-representada por sócio escolhido em Assembleia Geral, terá direito de ação contra os administra -
+representada por sócio escolhido em Assembleia Geral, terá direito de ação contra os administra-
 dores, para promover a sua responsabilidade.
 
-Art. 50. O Conselho de Administração da Cooperativa poderá criar Diretoria Executiva a ele subor -
-dinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indica -
+Art. 50. O Conselho de Administração da Cooperativa poderá criar Diretoria Executiva a ele subor-
+dinada, na qualidade de órgão estatutário composto por pessoas físicas associadas ou não, indica-
 das por aquele conselho.
 Parágrafo único. As funções da Administração Executiva dos negócios sociais poderão ser exercidas
-por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra -
+por técnicos contratados, segundo a estrutura que for estabelecida pelo Conselho de Administra-
 ção.
 
-Art. 51. A Diretoria poderá criar comitês especiais, transitórios ou não, para estudar, planejar e co -
+Art. 51. A Diretoria poderá criar comitês especiais, transitórios ou não, para estudar, planejar e co-
 ordenar a solução de questões específicas, relativas ao funcionamento da Cooperativa.
 
 SEÇÃO II
 DO CONSELHO FISCAL
 
 Art. 52. A administração da Cooperativa será fiscalizada, assídua e minuciosamente, por um Conse-
-lho Fiscal, constituído de três membros efetivos e três suplentes, todos associados, eleitos anual -
+lho Fiscal, constituído de três membros efetivos e três suplentes, todos associados, eleitos anual-
 mente pela Assembleia Geral, sendo permitida a reeleição de apenas um terço dos seus componen-
 tes.
 OU
@@ -4159,7 +4159,7 @@ Geral, sendo permitida a reeleição de apenas um terço dos seus componentes (a
 Cooperativa for constituída por até dezenove associados. A Lei nº 12.690, de 2012 autoriza uma
 composição para o Conselho Fiscal distinta da prevista no art. 56 da Lei nº 5.764, de 1971, desde
 que assegurados, no mínimo, três conselheiros fiscais).
-§ 1º Para concorrer ao cargo de conselheiro fiscal, o sócio deverá estar em pleno gozo de seus di -
+§ 1º Para concorrer ao cargo de conselheiro fiscal, o sócio deverá estar em pleno gozo de seus di-
 reitos, de acordo com os requisitos legais e estatutários.
 § 2º Não podem fazer parte do Conselho Fiscal, além dos inelegíveis enumerados neste Estatuto, os
 parentes dos membros do órgão de administração, até o segundo grau, em linha reta ou colateral,
@@ -4181,7 +4181,7 @@ Conselho Fiscal presentes.
 Art. 54. O membro do Conselho Fiscal que, por motivo justificado, não puder comparecer à reunião,
 deverá comunicar o fato ao Coordenador, com antecedência mínima de (inserir nú-
 mero) horas, para efeito de convocação do respectivo suplente.
-§ 1º A comunicação deverá ser dispensada quando o suplente, devidamente notificado pelo mem -
+§ 1º A comunicação deverá ser dispensada quando o suplente, devidamente notificado pelo mem-
 bro efetivo, comparecer à reunião.
 § 2º Quando a comunicação não ocorrer nos moldes do caput deste artigo, o Conselheiro Fiscal terá
 o prazo de (inserir número) dias, a contar da data em que sua ausência foi registrada, para
@@ -4198,8 +4198,8 @@ assumirá automaticamente o lugar do titular.
 
 116
 
-Art. 57. No caso de ocorrerem três ou mais vagas no Conselho Fiscal, deverá haver imediata comu -
-nicação ao órgão de administração da Cooperativa, para as providências de convocação de Assem -
+Art. 57. No caso de ocorrerem três ou mais vagas no Conselho Fiscal, deverá haver imediata comu-
+nicação ao órgão de administração da Cooperativa, para as providências de convocação de Assem-
 bleia Geral para o devido preenchimento das vagas.
 
 Art. 58. Compete ao Conselho Fiscal exercer assídua fiscalização sobre as operações, atividades e
@@ -4245,7 +4245,7 @@ prazos convencionados;
 § 1º Para o desempenho de suas funções, terá o Conselho Fiscal acesso a quaisquer livros, contas e
 documentos, a empregados, a associados, e outros, independente de autorização prévia do órgão
 de administração.
-§ 2º Poderá o Conselho Fiscal, com anuência do órgão de administração e com autorização da As -
+§ 2º Poderá o Conselho Fiscal, com anuência do órgão de administração e com autorização da As-
 sembleia Geral, contratar o necessário assessoramento técnico especializado, correndo as despesas
 por conta da Cooperativa.
 
@@ -4266,7 +4266,7 @@ tenham ou não, no ano, usufruído dos serviços prestados pela Cooperativa.
 buídos da seguinte forma:
 I - no mínimo, dez por cento ao Fundo de Reserva; e
 II - no mínimo, cinco por cento ao Fundo de Assistência Técnica, Educacional e Social – FATES.
-§ 3º As sobras líquidas apuradas no exercício, depois de deduzidas os montantes dispostos nos in -
+§ 3º As sobras líquidas apuradas no exercício, depois de deduzidas os montantes dispostos nos in-
 cisos I e II do § 2º deste artigo, serão devolvidas aos associados, proporcionalmente às operações
 realizadas com a Cooperativa, salvo deliberação em contrário da Assembleia Geral.
 § 4º Os resultados negativos serão rateados entre os sócios, na proporção das operações de cada
@@ -4282,7 +4282,7 @@ II - os auxílios e doações sem destinação especial.
 118
 
 Art. 62. O Fundo de Assistência Técnica, Educacional e Social - FATES destina-se à prestação de ser-
-viços aos associados, e seus familiares, assim como aos empregados da própria Cooperativa, po -
+viços aos associados, e seus familiares, assim como aos empregados da própria Cooperativa, po-
 dendo ser prestados mediante convênio com entidades públicas e privadas.
 Parágrafo único. Revertem também em favor do FATES, as rendas eventuais, de qualquer natureza,
 resultantes de operações ou atividades operações da Cooperativa com não associados, conforme
@@ -4294,7 +4294,7 @@ TÍTULO VI
 DA DISSOLUÇÃO E LIQUIDAÇÃO
 
 Art. 64. A Cooperativa se dissolverá de pleno direito:
-I - quando assim deliberar a Assembleia Geral, desde que os associados, totalizando o número mí -
+I - quando assim deliberar a Assembleia Geral, desde que os associados, totalizando o número mí-
 nimo    de sete,     não     se     disponham     a     assegurar     a     continuidade     da     Cooperativa;
 II - devido à alteração de sua forma jurídica;
 III - pela redução do número de sócios a menos de sete pessoas físicas ou do capital social em pata-
@@ -4309,11 +4309,11 @@ quidantes e os membros do Conselho Fiscal, designando seus substitutos;
 § 2º O liquidante deve proceder à liquidação de conformidade com os dispositivos da Legislação
 Cooperativista em vigor.
 § 3º O remanescente da Cooperativa, inclusive os fundos indivisíveis, depois de realizado o ativo
-social, pago o passivo e reembolsado os sócios de suas quotas -partes, será destinado conforme le-
+social, pago o passivo e reembolsado os sócios de suas quotas-partes, será destinado conforme le-
 gislação vigente.
 
 Art. 66. Quando a dissolução da Cooperativa não for promovida voluntariamente, nas hipóteses
-previstas neste Estatuto, essa medida poderá ser tomada judicialmente, a pedido de qualquer as -
+previstas neste Estatuto, essa medida poderá ser tomada judicialmente, a pedido de qualquer as-
 sociado.
 
 TÍTULO VII
@@ -4322,11 +4322,11 @@ DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 119
 
 Art. 67. Os casos omissos ou duvidosos serão resolvidos pela Assembleia Geral desta Cooperativa,
-de acordo com a Lei nº 12.690, de 2012 e, no que com ela não colidir, pelas Leis n os 5.764, de 1971
+de acordo com a Lei nº 12.690, de 2012 e, no que com ela não colidir, pelas Leis nos 5.764, de 1971
 e 10.406, de 2002 - Código Civil, e pelos princípios doutrinários do Cooperativismo, ouvido, sempre
 que necessário, (inserir nome da Unidade Estadual da OCB) – OCB/UF.
 Parágrafo único. A Cooperativa somente poderá entrar em funcionamento após o registro na
-  (inserir OCB/UF), conforme determinação do art. 107 da Lei nº 5.764, de 1971.  (Re-
+  (inserir OCB/UF), conforme determinação do art. 107 da Lei nº 5.764, de 1971. (Re-
 vogado pela Instrução Normativa DREI nº 55, de 2 de junho de 2021)
 
 Art. 68. O processo eleitoral da Cooperativa deverá ser regulamentado por regimento específico
@@ -4336,7 +4336,7 @@ contado a partir da sentença transitada em julgado, o associado, dirigente ou o
 denado pela prática das fraudes elencadas no art. 18 da Lei nº 12.690, de 2012.
 
 Art. 69. A aquisição, alienação, doação ou oneração dos bens imóveis da Cooperativa dependerá de
-autorização (inserir órgão responsável pela autorização, como por exemplo As -
+autorização (inserir órgão responsável pela autorização, como por exemplo As-
 sembleia Geral e órgão de administração), que deliberará sobre seu modo e processo de realização.
 
 Art. 70. A Cooperativa poderá agir como substituta processual dos associados, em defesa de seus
@@ -4373,22 +4373,22 @@ DOS OBJETIVOS SOCIAIS
 Art. XX. Para o cumprimento dos seus objetivos sociais, o sócio poderá exercer qualquer atividade
 da cooperativa, conforme deliberado em Assembleia Geral e, na medida das suas possibilidades,
 deve:
-I - promover a difusão da doutrina cooperativista e seus princípios ao quadro social, técnico e fun -
+I - promover a difusão da doutrina cooperativista e seus princípios ao quadro social, técnico e fun-
 cional da Cooperativa;
-II - promover assistência social e educacional aos associados e respectivos familiares, utilizando -se
+II - promover assistência social e educacional aos associados e respectivos familiares, utilizando-se
 do Fundo de Assistência Técnica Educacional e Social (FATES), previsto no inciso II, art. 28 da Lei
 5.764, de 1971;
 III - propiciar, com recursos do FATES, convênios com entidades especializadas, públicas ou privadas,
 o aprimoramento técnico-profissional e capacitação cooperativista de seus associados;
 IV - firmar contratos e intermediar operações de crédito e financiamento de interesse de seus asso-
 ciados;
-V - administrar, com eficiência, os recursos obtidos de seus associados para a manutenção da soci -
+V - administrar, com eficiência, os recursos obtidos de seus associados para a manutenção da soci-
 edade;
 VI - garantir o funcionamento e a manutenção de suas instalações e bens próprios ou
 disponibiliza- dos por terceiro;
 VII - contratar ou intermediar, em benefício dos associados interessados, seguro de vida individual
 ou   coletivo,   previdência   privada,    assistência    à    saúde    e    de    acidente    de    trabalho;
-VIII - contratar, em benefício dos associados interessados, e no desenvolvimento dos objetivos so -
+VIII - contratar, em benefício dos associados interessados, e no desenvolvimento dos objetivos so-
 ciais, convênios com cooperativas ou empresas ligadas ao consumo em geral; e
 IX - contratar, para a consecução dos seus objetivos sociais, serviços jurídicos, médicos, farmacêuti-
 cos, odontológicos, de transporte em geral, culturais ou sociais.
@@ -4426,8 +4426,8 @@ MODELOS DE DECLARAÇÕES DE QUE TRATA O PARÁGRAFO
 1. Sociedade que tenha como objeto a radiodifusão sonora ou de sons e imagens
 Para os efeitos do parágrafo único, inciso I, do art. 42 do Decreto nº 85.064, de 26 de agosto de
 1980, com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso I, do subitem
-2.1.1., do item 2 do Capítulo do Manual de Registro de Cooperativa, aprovado pela Instrução Nor -
-mativa DREI nº 81, de 2020, a sociedade  inscrita sob o CNPJ nº      , representada por
+2.1.1., do item 2 do Capítulo do Manual de Registro de Cooperativa, aprovado pela Instrução Nor-
+mativa DREI nº 81, de 2020, a sociedade  inscrita sob o CNPJ nº     , representada por
 seus cooperados/administrador , nacionalidade , inscrito no CPF sob o nº
   , declara, sob as penas da Lei, que:
 - NÃO POSSUI / POSSUI outorga para a exploração de serviços de radiodifusão sonora ou de sons e
@@ -4440,8 +4440,8 @@ que exercem obrigatoriamente a gestão das atividades.
 2. Sociedade que tenha como objeto a mineração:
 Para os efeitos do parágrafo único, inciso II, do art. 42 do Decreto nº 85.064, de 26 de agosto de
 1980, com redação dada pelo Decreto nº 11.076, de 20 de maio de 2022, e inciso II, do subitem
-2.1.1., do item 2 do Capítulo do Manual de Registro de Cooperativa, aprovado pela Instrução Nor -
-mativa DREI nº 81, de 2020, a sociedade  inscrita sob o CNPJ nº      , representada por
+2.1.1., do item 2 do Capítulo do Manual de Registro de Cooperativa, aprovado pela Instrução Nor-
+mativa DREI nº 81, de 2020, a sociedade  inscrita sob o CNPJ nº     , representada por
 seus cooperados/administrador , nacionalidade , inscrito no CPF sob o nº
   , declara, sob as penas da Lei, que:
 - NÃO POSSUI / POSSUI outorga para a exploração das atividades de pesquisa, de lavra, de
@@ -4449,7 +4449,7 @@ explora- ção e de aproveitamento de recursos minerais, inclusive de lavra gari
 Fronteira; e
 - ATENDE às condições estabelecidas no art. 3º da Lei nº 6.634, de 1979, ou seja: i) pelo menos 51%
 (cinquenta e um por cento) do capital é de titularidade de brasileiros; ii) pelo menos 2/3 (dois terços)
-de trabalhadores são brasileiros; e iii) a administração é exercida em maioria por brasileiros, asse -
+de trabalhadores são brasileiros; e iii) a administração é exercida em maioria por brasileiros, asse-
 gurados a estes os poderes predominantes.
 
 3. Sociedade que tenha como objeto a colonização e loteamento rural:
@@ -4462,9 +4462,9 @@ Para os efeitos do parágrafo único, inciso III, do art. 42 do Decreto nº 85.0
 mativa DREI nº 81, de 2020, a sociedade inscrita sob o CNPJ nº , neste ato repre-
 sentada por seus cooperados/administrador  , nacionalidade , inscrito no CPF
 sob o nº , declara, sob as penas da Lei, que:
-- NÃO POSSUI / POSSUI  certificado de registro do projeto de colonização ou loteamento rural na
+- NÃO POSSUI / POSSUI certificado de registro do projeto de colonização ou loteamento rural na
 Faixa de Fronteira; E
 - ATENDE às condições estabelecidas no art. 3º da Lei nº 6.634, de 1979, ou seja: i) pelo menos 51%
 (cinquenta e um por cento) do capital é de titularidade de brasileiros; ii) pelo menos 2/3 (dois terços)
-de trabalhadores são brasileiros; e iii) a administração é exercida em maioria por brasileiros, asse -
+de trabalhadores são brasileiros; e iii) a administração é exercida em maioria por brasileiros, asse-
 gurados a estes os poderes predominantes.

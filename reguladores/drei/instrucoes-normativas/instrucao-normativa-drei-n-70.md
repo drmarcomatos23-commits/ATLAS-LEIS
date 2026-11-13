@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/indrei702019alteradapelain732020.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Instrução Normativa DREI N° 70
@@ -38,7 +38,7 @@ janeiro de 2020)
 Alterada pela Instrução Normativa DREI nº 73, de 24
 de janeiro de 2020.
 
-O DIRETOR DO DEPARTAMENTO NACIONAL DE REGISTRO EMPRESARIAL E INTEGRAÇÃO , no uso
+O DIRETOR DO DEPARTAMENTO NACIONAL DE REGISTRO EMPRESARIAL E INTEGRAÇÃO, no uso
 das atribuições que lhe confere o art. 4º, incisos II, III, IV, V e VII, da Lei nº 8.934, de 18 de novembro de
 1994, e
 CONSIDERANDO que é finalidade do DREI exercer ampla fiscalização jurídica sobre os órgãos
@@ -138,13 +138,13 @@ registro da análise e a resposta às manifestações dos usuários do serviço 
 Mercantis e Atividades Afins.
 Art. 8º  Fica instituído o Reclame ao DREI, com o objetivo de viabilizar o recebimento, o registro
 da análise e a resposta às manifestações dos usuários do serviço de Registro Público de Empresas
-Mercantis e Atividades Afins.  (Redação dada pela Instrução Normativa DREI nº 73, de 24 de janeiro de
+Mercantis e Atividades Afins. (Redação dada pela Instrução Normativa DREI nº 73, de 24 de janeiro de
 2020)
 
 4
 Art. 9º  Compete às Juntas Comerciais:
 I - promover ampla divulgação da Ouvidoria-Geral do DREI;
-I - promover ampla divulgação do Reclame ao DREI;  (Redação dada pela Instrução Normativa DREI
+I - promover ampla divulgação do Reclame ao DREI; (Redação dada pela Instrução Normativa DREI
 nº 73, de 24 de janeiro de 2020)
 II - fixar comunicados em local de destaque em seu sítio eletrônico, bem como nas respectivas
 sedes, delegacias, postos avançados e em todos os locais onde são recebidos documentos físicos;
@@ -159,7 +159,7 @@ Art. 10.  Compete ao DREI:
 I - fornecer às Juntas Comerciais layout para inclusão nas suas páginas institucionais, bem como
 respectivos links de direcionamento ao Sistema de Ouvidoria;
 I - fornecer às Juntas Comerciais layout para inclusão nas suas páginas institucionais, bem como
-respectivos links de direcionamento do Reclame ao DREI;  (Redação dada pela Instrução Normativa DREI
+respectivos links de direcionamento do Reclame ao DREI; (Redação dada pela Instrução Normativa DREI
 nº 73, de 24 de janeiro de 2020)
 II - gerir, atualizar e manter o Sistema de Ouvidoria;
 II - gerir, atualizar e manter o Sistema do Reclame ao DREI; (Redação dada pela Instrução Normativa
@@ -170,7 +170,7 @@ IV - divulgar, anualmente, relatório de gestão e ranking de atendimento das ju
 Art. 11.  As manifestações recebidas pelo DREI, via Sistema de Ouvidoria, serão encaminhadas às
 Juntas Comerciais pelo mesmo sistema, para análise e manifestação.
 Art. 11.  As manifestações recebidas pelo Reclame ao DREI serão encaminhadas às Juntas
-Comerciais, para análise e manifestação.  (Redação dada pela Instrução Normativa DREI nº 73, de 24 de
+Comerciais, para análise e manifestação. (Redação dada pela Instrução Normativa DREI nº 73, de 24 de
 janeiro de 2020)
 § 1º  As Juntas Comerciais terão o prazo de 3 (três) dias úteis para analisar e encaminhar ao DREI os
 subsídios para resposta ao cidadão.
@@ -186,7 +186,7 @@ regulamentares do Registro Público de Empresas Mercantis e Atividades Afins.
 5
 II - oficiar à Junta Comercial, observado o art. 9º, § 1º, requerendo a adoção de providências, no
 prazo de 3 (três) dias úteis, caso estejam sendo desrespeitadas injustificadamente as normas legais e
-regulamentares do Registro Público de Empresas Mercantis e Atividades Afins.  (Redação dada pela
+regulamentares do Registro Público de Empresas Mercantis e Atividades Afins. (Redação dada pela
 Instrução Normativa DREI nº 73, de 24 de janeiro de 2020)
 § 3º  No caso do inciso II deste artigo, o usuário será informado das providências que o DREI
 determinou à Junta Comercial.
@@ -705,7 +705,7 @@ LEILOEIROS
 Nome completo Matrícula CPF Data da posse Situação (regular, suspenso, destituído)
 
 TRADUTORES
-Nome completo Matrícula  CPF Data da posse Situação (regular, suspenso, licenciado ou destituído)
+Nome completo Matrícula CPF Data da posse Situação (regular, suspenso, licenciado ou destituído)
 
 Data:
 

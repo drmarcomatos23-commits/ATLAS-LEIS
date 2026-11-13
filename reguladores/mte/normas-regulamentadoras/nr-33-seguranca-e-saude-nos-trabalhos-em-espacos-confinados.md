@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "texto atualizado publicado pelo MTE (não substitui o DOU)"
 fonte: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes"
 arquivo: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/arquivos/normas-regulamentadoras/nr-10.pdf"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # NR-33 - SEGURANÇA E SAÚDE NOS TRABALHOS EM ESPAÇOS CONFINADOS
@@ -35,9 +35,9 @@ SERVIÇOS EM ELETRICIDADE
 
 10.1.1 Esta Norma estabelece os requisitos e diretrizes mínimos objetivando a implementação e o
 acompanhamento do controle dos riscos ocupacionais e das medidas de prevenção, de forma a
-assegurar a segurança e a saúde dos trabalhadores expostos aos perigos decor rentes do emprego
+assegurar a segurança e a saúde dos trabalhadores expostos aos perigos decorrentes do emprego
 da energia elétrica, observando o Gerenciamento de Riscos Ocupacionais (GRO), nos termos da
-Norma Regulamentadora nº 01 (NR -1) - Disposições Gerais e Gerenciamento de Riscos
+Norma Regulamentadora nº 01 (NR-1) - Disposições Gerais e Gerenciamento de Riscos
 Ocupacionais.
 
 10.1.2 Para fins de observância desta NR, utilizam-se os termos e definições constantes do Anexo I
@@ -46,14 +46,14 @@ Ocupacionais.
 10.2 CAMPO DE APLICAÇÃO
 
 10.2.1 Esta NR se aplica às fases de geração, transmissão, distribuição e consumo das diversas
-fontes de energia elétrica, incluindo as etapas de projeto, construção,  montagem,
+fontes de energia elétrica, incluindo as etapas de projeto, construção, montagem,
 comissionamento, operação e manutenção de instalações elétricas de baixa, média e/ou alta
 tensão, em corrente alternada e/ou contínua, de caráter permanente ou temporário, bem como
 aos serviços em eletricidade, observando-se as normas técnicas oficiais estabelecidas pelos órgãos
 competentes e, na sua ausência ou omissão, as normas internacionais aplicáveis, desde que
 garantam os mesmos níveis ou superiores de segurança e saúde dos trabalhadores.
 
-10.2.2 Aplica-se esta NR ao trabalho em instalaçõe s elétricas e suas proximidades em que há
+10.2.2 Aplica-se esta NR ao trabalho em instalações elétricas e suas proximidades em que há
 exposição aos perigos decorrentes do emprego de energia elétrica, no qual o trabalhador possa
 adentrar à zona controlada, conforme Anexo II desta NR, seja com parte do corpo ou por meio de
 extensões condutoras.
@@ -68,7 +68,7 @@ para o atendimento do item 10.6.6 e seus subitens.
 
 10.2.4.1 A aplicação da extrabaixa tensão deve atender aos requisitos estabelecidos no memorial
 descritivo do projeto das instalações elétricas considerando as influências externas aplicáveis,
-conforme normas técnicas oficiais estabelecidas pelos órgãos competente s ou as normas
+conforme normas técnicas oficiais estabelecidas pelos órgãos competentes ou as normas
 internacionais aplicáveis.
 
 10.3 GERENCIAMENTO DE RISCO OCUPACIONAL
@@ -78,7 +78,7 @@ consideração, além do previsto na NR-1:
 a) as características das exposições ocupacionais quanto ao choque elétrico e arco elétrico;
 b) os métodos e processos de trabalho;
 c) a entrada em operação de novas instalações ou equipamentos elétricos; e
-d) as necessidades das medidas de prevenção e controle dos riscos decorrentes da ex posição ao
+d) as necessidades das medidas de prevenção e controle dos riscos decorrentes da exposição ao
 choque e/ou arco elétrico.
 
 10.4 SEGURANÇA EM PROJETOS
@@ -118,15 +118,15 @@ atualizado.
 Trabalho, com as regulamentações técnicas oficiais estabelecidas e sob responsabilidade de
 Profissional Legalmente Habilitado (PLH).
 
-10.4.8.1 O projeto elétrico elaborado for a do Brasil deve estar sob responsabilidade técnica de
+10.4.8.1 O projeto elétrico elaborado fora do Brasil deve estar sob responsabilidade técnica de
 PLH, observando o item 10.2.1.
 
 10.4.9 O memorial descritivo do projeto deve conter, no mínimo, os seguintes itens de segurança:
-a) especificação das características relativas à proteção contra choques  elétricos, queimaduras e
+a) especificação das características relativas à proteção contra choques elétricos, queimaduras e
 riscos adicionais;
 b) descrição do sistema de identificação dos circuitos elétricos e equipamentos, incluindo
 dispositivos de manobra, de controle, de proteção, de intertravamento, dos condutores e os
-próprios equipamentos e estru turas, com definição de como tais indicações devem ser aplicadas
+próprios equipamentos e estruturas, com definição de como tais indicações devem ser aplicadas
 fisicamente nos componentes das instalações;
 c) recomendações de restrições e advertências quanto ao acesso de pessoas aos componentes das
 instalações;
@@ -139,7 +139,7 @@ f) descrição da compatibilidade dos dispositivos de proteção com a instalaç
 iluminação adequada e posição de trabalho segura, de acordo com a Norma Regulamentadora nº
 17 (NR-17) - Ergonomia.
 
-10.4.11 O projeto deve contemplar, quando aplicável , os requisitos de segurança para áreas
+10.4.11 O projeto deve contemplar, quando aplicável, os requisitos de segurança para áreas
 classificadas, em conformidade com as normas técnicas oficiais, considerando o risco de
 atmosfera explosiva.
 
@@ -155,7 +155,7 @@ energia elétrica por meio da desenergização das instalações elétricas, con
 capítulo 10.13 desta NR.
 
 10.5.2 Quando os serviços forem realizados em instalações elétricas desligadas, mas com
-possibilidade de energiz ação, por qualquer meio ou razão, a organização deve atender ao que
+possibilidade de energização, por qualquer meio ou razão, a organização deve atender ao que
 estabelece o disposto no capítulo 10.14 desta NR.
 
 10.5.3 As medidas de prevenção devem obedecer à ordem de prioridade prevista na NR-1.
@@ -165,7 +165,7 @@ estabelece o disposto no capítulo 10.14 desta NR.
  4
 proteção coletiva, conforme capítulo 10.6, ou quando estas não forem suficientes ou
 encontrarem-se em fase de estudo, planejamento ou implantação, ou ainda em carácter
-complementar ou emergencial, deverão ser adotadas outras medidas, obedecendo -se à seguinte
+complementar ou emergencial, deverão ser adotadas outras medidas, obedecendo-se à seguinte
 hierarquia:
 a) medidas administrativas e de organização do trabalho, conforme capítulo 10.7; e
 b) medidas de proteção individual, conforme capítulo 10.11.
@@ -178,7 +178,7 @@ a) partes vivas perigosas não devem ser acessíveis; e
 b) massas ou partes condutivas acessíveis não devem oferecer perigo elétrico, seja em condições
 normais, seja, em particular, em caso de alguma falha que as tornem acidentalmente vivas.
 
-10.6.1.1 As medidas de proteção coletiva c ontra choques elétricos devem ser asseguradas pela
+10.6.1.1 As medidas de proteção coletiva contra choques elétricos devem ser asseguradas pela
 aplicação conjunta de proteção básica e de proteção supletiva, mediante combinação de meios
 independentes ou mediante aplicação de medida capaz de prover ambas as proteções,
 simultaneamente.
@@ -204,25 +204,25 @@ d) isolação suplementar; e
 e) separação elétrica.
 
 10.6.4 A organização, conforme definido em projeto, deve utilizar como proteção coletiva
-adicional obrigatória contra choque elétrico o dispositivo diferencial -residual (DDR) de alta
+adicional obrigatória contra choque elétrico o dispositivo diferencial-residual (DDR) de alta
 sensibilidade ou outra tecnologia, e nas seguintes situações previstas em normas técnicas oficiais:
 a) os circuitos que sirvam a pontos de utilização situados em locais contendo banheira ou
 
  5
 chuveiro;
 b) os circuitos que alimentem tomadas de corrente situadas em áreas externas à edificação;
-c) os circuitos de tomadas de corrente situa das em áreas internas que possam vir a alimentar
+c) os circuitos de tomadas de corrente situadas em áreas internas que possam vir a alimentar
 equipamentos no exterior até 32 amperes (32 A);
 d) os circuitos que, em locais de habitação, sirvam a pontos de utilização situados em cozinhas,
-copas-cozinhas, lavanderias, áreas de serviço, garagens e dema is dependências internas molhadas
+copas-cozinhas, lavanderias, áreas de serviço, garagens e demais dependências internas molhadas
 em uso normal ou sujeitas a lavagens; e
-e) os circuitos que, em edificações não -residenciais, sirvam a pontos de tomada situados em
-cozinhas, copas -cozinhas, lavanderias, áreas de serviço, garagens e, no geral, em áreas in ternas
+e) os circuitos que, em edificações não-residenciais, sirvam a pontos de tomada situados em
+cozinhas, copas-cozinhas, lavanderias, áreas de serviço, garagens e, no geral, em áreas internas
 molhadas em uso normal ou sujeitas a lavagens.
 
 10.6.4.1 A exigência do DDR não se aplica a circuitos ou setores quando a continuidade for
 indispensável à segurança das pessoas, à preservação de vidas e em caso de segurança sanitária
-ou na inviabili dade técnica registrada em projeto nos termos da alínea “f” do item 10.4.9 desta
+ou na inviabilidade técnica registrada em projeto nos termos da alínea “f” do item 10.4.9 desta
 NR.
 
 10.6.5 A organização deve adotar medidas de proteção coletiva contra arcos elétricos, conforme
@@ -240,8 +240,8 @@ h) seleção de tempos de interrupção muito curtos; ou
 i) adoção de outros meios e/ou tecnologias, conforme projeto, que propiciem a minimização e/ou
 eliminação da exposição ao arco elétrico.
 
-10.6.6 A organização deve adotar medidas de pro teção coletiva contra explosão e incêndio, em
-obediência ao item 10.2.1 desta NR e à Norma Regulamentadora nº 23 (NR -23) - Proteção Contra
+10.6.6 A organização deve adotar medidas de proteção coletiva contra explosão e incêndio, em
+obediência ao item 10.2.1 desta NR e à Norma Regulamentadora nº 23 (NR-23) - Proteção Contra
 Incêndios.
 
 10.6.6.1 As instalações elétricas de áreas classificadas devem ser dotadas de medidas de proteção
@@ -260,7 +260,7 @@ competentes ou as normas técnicas internacionais vigentes.
 mediante permissão de trabalho, precedida de análise de risco, e procedimento de trabalho a
 serem realizados por trabalhador autorizado conforme capítulo 10.10 desta NR.
 
-10.6.6.2 Os processos ou equipamentos susceptíveis de gerar ou acumular eletricidade estát ica
+10.6.6.2 Os processos ou equipamentos susceptíveis de gerar ou acumular eletricidade estática
 que possam provocar a ignição para incêndio ou explosões devem dispor de proteção específica e
 dispositivos de descarga elétrica, conforme projeto.
 
@@ -320,7 +320,7 @@ h) as emergências e o planejamento de resgate e primeiros socorros;
 i) a necessidade de sistema de comunicação; e
 j) a forma de supervisão.
 
-10.7.4 A execução de serviço em eletricidade e trabalho em proximid ade de instalações elétricas
+10.7.4 A execução de serviço em eletricidade e trabalho em proximidade de instalações elétricas
 deve ser precedida de avaliação prévia no local de trabalho.
 
 10.7.4.1 Avaliação prévia deve verificar:
@@ -334,7 +334,7 @@ b) o superior hierárquico deve ser comunicado.
 
 10.7.5 Os trabalhadores autorizados a intervir em instalações elétricas devem ser submetidos a
 exame de saúde compatível com as atividades a serem desenvolvidas, realizado em conformidade
-com a Norma Regulamentadora nº 07 (NR -7) - Programa de Controle Médico de Saúde
+com a Norma Regulamentadora nº 07 (NR-7) - Programa de Controle Médico de Saúde
 Ocupacional e registrado em seu prontuário médico.
 
 10.7.6 A organização deve indicar um trabalhador entre os membros da equipe para exercer a
@@ -344,7 +344,7 @@ proximidade de instalações elétricas realizados em equipe.
 10.7.7 Nas instalações e serviços em eletricidade deve ser adotada sinalização adequada de
 
  8
-segurança, destinada à advertência e à identificação, obedecendo ao disposto na NR -26 -
+segurança, destinada à advertência e à identificação, obedecendo ao disposto na NR-26 -
 Sinalização de Segurança, de forma a atender, dentre outras, as situações a seguir:
 a) identificação de circuitos elétricos;
 b) travamentos e bloqueios de dispositivos e sistemas de manobra e comandos;
@@ -355,10 +355,10 @@ e) sinalização de impedimento de energização; e
 f) identificação de equipamento ou circuito impedido.
 
 10.7.7.1 Os painéis e quadros elétricos devem possuir no mínimo:
-a) porta de aces so mantida permanentemente fechada, exceto nas situações de manutenção,
+a) porta de acesso mantida permanentemente fechada, exceto nas situações de manutenção,
 pesquisa de defeitos e outras intervenções, devendo ser observadas as condições previstas nas
 normas técnicas oficiais ou nas normas internacionais aplicáveis; e
-b) sinalização do níve l de tensão, advertência quanto ao perigo de choque e arco elétrico e à
+b) sinalização do nível de tensão, advertência quanto ao perigo de choque e arco elétrico e à
 restrição de acesso por pessoas não autorizadas.
 
 10.7.8 É vedado o uso de adornos pessoais nos serviços em eletricidade e nos trabalhos em
@@ -371,21 +371,21 @@ requisitos de condutibilidade conforme item 10.11.3 desta NR.
 tecnicamente inviável a atuação independente, executar ações integradas para implementar e
 acompanhar as medidas de prevenção previstas nesta NR.
 
-10.7.10 As organizações devem  promover ações de controle de riscos originados por outrem em
+10.7.10 As organizações devem promover ações de controle de riscos originados por outrem em
 suas instalações elétricas e oferecer, de imediato, quando cabível, denúncia aos órgãos
 competentes.
 
-10.7.11 A organização deve inspecionar as instalações elétricas, elaborando e mantendo rela tório
+10.7.11 A organização deve inspecionar as instalações elétricas, elaborando e mantendo relatório
 com indicação de medidas de prevenção a serem adotadas com respectivo plano de ação e
 cronograma de adequação, nos termos desta NR.
 
 10.7.12 A organização deve adotar medidas administrativas e de organização do trabalho de
-forma a atender aos critéri os de qualificação, habilitação, capacitação, treinamento e autorização
+forma a atender aos critérios de qualificação, habilitação, capacitação, treinamento e autorização
 dos trabalhadores, como previstos nesta NR.
 
 10.8 QUALIFICAÇÃO, HABILITAÇÃO E CAPACITAÇÃO DOS TRABALHADORES
 
-10.8.1 É considerado trabalhador qualificado aquele que comprovar conclusão  de curso específico
+10.8.1 É considerado trabalhador qualificado aquele que comprovar conclusão de curso específico
 na área elétrica reconhecido pelo Sistema Oficial de Ensino.
 
 10.8.2 É considerado PLH o trabalhador previamente qualificado pelo Sistema Oficial de Ensino em
@@ -393,7 +393,7 @@ curso específico na área elétrica e com registro no competente conselho de cl
 
  9
 
-10.8.3 É considerado trabalhador -capacitado aquele que atenda, simultaneamente, às seguintes
+10.8.3 É considerado trabalhador-capacitado aquele que atenda, simultaneamente, às seguintes
 condições:
 a) receba capacitação sob orientação e responsabilidade de PLH autorizado, com carga horária
 mínima e conteúdo conforme plano de aprendizagem; e
@@ -406,12 +406,12 @@ considerando a realidade de trabalho da organização, em especial, as caracter�
 de operação das instalações elétricas, procedimentos de trabalho e condições impeditivas da
 organização.
 
-10.8.3.3 A capacitação só terá validade para a organização que capacitou  o trabalhador -
+10.8.3.3 A capacitação só terá validade para a organização que capacitou o trabalhador-
 capacitado e nas condições estabelecidas pelo PLH autorizado responsável pela capacitação.
 
-10.8.4 A organização deve incluir os seguintes módulos na capacitação do trabalhador -capacitado,
+10.8.4 A organização deve incluir os seguintes módulos na capacitação do trabalhador-capacitado,
 conforme alínea “a” do item 10.8.3 desta NR:
-a) módu lo “Fundamentos de eletricidade básica”, com carga horária mínima de 40 horas, para
+a) módulo “Fundamentos de eletricidade básica”, com carga horária mínima de 40 horas, para
 todas as organizações do Sistema Elétrico de Potência (SEP) e do Sistema Elétrico de Consumo
 (SEC);
 b) módulo “Qualidade, saúde, meio ambiente nos serviços em eletricidade”, com carga horária
@@ -421,21 +421,21 @@ de 40 horas, apenas para as organizações do SEP;
 d) módulo “Sistema elétrico de consumo”, com carga horária mínima de 24 horas, apenas para as
 organizações do SEC; e
 e) módulo “Compartilhamento de infraestruturas do sistema elétrico de potência”, com carga
-horário mínima de 24h, apenas para as organizações que realizam  atividades e serviços em
+horário mínima de 24h, apenas para as organizações que realizam atividades e serviços em
 proximidade de instalações elétricas com o compartilhamento de infraestruturas do SEP.
 
-10.8.4.1 Devem ser acrescentados à capacitação módulos para participação do trabalhador -
+10.8.4.1 Devem ser acrescentados à capacitação módulos para participação do trabalhador-
 capacitado em tarefas específicas com carga horária e conteúdo mínimo definidos pela
 organização, de acordo com o subitem 10.8.3.2 desta NR.
 
-10.8.4.1.1 O atendimento do subit em 10.8.4.1 é facultativo para as organizações que realizam
+10.8.4.1.1 O atendimento do subitem 10.8.4.1 é facultativo para as organizações que realizam
 atividades e serviços em proximidade de instalações elétricas com o compartilhamento de
 infraestruturas do SEP.
 
-10.8.4.2 O aproveitamento dos conteúdos dos módulos “Fundamentos de eletricidade bá sica” e
+10.8.4.2 O aproveitamento dos conteúdos dos módulos “Fundamentos de eletricidade básica” e
 “Qualidade, saúde, meio ambiente nos serviços em eletricidade” entre diferentes organizações
-pode ser convalidado por PLH, mediante aprovação do trabalhador -capacitado em avaliação
-específica, no período de 2 anos da data de realização do módulo or iginal, conforme previsto no
+pode ser convalidado por PLH, mediante aprovação do trabalhador-capacitado em avaliação
+específica, no período de 2 anos da data de realização do módulo original, conforme previsto no
 plano de aprendizagem.
 
  10
@@ -443,7 +443,7 @@ plano de aprendizagem.
 10.9 TREINAMENTO DE SEGURANÇA E SAÚDE NO TRABALHO
 
 10.9.1 Os treinamentos de segurança e saúde no trabalho ou instrução formal previstos nesta NR
-devem ser realizados a cargo e custo do empregador e dura nte o expediente, observado o
+devem ser realizados a cargo e custo do empregador e durante o expediente, observado o
 disposto na NR-1.
 
 10.9.2 Os treinamentos iniciais e a carga horária mínima são os constantes do Quadro I abaixo:
@@ -460,15 +460,15 @@ Treinamento inicial Carga horária
 Treinamento de Segurança e Saúde no Trabalho desta NR.
 
 10.9.4 A organização deve promover o treinamento “Básico” para os trabalhadores autorizados,
-conforme capítulo 10.10 d esta NR, exceto aos trabalhadores que realizam o treinamento
+conforme capítulo 10.10 desta NR, exceto aos trabalhadores que realizam o treinamento
 “Específico de compartilhamento de infraestruturas do SEP”.
 
 10.9.5 A organização deve promover o treinamento “Complementar do SEP” para os
-trabalhadores autorizados que realizam serviços no Sist ema Elétrico de Potência ou trabalham em
+trabalhadores autorizados que realizam serviços no Sistema Elétrico de Potência ou trabalham em
 sua proximidade, exceto aos trabalhadores que realizam o treinamento “específico de
 compartilhamento de infraestruturas do SEP”.
 
-10.9.6 A organização deve promover o treinamento “Complementar de Média e Alta Tensão  -
+10.9.6 A organização deve promover o treinamento “Complementar de Média e Alta Tensão -
 SEC” para os trabalhadores autorizados que realizam serviços em eletricidade em média e alta
 tensão ou trabalham em sua proximidade no SEC.
 
@@ -485,7 +485,7 @@ infraestrutura do SEP” para os trabalhadores que realizam atividades e serviç
 de instalações elétricas com o compartilhamento de infraestruturas do Sistema Elétrico de
 Potência.
 
-10.9.10 A organização deve realizar treinamento periódico bienal  de segurança, definindo
+10.9.10 A organização deve realizar treinamento periódico bienal de segurança, definindo
 conteúdo programático adequado à realidade do trabalho, em especial às características
 construtivas das instalações elétricas, aos procedimentos de trabalho e às condições impeditivas
 
@@ -494,7 +494,7 @@ da organização, obedecendo à carga horária mínima de treinamento de 16 hora
 
 10.9.11 A organização deve realizar treinamento eventual, independentemente de já ter realizado
 o treinamento periódico bienal de segurança, nas seguintes situações:
-a) após retorno de afastamento ao trabalho ou inatividade,  por período superior a 90 (noventa)
+a) após retorno de afastamento ao trabalho ou inatividade, por período superior a 90 (noventa)
 dias;
 b) quando houver modificações significativas nas instalações elétricas ou troca de métodos,
 processos e organização do trabalho;
@@ -506,7 +506,7 @@ d) após ocorrência de acidente grave ou fatal, que indique a necessidade de no
 atender à situação que o motivou e direcionados à realidade laboral da organização.
 
 10.9.12 Os treinamentos de segurança e saúde previstos nesta NR deverão ser ministrados por
-instrutores com comprovada proficiência nas áreas e assuntos específicos, sob a responsabilida de
+instrutores com comprovada proficiência nas áreas e assuntos específicos, sob a responsabilidade
 de PLH.
 
 10.9.13 O conteúdo prático dos treinamentos de segurança e saúde previstos nesta NR deve ser
@@ -517,7 +517,7 @@ realizado na modalidade de ensino presencial.
 10.10.1 A organização deve conceder a autorização dos trabalhadores na forma desta NR.
 
 10.10.2 São considerados autorizados os seguintes trabalhadores:
-a) profissionais habilitados, qualificados e Trabalhadores -capacitados que realizam serviço nas
+a) profissionais habilitados, qualificados e Trabalhadores-capacitados que realizam serviço nas
 instalações elétricas;
 b) que realizam trabalhos em proximidade nos termos desta NR; e
 c) que supervisionam o trabalho referido nas alíneas anteriores.
@@ -539,7 +539,7 @@ conhecer a abrangência da autorização de cada trabalhador.
 
  12
 devem ser adotados equipamentos de proteção individual específicos e adequados às atividades
-desenvolvidas, obedecendo ao item 10.5.4 desta NR, bem como ao dispo sto na Norma
+desenvolvidas, obedecendo ao item 10.5.4 desta NR, bem como ao disposto na Norma
 Regulamentadora nº 06 (NR-6) - Equipamentos de Proteção Individual (EPI).
 
 10.11.2 A seleção de EPI de proteção contra os efeitos do arco elétrico deve ser realizada de
@@ -562,30 +562,30 @@ Organização deve realizar o estudo de energia incidente, de acordo com a alín
 
 10.11.2.4 Ficam dispensados da utilização de EPI de proteção contra os efeitos do arco elétrico os
 trabalhadores que realizam atividades não relacionadas à eletricidade e que, em suas tarefas, não
-estejam expostos a situações que possam resul tar em arco elétrico, conforme indicado na análise
+estejam expostos a situações que possam resultar em arco elétrico, conforme indicado na análise
 de risco.
 
 10.11.3 As vestimentas de trabalho devem ser adequadas às atividades devendo contemplar
 requisitos de inflamabilidade, condutibilidade e influências eletromagnéticas.
 
-10.12 SEGURANÇA NAS ETAPAS  DE CONSTRUÇÃO, MONTAGEM, COMISSIONAMENTO,
+10.12 SEGURANÇA NAS ETAPAS DE CONSTRUÇÃO, MONTAGEM, COMISSIONAMENTO,
 OPERAÇÃO E MANUTENÇÃO
 
 10.12.1 A organização deve atender às prescrições constantes deste item independentemente do
 estado de energização das instalações elétricas.
 
-10.12.2 As instalações elétricas devem ser cons truídas, montadas, comissionadas, operadas,
+10.12.2 As instalações elétricas devem ser construídas, montadas, comissionadas, operadas,
 mantidas, reformadas, ampliadas, reparadas e inspecionadas de forma a garantir a segurança e a
 saúde dos trabalhadores, conforme dispõe esta NR.
 
-10.12.3 As etapas de construção, montagem, comissionamento, operaç ão e manutenção devem
+10.12.3 As etapas de construção, montagem, comissionamento, operação e manutenção devem
 ser executadas e supervisionadas por trabalhador autorizado, conforme dispõe o capítulo 10.10
 desta NR.
 
 10.12.4 Em todo serviço deve ser garantida a efetiva comunicação direta e visual entre os
 trabalhadores.
 
-10.12.4.1 Quando não fo r possível a comunicação direta e visual entre os trabalhadores, devem
+10.12.4.1 Quando não for possível a comunicação direta e visual entre os trabalhadores, devem
 
  13
 ser fornecidos equipamentos de comunicação em perfeito estado de funcionamento que permita
@@ -599,7 +599,7 @@ proteção, respeitadas as recomendações do fabricante e influências externas
 
 10.12.6 Os equipamentos, ferramentas, dispositivos, equipamentos de proteção individual e
 coletiva que possuam isolação elétrica devem estar adequados às tensões envolvidas e serem
-inspecionados e testados de acordo com regulamentações existentes e/ou recomendaçõ es dos
+inspecionados e testados de acordo com regulamentações existentes e/ou recomendações dos
 fabricantes, e na sua ausência, segundo os critérios a serem desenvolvidos sob responsabilidade
 de PLH.
 
@@ -611,20 +611,20 @@ c) serem aferidos, calibrados e parametrizados, quando aplicável, de acordo com
 existentes, recomendações dos fabricantes ou, na sua ausência, segundo os critérios a serem
 desenvolvidos por PLH.
 
-10.12.7 Os sistemas de pr oteção das instalações elétricas devem ser mantidos em condições
+10.12.7 Os sistemas de proteção das instalações elétricas devem ser mantidos em condições
 seguras de funcionamento, inspecionados, testados e controlados periodicamente, de acordo com
 as regulamentações existentes, parametrizações e suas possíveis alterações, definidas em
 projetos.
 
 10.12.8 Os locais de serviços elétricos, compartimentos e invólucros de equipamentos e
-instalações elétricas são exclusivos para essa finalidade, sendo expressamente proibido utilizá -los
+instalações elétricas são exclusivos para essa finalidade, sendo expressamente proibido utilizá-los
 para armazenamento ou guarda de quaisquer objetos.
 
-10.12.9 Os ens aios, os testes elétricos laboratoriais ou de campo e o comissionamento de
+10.12.9 Os ensaios, os testes elétricos laboratoriais ou de campo e o comissionamento de
 instalações elétricas devem atender ao capítulo 10.14 desta NR, sob responsabilidade de PLH e
 serem realizados por profissional autorizado.
 
-10.12.10 Os circuitos elétricos com dife rentes finalidades definidas em projeto, quer sejam em
+10.12.10 Os circuitos elétricos com diferentes finalidades definidas em projeto, quer sejam em
 corrente alternada ou corrente contínua, devem ser identificados e instalados separadamente,
 salvo quando o desenvolvimento tecnológico permitir compartilhamento.
 
@@ -640,12 +640,12 @@ b) constatação da ausência de tensão;
 c) impedimento de reenergização;
 d) constatação de ausência de tensão para a instalação de aterramento temporário com
 equipotencialização dos condutores dos circuitos;
-e) proteção dos elementos energizados existentes na zona cont rolada (Anexo II desta NR) e
+e) proteção dos elementos energizados existentes na zona controlada (Anexo II desta NR) e
 proteção dos trabalhadores para os efeitos do arco elétrico;
 f) instalação da sinalização de impedimento de reenergização; e
 g) delimitação e sinalização da área de trabalho.
 
-10.13.2 O estado de instalação desenergizada deve s er mantido até a autorização para
+10.13.2 O estado de instalação desenergizada deve ser mantido até a autorização para
 reenergização, devendo ser reenergizada respeitando a sequência de procedimentos abaixo:
 a) retirada dos obstáculos de delimitação e sinalização do espaço seguro de trabalho;
 b) retirada das ferramentas, utensílios e equipamentos;
@@ -661,12 +661,12 @@ serviço por meio de medidas que impeçam outras equipes ou organizações de en
 instalações elétricas.
 
 10.13.4 As medidas constantes das alíneas apresentadas nos itens 10.13.1 e 10.13.2 podem ser
-alteradas, substituídas, ampliadas ou eliminadas, em função das peculiaridades  de cada situação
+alteradas, substituídas, ampliadas ou eliminadas, em função das peculiaridades de cada situação
 e/ou do desenvolvimento tecnológico, por PLH, autorizado e mediante justificativa técnica
 previamente formalizada, desde que seja mantido o mesmo nível de segurança originalmente
 preconizado.
 
-10.14 SEGURANÇA EM INSTALAÇÕES ELÉTRICAS ENER GIZADAS E NO TRABALHO EM
+10.14 SEGURANÇA EM INSTALAÇÕES ELÉTRICAS ENERGIZADAS E NO TRABALHO EM
 PROXIMIDADE DE INSTALAÇÕES ELÉTRICAS
 
 10.14.1 Os serviços em eletricidade com exposição à baixa, média e alta tensão e os trabalhos em
@@ -675,7 +675,7 @@ somente podem ser realizados por trabalhadores autorizados em conformidade com o
 10.10 desta NR.
 
 10.14.1.1 As operações elementares como ligar e desligar circuitos, dispositivos e equipamentos
-elétricos, realizadas em baixa tensão em sistemas, equipa mentos e dispositivos projetados,
+elétricos, realizadas em baixa tensão em sistemas, equipamentos e dispositivos projetados,
 construídos, instalados e mantidos de forma a serem utilizados com segurança e adequados para
 operação, conforme orientações das normas técnicas oficiais, podem ser realizadas por qualquer
 pessoa não advertida.
@@ -684,7 +684,7 @@ pessoa não advertida.
 instalações elétricas desenvolvidas em zona livre e na vizinhança da zona controlada, conforme
 
  15
-definido nesta NR, a organização deve realizar a análise de risco conforme item 10. 7.3 e promover
+definido nesta NR, a organização deve realizar a análise de risco conforme item 10.7.3 e promover
 a instrução formal com conhecimentos que permitam identificar e avaliar possíveis riscos e adotar
 as precauções cabíveis.
 
@@ -697,7 +697,7 @@ mediante a desativação, também conhecida como bloqueio, dos conjuntos e dispo
 religamento automático do circuito, sistema ou equipamento.
 
 10.14.3.1 Os conjuntos e dispositivos de religamento automático do circuito, sistema ou
-equipamento desativados devem ser sinalizad os com identificação da condição de desativação,
+equipamento desativados devem ser sinalizados com identificação da condição de desativação,
 conforme procedimento de trabalho específico.
 
 10.14.4 A organização deve submeter a ensaios dielétricos:
@@ -717,7 +717,7 @@ autorizadas pela Agência Nacional de Energia Elétrica (ANEEL).
 
 10.15 DOCUMENTAÇÃO
 
-10.15.1 A do cumentação prevista nesta NR pode ser emitida e armazenada em meio digital,
+10.15.1 A documentação prevista nesta NR pode ser emitida e armazenada em meio digital,
 conforme a NR-1, e deve estar em língua portuguesa (Brasil).
 
 10.15.2 A documentação prevista nesta NR deve estar atualizada e sempre disponível aos
@@ -726,21 +726,21 @@ trabalhadores interessados ou seus representantes e à Inspeção do Trabalho.
 10.15.3 Toda a organização deve dispor de projeto elétrico, em conformidade com o capítulo 10.4
 desta NR, e documentação das inspeções e medições dos sistemas de aterramentos elétricos.
 
-10.15.4 As organizações  que possuem trabalhadores autorizados, em conformidade com o
+10.15.4 As organizações que possuem trabalhadores autorizados, em conformidade com o
 capítulo 10.10 desta NR, devem manter a seguinte documentação:
 a) conjunto de procedimentos de trabalho, análise de riscos e permissões de trabalho conforme
 determina esta NR;
-b) especificação d os equipamentos de proteção coletiva e individual e o ferramental, aplicáveis
+b) especificação dos equipamentos de proteção coletiva e individual e o ferramental, aplicáveis
 
  16
 conforme determina esta NR;
 c) documentação comprobatória da qualificação, habilitação, capacitação e treinamentos de
 segurança e saúde e autorização dos trabalhadores; e
-d) rela tórios dos testes de isolação elétrica realizados em equipamentos, ferramentas,
+d) relatórios dos testes de isolação elétrica realizados em equipamentos, ferramentas,
 dispositivos, equipamentos de proteção individual e coletivo, aplicáveis conforme determina esta
 NR;
 
-10.15.5 As organizações que possuem áreas classificadas, conforme projeto,  devem manter a
+10.15.5 As organizações que possuem áreas classificadas, conforme projeto, devem manter a
 seguinte documentação:
 a) conjunto de procedimentos, análise de riscos e permissões de trabalho conforme determina o
 subitem 10.6.6.1.2 desta NR;
@@ -761,8 +761,8 @@ sistema de resgate disponível.
 
 10.16 CONDIÇÕES OU SITUAÇÕES DE GRAVE E IMINENTE RISCO (GIR)
 
-10.16.1 Fica dispensado o uso da metodologia prevista na Norma Regulamentadora nº 03 (NR -3) -
-Embargo e Interdição para a imposição de medida de embargo ou in terdição quando constatadas
+10.16.1 Fica dispensado o uso da metodologia prevista na Norma Regulamentadora nº 03 (NR-3) -
+Embargo e Interdição para a imposição de medida de embargo ou interdição quando constatadas
 as seguintes condições ou situações de Grave e Iminente Risco (GIR):
 a) ausência de medidas de proteção coletiva em instalações elétricas de áreas classificadas como
 previsto nesta NR;
@@ -788,18 +788,18 @@ Arco elétrico: fenômeno gerado pela ionização de gás originado de uma conex
 elétrica ou decomposição entre partes energizadas ou uma parte energizada e o percurso
 aterrado de uma instalação elétrica ou um dispositivo elétrico.
 Área classificada: área na qual uma atmosfera explosiva está presente, ou é prevista que esteja
-presente, em qua ntidade que requeira precauções especiais para construção, instalação e
+presente, em quantidade que requeira precauções especiais para construção, instalação e
 utilização de equipamentos.
 Aterramento elétrico temporário: ligação elétrica efetiva confiável e adequada intencional à terra,
-destinada a garantir a equipotencialidade e mantida cont inuamente durante a intervenção na
+destinada a garantir a equipotencialidade e mantida continuamente durante a intervenção na
 instalação elétrica.
 Atividades rotineiras: atividades habituais, independente da frequência, que fazem parte do
 processo contínuo de trabalho da organização.
-Atmosfera explosiva: mistura com o ar, sob determinadas condiç ões atmosféricas, de substâncias
+Atmosfera explosiva: mistura com o ar, sob determinadas condições atmosféricas, de substâncias
 inflamáveis na forma de gás, vapor, névoa, poeira ou fibras, na qual após a ignição a combustão se
 propaga.
 Baixa Tensão (BT): tensão superior a 50 Volts em corrente alternada ou 120 Volts em corrente
-contínua e igual ou in ferior a 1000 Volts em corrente alternada ou 1500 Volts em corrente
+contínua e igual ou inferior a 1000 Volts em corrente alternada ou 1500 Volts em corrente
 contínua, entre fases ou entre fase e terra.
 Barreira: dispositivo que impede qualquer contato com partes energizadas das instalações
 elétricas.
@@ -808,33 +808,33 @@ de um corpo humano ou de um animal.
 Colocação fora do alcance: ação destinada a impedir contatos acidentais, consistindo em instalar
 os condutores energizados a uma altura/distância que fique fora do alcance do trabalhador.
 Comissionamento: conjunto de técnicas e procedimentos de engenharia aplicados de forma
-integrada à instalação ou parte dela, visando torná -la operacional de acordo com os requisitos
+integrada à instalação ou parte dela, visando torná-la operacional de acordo com os requisitos
 especificados em projeto.
 Compartilhamento de infraestrutura: cessão, a título oneroso, de capacidade excedente da
 infraestrutura de suporte, para a prestação de serviços de telecomunicações por prestadoras de
 outros grupos econômicos.
-Condições impeditivas: condições ou situações que im pedem a realização ou continuidade do
+Condições impeditivas: condições ou situações que impedem a realização ou continuidade do
 serviço que possam colocar em risco a saúde ou a integridade física do trabalhador.
 Contato direto: contato elétrico de pessoas ou animais com partes vivas da instalação.
-Contato indireto: contato elétrico de pessoas o u animais com partes condutoras expostas que se
+Contato indireto: contato elétrico de pessoas ou animais com partes condutoras expostas que se
 tornaram vivas em condições de falha.
 Distância segura contra os efeitos do arco elétrico: é a distância na qual existe a chance de
-ocorrência de energia incidente de 5 J \cm2 (1,2 cal \cm2) que pode ocasionar queimadura de
+ocorrência de energia incidente de 5 J\cm2 (1,2 cal\cm2) que pode ocasionar queimadura de
 segundo grau no trabalhador. Deve ser definida por meio de estudo de energia incidente
 
  18
 conforme metodologias de cálculo adequadas aos cenários elétricos avaliados. É sinônimo de
 distância limite de aproximação ao arco elétrico.
-Distribuição d e energia elétrica: conjunto de subestações e linhas de distribuição (instalações e
+Distribuição de energia elétrica: conjunto de subestações e linhas de distribuição (instalações e
 equipamentos elétricos existentes na área de atuação), em tensão inferior a 230 kV, pertencente à
-concessionária ou permissionária de distribuição de energia elétrica, perm itindo o fornecimento
+concessionária ou permissionária de distribuição de energia elétrica, permitindo o fornecimento
 de energia a consumidores.
 Documentos técnicos do PIE: são os documentos relacionados nos itens 10.15.4, 10.15.5 e
 10.15.6.1 desta NR, que devem ser organizados na forma de Prontuário das Instalações elétricas
 (PIE), sob responsabilidade de PLH.
 Energia incidente: parte da energia liberada como resultado do arco elétrico que incide sobre
-determinado ponto de interesse, geralmente o trabalhador. Pode -se estimar a energia incidente
-devido ao arco elétrico por meio de cálculos específicos  aplicando metodologias adequadas
+determinado ponto de interesse, geralmente o trabalhador. Pode-se estimar a energia incidente
+devido ao arco elétrico por meio de cálculos específicos aplicando metodologias adequadas
 conforme cenários elétricos.
 Equipotencialização: procedimento que consiste na interligação de elementos especificados,
 visando obter a equipotencialidade necessária para os fins desejados de uma instalação elétrica.
@@ -844,16 +844,16 @@ no caso de ausência ou omissão destas, as normas internacionais aplicáveis.
 Extrabaixa Tensão (EBT): tensão não superior a 50 Volts em corrente alternada ou 120 Volts em
 corrente contínua, entre fases ou entre fase e terra. Em situações específicas é considerada como
 “tensão de segurança”.
-Fontes de energia elétrica: recu rso energético utilizado para fins de conversão em energia elétrica
+Fontes de energia elétrica: recurso energético utilizado para fins de conversão em energia elétrica
 pelo sistema de geração.
 Impedimento de reenergização: condição que garante a não energização do circuito através de
 recursos e procedimentos apropriados, sob controle dos trabalhadores envolvidos nos serviços.
 Indumentária: vestuário ou traje de determinada cultura ou local.
 Influências externas: variáveis que devem ser consideradas na definição e seleção de medidas de
-proteção para segurança das pessoas e desempenho dos componentes da ins talação, tais como
+proteção para segurança das pessoas e desempenho dos componentes da instalação, tais como
 presença de água, poeiras, temperaturas elevadas e vibrações.
 Infraestrutura de aterramento: conjunto de todos os condutores, conexões e peças ou dispositivos
-com o qual é constituído um aterramento num dado local, por meio de uma ligaçã o elétrica
+com o qual é constituído um aterramento num dado local, por meio de uma ligação elétrica
 intencional e de baixa impedância com a massa condutora da terra.
 Infraestrutura de suporte: meios físicos fixos utilizados para dar suporte a redes de
 telecomunicações, entre os quais postes, torres, mastros, armários, dutos, condutos, estruturas de
@@ -876,7 +876,7 @@ definida em razão do limite de tensão utilizado na alimentação do transporte
 Obstáculo: elemento que impede o contato acidental, mas não impede o contato direto por ação
 deliberada.
 Operações elementares: são ações que implicam em manobras ou interferências nas instalações
-elétricas, simples e corriqueiras, que não expo nham a qualquer risco as pessoas que as realizam.
+elétricas, simples e corriqueiras, que não exponham a qualquer risco as pessoas que as realizam.
 Exemplos: ligar ou desligar interruptores, conectar plugs a tomadas, acionar botões ou sensores
 elétricos.
 Partes vivas: condutor ou parte condutora destinada a ser energizada em condições de uso
@@ -884,9 +884,9 @@ normal, incluindo o condutor neutro.
 Pessoa não advertida: pessoa que não foi informada ou não possui capacidade para interagir com
 o risco elétrico, e que, portanto, somente deve operar equipamentos ou manusear materiais,
 garantidamente, isentos de riscos.
-Plano de aprendizagem - documento de concepção do processo ensino -aprendizagem, no qual se
+Plano de aprendizagem - documento de concepção do processo ensino-aprendizagem, no qual se
 deve registrar o objetivo da aprendizagem, a estratégia pedagógica escolhida para a formação e
-capacitação de trabalhador -capacitado, bem como todas as informações  que estejam envolvidas
+capacitação de trabalhador-capacitado, bem como todas as informações que estejam envolvidas
 no processo.
 Procedimento de trabalho: sequência de operações a serem desenvolvidas para realização de um
 determinado trabalho, com a inclusão dos meios materiais e humanos, medidas de segurança e
@@ -899,7 +899,7 @@ de informações pertinentes às instalações e aos trabalhadores, em meio fís
 Proteção adicional: meio destinado a garantir a proteção contra choques elétricos em situações de
 maior risco de perda ou anulação das medidas normalmente aplicáveis, de dificuldade no
 atendimento pleno das condições de segurança associadas a determinada medida de proteção
-e/ou, ainda, em situações ou locais em que os perigos do choq ue elétrico são particularmente
+e/ou, ainda, em situações ou locais em que os perigos do choque elétrico são particularmente
 graves.
 Proteção básica: meio destinado a impedir contato com partes vivas perigosas em condições
 normais.
@@ -909,11 +909,11 @@ Riscos Adicionais: todos os demais fatores de riscos, além dos elétricos, espe
 ambiente ou processos de trabalho que, direta ou indiretamente, possam afetar a segurança e a
 saúde no trabalho.
 Seccionamento automático da alimentação: ação automática destinada a cortar a alimentação de
-toda ou de uma parte determinada de uma instalação elétrica, separando -a de qualquer fonte de
+toda ou de uma parte determinada de uma instalação elétrica, separando-a de qualquer fonte de
 energia elétrica, por razões de segurança.
 
  20
-Separação elétrica: proteção suple tiva assegurada por meio de uma fonte de separação elétrica
+Separação elétrica: proteção supletiva assegurada por meio de uma fonte de separação elétrica
 individual.
 Sinalização: sinal padronizado destinado a orientar, alertar, avisar e advertir.
 Sistema Elétrico de Potência (SEP): conjunto das instalações e equipamentos destinados à geração,
@@ -929,14 +929,14 @@ consumidores em alta tensão, mediante suprimentos diretos das linhas de transmi
 subtransmissão.
 Travamento ou bloqueio: ação destinada a manter, por meios mecânicos, um dispositivo de
 manobra fixo numa determinada posição, de forma a impedir uma operação não autorizada.
-Zona Controlada (ZC): entorno da zona de risco, não segregada, ace ssível, de dimensões
+Zona Controlada (ZC): entorno da zona de risco, não segregada, acessível, de dimensões
 estabelecidas de acordo com o nível de tensão, cuja aproximação só é permitida a profissionais
 autorizados.
 Zona de Risco (ZR): entorno de parte condutora energizada, não segregada, com risco de choque
 elétrico, acessível inclusive acidentalmente, de dimensões estabelecidas de acordo com o nível de
 tensão, cuja aproximação só é permitida a trabalhadores autorizados e com a adoção de técnicas e
 instrumentos apropriados de trabalho.
-Zona Livre (ZL): zona em que os trabalhadores executam a tividades, na região limítrofe da zona
+Zona Livre (ZL): zona em que os trabalhadores executam atividades, na região limítrofe da zona
 controlada, porém sem necessidade de invadi-la para realizar serviços.
 
 ANEXO II
@@ -997,7 +997,7 @@ ANEXO III
 TREINAMENTOS DE SEGURANÇA E SAÚDE NO TRABALHO
 
 1. TREINAMENTO INICIAL BÁSICO
-PÚBLICO-ALVO: Os trab alhadores autorizados, conforme capítulo 10.10 da NR -10, exceto os
+PÚBLICO-ALVO: Os trabalhadores autorizados, conforme capítulo 10.10 da NR-10, exceto os
 trabalhadores que realizam o treinamento “específico de compartilhamento de infraestruturas do
 SEP”.
 CARGA HORÁRIA MÍNIMA: 40 horas.
@@ -1023,7 +1023,7 @@ c) perigos adicionais e/ou perigos externos.
 6. Controle dos Riscos:
 a) projeto elétrico; e
 b) planejamento de atividades e análise prévia.
-7. Eliminação, minimização e contr ole do Perigo: desenergização (isolamento de trechos para
+7. Eliminação, minimização e controle do Perigo: desenergização (isolamento de trechos para
 execução de serviços) das instalações elétricas x desligamento ou seccionamento.
 8. Medidas de Proteção Coletiva:
 a) proteção básica, supletiva, adicional e contra efeitos térmicos;
@@ -1100,14 +1100,14 @@ A. Teórico
 2. Outras formas de geração de energia elétrica (fotovoltaicas, eólicas, dentre outras) e a interface
 com o SEP.
 3. Especificidades da Análise de Risco, Procedimentos de Trabalho, Permissão de Trabalho.
-4. Eliminação do perigo elétrico nas instalações elétricas: d esenergização x desligamento ou
+4. Eliminação do perigo elétrico nas instalações elétricas: desenergização x desligamento ou
 seccionamento.
 5. Sistemas de proteção coletiva e equipamentos de proteção individual, equipamentos e
 ferramentas de trabalho (tipos, seleção, conservação, inspeção, ensaios ou testes, uso e
 limitações).
 
  25
-6. Métodos de trabal ho: ao potencial, linha viva, à distância, em proximidade, desligado,
+6. Métodos de trabalho: ao potencial, linha viva, à distância, em proximidade, desligado,
 seccionado e desenergizado.
 7. Condições impeditivas para serviços.
 8. Perigos e cenários de trabalho no SEP:
@@ -1131,7 +1131,7 @@ equipamentos.
 12. Liberação das instalações elétricas para execução de serviço, operação e uso.
 13. Treinamento em técnicas de atendimento, imobilização, remoção, resgate e transporte de
 acidentados.
-14. Normas Técnicas ABNT NBR14039 (MT), NBR IEC 62271 -200 - Conjunto de manobra e controle
+14. Normas Técnicas ABNT NBR14039 (MT), NBR IEC 62271-200 - Conjunto de manobra e controle
 de alta-tensão.
 15. Medidas de controle para o risco de choque elétrico por contato direto e indireto.
 16. Medidas de controle para o risco de arco elétrico.
@@ -1143,7 +1143,7 @@ b) discussão sobre as medidas preventivas e corretivas relacionados ao evento; 
 c) discussão de casos e lições aprendidas relativas aos acidentes e doenças.
 B. Prático
 19. Deve ser abordada a prática, no mínimo, dos conteúdos referidos nos itens 3, 4, 5, 11, 12 e 13.
-(*) O conteúdo deve ser desenvol vido e dirigido especificamente para as condições de trabalho
+(*) O conteúdo deve ser desenvolvido e dirigido especificamente para as condições de trabalho
 
  26
 características de cada ramo, padrão de operação, de nível de tensão e de outras peculiaridades
@@ -1168,13 +1168,13 @@ seccionado e desenergizado.
 6. Condições impeditivas para serviços.
 7. Segurança com veículos, transporte e movimentação de pessoas em diversas superfícies de
 trabalho;
-8. Segurança com transporte e movimentação mecânico/automáti co ou manual de materiais e
+8. Segurança com transporte e movimentação mecânico/automático ou manual de materiais e
 equipamentos.
 9. Sinalização e isolamento de áreas de trabalho.
 10. Liberação das instalações elétricas para execução de serviço, operação e uso.
-11. Treinamento em técnicas de atendimento, imobilização, remoção, resgate e trans porte de
+11. Treinamento em técnicas de atendimento, imobilização, remoção, resgate e transporte de
 acidentados.
-12. Normas Técnicas ABNT NBR14039 (MT), NBR IEC 62271 -200 - Conjunto de manobra e controle
+12. Normas Técnicas ABNT NBR14039 (MT), NBR IEC 62271-200 - Conjunto de manobra e controle
 de alta-tensão.
 13. Exemplos de acidentes e doenças relacionados às instalações elétricas e aos serviços em
 eletricidade realizados no SEC:
@@ -1185,7 +1185,7 @@ B. Prático
 14. Deve ser abordada a prática, no mínimo, dos conteúdos referidos nos itens 2, 3, 4, 9, 10 e 11
 da parte teórica.
 (*) O conteúdo deve ser desenvolvido e dirigido especificamente para as condições de trabalho
-características de cada ramo, padrão de operação, de nível de tensão e  de outras peculiaridades
+características de cada ramo, padrão de operação, de nível de tensão e de outras peculiaridades
 
  27
 específicas ao tipo ou condição especial da atividade.
@@ -1240,7 +1240,7 @@ c) riscos adicionais e/ou perigos externos.
 4. Condições impeditivas para serviços.
 5. Sistema e equipamentos de proteção coletiva.
 6. Sistema e equipamentos de proteção individual.
-7. Instrumentos, ferramentas  e equipamentos de trabalho – características e manuais de
+7. Instrumentos, ferramentas e equipamentos de trabalho – características e manuais de
 instrução.
 8. Zona de risco, zona controlada e zona livre.
 9. Energia incidente e distância segura contra os efeitos do arco elétrico;
@@ -1255,12 +1255,12 @@ A. Teórico
 1. Noções básicas da organização do SEP.
 2. Outras formas de geração de energia elétrica (fotovoltaicas, eólicas, dentre outras) e a interface
 com o SEP.
-3. Características básicas construtivas das redes aéreas de distribuição de telecomunicações  e de
+3. Características básicas construtivas das redes aéreas de distribuição de telecomunicações e de
 energia elétrica, tipo de estruturas, tipo de linhas etc.
 4. Interação entre redes de distribuição de telecomunicações e de Iluminação Pública: perigos e
 riscos elétricos e adicionais.
 5. Especificidades da Rotina de Trabalho.
-6. Interpretação e aplicação da NR -10 em atividades e serviços em proximidade de instalações
+6. Interpretação e aplicação da NR-10 em atividades e serviços em proximidade de instalações
 elétricas com o compartilhamento de Infraestruturas do SEP.
 7. Trabalho em Proximidade de instalações elétricas com o compartilhamento de Infraestruturas
 do Sistema Elétrico de Potência conforme NR-10.
@@ -1283,11 +1283,11 @@ g) condições climáticas adversas;
 h) comunicação e identificação; e
 i) outros fatores e situações.
 13. Sinalização e isolamento de áreas de trabalho.
-14. Treinamento e m técnicas de atendimento, imobilização, remoção, resgate e transporte de
+14. Treinamento em técnicas de atendimento, imobilização, remoção, resgate e transporte de
 acidentados.
 15. Qualificação, habilitação, capacitação, treinamentos, instruções adicionais e autorização dos
 trabalhadores.
-16. Exemplos de acidentes e doenças relacionados às ativ idades e serviços em proximidade de
+16. Exemplos de acidentes e doenças relacionados às atividades e serviços em proximidade de
 instalações elétricas com o compartilhamento de infraestruturas do SEP:
 a) fatores e causas relacionados ao evento (acidentes e doenças);
 b) discussão sobre as medidas preventivas e corretivas relacionados ao evento; e
@@ -1336,7 +1336,7 @@ Aparelhagem de distribuição de
 600 volts (com disjuntores de
 potência ou interruptores com
 fusível) e
-quadros de distr ibuição de 600
+quadros de distribuição de 600
 volts
 ·Corrente de falha máxima disponível de 35 kA;
 ·tempo máximo de eliminação de falhas de até 0,5 s
@@ -1362,14 +1362,14 @@ kV
 Aparelhagem de manobra
 revestida de metal, 1 kV a 15 kV
 ·Corrente de falha máxima disponível de 35 kA;
-·tempo máximo de  eliminação de falhas de até 0,24
+·tempo máximo de eliminação de falhas de até 0,24
 s (15 ciclos);
 ·distância mínima de trabalho de 910 mm
 4
 Chave seccionadora em invólucro
 metálico, com ou sem fusível,
 construção de 1 kV a 15 kV
-·Corrente de curto -circuito disponível máxima de 35
+·Corrente de curto-circuito disponível máxima de 35
 kA;
 ·tempo máximo de eliminação da falha de 0,24 s (15
 ciclos);
@@ -1377,7 +1377,7 @@ ciclos);
 4
 Outros equipamentos de 1 kV a 15
 kV
-·Corrente de curto -circuito disponível máxima de 35
+·Corrente de curto-circuito disponível máxima de 35
 kA;
 ·tempo máximo de eliminação da falha de até 0,24 s
 4
@@ -1403,7 +1403,7 @@ N/A (Não
 aplicável)
 Nota: para equipamentos classificados em 600 volts ou menos e protegidos por fusíveis
 limitadores de corrente ou disjuntores termomagnéticos limitadores de corrente dimensionados
-para 200 amperes ou menos, a categoria de EPI para arc o elétrico pode ser reduzida em um
+para 200 amperes ou menos, a categoria de EPI para arco elétrico pode ser reduzida em um
 número, mas não abaixo da categoria 1 de EPI para arco elétrico.
 
 (*) Para PORTAS ABERTAS, consulte a linha correspondente de equipamentos não resistentes ao
@@ -1423,7 +1423,7 @@ mm
 ·Corrente de curto-circuito disponível maior ou igual a 1,5 kA e menor que 3
 kA
 2
-·Corrente de curto -circuito disponível maior ou igual a 3 kA e menor que 7
+·Corrente de curto-circuito disponível maior ou igual a 3 kA e menor que 7
 kA
 3
 ·Corrente de curto-circuito disponível maior ou igual a 7 kA e menor que 10
@@ -1434,13 +1434,13 @@ Notas:
 seguir:
 a) Ser avaliadas quanto à proteção contra eletrólitos.
 b) Possuir classificação de resistência a arco elétrico (arc rated).
-2. Assume -se uma duração de arco de dois segundos quando não há dispositivo de proteção
-contra sobrecorrente (OC PD) ou quando o tempo de eliminação da falha não é conhecido. Se o
+2. Assume-se uma duração de arco de dois segundos quando não há dispositivo de proteção
+contra sobrecorrente (OCPD) ou quando o tempo de eliminação da falha não é conhecido. Se o
 tempo de eliminação for conhecido e for inferior a 2 segundos, uma análise de energia incidente
 pode fornecer um resultado mais representativo.
-3. Os métodos usados para estimar a energia i ncidente de arco elétrico em CC, utilizados para
-definir as categorias desta tabela, baseiam -se em cálculos de energia incidente em ar livre. Caso a
-atividade ocorra dentro de um invólucro, recomenda -se considerar proteção adicional de EPI,
+3. Os métodos usados para estimar a energia incidente de arco elétrico em CC, utilizados para
+definir as categorias desta tabela, baseiam-se em cálculos de energia incidente em ar livre. Caso a
+atividade ocorra dentro de um invólucro, recomenda-se considerar proteção adicional de EPI,
 além do valor indicado nesta tabela.
 
  32
@@ -1453,7 +1453,7 @@ Vestimenta com resistência ao arco elétrico (ATPV ou EBT) - mínimo de 4 cal/c
 (a)
 • Camisa e calça de mangas compridas com resistência ao arco elétrico, ou
 macacão com resistência ao arco elétrico;
-• Protetor facial com resistência ao arco elétrico ( b) ou capuz com resistência ao
+• Protetor facial com resistência ao arco elétrico (b) ou capuz com resistência ao
 arco elétrico;
 • Jaqueta, parca, vestimenta de alta visibilidade, impermeáveis ou forro de
 capacete com resistência ao arco elétrico ou outras sobreposições com resistência
@@ -1461,7 +1461,7 @@ ao arco elétrico (CNf)
 Equipamentos de Proteção Adicional:
 • Capacete de segurança;
 • Óculos de proteção ou óculos de ampla visão (SOg);
-• Protetor auricular ( c) (desde que protegido por um capuz com resistência ao arco
+• Protetor auricular (c) (desde que protegido por um capuz com resistência ao arco
 elétrico);
 • Luvas de couro espessas, luvas com resistência ao arco elétrico ou luvas isolantes
 de borracha com luva de cobertura (d) (SOg)
@@ -1472,7 +1472,7 @@ Vestimenta com resistência ao arco elétrico (ATPV ou EBT) - mínimo de 8 cal/c
 • Camisa e calça de mangas compridas com resistência ao arco elétrico ou macacão
 com resistência ao arco elétrico;
 • Capuz completo com resistência ao arco elétrico ou protetor facial com
-resistência ao arco elétrico ( b) combinado com balaclava com resistência a o arco
+resistência ao arco elétrico (b) combinado com balaclava com resistência ao arco
 elétrico;
 • Jaqueta, parca, roupa de alta visibilidade, impermeáveis ou forro de capacete
 com resistência ao arco elétrico ou outras sobreposições com resistência ao arco
@@ -1480,7 +1480,7 @@ elétrico (CNf)
 Equipamentos de Proteção Adicional:
 • Capacete de segurança;
 • Óculos de proteção ou óculos de ampla visão (SOg);
-• Protetor auricular ( c) (desde que protegido por um capuz com resistência ao arco
+• Protetor auricular (c) (desde que protegido por um capuz com resistência ao arco
 elétrico);
 • Luvas de couro espessas, luvas com resistência ao arco elétrico ou luvas isolantes
 de borracha com luva de cobertura (d) (SOg)
@@ -1496,7 +1496,7 @@ arco elétrico (CNf).
 Equipamentos de Proteção Adicional:
 • Capacete de segurança
 • Óculos de proteção ou óculos de ampla visão (SOg)
-• Protetor auricular ( c) (desde que protegido por um capuz com resistência ao arco
+• Protetor auricular (c) (desde que protegido por um capuz com resistência ao arco
 
  33
 elétrico);
@@ -1515,7 +1515,7 @@ elétrico (CNf).
 Equipamentos de Proteção Adicional:
 • Capacete de segurança
 • Óculos de proteção ou óculos de ampla visão (SOg)
-• Protetor auricular ( c) (desde que protegido por um capuz com resistência ao arco
+• Protetor auricular (c) (desde que protegido por um capuz com resistência ao arco
 elétrico);
 • Luvas de couro espessas, luvas com resistência ao arco elétrico ou luvas isolantes
 de borracha com luvas protetoras (d) (SOg)
@@ -1525,18 +1525,18 @@ atualizadas de acordo com processo de Certificado de Aprovação (CA) nos termos
 b Protetor facial ou capuz devem atender ASTM F2178 ou normas atualizadas de acordo com
 processo de CA nos termos da NR-6.
 c Protetores auriculares necessários quando há risco de ruído ou explosão por arco.
-d Luvas isolantes de borracha conforme ASTM D120, com prote tores de couro conforme ASTM
+d Luvas isolantes de borracha conforme ASTM D120, com protetores de couro conforme ASTM
 F696 ou normas atualizadas de acordo com processo de CA nos termos da NR-6.
 e Calçados de couro ou equivalentes, resistentes ao calor e sem componentes metálicos expostos.
 f (CN) conforme necessário, dependendo das condições ambientais e tarefa.
 g (SO) seleção obrigatória conforme risco e tarefa específica.
 ATPV - valor de desempenho térmico ao arco elétrico valor numérico de energia incidente
-atribuído a um produto, que descreve as suas propriedades térmicas para atenuar (reduz ir) um
+atribuído a um produto, que descreve as suas propriedades térmicas para atenuar (reduzir) um
 fluxo de calor gerado por um arco elétrico (ABNT NBR IEC 61482-2).
 EBT - energia-limite de rompimento valor numérico de energia incidente atribuído a um produto,
-que descreve as suas propriedades de rompimento, quando exposto a um fluxo de calor ger ado
+que descreve as suas propriedades de rompimento, quando exposto a um fluxo de calor gerado
 por um arco elétrico (ABNT NBR IEC 61482-2).
 ELIM - limite máximo de energia incidente valor numérico de energia incidente atribuído a um
 produto, abaixo do qual não há ponto de dados com a quantidade de calor transmitida pelo
-produto que atinja o crit ério de Stoll (ATPV) ou com o produto exibindo rompimento (ABNT NBR
+produto que atinja o critério de Stoll (ATPV) ou com o produto exibindo rompimento (ABNT NBR
 IEC 61482-2).

@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/indrei76.pdf/@@display-file/file"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # Instrução Normativa DREI N° 76
@@ -24,7 +24,7 @@ INSTRUÇÃO NORMATIVA DREI Nº 76, DE 9 DE MARÇO DE 2020. (*)
 Dispõe sobre a política, os procedimentos e os
 controles a serem adotados no âmbito das Juntas
 Comerciais para o cumprimento das disposições da
-Lei nº  9.613, de 3 de março de 1998, relativas à
+Lei nº 9.613, de 3 de março de 1998, relativas à
 prevenção de atividades de lavagem de dinheiro, ou
 a ela relacionadas, e financiamento do terrorismo; e
 da Lei nº 13.810, de 8 de março de 2019, relativas ao
@@ -32,13 +32,13 @@ cumprimento de determinações do Conselho de
 Segurança das Nações Unidas acerca da
 indisponibilidade de ativos.
 
-A DIRETORA DO DEPARTAMEN TO NACIONAL DE REGISTRO EMPRESARIAL E
-INTEGRAÇÃO SUBSTITUTA, no uso das atribuições que lhe confere o art. 4º, da Lei nº  8.934, de 18 de
+A DIRETORA DO DEPARTAMENTO NACIONAL DE REGISTRO EMPRESARIAL E
+INTEGRAÇÃO SUBSTITUTA, no uso das atribuições que lhe confere o art. 4º, da Lei nº 8.934, de 18 de
 novembro de 1994; e
-CONSIDERANDO as disposições contidas nos artigos 9º, 10 e 11 da Lei nº  9.613, de 3 de março de
+CONSIDERANDO as disposições contidas nos artigos 9º, 10 e 11 da Lei nº 9.613, de 3 de março de
 1998, e art. 25 da Lei nº 13.810, de 8 de março de 2019, resolve:
-Art. 1º   Esta Instrução Normativa estabelece normas gerais sobre as obrigações que as Juntas
-Comerciais devem observar acerca das disposições da Lei nº  9.613, de 3 de março de 1998, relativas à
+Art. 1º  Esta Instrução Normativa estabelece normas gerais sobre as obrigações que as Juntas
+Comerciais devem observar acerca das disposições da Lei nº 9.613, de 3 de março de 1998, relativas à
 prevenção de atividades de lavagem de dinheiro, ou a ela relacionadas, e financiamento do terrorismo; e
 da Lei nº 13.810, de 8 de março de 2019, relativas ao cumprimento de determinações do Conselho de
 Segurança das Nações Unidas acerca da indisponibilidade de ativos.
@@ -48,7 +48,7 @@ compreendendo todos os negócios e operações que lhes sejam submetidos.
 
 Seção I
 Dos Procedimentos e Controles Internos
-Art. 2º   As Juntas Comerciais devem estabelecer e implementar seus próprios procedimentos e
+Art. 2º  As Juntas Comerciais devem estabelecer e implementar seus próprios procedimentos e
 controles internos de prevenção à lavagem de dinheiro e ao financiamento do terrorismo, que devem
 abranger, no mínimo, procedimentos e controles destinados a:
 I - identificar os clientes e demais envolvidos nos arquivamentos que realizarem, incluindo o
@@ -68,18 +68,18 @@ definição estabelecida em norma da Secretaria Especial da Receita Federal do B
 determinações do Conselho de Segurança das Nações Unidas de que tenha tomado ciência.
 § 3º  Os procedimentos e controles internos mencionados devem ser formalizados expressamente
 com aprovação pelo detentor de autoridade máxima de gestão com divulgação do conteúdo ao quadro
-de pessoal por processos insti tucionalizados e de caráter contínuo, incluindo treinamento e
+de pessoal por processos institucionalizados e de caráter contínuo, incluindo treinamento e
 monitoramento das atividades desenvolvidas pelos empregados.
 
 Seção II
 Das Comunicações
 Art. 3º  As solicitações de arquivamentos que se enquadrem nas situações listadas a seguir devem
-ser moni toradas, selecionadas e analisadas com especial atenção pelas Juntas Comerciais e, se
+ser monitoradas, selecionadas e analisadas com especial atenção pelas Juntas Comerciais e, se
 consideradas suspeitas, comunicadas ao COAF:
 I - constituição de mais de uma pessoa jurídica, em menos de 6 (seis) meses, pela mesma pessoa
 física ou jurídica ou que seja integrada pelo mesmo administrador ou procurador;
 II - registro de pessoa jurídica integrada por um ou mais sócios, procuradores ou administradores
-domiciliados em localidades caracterizadas como  paraísos fiscais, nos termos definidos pela Secretaria
+domiciliados em localidades caracterizadas como paraísos fiscais, nos termos definidos pela Secretaria
 Especial da Receita Federal do Brasil;
 III - registro de sociedade onde participe menor de idade, incapaz ou pessoa com mais de 80 anos;
 IV - registro de pessoa jurídica integrada ou relacionada a pessoas expostas politicamente (PEP), nos
@@ -89,7 +89,7 @@ o objeto social;
 VI - reativação de registros empresariais antigos com novos sócios e novo objeto social; e
 VII - operações envolvendo pessoas jurídicas ou físicas domiciliadas em jurisdições consideradas
 pelo Grupo de Ação contra a Lavagem de Dinheiro e o Financiamento do Terrorismo (GAFI) de alto risco
-ou com deficiências estratégicas de prevenção e co mbate à lavagem de dinheiro e ao financiamento do
+ou com deficiências estratégicas de prevenção e combate à lavagem de dinheiro e ao financiamento do
 terrorismo, segundo comunicados publicados pelo Conselho de Controle de Atividades Financeiras.
 VIII - registro de pessoas jurídicas diferentes constituídas no mesmo endereço, sem a existência de
 fato econômico que justifique;
@@ -103,10 +103,10 @@ novos sócios aparentem se tratar de interpostas pessoas;
 XII - mudanças frequentes no quadro societário, ou no objeto social, sem justificativa aparente;
 XIII - registros em que a identificação do beneficiário final seja inviável ou consideravelmente
 dificultosa; e
-XIV - operações que possam constituir-se em sérios indícios dos crimes previstos na Lei nº  13.260,
+XIV - operações que possam constituir-se em sérios indícios dos crimes previstos na Lei nº 13.260,
 de 16 de março de 2016.
 § 1º  As etapas de monitoramento e seleção poderão ser automatizadas pela Juntas Comerciais.
-§ 2º   Independentemente do período de tempo constante do inciso I, outros casos suspeitos
+§ 2º  Independentemente do período de tempo constante do inciso I, outros casos suspeitos
 decorrentes da constituição de mais de uma empresa pela mesma pessoa física ou jurídica ou que seja
 integrada pelo mesmo administrador ou procurador devem ser monitorados, selecionados e analisados.
 
@@ -115,25 +115,25 @@ Da Comunicação ao COAF
 Art. 4º  Havendo indício dos crimes previstos na Lei nº 9.613, de 1998, e na Lei nº 13.260, de 2016,
 ou com eles relacionados, caberá ao analista ou autoridade administrativa competente do Registro
 Empresarial responsável pelo procedimento solicitar o envio de comunicação ao COAF.
-§ 1º   As informações colhidas nos proced imentos de identificação do cliente e de exame da
+§ 1º  As informações colhidas nos procedimentos de identificação do cliente e de exame da
 solicitação de arquivamento serão encaminhadas ao Presidente da Junta Comercial para fins de
 fundamentação da comunicação ao COAF.
 § 2º  A comunicação ao COAF deverá ser realizada  no prazo de 24 (vinte e quatro) horas, contadas
-a partir do momento em que tenha sido constatada a existência de indícios dos crimes previstos  caput,
+a partir do momento em que tenha sido constatada a existência de indícios dos crimes previstos caput,
 mediante os procedimentos de monitoramento, seleção e análise, devendo conter informações que
 detalhem a suspeita identificada.
 § 3º  O procedimento previsto no caput não obsta o arquivamento do ato.
 § 4º  O Presidente da Junta Comercial poderá delegar a apreciação das informações e comunicação
 ao COAF à Secretaria-Geral ou à Diretoria de Registro Empresarial.
-Art. 5º   As comunicações de que trata o art. 4º  deverão ser encaminhadas por meio do sítio
-eletrônico do COAF, por meio do  link http://www.fazenda.gov.br/orgaos/coaf, ou posteriores
+Art. 5º  As comunicações de que trata o art. 4º deverão ser encaminhadas por meio do sítio
+eletrônico do COAF, por meio do link http://www.fazenda.gov.br/orgaos/coaf, ou posteriores
 atualizações, de acordo com as instruções ali definidas.
 Parágrafo único.  O conteúdo das informações prestadas ao COAF é protegido por sigilo.
-Art. 6º   A Junta Comercial abster -se-á de cientificar qualquer pessoa, inclu sive àquela implicada,
+Art. 6º  A Junta Comercial abster-se-á de cientificar qualquer pessoa, inclusive àquela implicada,
 sobre as informações encaminhadas ao COAF.
 Art. 7º  Caso não sejam identificadas, durante o ano civil, operações ou propostas a que refere o art.
-3º, não tendo havido portanto qualquer comunicação ao COAF, a Junta Comercial deverá ap resentar ao
-DREI, até o dia 31 de janeiro do ano seguinte, declaração nesses termos, podendo utilizar -se do sítio
+3º, não tendo havido portanto qualquer comunicação ao COAF, a Junta Comercial deverá apresentar ao
+DREI, até o dia 31 de janeiro do ano seguinte, declaração nesses termos, podendo utilizar-se do sítio
 eletrônico do COAF, por meio do qual este Departamento fará o acompanhamento do cumprimento da
 obrigação.
 

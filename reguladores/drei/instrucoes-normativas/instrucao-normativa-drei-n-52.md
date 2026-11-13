@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/INDREI522022atualizada0225.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Instrução Normativa DREI N° 52
@@ -36,19 +36,19 @@ ECONOMIA, no uso das atribuições que lhe confere o art. 4º, incisos II e VII,
 18 de novembro de 1994, e CONSIDERANDO as disposições contidas no art. 5º, inciso XIII, e no
 art. 37, inciso I, da Constituição Federal; no art. 1º, inciso III, art. 8º, inciso III, e no art. 32, inciso
 I, da Lei nº 8.934, 18 de novembro de 1994; no art. 7º, parágrafo único, no art. 32, inciso I, alíneas
-"a" , "b" , "c" e "d" , e art. 63, do Decreto nº 1.800, de 30 de janeiro de 1996; Decreto nº 1.102, de 21
+"a", "b", "c" e "d", e art. 63, do Decreto nº 1.800, de 30 de janeiro de 1996; Decreto nº 1.102, de 21
 de novembro de 1903; Decreto nº 21.981, de 19 de outubro de 1932; e os arts. 22 a 34 da Lei nº
 14.195, de 26 de agosto de 2021;
  CONSIDERANDO o disposto na Lei nº 9.784, de 29 de janeiro de 1999; e na Lei nº 13.105, de 16
 de março de 2015 - Código de Processo Civil, resolve:
 
 1 O art. 19, caput e §§ 1º a 8º, da IN DREI/ME nº 52, de 2022, e alterações promovidas pela IN DREI /ME nº 74, de 2022, estavam
-suspensos, conforme decisão do dia 15 de fevereiro de 2023, proferida nos autos da Ação Civil Pública n° 1055149 -
+suspensos, conforme decisão do dia 15 de fevereiro de 2023, proferida nos autos da Ação Civil Pública n° 1055149-
 12.2022.4.01.3400.
  2 O art. 19 caput e §§ 1º a 8º, da IN DREI/ME nº 52, de 2022, e alterações promovidas pela IN DREI /ME nº 74, de 2022, estão válidos,
-conforme decisão judicial do dia 02 de outubro de 2024, proferida nos autos da Ação Civil Pública n° 1055149 - 12.2022.4.01.3400,
+conforme decisão judicial do dia 02 de outubro de 2024, proferida nos autos da Ação Civil Pública n° 1055149- 12.2022.4.01.3400,
 em que o Juízo da 7ª Vara Federal  Cível da Seção Judiciária do Distrito Federal julgou improcedente o pedido formulado pelas autoras,
-resolvendo o processo com apreciação de mérito, nos termos do art. 487, I, do Código de Processo Civil, revogando  as tutelas de
+resolvendo o processo com apreciação de mérito, nos termos do art. 487, I, do Código de Processo Civil, revogando as tutelas de
 urgência anteriormente concedidas (PARECER DE FORÇA EXECUTÓRIA n. 00519/2024/CORESPNE/PRU1R/PGU/AGU –
 Processo SEI n. 00728.000025/2023-11).
 
@@ -58,7 +58,7 @@ Seção I
 Da matrícula e hipóteses de seu cancelamento
 Art. 1º As empresas de armazém geral, bem como as empresas ou companhias de docas
 que receberem em seu armazém mercadorias de importação e exportação, concessionários de
-entrepostos e trapiches alfandegados, que adquirirem aquela qualidade, deverão solicit ar,
+entrepostos e trapiches alfandegados, que adquirirem aquela qualidade, deverão solicitar,
 mediante requerimento dirigido ao Presidente da Junta Comercial da unidade federativa onde se
 localizar a sua sede, a matrícula de seus administradores ou trapicheiros.
 § 1º Em relação à empresa, deverão ser apresentados os seguintes documentos:
@@ -83,9 +83,9 @@ declarações, do regulamento interno e da tarifa.
 § 1º Na hipótese de empresa de armazém geral, a Junta Comercial deverá verificar
 previamente se o regulamento interno não infringe os preceitos do Decreto nº 1.102, de 21 de
 novembro de 1903.
-§ 2º Tratando -se de empresa ou companhia de docas, que receber em seu armazém
+§ 2º Tratando-se de empresa ou companhia de docas, que receber em seu armazém
 Página 3 de 40 mercadorias de importação e exportação, concessionário de entreposto e trapiche
-alfandegado, a Junta Comercial concederá a matrícula, independentemente da publicaç ão de
+alfandegado, a Junta Comercial concederá a matrícula, independentemente da publicação de
 que trata o caput.
 § 3º As tarifas remuneratórias do depósito e dos outros serviços serão publicadas sempre
 que forem reajustadas.
@@ -150,17 +150,17 @@ ou apostilado.
 documento oficial de identificação ou, em se tratando de estrangeiro, de documento que
 identifique sua autorização de residência em território nacional, preferencialmente a Carteira de
 Registro Nacional Migratório, conforme o disposto no art. 73 do Decreto nº 9.199, de 20 de
-novembro de 2017, admitindo -se, ainda, o Registro Nacional de Estrangeiro (RNE) válido para
+novembro de 2017, admitindo-se, ainda, o Registro Nacional de Estrangeiro (RNE) válido para
 esse fim.
 § 4º O estrangeiro, quando não for detentor de autorização de residência por prazo
 indeterminado, deverá apresentar, periodicamente e em prazo não inferior a 60 (sessenta) dias
-do término de sua permissão de residência, a renovação da autorização através d e novo
+do término de sua permissão de residência, a renovação da autorização através de novo
 documento emitido pela autoridade competente, sob pena de cancelamento da matrícula de
 tradutor e intérprete público.
 
 § 5º O requisito previsto no inciso V do caput deverá ser comprovado por meio de
 autodeclaração, sob as penas de lei.
-Art. 11. O tradutor e intérprete público poderá habilitar -se para um ou mais idiomas
+Art. 11. O tradutor e intérprete público poderá habilitar-se para um ou mais idiomas
 estrangeiros ou, ainda, em Língua Brasileira de Sinais (Libras).
 Parágrafo único. A habilitação em mais de um idioma ou em Libras implica,
 necessariamente, na aprovação em concurso para aferição de aptidão ou em exame nacional ou
@@ -170,10 +170,10 @@ Do concurso para aferição de aptidão
 Art. 12. O concurso para aferição de aptidão será organizado nacionalmente pelo
 Departamento Nacional de Registro Empresarial e Integração (DREI), com apoio das Juntas
 Comerciais dos Estados e do Distrito Federal, nos termos de edital.
-Art. 12. Compreende -se por concurso o exame de aptidão, a ser organizado
+Art. 12. Compreende-se por concurso o exame de aptidão, a ser organizado
 nacionalmente por este Departamento Nacional de Registro Empresarial e Integração, que visa a
-aferir a aptidão de tradutores e intérpretes públicos para realizar as seguintes atividad es
-privativas e oficiais: (Alterado pela Instrução Normativa DREI /ME MP nº 2, de 11 de agosto de
+aferir a aptidão de tradutores e intérpretes públicos para realizar as seguintes atividades
+privativas e oficiais: (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de
 2025)
 I - Traduzir qualquer documento que tenha de ser apresentado em outro idioma perante
 pessoa jurídica de direito público interno ou perante serviços notariais e de registro de notas ou
@@ -186,7 +186,7 @@ não domine a língua portuguesa se não houver agente público apto a realizar 
 exigido por lei específica; (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto
 de 2025)
 IV - Transcrever, traduzir e/ou verter mídia eletrônica de áudio ou vídeo, em outro idioma,
-certificada por ato notarial; e (Alterado pela Instrução Normativa DREI /ME MP nº 2, de 11 de
+certificada por ato notarial; e (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de
 agosto de 2025)
 V - Realizar, quando solicitados pela autoridade competente, os exames necessários à
 verificação da exatidão de qualquer tradução que tenha sido arguida como incompleta,
@@ -202,8 +202,8 @@ aptidão e matriculado na Junta Comercial, realizará a tradução oficial dos i
 para a Língua Portuguesa e vice-versa, e de Libras para a Língua Portuguesa e vice-versa.
  §3º O concurso/exame de aptidão poderá ser realizado total ou parcialmente à distância,
 de forma online ou por plataforma eletrônica com acesso individual seguro e em ambiente
-controlado, desde que garantida a igualdade de acesso às ferramentas e aos disp ositivos do
-ambiente virtual, conforme especificações inseridas no edital.  (Incluído pela Instrução
+controlado, desde que garantida a igualdade de acesso às ferramentas e aos dispositivos do
+ambiente virtual, conforme especificações inseridas no edital. (Incluído pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 Art. 13. O concurso para aferição de aptidão de que trata o art. 12 desta Instrução
 Normativa:
@@ -212,7 +212,7 @@ avaliar a compreensão das sutilezas e das dificuldades de cada um dos idiomas; 
 II - o edital deverá ser publicado com a antecedência mínima de noventa dias da data de
 sua realização, no sítio eletrônico do DREI e das Juntas Comerciais, contendo, pelo menos:
 a) -  indicação dos respectivos idiomas e de Libras;
-Art. 13. O concurso/exame de aptidão de que trata o art. 12 desta Instrução Normativa :
+Art. 13. O concurso/exame de aptidão de que trata o art. 12 desta Instrução Normativa:
 (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 I – Incluirá prova escrita e prova oral, com simulação de interpretação consecutiva, para
 avaliar a compreensão das sutilezas e das dificuldades de cada um dos idiomas; e (Alterado pela
@@ -220,7 +220,7 @@ Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 II – O edital deverá ser publicado no sítio eletrônico do DREI, das Juntas Comerciais e da
 instituição responsável pela realização do concurso/exame de aptidão, contendo, ao menos:
 (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
-a) a indicação dos idiomas estrangeiros e Língua Brasileira de Sinais (Libras);  (Alterado
+a) a indicação dos idiomas estrangeiros e Língua Brasileira de Sinais (Libras); (Alterado
 pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 b) datas de abertura e encerramento, local e horário das inscrições;
 c) requisitos de inscrição no concurso, bem como da respectiva documentação
@@ -237,10 +237,10 @@ g) critérios de julgamento das provas;
 h) critérios de aprovação;
 i) condições para interposição de recursos;
 j) critérios para a escolha do local de matrícula, em caso de aprovação;
-j) critérios para a escolha do local de matrícula, em caso de aprovação, ressaltando -se
+j) critérios para a escolha do local de matrícula, em caso de aprovação, ressaltando-se
 que o tradutor e intérprete público habilitado pode atuar em qualquer Estado e no Distrito
 Federal, mantendo sua inscrição apenas no local de seu domicílio ou de atuação mais frequente,
-consoante disposto no art. 24 da Lei 14.195 de 2021;  (Alterado pela Instrução Normativa DREI
+consoante disposto no art. 24 da Lei 14.195 de 2021; (Alterado pela Instrução Normativa DREI
 /MEMP nº 2, de 11 de agosto de 2025)
 k) aspectos gerais sobre a nomeação, comprovação dos requisitos, assinatura do termo
 de compromisso e matrícula; e
@@ -250,10 +250,10 @@ Parágrafo único. Quando a estruturação do concurso assim o exigir, as datas,
 horários de realização das provas poderão constar de editais próprios.
 
 Parágrafo único. Quando a estruturação do concurso/exame de aptidão assim o exigir, as
-datas, locais e horários de realização das provas poderão constar de editais próprios.  (Alterado
+datas, locais e horários de realização das provas poderão constar de editais próprios. (Alterado
 pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
-Art. 14. A documentação comprobatória dos  requisitos legais para o exercício da
+Art. 14. A documentação comprobatória dos requisitos legais para o exercício da
 profissão, deve ser exigida após a nomeação dos candidatos aprovados e antes da matrícula.
 § 1º O candidato, no ato da inscrição, pode declarar, sob as penas da lei, a sua situação
 em relação a cada item especificado no art. 10 e que, para sua matrícula, assume o compromisso
@@ -264,12 +264,12 @@ decorrentes da inscrição, não tendo o candidato direito à devolução da tax
 
 Art. 14. A documentação comprobatória dos requisitos legais para o exercício da
 profissão, nos termos do artigo 10 desta Instrução Normativa, deve ser apresentada na Junta
-Comercial, quando da realização do pedido de matrícula.  (Alterado pela Instrução Normativa
+Comercial, quando da realização do pedido de matrícula. (Alterado pela Instrução Normativa
 DREI /MEMP nº 2, de 11 de agosto de 2025)
 
 §1º Ao se inscrever no exame de aptidão, o candidato, sob as penas da lei, deve declarar
 ciência de sua situação quanto aos itens do art. 10 e se comprometer a comprovar tais condições
-com documentos hábeis para sua matrícula na Junta Comercial.  (Alterado pela Instrução
+com documentos hábeis para sua matrícula na Junta Comercial. (Alterado pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
 §2º Constatada a inexatidão das informações ou a irregularidade dos documentos,
@@ -304,7 +304,7 @@ a) Versão de um trecho de no mínimo 30 (trinta) linhas para o idioma estrangei
 (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 b) Tradução para o português de um trecho de tamanho similar, preferencialmente de
 textos jurídicos, acadêmicos, contábeis, cartas rogatórias, procurações, cartas partidas,
-escrituras notariais, testamentos ou atos de registro público de empresas, incluind o seus
+escrituras notariais, testamentos ou atos de registro público de empresas, incluindo seus
 estatutos e certificados de incorporação de sociedades anônimas. (Incluído pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 II - Prova oral, consistindo em leitura, interpretação e versão, bem como em palestra, com
@@ -312,7 +312,7 @@ arguição no idioma estrangeiro e no vernáculo, que permita verificar se o can
 necessário conhecimento e compreensão das sutilezas e dificuldades de cada uma das línguas.
 (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §2º A habilitação em Língua Brasileira de Sinais (Libras) requer tradução e interpretação
-da Língua Portuguesa para Libras, e vice-versa: (Incluído pela Instrução Normativa DREI /ME MP
+da Língua Portuguesa para Libras, e vice-versa: (Incluído pela Instrução Normativa DREI /MEMP
 nº 2, de 11 de agosto de 2025)
 I - Prova objetiva:
 a) Elaborada por banca examinadora com amplo conhecimento em Libras, composta por
@@ -320,7 +320,7 @@ docentes surdos e linguistas de instituições de educação superior, contendo 
 de múltipla escolha que abordam a compreensão da Libras, legislação específica e ética
 profissional; (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 b) Uma equipe designada elaborará e revisará a prova objetiva em Língua Portuguesa,
-adotando, em seguida, os procedimentos para filmagem em Vídeo -Libras, com ênfase na
+adotando, em seguida, os procedimentos para filmagem em Vídeo-Libras, com ênfase na
 compreensão em Libras; e (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto
 de 2025)
 c) Prova de caráter eliminatório e comum a todos os candidatos, a prova objetiva em
@@ -333,12 +333,12 @@ Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
 b) Serão produzidos 10 (dez) textos em Língua Portuguesa e 10 (dez) textos em Libras
 correspondentes ao nível do exame, sendo que os textos em Libras devem ser definidos por
-tradutores que estabeleçam os critérios técnicos necessários e, no caso dos textos  em Língua
+tradutores que estabeleçam os critérios técnicos necessários e, no caso dos textos em Língua
 Portuguesa, um locutor deve realizar a gravação da leitura em áudio/vídeo; (Incluído pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 c) Cada candidato receberá dois textos em um vídeo com uma introdução explicando o
 formato da prova e informando sobre o tipo de tradução a ser realizada, na seguinte sequência:
-o candidato fará a tradução simultânea do texto em Língua Portuguesa para a Li bras e, em
+o candidato fará a tradução simultânea do texto em Língua Portuguesa para a Libras e, em
 seguida, após uma nova introdução, fará a tradução da Libras para a Língua Portuguesa; e
 (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 d) A prova será filmada, gravada e, posteriormente, encaminhada para a avaliação da
@@ -361,7 +361,7 @@ dos atos decisórios da Junta Comercial.
 
 Art. 16. O processo de matrícula, que resultará na assinatura de portaria pelo Presidente
 da respectiva Junta Comercial, poderá ser iniciado após a divulgação dos nomes dos candidatos
-aprovados no concurso/exame de aptidão e que atendam aos requisitos para  o exercício da
+aprovados no concurso/exame de aptidão e que atendam aos requisitos para o exercício da
 profissão de tradutor e intérprete público. (Alterado pela Instrução Normativa DREI /MEMP nº 2,
 de 11 de agosto de 2025)
 §1º A aprovação em concurso/exame de aptidão ou em exame nacional ou internacional
@@ -374,7 +374,7 @@ dos atos decisórios da Junta Comercial. (Alterado pela Instrução Normativa DR
 11 de agosto de 2025)
 §3º O deferimento do pedido de matrícula deverá, no prazo de 10 dias úteis, ser informado
 pela respectiva Junta Comercial ao Departamento Nacional de Registro Empresarial e
-Integração, o qual divulgará os dados do tradutor e intérprete público no respectiv o site e
+Integração, o qual divulgará os dados do tradutor e intérprete público no respectivo site e
 cadastros nacionais informatizados, nos termos da legislação em vigor. (Incluído pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
@@ -396,7 +396,7 @@ local de seu domicílio ou de atuação mais frequente; (Alterado pela Instruç�
 /MEMP nº 2, de 11 de agosto de 2025)
 II - Certificado de aprovação no concurso para aferição de aptidão de tradutor e intérprete
 público, emitido em formato eletrônico e assinado digitalmente por representante legalmente
-constituído pela banca avaliadora, em conformidade com a lista de aprova dos divulgada,
+constituído pela banca avaliadora, em conformidade com a lista de aprovados divulgada,
 garantindo-se os mecanismos de verificação de autenticidade do documento expedido; (Incluído
 pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 III - Ou Certificações de proficiência, com grau de excelência em Língua Portuguesa e no
@@ -415,23 +415,23 @@ assinar o termo de compromisso, sob pena de perda do direito, no prazo máximo d
 dias. (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §2º. No caso de exigência, o tradutor e intérprete público, após ser notificado das
 inconsistências apontadas, terá o prazo de 30 (trinta) dias para apresentar a complementação da
-documentação na respectiva Junta Comercial, observando -se o formato sistêmic o disponível.
+documentação na respectiva Junta Comercial, observando-se o formato sistêmico disponível.
 (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §3º. No caso de não concordância com a exigência exarada, o tradutor e intérprete
 público, após ser notificado, terá o prazo de 30 (trinta) dias úteis para apresentar pedido de
-reconsideração, a ser endereçado à mesma autoridade prolatora da decisão.  (Incluído pela
+reconsideração, a ser endereçado à mesma autoridade prolatora da decisão. (Incluído pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §4º. No caso de indeferimento, ou decisão final de não concessão da matrícula, o tradutor
 e intérprete público, após ser notificado da decisão, terá o prazo de 10 dias úteis para interpor
-recurso ao Plenário. (Incluído pela Instrução Normativa DREI /ME MP nº 2, de 11 de agosto de
+recurso ao Plenário. (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de
 2025)
 §5º. Do recurso ao Plenário, cabe recurso ao DREI, como última instância administrativa,
 a ser interposto no prazo de 10 dias úteis, após notificação da decisão, mediante pagamento do
-preço público devido. (Incluído pela Instrução Normativa DREI /ME MP nº 2, de 11 de agosto de
+preço público devido. (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de
 2025)
 §6º. Os documentos necessários para dar cumprimento ao presente artigo serão
 assinados eletronicamente com o uso de certificados digitais, preferencialmente, por intermédio
-da assinatura GOV .BR, assegurando-se as formalidades legais necessárias.  (Incluído pela
+da assinatura GOV.BR, assegurando-se as formalidades legais necessárias. (Incluído pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
 Art. 18. Após a assinatura do termo de compromisso, a Junta Comercial, por portaria de
@@ -462,11 +462,11 @@ internacional de proficiência, será exigida a apresentação de Certificado de
 Língua Portuguesa para Estrangeiros (CELPEBras) em nível Avançado Superior.
 § 3º Salvo as disposições dos §§ 1º e 2º desse artigo, os demais interessados deverão
 comprovar, obrigatoriamente, nível de proficiência no idioma do país de destino igual ou
-equivalente ao nível C2 do Common European Framework of Reference for Languages ( Quadro
+equivalente ao nível C2 do Common European Framework of Reference for Languages (Quadro
 Europeu Comum de Referência para Línguas).
 § 3º Para os fins do caput e sem prejuízo das disposições do § 2º desse artigo, quando se
 tratar de pedido de habilitação como tradutor e intérprete público de idioma estrangeiro, os
-interessados deverão comprovar, obrigatoriamente, que obtiveram grau de e xcelência em
+interessados deverão comprovar, obrigatoriamente, que obtiveram grau de excelência em
 exames nacionais ou internacionais de proficiência. (Alterado pela Instrução Normativa DREI /ME
 nº 74, de 4 de outubro de 2022)
 § 4º Será considerado apto a requerer a matrícula mencionada no caput, o candidato que
@@ -490,7 +490,7 @@ realizada de ofício, sempre que necessário, ou através de solicitação pelo 
 
 do preenchimento de formulário disponível no mesmo portal. (Incluído pela Instrução Normativa
 DREI /ME nº 74, de 4 de outubro de 2022)
-§ 5º Será aceito exame de proficiência realizado de forma on -line/remota, contudo, a
+§ 5º Será aceito exame de proficiência realizado de forma on-line/remota, contudo, a
 instituição certificadora deverá confirmar que este é equivalente ao teste presencial sem
 qualquer prejuízo para a qualidade do exame. (Revogado pela Instrução Normativa DREI /ME nº
 74, de 4 de outubro de 2022)
@@ -503,21 +503,21 @@ para o exercício da função de tradutor e intérprete público após a concess
 terá prazo indefinido.
 § 8º Os certificados de proficiência poderão ser apresentados em formato físico ou,
 ainda, em formato digital que contenha o devido mecanismo de verificação de sua autenticidade,
-sem quaisquer outras formalidades, desde que tenham sido emitidos pela instit uição
+sem quaisquer outras formalidades, desde que tenham sido emitidos pela instituição
 certificadora ou pela instituição intermediária do exame.
 § 8º Os certificados de proficiência poderão ser apresentados em formato físico, desde
 que apresentado de forma legível (claro e nítido) ou, ainda, em formato digital que contenha o
-devido mecanismo de verificação de sua autenticidade, sem quaisquer outras  formalidades,
-desde que tenham sido emitidos pela instituição certificadora.  (Alterado pela Instrução
+devido mecanismo de verificação de sua autenticidade, sem quaisquer outras formalidades,
+desde que tenham sido emitidos pela instituição certificadora. (Alterado pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
-Art. 19 -A. O DREI deverá publicar, em seu sítio eletrônico, tabela contendo a lista dos
+Art. 19-A. O DREI deverá publicar, em seu sítio eletrônico, tabela contendo a lista dos
 exames de proficiência que atendam aos requisitos previstos no artigo 19. (Incluído pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 § 1º. A atualização da tabela deverá ser realizada de ofício, sempre que necessário, ou por
 meio de solicitação pelo interessado, mediante o preenchimento de formulário disponível no
 portal do DREI, e devidamente acompanhado dos documentos elencados na “Lista de exigências
-para inclusão dos certificados de proficiência no Anexo I desta Instrução Normativa” , conforme
+para inclusão dos certificados de proficiência no Anexo I desta Instrução Normativa”, conforme
 Anexo II. (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §2º A Junta Comercial, ao receber e validar os dados de certificado de proficiência que
 não constem do rol exemplificativo, deverá enviar solicitação ao DREI para que seja incluído na
@@ -529,8 +529,8 @@ conforme as suas especificidades e, se não observarem os dispositivos do art. 1
 Normativa. (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §4º. Para que a análise e inclusão do certificado de proficiência, enviada pelo interessado,
 seja realizada pelo DREI, faz-se necessário que a Junta Comercial tenha se manifestado acerca
-da impossibilidade de validar os dados da documentação apresentada, j untamente com a
-Declaração de Autenticidade Documental e Veracidade das Informações prestadas . (Incluído
+da impossibilidade de validar os dados da documentação apresentada, juntamente com a
+Declaração de Autenticidade Documental e Veracidade das Informações prestadas. (Incluído
 pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
 Art. 20. O pedido de matrícula com fundamento no art. 19 deverá ser instruído com:
@@ -549,7 +549,7 @@ assinatura do termo de compromisso, que deverá ocorrer no prazo máximo de trin
 corridos, a partir do deferimento do pedido.
 Parágrafo único. Após a assinatura do termo de compromisso, a Junta Comercial, por
 portaria de seu Presidente, publicada nos termos do § 2º do art. 16, procederá à matrícula e
-expedirá a Carteira de Exercício Profissional, mediante o pagamento do preço dev ido e
+expedirá a Carteira de Exercício Profissional, mediante o pagamento do preço devido e
 atendimento dos aspectos formais para sua expedição.
 
 Seção III
@@ -563,9 +563,9 @@ os tradutores e intérpretes públicos matriculados em sua unidade da federaçã
 idiomas.
 § 1º As Juntas Comerciais deverão manter em seus sítios eletrônicos a relação atualizada
 de todos os tradutores e intérpretes públicos matriculados, organizados por idiomas, devendo
-referidas informações serem repassadas, de forma tempestiva e sempre que r equisitada, ao
+referidas informações serem repassadas, de forma tempestiva e sempre que requisitada, ao
 Departamento Nacional de Registro Empresarial e Integração, para que proceda às divulgações
-necessárias no ambiente nacional. (Alterado pela Instrução Normativa DREI /ME MP nº 2, de 11
+necessárias no ambiente nacional. (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11
 de agosto de 2025)
 § 2º O DREI e a Federação Nacional das Juntas Comerciais (FENAJU) farão constar, em
 seus sítios eletrônicos, a relação de todos os tradutores e intérpretes públicos do país, contendo,
@@ -574,14 +574,14 @@ no mínimo:
 intérpretes públicos, que tenham alcance nacional, poderão publicar em seus sítios eletrônicos
 a lista de profissionais habilitados, desde que requeiram autorização ao Departamento Nacional
 de Registo Empresarial e Integração, com a ciência das Juntas Comerciais, devendo a publicação
-Instrução Normativa 2 (52868095) SEI 19687.108878/2023 -43 / pg. 4 conter as seguintes
+Instrução Normativa 2 (52868095) SEI 19687.108878/2023-43 / pg. 4 conter as seguintes
 informações cadastrais: (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto
 de 2025)
 I - nome e número de matrícula na Junta Comercial;
 II - forma de habilitação (concurso ou exame de proficiência);
 III - idioma(s) que encontra(m)-se habilitado(s); e
 IV - e-mail.
-IV – endereço, telefone e e -mail utilizados para o exercício profissional . (Alterado pela
+IV – endereço, telefone e e-mail utilizados para o exercício profissional. (Alterado pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 § 3º Os profissionais de que trata o caput observarão as diretrizes da Junta Comercial na
 qual estiverem matriculados.
@@ -593,14 +593,14 @@ I - mudança de domicílio para outro Estado; ou
 
 II - atuação de forma mais frequente em determinada unidade da federação, em
 detrimento do local de seu domicílio.
-§ 1º A atuação de forma mais frequente caracteriza -se quando a maioria das atividades
+§ 1º A atuação de forma mais frequente caracteriza-se quando a maioria das atividades
 privativas passa a ser exercida em unidade da federação diversa do domicílio.
 § 2º À vista do requerimento e da carteira de exercício profissional, a Junta Comercial na
 qual o tradutor e intérprete público estiver matriculado oficiará à Junta Comercial de destino,
 informando a situação funcional e indicando:
 § 2º À vista do requerimento e da necessidade de readequação da carteira de exercício
 profissional, a Junta Comercial na qual o tradutor e intérprete público estiver matriculado oficiará
-à Junta Comercial de destino, informando a situação funcional e indic ando: (Alterado pela
+à Junta Comercial de destino, informando a situação funcional e indicando: (Alterado pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 I - no caso de alteração de domicílio, o novo endereço profissional ou residencial; ou
 II - no caso de local de atuação mais frequente, a unidade da federação onde o
@@ -619,7 +619,7 @@ sua decisão à Junta Comercial que detiver o respectivo processo de transferên
 cancelamento e restauração da matrícula, se for o caso.
 § 5º Havendo desistência da transferência, o tradutor e intérprete público comunicará a
 sua decisão à Junta Comercial que detiver o respectivo processo de transferência, para o seu
-cancelamento e restauração da matrícula, se for o caso, devendo a nova cart eira de exercício
+cancelamento e restauração da matrícula, se for o caso, devendo a nova carteira de exercício
 profissional, se já emitida, ser entregue à Junta Comercial, para anulação e posterior destruição.
 (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 § 6º A entrega à Junta Comercial do comprovante de pagamento do preço devido, a que
@@ -633,7 +633,7 @@ terceiro e, consequente cancelamento da matrícula.
 Art. 24-A. Presumem-se fiéis e exatas as traduções realizadas por tradutor e intérprete
 público. (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 § 1º Nenhuma tradução terá fé pública se não for realizada por tradutor e intérprete
-público, exceto as traduções: (Incluído pela Instrução Normativa DREI /ME MP nº 2, de 11 de
+público, exceto as traduções: (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de
 agosto de 2025)
 I - Feitas por corretores de navios, em sua área de atuação; (Incluído pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
@@ -652,7 +652,7 @@ I - A obrigação de o documento na língua original acompanhar a sua respectiva
 e (Incluído pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 II - A possibilidade de ente público ou qualquer interessado impugnar, nos termos
 estabelecidos nas normas de processo administrativo ou de processo judicial aplicáveis ao caso
-concreto, a fidedignidade ou a exatidão da tradução  (Incluído pela Instrução Normativa DREI
+concreto, a fidedignidade ou a exatidão da tradução (Incluído pela Instrução Normativa DREI
 /MEMP nº 2, de 11 de agosto de 2025)
 
 Art. 25. O tradutor e intérprete público poderá se organizar na forma de empresário
@@ -667,7 +667,7 @@ tradutor e intérprete público.
 
 Art. 25. O tradutor e intérprete público poderá se organizar na forma de sociedade
 unipessoal ou, por similitude na estruturação jurídica, como empresário individual, desde que o
-objeto se restrinja às atividades de tradução, versão, transcrição e interpre tação pública.
+objeto se restrinja às atividades de tradução, versão, transcrição e interpretação pública.
 (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 § 1º Ainda que se organize sob a forma pessoa jurídica, como sociedade unipessoal ou
 empresário individual, o tradutor e intérprete público fica responsável pessoalmente pelas
@@ -677,12 +677,12 @@ Lei nº 14.195, de 26 de agosto de 2021. (Alterado pela Instrução Normativa DR
 11 de agosto de 2025)
 §2º. Nada impede que o profissional constitua outras estruturas empresárias, com
 atividades distintas daquelas indicadas no “caput” deste artigo, desde que tais estruturas
-estejam dissociadas daquela organizada especificamente para as atividades privativas  da
+estejam dissociadas daquela organizada especificamente para as atividades privativas da
 profissão de tradutor e intérprete público, e não acarretem conflito com o exercício regular da
 profissão. (Alterado pela Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §3º. A Junta Comercial deverá inserir os dados relativos à pessoa jurídica e ao empresário
 individual, organizados para o exercício da atividade de tradutor e intérprete público, nos termos
-do “caput” deste artigo, no respectivo cadastro do tradutor e inté rprete público. (Alterado pela
+do “caput” deste artigo, no respectivo cadastro do tradutor e intérprete público. (Alterado pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 
 Art. 26. São atividades privativas do tradutor e intérprete público:
@@ -705,7 +705,7 @@ Art. 26. As atividades privativas do tradutor e intérprete público são aquela
 nos incisos do “caput” do artigo 12 desta Instrução Normativa. (Alterado pela Instrução
 Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 §1º. Para a realização das atividades privativas de tradutor e intérprete público, em
-situação de excepcionalidade, poderão se consideradas as hipóteses a seguir : (Alterado pela
+situação de excepcionalidade, poderão se consideradas as hipóteses a seguir: (Alterado pela
 Instrução Normativa DREI /MEMP nº 2, de 11 de agosto de 2025)
 I - a designação, pelo Presidente da Junta Comercial, de tradutor e intérprete público ad
 hoc no caso de inexistência, impedimento ou indisponibilidade, em todas as unidades da
@@ -742,7 +742,7 @@ compromisso.
 § 4º A Junta Comercial não poderá publicar a relação de tradutores e intérpretes ad hoc.
 
 Art. 28. A nenhum tradutor e intérprete público é permitido abandonar o exercício do seu
-ofício, nem mesmo deixá -lo temporariamente, por período superior a 60 (sessenta) dias, sem
+ofício, nem mesmo deixá-lo temporariamente, por período superior a 60 (sessenta) dias, sem
 prévia licença da Junta Comercial a que estiver matriculado.
 § 1º A licença será concedida pela Junta Comercial, mediante simples requerimento do
 tradutor e intérprete público e sem cobrança de qualquer valor.
@@ -841,7 +841,7 @@ admitidas.
 
 Art. 38. A denúncia sobre irregularidade praticada pelo tradutor e intérprete público no
 exercício de sua profissão será dirigida ao Presidente da Junta Comercial, devidamente
-formalizada por escrito e assinada pelo denunciante, com sua qualificação comple ta,
+formalizada por escrito e assinada pelo denunciante, com sua qualificação completa,
 acompanhada das provas disponíveis.
 Parágrafo único. No caso de denúncia anônima, a Junta Comercial poderá instaurar o
 processo administrativo de ofício.
@@ -871,7 +871,7 @@ dias corridos, relatório circunstanciado sobre os fatos e encaminhará o proces
 Procuradoria ou órgão jurídico da Junta Comercial.
 § 7º A Procuradoria ou órgão jurídico da Junta Comercial terá o prazo de 3 (três) dias úteis,
 a contar do recebimento do processo, para requerer diligências adicionais, que deverão ser
-concluídas no prazo de 10 (dez) dias úteis. § 8º Após concluídas as dil igências adicionais, se
+concluídas no prazo de 10 (dez) dias úteis. § 8º Após concluídas as diligências adicionais, se
 houver, o denunciado será intimado para apresentar, se assim entender necessário,
 complementação de sua defesa no prazo de 10 (dez) dias corridos.
 § 9º Apresentada a complementação da defesa ou transcorrido o prazo constante do § 8º,
@@ -933,7 +933,7 @@ infração permanente ou continuada, do dia em que tiver cessado.
 pelo prazo previsto na lei penal.
 § 3º Incide a prescrição intercorrente no processo administrativo paralisado por mais de
 3 (três) anos, pendente de julgamento ou despacho, cujos autos serão arquivados de ofício ou
-mediante requerimento da parte interessada, sem prejuízo da apuração da re sponsabilidade
+mediante requerimento da parte interessada, sem prejuízo da apuração da responsabilidade
 funcional decorrente da paralisação, se for o caso.
 
 CAPÍTULO III
@@ -948,11 +948,11 @@ Comercial.
 ordem de data da concessão.
 § 3º A concessão da matrícula dependerá da habilitação e da realização da caução.
 
-Art. 47. O processo de habilitação inicia -se com a apresentação de requerimento de
+Art. 47. O processo de habilitação inicia-se com a apresentação de requerimento de
 matrícula pelo interessado, mediante o pagamento do preço público devido, acompanhado da
 documentação que comprove os seguintes requisitos:
 
-Art. 47. O processo de habilitação inicia -se com a apresentação de requerimento de
+Art. 47. O processo de habilitação inicia-se com a apresentação de requerimento de
 matrícula pelo interessado, mediante o pagamento do preço público devido, acompanhado da
 documentação que comprove os seguintes requisitos: (Redação dada pela Instrução Normativa
 DREI /ME nº 88, de 23 de dezembro de 2022.)
@@ -993,7 +993,7 @@ banco oficial, em conta poupança ou caução, desde que esteja devidamente bloq
 disposição da Junta Comercial.
 § 2º O levantamento da caução será efetuado, sempre, a requerimento da Junta
 Comercial que houver matriculado o leiloeiro.
-§ 3º A fiança bancária ou o seguro garantia pode  ser contratados junto a instituição
+§ 3º A fiança bancária ou o seguro garantia pode ser contratados junto a instituição
 privada e, apenas no que couber, obedecerão, aos mesmos critérios aplicáveis da caução em
 dinheiro.
 § 4º A junta comercial deverá figurar na apólice de fiança ou seguro como segurada e o
@@ -1020,7 +1020,7 @@ atenda às finalidades legais de garantia.
 Comercial, sujeita o omisso a regular processo administrativo de destituição.
 § 3º Em se tratando de licitação para a escolha do leiloeiro público oficial, a critério da
 autoridade competente, em cada caso, e desde que prevista no instrumento convocatório,
-poderá ser exigida, em razão do valor dos bens a serem leiloados, prestação d e garantia
+poderá ser exigida, em razão do valor dos bens a serem leiloados, prestação de garantia
 complementar na prestação do serviço de leiloeiro.
 § 4º A caução prestada pelo leiloeiro a uma Junta Comercial não aproveita às demais.
 
@@ -1046,7 +1046,7 @@ responsabilidades de que trata este artigo será entregue a quem de direito o sa
 restante.
 § 2º Findo o prazo mencionado, não se apurando qualquer alcance por dívidas ou multa
 oriundas da profissão, ou não tendo havido reclamação alguma fundada na falta de liquidação
-definitiva de atos praticados pelo leiloeiro no exercício de suas funções, a Ju nta Comercial
+definitiva de atos praticados pelo leiloeiro no exercício de suas funções, a Junta Comercial
 expedirá Certidão de Quitação, com que ficará exonerada e livre a caução para o seu
 levantamento.
 
@@ -1059,11 +1059,11 @@ em que se encontrar matriculado.
 Parágrafo único. O leiloeiro deverá utilizar a matrícula válida naquela circunscrição.
 
 Art. 57. É pessoal o exercício das funções de leiloeiro em pregões e hastas públicas, não
-podendo exercê-las por intermédio de pessoa jurídica e nem delegá -las, senão por moléstia ou
-impedimento ocasional em seu preposto, cabendo ao leiloeiro comunicar o f ato à Junta
+podendo exercê-las por intermédio de pessoa jurídica e nem delegá-las, senão por moléstia ou
+impedimento ocasional em seu preposto, cabendo ao leiloeiro comunicar o fato à Junta
 Comercial.
 
-Art. 58. É facultado ao leiloeiro registrar -se como empresário individual, em uma das
+Art. 58. É facultado ao leiloeiro registrar-se como empresário individual, em uma das
 Juntas Comerciais onde estiver matriculado, com possibilidade de abertura de filiais nas demais
 em que estiver matriculado.
 § 1º O objeto será restrito à atividade de leiloaria, o que não o isenta do cumprimento das
@@ -1079,7 +1079,7 @@ se o tiver.
 Parágrafo único. O afastamento do leiloeiro do exercício da profissão, por qualquer outro
 motivo, será sempre justificado.
 
-Art. 60. As atividades -meio e/ou acessórias do leiloeiro, tais como apoio, guarda,
+Art. 60. As atividades-meio e/ou acessórias do leiloeiro, tais como apoio, guarda,
 logística, divulgação e organização da leiloaria poderão ser exercidas por empresas
 organizadoras de leilão, inclusive por meio de plataforma digital ou eletrônica, o que não afasta
 a responsabilidade pessoal e direta do leiloeiro no exercício de suas funções em pregões e hastas
@@ -1105,7 +1105,7 @@ Art. 65. Deferido o cancelamento, deverá a Junta Comercial publicar a decisão 
 de edital por uma única vez no órgão de divulgação dos atos decisórios da Junta Comercial.
 Parágrafo único. Após a data da publicação do edital mencionado no caput, a informação
 do cancelamento da matrícula deverá constar no sítio eletrônico da Junta Comercial por 120
-(cento e vinte) dias, com o escopo de oportunizar que os interessados e eventu ais credores
+(cento e vinte) dias, com o escopo de oportunizar que os interessados e eventuais credores
 apresentem suas reclamações.
 
 Art. 66. O cancelamento por destituição se dará mediante processo administrativo, nos
@@ -1115,10 +1115,10 @@ Seção V
 Do preposto
 
 Art. 67. O preposto indicado pelo leiloeiro deverá atender aos requisitos do art. 47, sendo
-considerado mandatário legal do preponente para o efeito de substituí -lo e de praticar, sob a
+considerado mandatário legal do preponente para o efeito de substituí-lo e de praticar, sob a
 responsabilidade daquele, os atos que lhe forem inerentes.
 
-Art. 68. A dispensa do preposto dar -se-á mediante simples comunicação do leiloeiro à
+Art. 68. A dispensa do preposto dar-se-á mediante simples comunicação do leiloeiro à
 Junta Comercial, acompanhada da indicação do respectivo substituto, se for o caso, ou a pedido
 do preposto.
 
@@ -1144,7 +1144,7 @@ interessado na realização de leilões, sejam estas pessoas de direito público
 a relação completa dos leiloeiros oficiais devidamente matriculados.
 § 1º A relação de leiloeiros, referida no caput deste artigo, tem finalidade meramente
 informativa do contingente de profissionais matriculados na Junta Comercial.
-§ 2º A forma de contratação do leiloeiro, seja por meio  de procedimento licitatório ou
+§ 2º A forma de contratação do leiloeiro, seja por meio de procedimento licitatório ou
 outro critério, caberá aos entes interessados.
 § 3º Nas alienações judiciais e de bens particulares, a escolha dos leiloeiros será de
 exclusiva confiança dos interessados.
@@ -1173,14 +1173,14 @@ ou digitais:
 a) diário de entrada;
 b) diário de saída; e
 c) contas correntes;
-II - Além dos  livros citados no inciso I, deverão manter, sem a necessidade de
+II - Além dos livros citados no inciso I, deverão manter, sem a necessidade de
 autenticação, os seguintes livros:
 a) protocolo;
 b) diário de leilões;
 c) livro-talão, que poderá ser apresentado em formulário contínuo; e
 d) documentos fiscais exigidos pela legislação tributária;
 III - manter, sem emendas ou rasuras, os livros mencionados nos incisos anteriores, que
-terão número de ordem, e submetê -los à fiscalização da Junta Comercial a que estiver
+terão número de ordem, e submetê-los à fiscalização da Junta Comercial a que estiver
 matriculado, quando esta julgar conveniente, ou, necessariamente, para o efeito de
 encerramento;
 IV - cumprir as instruções ou ordens declaradas pelo comitente;
@@ -1204,7 +1204,7 @@ Comercial;
 
 XI - fazer conhecidas, antes de começarem o ato do leilão, as condições da venda, a forma
 do pagamento e da entrega dos objetos que vão ser apregoados, o estado e qualidade desses
-objetos, principalmente quando há ônus sobre o bem que pela simples intuição , não puderem
+objetos, principalmente quando há ônus sobre o bem que pela simples intuição, não puderem
 ser conhecidos facilmente, e bem assim o seu peso, medida ou quantidade, quando o respectivo
 valor estiver adstrito a essas indicações, sob pena de incorrerem na responsabilidade que no
 caso couber por fraude, dolo, simulação ou omissão culposa;
@@ -1218,7 +1218,7 @@ XV - colocar, à disposição dos comitentes, no prazo de até 10 (dez) dias, as
 obtidas nos leilões extrajudiciais realizados;
 XVI - comunicar, por escrito, à Junta Comercial, os impedimentos e os afastamentos para
 tratamento de saúde, anexando atestado médico;
-XVII - fornecer às autoridades judiciais  ou administrativas as informações  que
+XVII - fornecer às autoridades judiciais ou administrativas as informações que
 requisitarem;
 XVIII - assumir a posição de consignatário ou mandatário, na ausência do dono dos
 efeitos que tiverem que ser vendidos;
@@ -1276,10 +1276,10 @@ a) delegar a terceiros os pregões, ressalvadas as hipóteses do art. 57 e 60; e
 b) realizar mais de dois leilões no mesmo dia em locais distantes entre si, exceto quando
 se trate de imóveis juntos ou de prédios e móveis existentes no mesmo prédio, considerando-se,
 nestes casos, como um só leilão os respectivos pregões.
-Parágrafo único. Não está sujeito à penalidade de que trata alínea "a" , do inciso I, do art.
+Parágrafo único. Não está sujeito à penalidade de que trata alínea "a", do inciso I, do art.
 75 dessa instrução normativa, o leiloeiro que vier integrar sociedade cujo objeto social seja
 exclusivamente a gestão de bens próprios ou a participação em capital social de outras pessoas
-jurídicas (holding pura). " (NR) (Redação dada pela Instrução Normativa DREI /ME nº 88, de 23 de
+jurídicas (holding pura)." (NR) (Redação dada pela Instrução Normativa DREI /ME nº 88, de 23 de
 dezembro de 2022.)
 
 Art. 76. Está impedido de exercer a profissão de leiloeiro:
@@ -1293,7 +1293,7 @@ participar da administração e/o de fiscalização em sociedade de qualquer esp
 alheio nome;
 II - aquele que vier a exercer atividade empresária cujo objeto exceda a leiloaria, ou
 participar da administração e/o de fiscalização em sociedade de qualquer espécie, no seu ou em
-alheio nome, exceto as cujo objeto social seja exclusivamente a gestão pat rimonial de bens
+alheio nome, exceto as cujo objeto social seja exclusivamente a gestão patrimonial de bens
 próprios ou a participação em capital social ou ações de outras pessoas jurídicas (holding pura).
 (Redação dada pela Instrução Normativa DREI /ME nº 88, de 23 de dezembro de 2022.)
 III - aquele a quem tiver sido aplicada sanção de destituição; e
@@ -1308,7 +1308,7 @@ de computadores, de tudo que, por autorização de seus donos ou por autorizaç�
 
 encarregados, tais como imóveis, móveis, mercadorias, utensílios, semoventes e mais efeitos, e
 a de bens móveis e imóveis pertencentes às massas falidas, liquidações judiciais, penhores de
-qualquer natureza, inclusive de joias e warrants de armazéns gerais , e o mais que a lei mande,
+qualquer natureza, inclusive de joias e warrants de armazéns gerais, e o mais que a lei mande,
 com fé de oficiais públicos.
 Parágrafo único. Ficam dispensados das disposições previstas no caput deste artigo as
 vendas de bens ou títulos pertencentes a incapazes sem representação, assistência, ou
@@ -1318,7 +1318,7 @@ municipais ou estadual e dos que estiverem excluídos por disposição legal.
 
 Art. 78. Antes de começarem o ato do leilão, os leiloeiros farão conhecidas as condições
 da venda, a forma do pagamento e da entrega dos bens ou títulos, o estado e qualidade desses
-objetos, o seu peso, medida ou quantidade, quando o respectivo valor estiv er adstrito a essas
+objetos, o seu peso, medida ou quantidade, quando o respectivo valor estiver adstrito a essas
 indicações.
 
 Art. 79. Os comitentes ou mandatários darão ao leiloeiro, por escrito, no ato de contratar,
@@ -1361,7 +1361,7 @@ de computadores para dirimir eventuais dúvidas referentes às transações.
 
 Art. 86. A realização do leilão por meio eletrônico deverá atender aos requisitos de ampla
 publicidade, autenticidade e segurança, com observância das regras estabelecidas na legislação
-sobre certificação digital ou outro meio que permita a identificação i nequívoca da autoria e da
+sobre certificação digital ou outro meio que permita a identificação inequívoca da autoria e da
 integridade dos documentos de forma eletrônica.
 
 Art. 87. A modalidade eletrônica de leilão será aberta para recepção de lances com, no
@@ -1402,7 +1402,7 @@ f) e-mail;
 g) sítio eletrônico, se houver;
 h) nome do preposto; e
 i) situação (regular, licenciado ou suspenso);
-VIII - manter, à disposição dos entes públicos e demais interessados , em seu sítio
+VIII - manter, à disposição dos entes públicos e demais interessados, em seu sítio
 eletrônico, relação dos leiloeiros de matrículas canceladas, onde constará:
 a) nome completo;
 b) matrícula;
@@ -1421,7 +1421,7 @@ XIII - exigir do leiloeiro, mediante o pagamento do preço devido à Junta Comer
 a) o registro e autenticação do livro Diário de Leilões;
 b) a apresentação anual de cópia do extrato da conta de poupança relativa à caução, ou
 dos contratos de renovação da fiança bancária ou do seguro garantia; e
-c) comunicação, por escrito, acerca dos impedimentos  e os afastamentos para
+c) comunicação, por escrito, acerca dos impedimentos e os afastamentos para
 tratamento de saúde, anexando atestado médico.
 
 Seção XII
@@ -1431,7 +1431,7 @@ Art. 90. Constituem-se infrações disciplinares:
 
 Art. 90. Constituem-se infrações disciplinares: (Redação dada pela Instrução Normativa
 DREI /ME nº 88, de 23 de dezembro de 2022.)
-I - exercer a profissão quando impedido de fazê -lo ou facilitar, por qualquer meio, o seu
+I - exercer a profissão quando impedido de fazê-lo ou facilitar, por qualquer meio, o seu
 exercício aos não inscritos, proibidos ou impedidos;
 II - manter sociedade empresária;
 II - manter sociedade empresária, ressalvadas as sociedades cujo objeto social seja
@@ -1475,9 +1475,9 @@ Parágrafo único. As sanções devem constar do assentamento do inscrito, após
 em julgado da decisão.
 
 Art. 92. A multa é aplicável nos casos em que o leiloeiro.
-I - deixar de cumprir as obrigações definidas nos incisos I a X, XIV , XVII, XIX e XX, do art. 74
+I - deixar de cumprir as obrigações definidas nos incisos I a X, XIV, XVII, XIX e XX, do art. 74
 desta Instrução Normativa; e
-II - incorrer nas infrações definidas nos incisos IV e V , VII a IX, XIII e XIV , do art. 90 desta
+II - incorrer nas infrações definidas nos incisos IV e V, VII a IX, XIII e XIV, do art. 90 desta
 Instrução Normativa.
 § 1º A multa de que trata este artigo deverá ser recolhida, por meio de documento próprio
 de ingresso de receita, junto à Secretaria da Fazenda do Estado, ou, em caso de autarquia, na
@@ -1490,7 +1490,7 @@ profissão.
 
 Art. 93. A pena de suspensão é aplicável nos casos em que o leiloeiro:
 I - deixar de cumprir as obrigações definidas nos incisos XI (no caso de reincidência), XVI
-e XXI, do art. 74, e inciso II, alínea “a” , do art. 75 desta Instrução Normativa; e
+e XXI, do art. 74, e inciso II, alínea “a”, do art. 75 desta Instrução Normativa; e
 II - incorrer nas infrações definidas nos incisos III, VI, X a XIII do art. 90 desta Instrução
 Normativa.
 § 1º A suspensão, que não poderá exceder a 90 (noventa) dias, implicará na perda, neste
@@ -1557,7 +1557,7 @@ matrícula principal.
 
 Art. 100. A denúncia sobre irregularidade praticada pelo leiloeiro no exercício de sua
 profissão será dirigida ao Presidente da Junta Comercial, devidamente formalizada por escrito e
-assinada pelo denunciante, com sua qualificação completa, acompanhada das  provas
+assinada pelo denunciante, com sua qualificação completa, acompanhada das provas
 necessárias à formação do processo.
 Parágrafo único. No caso de denúncia anônima, a Junta Comercial poderá instaurar
 processo ex officio.
@@ -1567,13 +1567,13 @@ encaminhará à Secretaria-geral para exame preliminar dos documentos e provas j
 quando o Presidente decidirá de sua admissibilidade ou não.
 
 Art. 102. Sendo o fato narrado e as provas juntadas insuficientes para configurar possível
-infração profissional, a Secretaria -Geral comunicará ao Presidente da Junta Comercial que
+infração profissional, a Secretaria-Geral comunicará ao Presidente da Junta Comercial que
 determinará o arquivamento da denúncia, cabendo recurso ao Plenário, no prazo de 10 (dez) dias
 úteis, contados da data em que o denunciante tomar ciência da decisão.
 
 Art. 103. Aceita a denúncia, o Presidente da Junta Comercial mandará instaurar o
 processo administrativo, no prazo de 20 (vinte) dias úteis, contados da data de seu protocolo, do
-que será o denunciado intimado por meio do órgão de divulgação dos atos decis órios da Junta
+que será o denunciado intimado por meio do órgão de divulgação dos atos decisórios da Junta
 Comercial, ficando-lhe assegurado o contraditório e a ampla defesa, princípios decorrentes do
 devido processo legal, com a utilização de todos os meios de provas em direito admitidas.
 § 1º Será concedido ao denunciado vista do processo na própria Junta Comercial e o
@@ -1582,7 +1582,7 @@ divulgação dos atos decisórios da Junta Comercial, para oferecer defesa prév
 documentos e provas que julgar necessários.
 § 2º Apresentada defesa ou transcorrido o prazo constante do parágrafo anterior, o setor
 específico de controle e fiscalização das atividades dos auxiliares do comércio ou o diretor de
-registro ou quem suas vezes fizer, emitirá, no prazo máximo de 10 (dez)  dias úteis, relatório
+registro ou quem suas vezes fizer, emitirá, no prazo máximo de 10 (dez) dias úteis, relatório
 circunstanciado sobre os fatos e encaminhando o processo para a Procuradoria ou órgão jurídico
 da Junta Comercial.
 § 3º A Procuradoria ou órgão jurídico da Junta Comercial terá o prazo de 3 (três) dias úteis
@@ -1601,7 +1601,7 @@ designará Vogal Relator, podendo designar, Vogal Revisor, conforme definido em 
 próprio.
 § 7º Cumpridas todas as etapas do processo, este deverá ser incluído em pauta para
 julgamento pelo Plenário, em sessão a ser designada previamente para tal, da qual será o
-denunciado intimado por meio do órgão de divulgação dos atos decisórios da Junta Com ercial,
+denunciado intimado por meio do órgão de divulgação dos atos decisórios da Junta Comercial,
 com antecedência mínima de 10 (dez) dias úteis, do dia, local e hora do julgamento.
 § 8º É assegurado ao denunciado o direito de defesa oral por, no máximo, 15 (quinze)
 minutos.
@@ -1661,7 +1661,7 @@ penalidades da lei.
 
 Art. 109. Em caso de perda, extravio ou destruição da Carteira de Exercício Profissional, o
 fato deverá ser comunicado pelo seu titular, no prazo de quarenta e oito horas, à Junta Comercial,
-que fará publicar o fato no órgão de divulgação dos atos decisóri os, sem prejuízo do registro do
+que fará publicar o fato no órgão de divulgação dos atos decisórios, sem prejuízo do registro do
 boletim de ocorrência policial.
 Parágrafo único. A expedição de nova carteira, com a menção do número da respectiva
 via, quando solicitada, somente será providenciada após os procedimentos previstos no caput
@@ -1685,13 +1685,13 @@ DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 Art. 113. Os tradutores e intérpretes públicos que já estavam habilitados na forma
 prevista no regulamento aprovado pelo Decreto nº 13.609, de 21 de outubro de 1943, e pela
-Instrução Normativa DREI nº 72, de 19 de dezembro de 2019, poderão continuar a exer cer as
+Instrução Normativa DREI nº 72, de 19 de dezembro de 2019, poderão continuar a exercer as
 atividades no território nacional.
 
 Art. 114. Nos termos da Lei nº 14.195, de 2021, não há imposição legal para que os
 tradutores e intérpretes públicos mantenham escrituração de livros, contudo, devem manter em
-arquivo o registro de suas traduções durante todo o exercício da profissão, pref erencialmente,
-em formato digital, com todas as traduções  efetuadas, inclusive para fins de segunda via,
+arquivo o registro de suas traduções durante todo o exercício da profissão, preferencialmente,
+em formato digital, com todas as traduções efetuadas, inclusive para fins de segunda via,
 certidão aos interessados e diligências judiciais ou administrativas.
 § 1º É recomendável que sejam mantidas em arquivo eventuais ocorrências que o
 profissional vier a tomar conhecimento em relação às suas traduções públicas.
@@ -1707,7 +1707,7 @@ observado o art. 57 da Lei nº 8.934, de 18 de novembro de 1994.
 
 Art. 115. As infrações praticadas por tradutores e intérpretes públicos na vigência do
 Decreto nº 13.609, de 21 de outubro de 1943, deverão ser processadas e julgadas em
-conformidade com a legislação vigente à época das condutas infracionais, ainda que a L ei nº
+conformidade com a legislação vigente à época das condutas infracionais, ainda que a Lei nº
 14.195, de 2021, tenha previsto disposições mais favoráveis aos acusados.
 
 Art. 116. Ficam revogadas:

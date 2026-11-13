@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/copy_of_INSTRUONORMATIVADREIMEN74DE4DEOUTUBRODE2022decisojudicial02.10.2024emnotaderodap.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Instrução Normativa DREI Nº 74
@@ -50,13 +50,13 @@ de Referência para Línguas - QECR (Common European Framework of Reference for
 Languages); ou
 
 1  O art. 19, caput e §§ 1º a 8º, da IN DREI/ME nº 52, de 2022, e alterações promovidas pela IN DREI /ME nº 74, de 2022, estavam
-suspensos, conforme decisão do dia 15 de fevereiro de 2023, proferida nos autos da Ação Civil Pública n° 1055149 -
+suspensos, conforme decisão do dia 15 de fevereiro de 2023, proferida nos autos da Ação Civil Pública n° 1055149-
 12.2022.4.01.3400.
 2 O art. 19 caput e §§ 1º a 8º, da IN DREI/ME nº 52, de 2022, e alterações promovidas pela IN DREI /ME nº 74, de 2022, estão
-válidos, conforme decisão judicial  do dia 02 de outubro de 2024 , proferida nos autos da Ação Civil Pública n° 1055149 -
+válidos, conforme decisão judicial do dia 02 de outubro de 2024, proferida nos autos da Ação Civil Pública n° 1055149-
 12.2022.4.01.3400, em que o Juízo da 7ª Vara Federal Cível da Seção Judiciária do Distrito Federal julgou improcedente o
-pedido formulado pelas autoras, resolvendo o processo com apreciação de mérito, nos termos do ar t. 487, I, do Código de
-Processo Civil, revogando as tutelas de urgência anteriormente concedidas  (PARECER DE FORÇA EXECUTÓRIA n.
+pedido formulado pelas autoras, resolvendo o processo com apreciação de mérito, nos termos do art. 487, I, do Código de
+Processo Civil, revogando as tutelas de urgência anteriormente concedidas (PARECER DE FORÇA EXECUTÓRIA n.
 00519/2024/CORESPNE/PRU1R/PGU/AGU – Processo SEI n. 00728.000025/2023-11).
 
 Página 2 de 3

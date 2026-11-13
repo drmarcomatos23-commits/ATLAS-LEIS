@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/copy_of_indrei1122022.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Instrução Normativa DREI N° 112
@@ -25,11 +25,11 @@ Dispõe sobre as alterações promovidas pela Lei
 Complementar nº 182, de 1º de junho de 2021, Lei
 nº 14.193, de 6 de agosto de 2021, Lei nº 13.818, de
 24 de abril de 2019, e Lei nº 14.195, de 26 de agosto
-de 2021, no que tange ao Registro Público d e
+de 2021, no que tange ao Registro Público de
 Empresas Mercantis, bem com altera a Instrução
 Normativa DREI nº 81, de 10 de junho de 2020.
 
-O DIRETOR DO DEPARTAMENTO NACIONAL DE REGISTRO EMPRESARIAL E INTEGRAÇÃO , no uso
+O DIRETOR DO DEPARTAMENTO NACIONAL DE REGISTRO EMPRESARIAL E INTEGRAÇÃO, no uso
 das atribuições que lhe confere o art. 4º, da Lei nº 8.934, de 18 de novembro de 1994, resolve:
 
 CAPÍTULO I
@@ -37,19 +37,19 @@ DA FICHA DE CADASTRO NACIONAL
 
 Art. 1º  Fica aprovada a Ficha de Cadastro Nacional - FCN, de que trata o inciso III do art. 37 da Lei
 nº 8.934, de 18 de novembro de 1994, com redação dada pela Lei nº 14.195, de 26 de agosto de 2021.
-§ 1º Além dos dados de registro que já alimentam o sistema utilizad o pela Junta Comercial, devem
+§ 1º Além dos dados de registro que já alimentam o sistema utilizado pela Junta Comercial, devem
 passar a ser coletados e cadastrados os dados referentes aos mandatos, poderes e atribuições dos
 administradores e/ou diretores designados no ato de constituição ou alteração, ou, ainda, em ato
 separado.
-§ 2º Caso a Junta Come rcial utilize sistema de integração entre os órgãos de registro e legalização
+§ 2º Caso a Junta Comercial utilize sistema de integração entre os órgãos de registro e legalização
 de empresas, que permita a transmissão eletrônica dos dados, fica dispensada a apresentação deste
 documento em apartado.
-Art. 2º  Para as sociedades constituídas ou que realizara m alteração dos administradores e/ou
+Art. 2º  Para as sociedades constituídas ou que realizaram alteração dos administradores e/ou
 diretores, antes da vigência da presente instrução normativa, somente quando o ato a ser arquivado
 contemplar expressamente alteração nos mandatos, poderes e atribuições dos administradores e/ou
 diretores, será obrigatória a observância do disposto no § 1º do art. 1º desta Instrução Normativa.
 Parágrafo único. As Juntas Comerciais poderão sugerir, preferencialmente, por divulgação em seus
-sítios eletrônicos, que as sociedades promovam atualização dos dados dos administra dores e/ou
+sítios eletrônicos, que as sociedades promovam atualização dos dados dos administradores e/ou
 diretores, relativos aos mandatos, poderes e atribuições.
 
 CAPÍTULO II
@@ -62,8 +62,8 @@ Art. 3º  A Instrução Normativa DREI nº 81, de 2020, passa a vigorar com as s
 "Art. 2º  ........................................................................................................
 § 1º ..............................................................................................................
 .....................................................................................................................
-III - autenticar instrumentos de escrituração do empresário individual,  da
-sociedade empresária, da cooperativa e dos agentes auxiliares do  comércio,
+III - autenticar instrumentos de escrituração do empresário individual, da
+sociedade empresária, da cooperativa e dos agentes auxiliares do comércio,
 conforme instrução normativa própria;
 IV - expedir certidões dos documentos arquivados e informar sobre a existência
 de nomes empresariais idênticos; e
@@ -77,13 +77,13 @@ unidades próprias ou autoridade pública conveniada.
 "Art. 9º  O arquivamento de atos de empresário individual, sociedade empresária
 e cooperativa deverá observar as disposições gerais desta Instrução Normativa,
 bem como dos Manuais de Registro constantes dos anexos II, IV, V e VI, os quais
-são de observância obrigatória pelas Juntas Comerciais na  prática de atos de
+são de observância obrigatória pelas Juntas Comerciais na prática de atos de
 registro neles regulados.
 § 1º A constituição, alteração ou extinção de empresário individual, sociedade
 empresária e cooperativa sujeitos a controle de órgão de fiscalização de exercício
-profissional não depende de  aprovação prévia desse órgão para arquivamento
+profissional não depende de aprovação prévia desse órgão para arquivamento
 do respectivo ato na Junta Comercial.
-§ 2º  Independentemente de autorização prévia governamental, as Juntas
+§ 2º Independentemente de autorização prévia governamental, as Juntas
 Comerciais irão promover o registro de atos de constituição, alteração e extinção
 de empresário individual, sociedade empresária e cooperativa; contudo, deverão
 realizar comunicação, nos termos do parágrafo único do art. 35 da Lei nº 8.934,
@@ -91,24 +91,24 @@ de 1994, a respeito dos registros constantes de tabela própria nos Manuais de
 Registro, anexos a esta Instrução Normativa.
 ......................................................................................................................" (NR)
 
-"Art. 9º -B. Os sistemas ou módulos integradores utilizados pelas Juntas
+"Art. 9º-B. Os sistemas ou módulos integradores utilizados pelas Juntas
 Comerciais deverão permitir o arquivamento de instrumentos ou atos
 elaborados de forma exclusiva pelas partes, desde que observadas as disposições
 legais, prevalecendo, assim, a autonomia privada delas.
-Parágrafo único. O uso de  instrumentos padronizados deve ser  uma opção das
+Parágrafo único. O uso de instrumentos padronizados deve ser uma opção das
 partes, para obtenção do registro automático, nos moldes do Capítulo IV desta
 Instrução Normativa." (NR)
 
 3
 "Art. 10. ........................................................................................................
-§ 1º Para os fins do  caput deste artigo consideram -se informações
+§ 1º Para os fins do caput deste artigo consideram-se informações
 meramente cadastrais:
 I - informações pessoais do empresário individual, sócios, acionistas ou
 associados de sociedades;
 ......................................................................................................................
 III - informações relativas, à alteração do CEP do empresário individual e das
-sociedades, e ain da alteração do tipo, bairro, nome ou  número do
-logradouro do endereço do empresário individual e das  sociedades por ato do
+sociedades, e ainda alteração do tipo, bairro, nome ou número do
+logradouro do endereço do empresário individual e das sociedades por ato do
 poder público, quando esta não implicar em alteração física do endereço, ou seja,
 advir de circunstância alheia à vontade do empresário ou sociedade.
 § 2º Nos termos do § 1º do art. 32 da Lei nº 8.934, de 1994, quando os dados
@@ -118,27 +118,27 @@ cobrança de preço, proceder com a atualização cadastral." (NR)
 
 "Art. 11. O arquivamento de ato de empresário individual, sociedade empresári
 a e cooperativa do qual conste participação de imigrante no Brasil será instruído
-obrigatoriamente com a  fotocópia do docum ento de identidade, emitido por
+obrigatoriamente com a fotocópia do documento de identidade, emitido por
 autoridade brasileira, com a comprovação da condição de residente, admitindo-
 se, ainda, o RNE válido para esse fim.
 ......................................................................................................................
 § 3º Será admitida a apresentação da  fotocópia de identidade do imigrante com
 prazo de validade vencida, se houver ato normativo expedido pelo Ministério da
-Justiça e Segurança Pública  que prorrogue o prazo de validade do referido
+Justiça e Segurança Pública que prorrogue o prazo de validade do referido
 documento, cabendo ao interessado comprovar a existência do ato normativo
 que contemple o seu caso concreto." (NR)
 
 "Art. 12. A pessoa física, brasileira ou estrangeira, residente no exterior, que seja
-empresário individual, administrador ou sócio de sociedade empresá ria,
-associado de cooperativa  deverá instruir o ato empresarial a ser arquivado ou
+empresário individual, administrador ou sócio de sociedade empresária,
+associado de cooperativa deverá instruir o ato empresarial a ser arquivado ou
 arquivar em processo autônomo, procuração outorgada ao seu representante
 no Brasil, observada a legislação que rege o respectivo tipo societário.
-§ 1º  A pessoa jurídica com  sede no exterior que  seja sócia de sociedade
-empresária ou associada de cooperativa também se sujeita à regra do  caput, e
+§ 1º A pessoa jurídica com sede no exterior que seja sócia de sociedade
+empresária ou associada de cooperativa também se sujeita à regra do caput, e
 nesse caso deverá apresentar prova de sua constituição e de sua existência legal.
 ......................................................................................................................" (NR)
 
-"Art. 13.  No caso de  nomeação de brasileiro ou estrangeiro não residente no
+"Art. 13. No caso de nomeação de brasileiro ou estrangeiro não residente no
 Brasil para cargo de administrador (membro do conselho de administração ou da
 diretoria) em sociedade anônima, a posse ficará condicionada à constituição de
 representante residente no País, nos termos do § 2º, do art. 146, da Lei nº 6.404,
@@ -148,16 +148,16 @@ de 15 de dezembro de 1976.
 Parágrafo único. O disposto no caput desde artigo não obsta o arquivamento do
 ato de nomeação." (NR)
 
-"Art. 18 -A. O empresário individual,  a sociedade empresária e a cooperativa
-podem optar por utilizar o número de inscrição no Cadastro  Nacional da Pessoa
+"Art. 18-A. O empresário individual, a sociedade empresária e a cooperativa
+podem optar por utilizar o número de inscrição no Cadastro Nacional da Pessoa
 Jurídica - CNPJ como nome empresarial, seguido da partícula identificadora do
 tipo societário ou jurídico, quando exigida por lei.
 § 1º  Para os fins da utilização do número do CNPJ como nome empresarial, deve
-ser levado em conta apenas o número raiz, ou seja,  os oito primeiros dígitos do
+ser levado em conta apenas o número raiz, ou seja, os oito primeiros dígitos do
 CNPJ.
 § 2º  Quando existir legislação específica sobre a formação do nome empresarial
 de determinado segmento econômico, que seja incompatível com as disposições
-do caput deste artigo, não será possível o uso do  número do CNPJ como nome
+do caput deste artigo, não será possível o uso do número do CNPJ como nome
 empresarial.
 § 3º  Não poderá ser utilizado o CNPJ como nome empresarial para as empresas
 públicas, sociedades de economia mista, consórcios, grupos de sociedade e
@@ -167,8 +167,8 @@ empresas simples de crédito." (NR)
 e da cooperativa que estiverem em processo de liquidação, após a anotação no
 Registro de Empresas, deverá ser aditado o termo "em liquidação"." (NR)
 
-"Art. 21.  Nos casos de recuperação judicial, após a anotação no Registro de
-Empresas, o empresário  individual e a sociedade empresária deverão
+"Art. 21. Nos casos de recuperação judicial, após a anotação no Registro de
+Empresas, o empresário individual e a sociedade empresária deverão
 acrescentar após o seu nome empresarial a expressão "em recuperação judicial",
 que será excluída após comunicação judicial sobre o encerramento do processo
 de recuperação, conforme prevê o art. 63 da Lei nº 11.101, de 2005." (NR)
@@ -176,34 +176,34 @@ de recuperação, conforme prevê o art. 63 da Lei nº 11.101, de 2005." (NR)
 "Art. 25 ........................................................................................................
 ......................................................................................................................
 § 2º Arquivado o pedido de proteção ao nome empresarial, deverá ser expedida
-comunicação do  fato à Junta Comercial da unidade federativa onde estiver
-localizada a sede do  empresário individual, da sociedade empresária ou da
+comunicação do fato à Junta Comercial da unidade federativa onde estiver
+localizada a sede do empresário individual, da sociedade empresária ou da
 cooperativa.
-§ 3º  Ocorrendo o arquivamento de alteração de no me empresarial na Junta
-Comercial da sede  do empresário individual, da sociedade empresária ou da
-cooperativa, cabe ao interessado  promover, nas Juntas Comerciais das outras
+§ 3º Ocorrendo o arquivamento de alteração de nome empresarial na Junta
+Comercial da sede do empresário individual, da sociedade empresária ou da
+cooperativa, cabe ao interessado promover, nas Juntas Comerciais das outras
 unidades da federação em que haja proteção do nome empresarial arquivada, a
 modificação da proteção existente mediante pedido específico, instruído
 com certidão expedida pela Junta Comercial da sede ou outro documento que
 comprove a alteração do nome empresarial." (NR)
 
 5
-"Art. 26. No caso de transferência de  sede de empresário individua l, sociedade
+"Art. 26. No caso de transferência de sede de empresário individual, sociedade
 empresária ou cooperativa com sede em outra unidade federativa, havendo
-identidade entre nomes empresariais, a  Junta Comercial não procederá ao
-arquivamento do ato, salvo se o interessado arquivar na Junta  Comercial da
-unidade federativa de de stino, concomitantemente, ato de modificação de seu
+identidade entre nomes empresariais, a Junta Comercial não procederá ao
+arquivamento do ato, salvo se o interessado arquivar na Junta Comercial da
+unidade federativa de destino, concomitantemente, ato de modificação de seu
 nome empresarial." (NR)
 
 "Art. 27 ........................................................................................................
 § 1º Os documentos relativos à constituição, alteração e extinção de empresário
 individual, sociedade empresária ou cooperativa levados a arquivamento nas
-Juntas Comerciais deverão estar  assinados na forma da lei, sendo as demais
+Juntas Comerciais deverão estar assinados na forma da lei, sendo as demais
 folhas rubricadas.
 ......................................................................................................................" (NR)
 
-"Art. 30.  A autenticação tem por finalidade comprovar e certificar a
-autenticidade do registro dos  atos empresariais do empresário individual, da
+"Art. 30. A autenticação tem por finalidade comprovar e certificar a
+autenticidade do registro dos atos empresariais do empresário individual, da
 sociedade empresária, da cooperativa, do consórcio e grupo de sociedades, por
 termo que contenha, no mínimo:
 ......................................................................................................................" (NR)
@@ -211,12 +211,12 @@ termo que contenha, no mínimo:
 "Art. 36. .......................................................................................................
 ......................................................................................................................
 III - os dados específicos de registro coletados pela Junta Comercial e constantes
-da Ficha de Ca dastro Nacional, bem como os dados comuns coletados
+da Ficha de Cadastro Nacional, bem como os dados comuns coletados
 eletronicamente pela Receita Federal do Brasil, deverão ser transmitidos
 eletronicamente para a Junta Comercial;
 ......................................................................................................................" (NR)
 
-"Art. 43.  O arquivamento de ato constitutivo, alteração e extinção de
+"Art. 43. O arquivamento de ato constitutivo, alteração e extinção de
 empresário individual, sociedade limitada, exceto empresas públicas, bem como
 constituição de cooperativa será deferido de forma automática quando:
 ......................................................................................................................
@@ -226,21 +226,21 @@ III - apresente, de forma física ou digital, os documentos obrigatórios para
 instrução do pedido de arquivamento, conforme anexos II, IV e VI desta Instrução
 Normativa.
 ......................................................................................................................
-§ 2º  Além das cláusulas obrigatórias que devem constar do instrumento, as
-partes poderão adotar  cláusulas opcionais padronizadas, também constantes
+§ 2º Além das cláusulas obrigatórias que devem constar do instrumento, as
+partes poderão adotar cláusulas opcionais padronizadas, também constantes
 dos anexos II, IV e VI desta Instrução Normativa.
 
 6
 ......................................................................................................................" (NR)
 
-"Art. 46.  Deferido o registro automático, o interessado deverá ter acesso a
+"Art. 46. Deferido o registro automático, o interessado deverá ter acesso a
 quaisquer documentos relativos ao empresário individual, à sociedade limitada
 e à cooperativa, sem qualquer distinção dos atos aprovados pelo trâmite regular,
-dentro do prazo estabelecido para os atos que não sejam  deferidos
+dentro do prazo estabelecido para os atos que não sejam deferidos
 automaticamente." (NR)
 
-"Art. 49.  É vedado o indeferimento do arquivamento ou a formulação de
-exigência por motivo  diverso daq ueles constantes de tabelas próprias dos
+"Art. 49. É vedado o indeferimento do arquivamento ou a formulação de
+exigência por motivo diverso daqueles constantes de tabelas próprias dos
 Manuais de Registro, anexos II e IV, desta Instrução Normativa.
 ......................................................................................................................" (NR)
 
@@ -250,11 +250,11 @@ e IV desta Instrução Normativa, o processo será colocado em exigência.
 
 "Art. 55. Eventualmente, na hipótese de o analista identificar elemento que, a
 seu juízo, possa vir a ensejar formulação de exigência além das relacionadas nos
-anexos II e IV desta instrução normativa,  formulará questão dirigida ao
+anexos II e IV desta instrução normativa, formulará questão dirigida ao
 Presidente que solicitará parecer da Procuradoria.
 ......................................................................................................................" (NR)
 
-"Art. 56.  Ao Presidente compete indelegável e exclusivamente decidir por
+"Art. 56. Ao Presidente compete indelegável e exclusivamente decidir por
 formular, em caráter excepcional, exigência além das relacionadas nos anexos II
 e IV desta Instrução Normativa, observadas as disposições desta subseção.
 ......................................................................................................................
@@ -269,7 +269,7 @@ VI - Comprovante de pagamento; e
 VII - Ficha de Cadastro Nacional - FCN.
 Parágrafo único. Caso a Junta Comercial utilize sistema de integração entre os
 órgãos de registro e legalização de empresas, que permita transmissão eletrônica
-dos dados, fica dispensada a apresentação  dos documentos constantes dos
+dos dados, fica dispensada a apresentação dos documentos constantes dos
 incisos IV, V, VI e VII." (NR)
 
 7
@@ -278,7 +278,7 @@ incisos IV, V, VI e VII." (NR)
 ........................................................................................................................
 II - de registro, nos termos do art. 968, § 3º, do Código Civil, quando ocorrer de
 empresário individual para sociedade empresária e vice versa.
-§ 2º  A transformação não altera a condição do empresário individual ou  da
+§ 2º A transformação não altera a condição do empresário individual ou da
 sociedade empresária enquadrada como microempresa ou empresa de pequeno
 porte, exceto caso, em função do ato, incorra numa das vedações relacionadas
 no § 4º do art. 3º da Lei Complementar nº 123, de 2006.
@@ -288,10 +288,10 @@ no § 4º do art. 3º da Lei Complementar nº 123, de 2006.
 transformar-se entre si, mediante ato de transformação.
 ......................................................................................................................" (NR)
 
-"Art. 98.  A C ertidão de Inteiro Teor constitui -se de cópia reprográfica ou
+"Art. 98. A Certidão de Inteiro Teor constitui-se de cópia reprográfica ou
 digitalizada, certificada, de ato arquivado.
 ......................................................................................................................
-§ 3º Não devem integrar as cer tidões de inteiro teor documentos pessoais do
+§ 3º Não devem integrar as certidões de inteiro teor documentos pessoais do
 empresário individual, administrador, sócios, acionistas ou associados, bem
 como outros que excedam a essência do ato arquivado.
 § 4º Os dados pessoais das pessoas envolvidas que constem no ato arquivado
@@ -300,15 +300,15 @@ necessidade de consentimento do seu titular, conforme prevê art. 7º, inciso II
 art. 26, §1º e art. 27 da Lei nº 13.709, de 2018, c/c art. 29 da Lei nº 8.934, de
 1994." (NR)
 
-"Art. 119.  Identificado o vício pelo empresário individual, pela sociedade
+"Art. 119. Identificado o vício pelo empresário individual, pela sociedade
 empresária ou cooperativa, independentemente de prazo, este poderá propor
 seu saneamento junto à Junta Comercial, nos moldes do art. 118.
 ......................................................................................................................" (NR)
 
 "Art. 129 ......................................................................................................
 ......................................................................................................................
-§ 2º  É vedada a cobrança de preço pelo serviço de arquivamento dos
-documentos relativos à  extinção do registro do empresário individual e da
+§ 2º É vedada a cobrança de preço pelo serviço de arquivamento dos
+documentos relativos à extinção do registro do empresário individual e da
 sociedade limitada.
 ......................................................................................................................" (NR)
 
@@ -320,10 +320,10 @@ de 2020, passa a vigorar com as seguintes alterações:
 ......................................................................................................................
 1.9. FICHA DE CADASTRO NACIONAL - FCN, QUE PODERÁ SER EXCLUSIVAMENTE
 ELETRÔNICA
-A FCN deverá ser apresentada juntamente com os instrument os de inscrição,
+A FCN deverá ser apresentada juntamente com os instrumentos de inscrição,
 alteração ou extinção.
 Nota: Caso a Junta Comercial utilize sistema de integração entre os órgãos de
-registro e legalização  de empresas, que permita transmissão eletrônica dos
+registro e legalização de empresas, que permita transmissão eletrônica dos
 dados, fica dispensada a apresentação deste documento em apartado.
 ......................................................................................................................" (NR)
 
@@ -333,8 +333,8 @@ SEÇÃO I
 ......................................................................................................................
 5.1. NOME EMPRESARIAL (FIRMA)
 O empresário individual somente poderá adotar firma individual como nome
-empresarial, a  qual terá como núcleo o seu próprio nome civil, aditando, se
-quiser ou quando já existir nome empresarial idêntico,  designação mais precisa
+empresarial, a qual terá como núcleo o seu próprio nome civil, aditando, se
+quiser ou quando já existir nome empresarial idêntico, designação mais precisa
 de sua pessoa ou de sua atividade.
 O nome civil deverá figurar de forma completa ou abreviada. Não constituem
 sobrenome e não podem ser abreviados: FILHO, JÚNIOR, NETO, SOBRINHO etc.,
@@ -342,17 +342,17 @@ que indicam uma ordem ou relação de parentesco.
 Notas:
 I. Não pode ser excluído qualquer dos componentes/partículas do nome (ex.: e,
 de, do, da, etc.).
-II. Quando se tratar de Empresa Simples  de Crédito - ESC, de que trata a Lei
+II. Quando se tratar de Empresa Simples de Crédito - ESC, de que trata a Lei
 Complementar nº 167, de 24 de abril de 2019:
 a) deverá conter a expressão "Empresa Simples de Crédito" ao final da firma,
 observados os demais critérios de formação do nome; e
-b) não poderá constar a palavra "banco" ou  outra expressão identificadora de
+b) não poderá constar a palavra "banco" ou outra expressão identificadora de
 instituição autorizada a funcionar pelo Banco Central do Brasil.
 5.1.1. Utilização do CNPJ como nome empresarial
 O empresário individual pode optar por utilizar o número de inscrição no
 Cadastro Nacional da Pessoa Jurídica (CNPJ) como nome empresarial.
-Para a utilização  do número do CNPJ como nome empresarial, deve ser levado
-em conta apenas o número raiz, ou seja,  os oito primeiros dígitos do CNPJ e, ao
+Para a utilização do número do CNPJ como nome empresarial, deve ser levado
+em conta apenas o número raiz, ou seja, os oito primeiros dígitos do CNPJ e, ao
 
 9
 final ser indicado o nome civil do empresário, de forma completa (NN.NNN.NNN
@@ -368,10 +368,10 @@ Deverá indicar as atividades a serem desenvolvidas pelo empresário, podendo
 ser descrito por meio de códigos integrantes da estrutura da Classificação
 Nacional de Atividades Econômicas - CNAE.
 Notas:
-I. É vedada a inscrição na Junta Comercial de e mpresário cujo objeto inclua a
+I. É vedada a inscrição na Junta Comercial de empresário cujo objeto inclua a
 atividade de advocacia.
-II. Não se admite que a descrição do objeto seja feita exclusivamente  por CNAE
-genérico (4789 -0/99 Comércio varejista de outros produtos não especificados
+II. Não se admite que a descrição do objeto seja feita exclusivamente por CNAE
+genérico (4789-0/99 Comércio varejista de outros produtos não especificados
 anteriormente, por exemplo), salvo se ele estiver em conjunto com outros que
 permitam a identificação da atividade, caso em que não poderão ser solicitadas
 informações adicionais.
@@ -379,18 +379,18 @@ informações adicionais.
 9. DO ENQUADRAMENTO COMO STARTUP
 Nos termos do art. 4º da Lei Complementar nº 182, de 1º de junho de 2021, é
 enquadrado como startup o empresário individual, em inscrição ou em operação
-recente, cuja atuação caracteriza -se pela inovação aplicada a modelo de
+recente, cuja atuação caracteriza-se pela inovação aplicada a modelo de
 negócios ou a produtos ou serviços ofertados.
 9.1. REQUISITOS
-Para fins de registro, o  empresário individual deve fazer constar  declaração em
+Para fins de registro, o empresário individual deve fazer constar declaração em
 seu instrumento de inscrição ou alterador de que se enquadra como
 uma startup, conforme prevê a alínea "a", do inciso III, do § 1º, do art. 4º da Lei
 Complementar nº 182, de 2021.
 Notas:
-I. A declaração de que trata o item 9.1 deve constar do próprio  instrumento de
+I. A declaração de que trata o item 9.1 deve constar do próprio instrumento de
 inscrição/alteração ou de instrumento de enquadramento em processo
 apartado.
-II. Além das  especificidades aplicáveis às  startups, deverão ser observadas as
+II. Além das especificidades aplicáveis às startups, deverão ser observadas as
 demais regras aplicáveis ao empresário individual.
 ......................................................................................................................
 SEÇÃO II
@@ -400,9 +400,9 @@ SEÇÃO II
 10
 ......................................................................................................................
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser
-apresentada uma FCN,  assim como deverá ser apresentada uma FCN
-individualizada para a  sede quando da alteração do  instrumento de
-inscrição constar, além dos atos relativos a  filiais, alteração de outras cláusulas
+apresentada uma FCN, assim como deverá ser apresentada uma FCN
+individualizada para a sede quando da alteração do instrumento de
+inscrição constar, além dos atos relativos a filiais, alteração de outras cláusulas
 cujos dados sejam objeto de cadastramento.
 ......................................................................................................................" (NR)
 
@@ -410,7 +410,7 @@ cujos dados sejam objeto de cadastramento.
 ......................................................................................................................
 CLÁUSULAS PADRONIZADAS OPCIONAIS
 ......................................................................................................................
-DA DECLARAÇÃO  DE ENQUADRAMENTO COMO  STARTUP (ALÍNEA "A", DO
+DA DECLARAÇÃO DE ENQUADRAMENTO COMO STARTUP (ALÍNEA "A", DO
 INCISO III, DO § 1º, DO ART. 4º DA LEI COMPLEMENTAR Nº 182, DE 2021)
 Cláusula - O empresário declara, sob as penas da lei, que se enquadra
 como startup, nos termos da Lei Complementar nº 182, de 2021.
@@ -418,13 +418,13 @@ como startup, nos termos da Lei Complementar nº 182, de 2021.
 ___ª ALTERAÇÃO DO INSTRUMENTO DE INSCRIÇÃO
 ......................................................................................................................
 CLÁUSULAS PADRONIZADAS OPCIONAIS
-DA DECLARAÇÃO  DE ENQUADRAMENTO COMO  STARTUP (ALÍNEA "A", DO
+DA DECLARAÇÃO DE ENQUADRAMENTO COMO STARTUP (ALÍNEA "A", DO
 INCISO III, DO § 1º, DO ART. 4º DA LEI COMPLEMENTAR Nº 182, DE 2021)
-Cláusula - O empresário declara, sob as  penas da lei, que se enquadra
+Cláusula - O empresário declara, sob as penas da lei, que se enquadra
 como startup, nos termos da Lei Complementar nº 182, de 2021.
 ......................................................................................................................" (NR)
 
-Art. 5º  O Manual de Registro de Soci edade Limitada, Anexo IV à Instrução Normativa DREI nº 81,
+Art. 5º  O Manual de Registro de Sociedade Limitada, Anexo IV à Instrução Normativa DREI nº 81,
 de 2020, passa a vigorar com as seguintes alterações:
 
 "CAPÍTULO I
@@ -434,7 +434,7 @@ ELETRÔNICA
 A FCN deverá ser apresentada juntamente com os instrumentos de
 constituição, alteração ou extinção.
 Nota: Caso a Junta Comercial utilize sistema de integração entre os órgãos de
-registro e legalização  de empresas, que permita transmissão eletrônica dos
+registro e legalização de empresas, que permita transmissão eletrônica dos
 dados, fica dispensada a apresentação deste documento em apartado.
 ......................................................................................................................" (NR)
 
@@ -447,32 +447,32 @@ SEÇÃO I
 4.1. NOME EMPRESARIAL
 ......................................................................................................................
 4.1.3. Utilização do CNPJ como nome empresarial
-Para a utilização  do número do CNPJ como nome empresarial,  deve ser levado
-em conta apenas o número raiz, ou seja,  os oito primeiros dígitos do
+Para a utilização do número do CNPJ como nome empresarial, deve ser levado
+em conta apenas o número raiz, ou seja, os oito primeiros dígitos do
 CNPJ (NN.NNN.NNN + LTDA.).
 Em se tratando de constituição ou alteração, o(s) sócio(s) deverá(ão) indicar no
-instrumento que irá(ão) utilizar o número do CNPJ como nome em presarial. O
+instrumento que irá(ão) utilizar o número do CNPJ como nome empresarial. O
 nome empresarial será gerado no deferimento do pedido.
 ......................................................................................................................
 4.4. OBJETO SOCIAL
-O objeto social não poderá ser ilícito, impossível , indeterminável, ou contrário
+O objeto social não poderá ser ilícito, impossível, indeterminável, ou contrário
 aos bons costumes, à ordem pública ou à moral.
-O contrato social deverá indicar as atividades a serem desenvolvidas pel a
+O contrato social deverá indicar as atividades a serem desenvolvidas pela
 sociedade, podendo ser descrito por meio de códigos integrantes da estrutura
 da Classificação Nacional de Atividades Econômicas - CNAE.
 Notas:
 I. É vedada a inscrição na Junta Comercial de empresário cujo objeto inclua a
 atividade de advocacia.
-II. Não se admite que a descrição do objeto seja feita exclusivamente  por CNAE
-genérico (4789 -0/99 Comércio varejista de outros produtos não especificados
-anteriormente, por exemplo), salvo se ele estiver em conjunto com outros  que
-permitam a identificação da atividade, caso em que  não poderão ser solicitadas
+II. Não se admite que a descrição do objeto seja feita exclusivamente por CNAE
+genérico (4789-0/99 Comércio varejista de outros produtos não especificados
+anteriormente, por exemplo), salvo se ele estiver em conjunto com outros que
+permitam a identificação da atividade, caso em que não poderão ser solicitadas
 informações adicionais.
 4.5. ADMINISTRAÇÃO
 ......................................................................................................................
 Nota: O administrador da sociedade limitada pode ter residência no
 exterior. Nesse caso, deverá anexar no próprio processo ou arquivar em processo
-autônomo, procuração outorgada ao seu representante no  Brasil, com poderes
+autônomo, procuração outorgada ao seu representante no Brasil, com poderes
 para, até no mínimo 3 anos após o término da gestão, receber citações e
 intimações em ações judiciais ou processos administrativos.
 ......................................................................................................................
@@ -481,42 +481,42 @@ Nos termos do art. 4º da Lei Complementar nº 182, de 1º de junho de 2021, é
 enquadrada como startup a sociedade limitada, em constituição ou em operação
 
 12
-recente, cuja atuação caracteriza -se pela inovação aplicada a modelo de
+recente, cuja atuação caracteriza-se pela inovação aplicada a modelo de
 negócios ou a produtos ou serviços ofertados.
 11.1. REQUISITOS
-Para fins de registro,  o(s) sócio(s) da sociedade limitada  deve(m) fazer
+Para fins de registro, o(s) sócio(s) da sociedade limitada deve(m) fazer
 constar declaração em seu ato constitutivo ou alterador de que se enquadra
 como uma startup, conforme prevê a alínea "a", do inciso III, do § 1º, do art. 4º
 da Lei Complementar nº 182, de 2021.
 Notas:
 I. A declaração de que trata o item 11.1 deve constar do próprio instrumento de
-constituição/alteração ou instr umento de enquadramento em processo
+constituição/alteração ou instrumento de enquadramento em processo
 apartado.
-II. Além das especificidades aplicáveis às  startups, deverão ser observadas as
+II. Além das especificidades aplicáveis às startups, deverão ser observadas as
 demais regras aplicáveis à sociedade limitada.
 ......................................................................................................................
 SEÇÃO IV
 ......................................................................................................................
 4.5. FALECIMENTO DE SÓCIO
-No caso de falecimento do sócio único, pessoa natural, a sucessão d ar-se-á por
+No caso de falecimento do sócio único, pessoa natural, a sucessão dar-se-á por
 alvará judicial ou, no caso de partilha, por sentença judicial ou escritura pública
 de partilha de bens.
 Já no caso de sociedade com dois ou mais sócios, diante do falecimento de algum
-dos sócios, ressalvada a prevalência de disposição inserida  no contrato
+dos sócios, ressalvada a prevalência de disposição inserida no contrato
 social, abre-se a possibilidade de:
 I - liquidação das quotas do falecido (dissolução parcial);
 II - dissolução total da sociedade pelos sócios remanescentes; ou
 III - sucessão das quotas do falecido.
 4.5.1. Liquidação das quotas do falecido
 Para os casos de liquidação das quotas, ou seja, aqueles que tenham fundamento
-no art. 1.028,  caput, do Código Civil, a deliberação é tomada pelos sócios
+no art. 1.028, caput, do Código Civil, a deliberação é tomada pelos sócios
 remanescentes, hipótese que não depende da apresentação de alvará ou formal
 de partilha, nem tampouco da ciência ou anuência prévia dos sucessores do sócio
 falecido, de cônjuge ou da participação do inventariante.
 Caberá aos sócios remanescentes reduzir proporcionalmente o capital social ou
 suprir a quota liquidada, de acordo com o art. 1.031, §1º, do Código Civil.
 A apuração e o pagamento dos haveres devem observar o regramento legal (art.
-1.031, § 2º, Código Civil) ou regra contratual específica, se houver,  não sendo
+1.031, § 2º, Código Civil) ou regra contratual específica, se houver, não sendo
 requisito para o arquivamento da alteração contratual a comprovação do
 adimplemento dessa obrigação.
 Não há liquidação de quotas quando se aplicarem as regras dos incisos do art.
@@ -544,25 +544,25 @@ I, do Código de Processo Civil.
 A autorização judicial pode ser substituída por documento equivalente emitido
 por cartório de notas, nos casos em que se admite inventário extrajudicial.
 Nessa hipótese, os herdeiros serão qualificados e comparecerão na condição de
-sucessores do sócio  falecido, podendo, no mesmo instrumento, haver o
+sucessores do sócio falecido, podendo, no mesmo instrumento, haver o
 recebimento das suas quotas e a transferência a terceiros.
 
 Notas:
 I. A representação do espólio em atos societários que não impliquem em
-transferência patrimonial pode ser realizada pelo invent ariante, sendo
+transferência patrimonial pode ser realizada pelo inventariante, sendo
 necessário apresentar o termo de inventariança.
-II. Aplica -se o disposto no item 4.5.1. para a hipótese de existir  cláusula que
-permita o ingresso de herdeiros e sucessores; contudo, vincula -se tal ingresso à
+II. Aplica-se o disposto no item 4.5.1. para a hipótese de existir cláusula que
+permita o ingresso de herdeiros e sucessores; contudo, vincula-se tal ingresso à
 vontade dos remanescentes, e se estes não possuírem interesse no ingresso
 daqueles, poderão desde logo realizar alteração contratual e liquidar a quota do
 falecido, sem a necessidade de apresentação de alvará e/ou formal de partilha.
 ......................................................................................................................
 4.12. ABERTURA, ALTERAÇÃO OU EXTINÇÃO DE FILIAL
 ......................................................................................................................
-Nota: Para cada ato de a bertura, alteração ou extinção de filial deverá ser
-apresentada uma FCN,  assim como deverá ser apresentada uma FCN
-individualizada para a  sede quando da alteração do ato constitutivo  constar,
-além dos atos relativos a filiais, alteração de outras cláusulas  cujos dados sejam
+Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser
+apresentada uma FCN, assim como deverá ser apresentada uma FCN
+individualizada para a sede quando da alteração do ato constitutivo constar,
+além dos atos relativos a filiais, alteração de outras cláusulas cujos dados sejam
 objeto de cadastramento.
 ......................................................................................................................
 SEÇÃO V
@@ -582,7 +582,7 @@ DA ADMINISTRAÇÃO (ARTS. 997, VI; 1.013; 1.015; 1.064 DO CC)
 ......................................................................................................................
 Cláusula Sexta - A administração da sociedade será exercida pelo(s) (informar o
 NOME(S) E QUALIFICAÇÃO(ÕES) DO ADMINISTRADOR(ES), se não sócio(s) que
-fará(ão) parte da administração), que representará(ão) legalmente a so ciedade
+fará(ão) parte da administração), que representará(ão) legalmente a sociedade
 e poderá(ão) praticar todos os atos pertinentes à gestão da sociedade, em nome
 da pessoa jurídica, dentre eles:
 a) abrir, movimentar e encerrar contas correntes e/ou contas de pagamento,
@@ -601,9 +601,9 @@ Outros citar: _______________________________________
 ......................................................................................................................
 CLÁUSULAS PADRONIZADAS OPCIONAIS
 ......................................................................................................................
-DA DECLARAÇÃO  DE ENQUADRAMENTO COMO  STARTUP (ALÍNEA "A", DO
+DA DECLARAÇÃO DE ENQUADRAMENTO COMO STARTUP (ALÍNEA "A", DO
 INCISO III, DO § 1º, DO ART. 4º DA LEI COMPLEMENTAR Nº 182, DE 2021)
-Cláusula - O(s) sócio(s) declara(m), sob as penas da lei, que a socied ade se
+Cláusula - O(s) sócio(s) declara(m), sob as penas da lei, que a sociedade se
 enquadra como startup, nos termos da Lei Complementar nº 182, de 2021.
 .....................................................................................................................
 
@@ -612,7 +612,7 @@ enquadra como startup, nos termos da Lei Complementar nº 182, de 2021.
 .....................................................................................................................
 CLÁUSULAS PADRONIZADAS OPCIONAIS
 .....................................................................................................................
-DA DECLARAÇÃO  DE ENQUADRAMENTO COMO  STARTUP (ALÍNEA "A", DO
+DA DECLARAÇÃO DE ENQUADRAMENTO COMO STARTUP (ALÍNEA "A", DO
 INCISO III, DO § 1º, DO ART. 4º DA LEI COMPLEMENTAR Nº 182, DE 2021)
 Cláusula - O(s) sócio(s) declara(m), sob as penas da lei, que a sociedade se
 enquadra como startup, nos termos da Lei Complementar nº 182, de 2021.
@@ -633,7 +633,7 @@ e legalização de empresas, que permita transmissão eletrônica dos dados, fic
 dispensada a apresentação deste documento.
 II. No caso de AGO: Caso haja eleição/reeleição/alteração da diretoria.
 III. No caso de AGE: Na hipótese de haver alteração eleição/reeleição/alteração
-da diretoria/conselho  de administração; alteração  do nome empresarial; do
+da diretoria/conselho de administração; alteração do nome empresarial; do
 capital social; do objetivo social ou do endereço da sede social.
 IV. No caso de Ata de Reunião do Conselho de Administração e da Diretoria: Caso
 a deliberação altere dado constante da Ficha.
@@ -657,10 +657,10 @@ respectivas datas e folhas dos jornais onde foram efetuadas as publicações.
 III. A publicação do anúncio convocatório será dispensada quando constar da ata
 a presença da totalidade dos acionistas.
 1.8-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA
-BRUTA ANUAL DE ATÉ R$ 78.000.000,00  QUE PUBLICOU O ANÚNCIO
-CONVOCATÓRIO DA  ASSEMBLEIA DE CONSTITUIÇÃO E DAS ASSEMBLEIAS
+BRUTA ANUAL DE ATÉ R$ 78.000.000,00 QUE PUBLICOU O ANÚNCIO
+CONVOCATÓRIO DA ASSEMBLEIA DE CONSTITUIÇÃO E DAS ASSEMBLEIAS
 PRELIMINARES, SE FOR O CASO
-Os recibos das publicações emitidos pela Centr al de Balanços - CB do Sistema
+Os recibos das publicações emitidos pela Central de Balanços - CB do Sistema
 Público de Escrituração Digital (SPED), com a comprovação das efetivas
 publicações deverão ser arquivados junto com a cópia da ata da assembleia,
 sendo dispensados quando a ata consignar o meio eletrônico e as datas onde
@@ -670,19 +670,19 @@ autenticidade, a inalterabilidade e a data de publicação dos atos.
 ......................................................................................................................
 2. ATA DE ASSEMBLEIA GERAL DE CONSTITUIÇÃO
 ......................................................................................................................
-IV - as publicações do edital de convocação, salvo no caso de comparecimen to
+IV - as publicações do edital de convocação, salvo no caso de comparecimento
 de todos os subscritores, que torna desnecessárias as publicações;
 A indicação do jornal de grande publicação que publicou o edital, por três vezes,
 mencionando, ainda, as datas e os números das folhas tornam desnecessária a
-apresentação à Junta Comerci al dos originais dos jornais para
+apresentação à Junta Comercial dos originais dos jornais para
 arquivamento/anotação.
-São necessárias três publicações, simultâneas,  no jornal impresso e no sítio
+São necessárias três publicações, simultâneas, no jornal impresso e no sítio
 eletrônico da internet do mesmo jornal.
 ......................................................................................................................
 A companhia fechada que tiver que tiver receita bruta anual de até R$
-78.000.000,00 (setenta e oito milhões de reais) deverá  citar o sítio
+78.000.000,00 (setenta e oito milhões de reais) deverá citar o sítio
 eletrônico/sistema (Central de Balanços do SPED) em que foram publicados.
-A declaração do preenchimento do requisito exigido em relação a  receita bruta
+A declaração do preenchimento do requisito exigido em relação a receita bruta
 anual, bem como a menção do meio eletrônico e das datas dispensará a
 apresentação dos mesmos à Junta Comercial, quer seja acompanhando a ata,
 quer seja para anotação.
@@ -706,11 +706,11 @@ I - citações em ações contra ele propostas com base na legislação societá
 II - citações e intimações em processos administrativos instaurados pela
 Comissão de Valores Mobiliários, no caso de exercício de cargo de administração
 em companhia aberta.
-Nota: É vedada, nas companhias abertas, a  acumulação do cargo de presidente
-do conselho de  administração e do cargo de diretor -presidente ou de principal
-executivo da companhia, ressalvada normatização da  Comissão de Valores
+Nota: É vedada, nas companhias abertas, a acumulação do cargo de presidente
+do conselho de administração e do cargo de diretor-presidente ou de principal
+executivo da companhia, ressalvada normatização da Comissão de Valores
 Mobiliários para as companhias de menor porte previstas no art. 294-B da Lei nº
-6.404, de 1976 (Produção de efeitos após 36 0 dias, contados da data da
+6.404, de 1976 (Produção de efeitos após 360 dias, contados da data da
 publicação da Lei 14.195, de 2021).
 10. MEMBRO DA DIRETORIA
 Os diretores devem ser pessoas naturais, podendo ou não serem residentes ou
@@ -722,9 +722,9 @@ representante residente no País (art. 146 da Lei nº 6.404, de 1976).
 ......................................................................................................................
 VI - ações: número em que se divide o capital, espécie (ordinária, preferencial,
 fruição), classe das ações e se terão valor nominal ou não, conversibilidade, se
-houver, forma nominativa  e atribuição de voto plural,  se houver  (art. 11 e
+houver, forma nominativa e atribuição de voto plural, se houver (art. 11 e
 seguintes da Lei nº 6.404, de 1976);
-Observação: Na companhia aberta, é vedada  a manutenção de mais de uma
+Observação: Na companhia aberta, é vedada a manutenção de mais de uma
 classe de ações ordinárias, ressalvada a adoção do voto plural nos termos e nas
 condições dispostos no art. 110-A da Lei nº 6.404, de 1976.
 VII - diretores: número mínimo de um, ou limites máximo e mínimo permitidos;
@@ -740,11 +740,11 @@ Observações:
 - as companhias abertas, as de capital autorizado e as de economia mista terão,
 obrigatoriamente, conselho de administração (arts. 138 e 239 da Lei nº 6.404,
 de 1976).
-- na composição do  conselho de administração das companhias abertas, é
+- na composição do conselho de administração das companhias abertas, é
 obrigatória a participação de conselheiros independentes, nos termos e nos
 prazos definidos pela Comissão de Valores Mobiliários.
 XIII - voto plural: especificação, quórum de criação de classe de ações ordinárias
-com atribuição do voto plural, bem como, nos termos do  art. 110-A da Lei  nº
+com atribuição do voto plural, bem como, nos termos do art. 110-A da Lei nº
 6.404, de 1976, no mínimo:
 - o número de votos atribuído por ação de cada classe de ações ordinárias com
 direito a voto, respeitado o limite previsto na Lei;
@@ -760,8 +760,8 @@ O estatuto não pode conter dispositivos que:
 15.1. DENOMINAÇÃO
 ......................................................................................................................
 15.1.1. Utilização do CNPJ como nome empresarial
-Para a utilização  do número do CNPJ como nome empresarial, deve ser levado
-em conta apenas o número raiz, ou seja,  os oito primeiros dígitos do
+Para a utilização do número do CNPJ como nome empresarial, deve ser levado
+em conta apenas o número raiz, ou seja, os oito primeiros dígitos do
 CNPJ (NN.NNN.NNN + S.A.).
 Em se tratando de constituição ou alteração, os acionistas deverão indicar no
 instrumento que irão utilizar o número do CNPJ como nome empresarial. O nome
@@ -789,32 +789,32 @@ IV. Não compete à Junta Comercial analisar o mérito das publicações que dev
 ser realizadas de forma resumida no jornal impresso, salvo no caso do resumo de
 demonstrações financeiras, que deve conter o mínimo contido no inciso II do art.
 289 Lei nº 6.404, de 1976.
-17.1. PUBLICAÇÕES DE COMPANHIAS FECHADAS COM RECE ITA BRUTA ANUAL
+17.1. PUBLICAÇÕES DE COMPANHIAS FECHADAS COM RECEITA BRUTA ANUAL
 DE ATÉ R$ 78.000.000,00
 As companhias fechadas, com receita bruta anual de até R$ 78.000.000,00
-(setenta e oito milhões de reais),  em exceção ao art. 289 da Lei nº 6.404, de
+(setenta e oito milhões de reais), em exceção ao art. 289 da Lei nº 6.404, de
 1976, poderão realizar suas publicações na Central de Balanços - CB do Sistema
-Público de Escrituração Digital - SPED e no sítio eletrônico da companhia,  nos
+Público de Escrituração Digital - SPED e no sítio eletrônico da companhia, nos
 termos do disposto no art. 294 da Lei nº 6.404, de 1976, e na Portaria ME
 nº 12.071, de 7 de outubro de 2021.
 Notas:
-I. Para fins de registro, o atendimento ao requisito exigido em relação a  receita
+I. Para fins de registro, o atendimento ao requisito exigido em relação a receita
 bruta anual deverá ser aferida mediante declaração da sociedade.
 II. O SPED permitirá a emissão de documentos que comprovem a autenticidade,
 a inalterabilidade e a data de publicação dos atos.
-III. Estas disposiçõe s não se aplicam à  companhia controladora de grupo de
+III. Estas disposições não se aplicam à companhia controladora de grupo de
 sociedades, ou a ela filiadas, de que trata o art. 265 a Lei nº 6.404, de 1976.
 IV. Não compete à Junta Comercial realizar a conferência da publicação no sítio
 eletrônico da companhia.
 ......................................................................................................................
 19. DO ENQUADRAMENTO COMO STARTUP
 Nos termos do art. 4º da Lei Complementar nº 182, de 1º de junho de 2021, é
-enquadrada como  startup a sociedade anônima, e m constituição ou em
-operação recente, cuja atuação caracteriza -se pela inovação aplicada a modelo
+enquadrada como startup a sociedade anônima, em constituição ou em
+operação recente, cuja atuação caracteriza-se pela inovação aplicada a modelo
 de negócios ou a produtos ou serviços ofertados.
 19.1. REQUISITOS
-Para fins de registro,  os acionistas da sociedade anônima  devem fazer
-constar declaração em  seu ato constitutivo ou alterador de que se enquadra
+Para fins de registro, os acionistas da sociedade anônima devem fazer
+constar declaração em seu ato constitutivo ou alterador de que se enquadra
 como uma startup, conforme prevê a alínea "a", do inciso III, do § 1º, do art. 4º
 da Lei Complementar nº 182, de 2021.
 Notas:
@@ -823,12 +823,12 @@ Notas:
 I. A declaração de que trata o item 19.1 deve constar do próprio instrumento de
 constituição/alteração ou instrumento de enquadramento em processo
 apartado.
-II. Além das especificidades aplicáveis às  startups, deverão ser observadas as
+II. Além das especificidades aplicáveis às startups, deverão ser observadas as
 demais regras aplicáveis à sociedade anônima.
 ......................................................................................................................
 SEÇÃO II
 ......................................................................................................................
-1.3. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O  AVISO
+1.3. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O AVISO
 DE QUE O RELATÓRIO DA ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES
 FINANCEIRAS E, SE HOUVER, PARECER DOS AUDITORES INDEPENDENTES, SE
 ACHAM À DISPOSIÇÃO DOS ACIONISTAS
@@ -853,21 +853,21 @@ nomes dos mesmos, respectivas datas e folhas onde foram feitas as publicações
 do aviso ou quando estas forem arquivadas em processo em separado,
 anteriormente ao arquivamento da ata de assembleia geral ordinária.
 1.3-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA
-BRUTA ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O AVISO  DE QUE O
+BRUTA ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O AVISO DE QUE O
 RELATÓRIO DA ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES FINANCEIRAS E,
 SE HOUVER, PARECER DOS AUDITORES INDEPENDENTES, SE ACHAM À
 DISPOSIÇÃO DOS ACIONISTAS
 Notas:
 I. A publicação do aviso será dispensada quando:
 a) os documentos indicados nos incisos I, II e III do art. 133 da Lei nº 6.404, de 15
-de dezembro de 1976, forem publicados, pelo menos, trinta  dias antes da data
+de dezembro de 1976, forem publicados, pelo menos, trinta dias antes da data
 marcada para a realização da AGO;
 
 21
 b) a AGO reunir a presença da totalidade dos acionistas.
-II. É  dispensada a apresentação do recibo,  quando a ata consignar o meio
-eletrônico e as datas onde foram  realizadas as publicações do aviso ou quando
-estas forem arquivadas em processo  em separado, anteriormente ao
+II. É dispensada a apresentação do recibo, quando a ata consignar o meio
+eletrônico e as datas onde foram realizadas as publicações do aviso ou quando
+estas forem arquivadas em processo em separado, anteriormente ao
 arquivamento da ata de assembleia geral ordinária.
 1.4. FOLHAS DO JORNAL DE GRANDE CIRCULAÇÃO QUE PUBLICARAM O EDITAL
 DE CONVOCAÇÃO DA AGO
@@ -878,22 +878,22 @@ eletrônico da internet do mesmo jornal.
 II. A publicação da convocação é dispensada quando constar da ata a presença
 da totalidade dos acionistas (§ 4º do art. 124 da Lei nº 6.404 de 15 de dezembro
 de 1976)
-III. É dispensada a apresentação de folhas de jornais , quando a ata consignar os
+III. É dispensada a apresentação de folhas de jornais, quando a ata consignar os
 nomes dos mesmos, respectivas datas e nos de folhas onde foram feitas as
 publicações do aviso ou quando estas forem arquivadas em processo em
 separado, anteriormente ao arquivamento da ata de AGO.
-IV. Mesmo presente à assembleia  a totalidade dos acionistas, a publicação dos
+IV. Mesmo presente à assembleia a totalidade dos acionistas, a publicação dos
 documentos indicados nos incisos I, II e III do art. 133 da Lei nº 6.404, de 15 de
 dezembro de 1976, é obrigatória antes da realização da AGO (§ 4º do art. 133 da
-Lei nº 6.404, de 15 de dezembro de 1976), para  as companhias que não se
+Lei nº 6.404, de 15 de dezembro de 1976), para as companhias que não se
 enquadrarem nas disposições do art. 294, da lei supracitada.
 1.4.-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA
 BRUTA ANUAL DE ATÉ R$ 78.000.000,00 QUE PUBLICOU O EDITAL DE
 CONVOCAÇÃO DE AGO
-Os recibos das publicaçõe s emitidos pela Central de Balanços - CB do Sistema
+Os recibos das publicações emitidos pela Central de Balanços - CB do Sistema
 Público de Escrituração Digital - SPED, com a comprovação das efetivas
 publicações deverão ser arquivados junto com a cópia da ata da assembleia,
-sendo dispensados quando a ata consignar o meio eletrônico  e as datas onde
+sendo dispensados quando a ata consignar o meio eletrônico e as datas onde
 foram realizadas as publicações.
 Nota: O SPED permite a emissão de documentos que comprovem a
 autenticidade, a inalterabilidade e a data de publicação dos atos.
@@ -906,7 +906,7 @@ impresso e, de forma simultânea, a íntegra do documento será divulgada no sí
 eletrônico da internet do mesmo jornal.
 Nos termos do inciso II do art. 289, da Lei nº 6.404, de 1976, a publicação de
 forma resumida de demonstrações financeiras, deverá conter, no mínimo, em
-comparação com os dados do exercício social anterior, informaçõ es ou valores
+comparação com os dados do exercício social anterior, informações ou valores
 
 22
 globais relativos a cada grupo e a respectiva classificação de contas ou registros,
@@ -923,19 +923,19 @@ nomes dos mesmos, respectivas datas e folhas onde foram feitas as publicações
 do aviso ou quando estas forem arquivadas em processo em separado,
 anteriormente ao arquivamento da ata de assembleia geral ordinária.
 1.5.-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA
-BRUTA ANUAL DE ATÉ R$ 78.000.000,00,  QUE PUBLICOU O  RELATÓRIO DA
+BRUTA ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O RELATÓRIO DA
 ADMINISTRAÇÃO, CÓPIA DAS DEMONSTRAÇÕES FINANCEIRAS E O PARECER DOS
 AUDITORES INDEPENDENTES, SE HOUVER
 Os recibos das divulgações emitidos pela Central de Balanços (CB) do Sistema
 Público de Escrituração Digital (SPED), com a comprovação das efetivas
 publicações deverão ser arquivadas junto com a cópia da ata da assembleia que
-deliberar sobre os documentos,  sendo dispensados quando a ata consignar o
+deliberar sobre os documentos, sendo dispensados quando a ata consignar o
 meio eletrônico e as datas onde foram realizadas as publicações.
 2. “QUORUM” DE INSTALAÇÃO DA ASSEMBLEIA
-A assembleia geral ordinária instalar -se-á, em primeira  convocação, com a
+A assembleia geral ordinária instalar-se-á, em primeira convocação, com a
 presença de acionistas que representem, no mínimo, 1/4 (um quarto) do total de
 votos conferidos pelas ações com direito a voto e, em segunda convocação, com
-qualquer número (art. 125 da Lei nº 6.404, de 1976), ressalvadas a s exceções
+qualquer número (art. 125 da Lei nº 6.404, de 1976), ressalvadas as exceções
 previstas em lei.
 ......................................................................................................................
 5. ATA DA ASSEMBLEIA GERAL ORDINÁRIA
@@ -943,12 +943,12 @@ previstas em lei.
 V - convocação;
 a) se por edital, citar o jornal de grande circulação em que foi publicado. A
 menção, ainda, das datas e dos números das folhas das publicações dispensará a
-apresentação das mesmas à Junta Com ercial, quer seja acompanhando a ata,
+apresentação das mesmas à Junta Comercial, quer seja acompanhando a ata,
 quer seja para anotação.
-b) se eletrônica,  a companhia fechada que tiver receita bruta anual de até R$
-78.000.000,00 (setenta e oito milhões de reais) deverá  citar o sítio
+b) se eletrônica, a companhia fechada que tiver receita bruta anual de até R$
+78.000.000,00 (setenta e oito milhões de reais) deverá citar o sítio
 eletrônico/sistema (Central de Balanços do SPED) em que foi publicado.
-A declaração do preenchimento do requisito exigido em relação a  receita bruta
+A declaração do preenchimento do requisito exigido em relação a receita bruta
 anual, bem como a menção do meio eletrônico e das datas dispensará a
 apresentação dos mesmos à Junta Comercial, quer seja acompanhando a ata,
 quer seja para anotação.
@@ -960,7 +960,7 @@ A menção das datas e dos números das folhas das publicações ou, ainda, do m
 eletrônico, dispensará a apresentação das mesmas à Junta Comercial, quer seja
 acompanhando a ata, quer seja para anotação.
 A companhia deve fazer as publicações sempre no mesmo jornal, e qualquer
-mudança deverá  ser precedida de aviso aos acionistas no extrato da ata da
+mudança deverá ser precedida de aviso aos acionistas no extrato da ata da
 Assembleia Geral Ordinária (art. 289 da Lei nº 6.404, de 1976).
  VI - ordem do dia: registrar;
 ......................................................................................................................
@@ -972,24 +972,24 @@ Notas:
 I. O resumo do documento será publicado no jornal de grande circulação
 impresso e, de forma simultânea, a íntegra do documento será divulgada no sítio
 eletrônico da internet do mesmo jornal.
-II. A publicação da convocação é dispensada qu ando constar da ata a presença
+II. A publicação da convocação é dispensada quando constar da ata a presença
 da totalidade dos acionistas (§ 4° do art. 124 da Lei n° 6.404 de 15 de dezembro
 de 1976)
 III. É dispensada a apresentação das folhas dos jornais quando a ata consignar os
-nomes dos mesmos, respectivas datas e números das fol has onde foram feitas
+nomes dos mesmos, respectivas datas e números das folhas onde foram feitas
 as publicações da convocação ou quando estas forem arquivadas em processo
 em separado, anteriormente ao arquivamento da ata de AGE.
 1.3.-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA
-BRUTA ANUAL DE ATÉ R$ 78.000.000,00,  QUE PUBLICOU O  EDITAL DE
+BRUTA ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O EDITAL DE
 CONVOCAÇÃO DA AGE
 Os recibos das publicações emitidos pela Central de Balanços - CB do Sistema
 Público de Escrituração Digital - SPED, com a comprovação das efetivas
-publicações deverão ser arquivados junto com a cópia da ata da as sembleia,
+publicações deverão ser arquivados junto com a cópia da ata da assembleia,
 sendo dispensados quando a ata consignar o meio eletrônico e as datas onde
 foram realizadas as publicações.
 ......................................................................................................................
 2. “QUORUM” DE INSTALAÇÃO DA ASSEMBLEIA
-A assembleia geral extraordinária instalar -se-á, em primeira convocação, com a
+A assembleia geral extraordinária instalar-se-á, em primeira convocação, com a
 presença de acionistas que representem, no mínimo, 1/4 (um quarto) do total de
 votos conferidos pelas ações com direito a voto e, em segunda convocação, com
 qualquer número (art. 125 da Lei nº 6.404, de 1976), ressalvadas as exceções
@@ -998,8 +998,8 @@ previstas em lei.
 
 24
 A assembleia geral extraordinária para apreciar proposta de reforma do estatuto
-instalar-se-á, em  primeira convocação, com a presen ça de acionistas que
-representem, no mínimo, 2/3  do total  de votos conferidos pelas ações com
+instalar-se-á, em primeira convocação, com a presença de acionistas que
+representem, no mínimo, 2/3 do total de votos conferidos pelas ações com
 direito a voto, e em segunda convocação, com qualquer número. A convocação
 deverá indicar a matéria estatutária a ser alterada (art. 135 da Lei nº 6.404, de
 1976).
@@ -1008,14 +1008,14 @@ deverá indicar a matéria estatutária a ser alterada (art. 135 da Lei nº 6.40
 ......................................................................................................................
 V - convocação;
 ......................................................................................................................
-a) se por edital, citar o jornal de grande circulação em que  foi publicado. A
-menção, ainda, das datas e dos números das folhas das publicações  dispensará
+a) se por edital, citar o jornal de grande circulação em que foi publicado. A
+menção, ainda, das datas e dos números das folhas das publicações dispensará
 apresentação das mesmas à Junta Comercial, quer seja acompanhando a
 ata, quer seja para anotação;
 b) se eletrônica, a companhia fechada que tiver receita bruta anual de até R$
-78.000.000,00 (set enta e oito milhões de reais) deverá  citar o sítio
+78.000.000,00 (setenta e oito milhões de reais) deverá citar o sítio
 eletrônico/sistema (Central de Balanços do SPED) em que foi publicado.
-A declaração do preenchimento do requisito exigido em relação a  receita bruta
+A declaração do preenchimento do requisito exigido em relação a receita bruta
 anual, bem como a menção do meio eletrônico e das datas dispensará a
 apresentação dos mesmos à Junta Comercial, quer seja acompanhando a ata,
 quer seja para anotação.
@@ -1024,8 +1024,8 @@ VI - ordem do dia: registrar;
 9.2. OPOSIÇÃO DE CREDORES.
 ......................................................................................................................
 II - instruído o processo com: (a) as folhas do Diário Oficial e do jornal de grande
-circulação que public aram a ata da assembleia;  ou (b) o  documento que
-comprove a publicação na forma da  Portaria ME nº 12.071, de 2021 (quando a
+circulação que publicaram a ata da assembleia; ou (b) o documento que
+comprove a publicação na forma da Portaria ME nº 12.071, de 2021 (quando a
 Lei permitir que a companhia realize a publicação de forma eletrônica).
 ......................................................................................................................
 SEÇÃO V
@@ -1036,7 +1036,7 @@ Notas:
 I. O resumo do documento será publicado no jornal de grande circulação
 impresso e, de forma simultânea, a íntegra do documento será divulgada no sítio
 eletrônico da internet do mesmo jornal.
-II. Essa publ icação será dispensada quando constar da ata a presença da
+II. Essa publicação será dispensada quando constar da ata a presença da
 totalidade dos acionistas.
 
 25
@@ -1045,7 +1045,7 @@ os nomes dos mesmos, respectivas datas e números de folhas onde foram feitas
 as publicações da convocação ou quando estas forem arquivadas em processo
 em separado, anteriormente ao arquivamento da ata de assembleia especial.
 1.2.-A. RECIBO DO SPED, NO CASO DE COMPANHIA FECHADA COM RECEITA
-BRUTA ANUAL DE ATÉ R$ 78.000.000,00,  QUE PUBLICOU O  EDITAL DE
+BRUTA ANUAL DE ATÉ R$ 78.000.000,00, QUE PUBLICOU O EDITAL DE
 CONVOCAÇÃO DA ASSEMBLEIA
 Os recibos das publicações emitidos pela Central de Balanços - CB do Sistema
 Público de Escrituração Digital - SPED, com a comprovação das efetivas
@@ -1056,14 +1056,14 @@ foram realizadas as publicações.
 6. ATA DA ASSEMBLEIA ESPECIAL
 ......................................................................................................................
 IV - convocação;
-a) se por edital, citar o jornal local de grande circulação em que  foi publicado. A
+a) se por edital, citar o jornal local de grande circulação em que foi publicado. A
 menção, ainda, das datas e dos números das folhas das publicações dispensará a
 apresentação das mesmas à Junta Comercial, quer seja acompanhando ata, quer
 seja para anotação;
-b) se eletrônica , a companhia fechada que tiver  receita bruta anual de até R$
-78.000.000,00 (setenta e oito milhões de reais) deverá  citar o sítio
+b) se eletrônica, a companhia fechada que tiver receita bruta anual de até R$
+78.000.000,00 (setenta e oito milhões de reais) deverá citar o sítio
 eletrônico/sistema (Central de Balanços do SPED) em que foi publicado.
-A declaração do preenchimento do requisito exigido em relação a  receita bruta
+A declaração do preenchimento do requisito exigido em relação a receita bruta
 anual, bem como a menção do meio eletrônico e das datas dispensará a
 apresentação dos mesmos à Junta Comercial, quer seja acompanhando a ata,
 quer seja para anotação.
@@ -1072,9 +1072,9 @@ V - ordem do dia: registrar;
 SEÇÃO IX
 ......................................................................................................................
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser
-apresentada uma FCN,  assim como deverá ser apresentada uma FC N
-individualizada para a sede quando da alteração do ato  constitutivo constar,
-além dos atos relativos a filiais,  alteração de outras cláusulas cujos
+apresentada uma FCN, assim como deverá ser apresentada uma FCN
+individualizada para a sede quando da alteração do ato constitutivo constar,
+além dos atos relativos a filiais, alteração de outras cláusulas cujos
 dados sejam objeto de cadastramento.
 ......................................................................................................................" (NR)
 
@@ -1087,11 +1087,11 @@ masculino, em competição profissional, sujeita às regras específicas da Lei 
 14.193, de 6 de agosto de 2021, e, subsidiariamente, às disposições da Lei nº
 6.404, de 15 de dezembro de 1976, e da Lei nº 9.615, de 24 de março de 1998
 (art. 1º da Lei nº 14.193, de 2021).
-Aplicam-se à Sociedade Anônima do Futebol,  subsidiariamente, todas as regras
+Aplicam-se à Sociedade Anônima do Futebol, subsidiariamente, todas as regras
 aplicáveis à sociedade anônima de que trata este Manual de Registro.
 
 1. CONSTITUIÇÃO
-A constituição da  Sociedade Anônima do Futebol  poderá ocorrer por um único
+A constituição da Sociedade Anônima do Futebol poderá ocorrer por um único
 acionista.
 Nos termos do art. 2º da Lei nº 14.193, de 2021, sem prejuízo de outras
 modalidades constitutivas, a SAF pode ser constituída pela:
@@ -1106,18 +1106,18 @@ pessoa jurídica original de seus ativos, tais como, mas não exclusivamente,
 nome, marca, dísticos, símbolos, propriedades, patrimônio, ativos imobilizados
 e mobilizados, inclusive registros, licenças, direitos desportivos sobre atletas e
 sua repercussão econômica. Nessa hipótese, o clube ou a pessoa jurídica original
-irá constituir uma SAF e transferir -lhe patrimônio para integralização do capital
+irá constituir uma SAF e transferir-lhe patrimônio para integralização do capital
 subscrito, nos moldes do art. 27, § 2º da Lei 9.615, de 1998.
 Notas:
-I. No caso de cisão (inciso  II) a Sociedade Anônima do Futebol emitirá
+I. No caso de cisão (inciso II) a Sociedade Anônima do Futebol emitirá
 obrigatoriamente ações ordinárias da classe A para subscrição exclusivamente
 pelo clube ou pessoa jurídica original que a constituiu.
-II. Na hipótese do inciso III, não se faz necessária a participação de mais de  uma
+II. Na hipótese do inciso III, não se faz necessária a participação de mais de uma
 pessoa natural ou jurídica ou de mais de um fundo de investimento no ato
 constitutivo, ou seja, não há a necessidade da pluralidade de acionistas.
 
 1.1. CONSTITUIÇÃO POR TRANSFORMAÇÃO
-O clube, associação civil, regida pelo Código Civil, dedicada ao f omento e à
+O clube, associação civil, regida pelo Código Civil, dedicada ao fomento e à
 prática do futebol ou a pessoa jurídica original, sociedade empresarial dedicada
 ao fomento e à prática do futebol, podem se transformar em Sociedade Anônima
 do Futebol, devendo observar as regras atinentes à conversão (arts. 84 e 85) e
@@ -1127,7 +1127,7 @@ transformação (arts. 63 a 67), respectivamente, da Instrução Normativa DREI 
 27
 2.  ESTATUTO SOCIAL
 O Estatuto Social, observadas as especificidades desta seção, deverá conter os
-requisitos constantes do item 15  da Seção I do Capítulo II deste Manual  de
+requisitos constantes do item 15 da Seção I do Capítulo II deste Manual de
 Registro, podendo:
 I - estabelecer outros requisitos necessários à eleição para o conselho de
 administração;
@@ -1171,12 +1171,12 @@ a expressão "Sociedade Anônima do Futebol" ou a abreviatura "S.A.F.".
 O capital social, expresso em moeda nacional, deve constar do estatuto social,
 contudo, o clube ou pessoa jurídica original poderá integralizar a sua parcela ao
 capital social por meio da transferência à companhia de seus ativos, tais como,
-mas não exclusiva mente, nome, marca, dísticos, símbolos, propriedades,
+mas não exclusivamente, nome, marca, dísticos, símbolos, propriedades,
 patrimônio, ativos imobilizados e mobilizados, inclusive registros, licenças,
 direitos desportivos sobre atletas e sua repercussão econômica.
-Nos termos da Lei nº 9.615, de 1998, as entidades de prática  desportiva
+Nos termos da Lei nº 9.615, de 1998, as entidades de prática desportiva
 participantes de competições profissionais e as entidades de administração de
-desporto ou ligas,  independentemente da forma jurídica adotada, poderão
+desporto ou ligas, independentemente da forma jurídica adotada, poderão
 utilizar seus bens patrimoniais, desportivos ou sociais, inclusive imobiliários ou
 de propriedade intelectual, para integralizar sua parcela no capital de Sociedade
 Anônima do Futebol.
@@ -1186,7 +1186,7 @@ integrante de acordo de controle, não poderá deter participação, direta ou
 indireta, em outra Sociedade Anônima do Futebol.
 II. O acionista que detiver 10% (dez por cento) ou mais do capital votante ou total
 da Sociedade Anônima do Futebol, sem a controlar, se participar do capital social
-de outra Sociedade Anônima do Futebol, não terá di reito a voz nem a voto nas
+de outra Sociedade Anônima do Futebol, não terá direito a voz nem a voto nas
 assembleias gerais, nem poderá participar da administração dessas companhias,
 diretamente ou por pessoa por ele indicada.
 
@@ -1195,10 +1195,10 @@ Enquanto as ações ordinárias da classe A corresponderem a pelo menos 10% (dez
 por cento) do capital social votante ou do capital social total, o voto afirmativo
 do seu titular no âmbito da assembleia geral será condição necessária para a
 Sociedade Anônima do Futebol deliberar sobre:
-I - alienação, oneração, cessão, c onferência, doação ou disposição de qualquer
+I - alienação, oneração, cessão, conferência, doação ou disposição de qualquer
 bem imobiliário ou de direito de propriedade intelectual conferido pelo clube ou
 pessoa jurídica original para formação do capital social;
-II - qualquer ato de reorganização societária ou empresarial, como fusão , cisão,
+II - qualquer ato de reorganização societária ou empresarial, como fusão, cisão,
 incorporação de ações, incorporação de outra sociedade ou trespasse;
 III - dissolução, liquidação e extinção; e
 IV - participação em competição desportiva sobre a qual dispõe o art. 20 da Lei
@@ -1214,7 +1214,7 @@ I - alteração da denominação;
 II - modificação dos signos identificativos da equipe de futebol profissional,
 incluídos símbolo, brasão, marca, alcunha, hino e cores; e
 III - mudança da sede para outro Município.
-Nota: Depende de ap rovação prévia do clube ou pessoa jurídica original, que é
+Nota: Depende de aprovação prévia do clube ou pessoa jurídica original, que é
 titular de ações ordinárias da classe A, qualquer alteração no estatuto da
 Sociedade Anônima do Futebol para modificar, restringir ou subtrair os direitos
 conferidos por essa classe de ações, ou para extinguir a ação ordinária da classe
@@ -1240,15 +1240,15 @@ se houver, os critérios estabelecidos no estatuto.
 
 7.1. CONSELHO FISCAL
 Não poderá ser eleito para o conselho fiscal ou para a diretoria o empregado ou
-membro de qualquer órgão, e letivo ou não, de administração, deliberação ou
+membro de qualquer órgão, eletivo ou não, de administração, deliberação ou
 fiscalização do clube ou pessoa jurídica original enquanto esse for acionista da
 respectiva Sociedade Anônima do Futebol.
 
 8. PUBLICAÇÕES
-A Sociedade Anônima do Futebol que tiver receita bruta anual de até R $
+A Sociedade Anônima do Futebol que tiver receita bruta anual de até R$
 78.000.000,00 (setenta e oito milhões de reais) poderá realizar todas as
 publicações obrigatórias por lei de forma eletrônica, incluídas as convocações,
-atas e demonstrações financeiras, e deverá mantê -las, no próprio sítio
+atas e demonstrações financeiras, e deverá mantê-las, no próprio sítio
 eletrônico, durante o prazo de 10 (dez) anos." (NR)
 
 30
@@ -1262,7 +1262,7 @@ ELETRÔNICA
 A FCN deverá ser apresentada juntamente com os instrumentos de constituição,
 alteração (atas de assembleias) ou extinção.
 Nota: Caso a Junta Comercial utilize sistema de integração entre os órgãos de
-registro e legalização  de empresas, que permita transmissão eletrônica dos
+registro e legalização de empresas, que permita transmissão eletrônica dos
 dados, fica dispensada a apresentação deste documento.
 ......................................................................................................................" (NR)
 
@@ -1272,11 +1272,11 @@ SEÇÃO I
 ......................................................................................................................
 10. DO ENQUADRAMENTO COMO STARTUP
 Nos termos do art. 4º da Lei Complementar nº 182, de 1º de junho de 2021, é
-enquadrada como  startup a cooperativa, em constituição ou em operação
-recente, cuja atuação caracteriza -se pela inovação aplicada a modelo de
+enquadrada como startup a cooperativa, em constituição ou em operação
+recente, cuja atuação caracteriza-se pela inovação aplicada a modelo de
 negócios ou a produtos ou serviços ofertados.
 10.1. REQUISITOS
-Para fins de registro,  os cooperados da cooperativa  devem fazer
+Para fins de registro, os cooperados da cooperativa devem fazer
 constar declaração em seu ato constitutivo ou alterador de que se enquadra
 como uma startup, conforme prevê a alínea "a", do inciso III, do § 1º, do art. 4º
 da Lei Complementar nº 182, de 2021.
@@ -1284,7 +1284,7 @@ Notas:
 I. A declaração de que trata o item 10.1 deve constar do próprio instrumento de
 constituição/alteração ou instrumento de enquadramento em processo
 apartado.
-II. Além das especificidades aplicáveis às  startups, deverão ser observadas as
+II. Além das especificidades aplicáveis às startups, deverão ser observadas as
 demais regras aplicáveis à sociedade cooperativa." (NR)
 ......................................................................................................................
 SEÇÃO II
@@ -1294,9 +1294,9 @@ SEÇÃO II
 
 31
 Nota: Para cada ato de abertura, alteração ou extinção de filial deverá ser
-apresentada uma FCN,  assim como deverá ser apresentada uma FCN
-individualizada para a sede quando da alteração do  ato constitutivo  constar,
-além dos atos relativos a filiais, alteração de outras cláus ulas cujos dados sejam
+apresentada uma FCN, assim como deverá ser apresentada uma FCN
+individualizada para a sede quando da alteração do ato constitutivo constar,
+além dos atos relativos a filiais, alteração de outras cláusulas cujos dados sejam
 objeto de cadastramento.
 ......................................................................................................................
 SEÇÃO III
@@ -1334,7 +1334,7 @@ ATOS PREÇO
 
 32
 ................................................................................................................................
-"16. AUTENTICAÇÃO  DE INSTRUMENTOS DE ESCRITURAÇÃO DE EMPRESÁRIO, SOCIEDADE
+"16. AUTENTICAÇÃO DE INSTRUMENTOS DE ESCRITURAÇÃO DE EMPRESÁRIO, SOCIEDADE
 EMPRESÁRIA, COOPERATIVA E DE LEILOEIRO/TRADUTOR PÚBLICO/ADMINISTRADOR DE ARMAZÉM
 GERAL
 Obs.: ......................................................................................................................
@@ -1554,7 +1554,7 @@ administradores) REPRESENTANTE LEGAL
 
 CPF /CNPJ DO REPRESENTADO
 
-ADMINISTRADOR CPF DOS  ADMINISTRADORES COM OS QUAIS ASSINA (no caso de uso da firma em conjunto)
+ADMINISTRADOR CPF DOS ADMINISTRADORES COM OS QUAIS ASSINA (no caso de uso da firma em conjunto)
 USO DA FIRMA
 CPF
 

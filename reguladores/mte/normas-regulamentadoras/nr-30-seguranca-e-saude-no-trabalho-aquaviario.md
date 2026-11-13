@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "texto atualizado publicado pelo MTE (não substitui o DOU)"
 fonte: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes"
 arquivo: "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2002/portaria_34_2002_aprova_nr_30.pdf"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-13
 ---
 
 # NR-30 - SEGURANÇA E SAÚDE NO TRABALHO AQUAVIÁRIO
@@ -61,7 +61,7 @@ contratos coletivos de trabalho.
 30.2.3 Às embarcações classificadas  de acordo com a Convenção Solas,  cujas normas de segurança são
 auditadas pelas sociedades classificadoras, não se aplicarem as NR-10, 13 e 23.
 30.2.3.1 Às plataformas e os navios plataforma não se aplica o disposto no subitem anterior.
-30.2.3.2 Para as embarcações descritas no subitem 30.2.3, são exigidas a apresentação dos certificados de
+30.2.3.2 Para as embarcações descritas no subitem 30. 2.3, são exigidas a apresentação dos certificados de
 classe.
 30.3 Competências
 30.3.1 Dos armadores e seus prepostos
@@ -279,7 +279,7 @@ de roupas de trabalho.
 30.11.2 As instalações para a lavagem de roupas devem ter abastecimento de água doce.
 30.11.3 Deve haver local devidamente arejado e de fácil acesso para guardar as roupas de trabalho.
 30.12 Da Proteção à Saúde
-30.12.1 A enfermaria, quando existente, deve reunir condições quanto a sua capacidade, área, instalações
+30.12.1 A enfermaria, quando existente, deve reunir condições quanto a sua cap acidade, área, instalações
 de água quente e fria, drenagem de líquidos e resíduos.
 30.12.1 A enfermaria deve dispor de meios e materiais adequados para o cumprimento de sua finalidade.
 30.13 Segurança nos Trabalhos de Limpeza e Manutenção das Embarcações.

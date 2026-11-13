@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/in-81-2020-anexo-ix.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-13
 ---
 
 # Anexo IX - Declaração de Funcionamento/Paralisação
@@ -32,7 +32,7 @@ nome e assinatura
 COMUNICAÇÃO DE PARALISAÇÃO TEMPORÁRIA DE ATIVIDADES
 
 (Nome empresarial)______________, inscrita no CNPJ sob nº ___________, com sede na ___________
-(Rua/nº/Município/Estado), comunica que paralisará, temporariamente, suas  atividades, pelo prazo de
+(Rua/nº/Município/Estado), comunica que paralisará, temporariamente, suas atividades, pelo prazo de
 _________, com início em ___/___/____.
 
 _______________, ____ de ______________ de _____
