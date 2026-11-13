@@ -8,8 +8,8 @@ data:
 versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
 fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Comunicado-DIGES-12-de-2026.aspx"
 id_fonte: "sefazsp-1529846"
-baixado_em: 2026-11-12
-modificado_na_fonte: "2026-11-12T15:00:52Z"
+baixado_em: 2026-11-13
+modificado_na_fonte: "2026-11-13T15:00:43Z"
 ---
 
 # Comunicado DIGES 12 de 2026

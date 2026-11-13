@@ -7,8 +7,8 @@ data:
 versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
 fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/lei067.aspx"
 id_fonte: "sefazsp-1504808"
-baixado_em: 2026-11-09
-modificado_na_fonte: "2025-06-04T20:35:04Z"
+baixado_em: 2026-11-13
+modificado_na_fonte: "2026-11-12T23:26:51Z"
 ---
 
 # Lei 6374 - Artigo 67 ao 70
@@ -105,7 +105,7 @@ refletir a escrituração do livro diário. (Parágrafo acrescentado pela Lei [1
 **Artigo 68** - Considera-se desacompanhada de documento fiscal a mercadoria ou
 prestação acobertada por documento inábil, assim entendido, também, o que não seja o
 exigido para a respectiva operação ou prestação ou não esteja provido de selo de
-controle, quando exigido pela legislação. (Redação dada ao artigo pela Lei a href="http://info.fazenda.sp.gov.br/NXT/gateway.dll/legislacao\_tributaria/leis/lei10619.htm">10.619/00 de 19-07-2000; DOE 20-07-2000)
+controle, quando exigido pela legislação. (Redação dada ao artigo pela [Lei 10.619](/Paginas/lei10619.aspx)​,​ de 19-07-2000; DOE 20-07-2000)
 
 **Artigo 68 -** Considera-se desacompanhada de documento fiscal a
 mercadoria ou prestação acobertada por documento inábil, assim entendido, também, o
