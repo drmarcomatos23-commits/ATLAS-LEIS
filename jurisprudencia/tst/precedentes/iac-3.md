@@ -9,8 +9,8 @@ situacao: "Admitido"
 versao_texto: "Banco Nacional de Precedentes do CNJ"
 fonte: "https://pangeabnp.pdpj.jus.br/api/v1/precedentes"
 id_fonte: "tst-iac-3"
-baixado_em: 2026-11-14
-atualizacao_fonte: "13/11/2026"
+baixado_em: 2026-11-15
+atualizacao_fonte: "14/11/2026"
 ---
 
 # Incidente de assunção de competência nº 3 do TST
@@ -50,6 +50,6 @@ Admitido
     }
   ],
   "tipo": "IAC",
-  "ultimaAtualizacao": "13/11/2026"
+  "ultimaAtualizacao": "14/11/2026"
 }
 ```
