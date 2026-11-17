@@ -8,8 +8,8 @@ data:
 versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
 fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Comunicado-DICAR-76-de-2026.aspx"
 id_fonte: "sefazsp-1529842"
-baixado_em: 2026-11-16
-modificado_na_fonte: "2026-11-16T15:00:29Z"
+baixado_em: 2026-11-17
+modificado_na_fonte: "2026-11-17T15:00:28Z"
 ---
 
 # Comunicado DICAR 76 de 2026
