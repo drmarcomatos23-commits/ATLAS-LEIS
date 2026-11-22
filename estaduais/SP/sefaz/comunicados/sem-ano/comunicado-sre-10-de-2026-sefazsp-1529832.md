@@ -8,8 +8,8 @@ data:
 versao_texto: "texto do Portal de Legislação Tributária da SEFAZ-SP (pode estar consolidado)"
 fonte: "https://legislacao.fazenda.sp.gov.br/Paginas/Comunicado-SRE-10-de-2026.aspx"
 id_fonte: "sefazsp-1529832"
-baixado_em: 2026-11-21
-modificado_na_fonte: "2026-11-21T15:00:53Z"
+baixado_em: 2026-11-22
+modificado_na_fonte: "2026-11-22T15:00:51Z"
 ---
 
 # Comunicado SRE 10 de 2026
