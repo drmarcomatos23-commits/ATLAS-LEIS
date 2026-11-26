@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "texto atualizado publicado pelo MTE (não substitui o DOU)"
 fonte: "https://www.gov.br/trabalho-e-emprego/pt-br/acesso-a-informacao/participacao-social/conselhos-e-orgaos-colegiados/comissao-tripartite-partitaria-permanente/normas-regulamentadora/normas-regulamentadoras-vigentes"
 arquivo: "https://www.gov.br/trabalho-e-emprego/pt-br/assuntos/inspecao-do-trabalho/seguranca-e-saude-no-trabalho/sst-portarias/2002/portaria_34_2002_aprova_nr_30.pdf"
-baixado_em: 2026-11-13
+baixado_em: 2026-11-26
 ---
 
 # NR-30 - SEGURANÇA E SAÚDE NO TRABALHO AQUAVIÁRIO
@@ -44,31 +44,31 @@ ANEXO
 
 NR 30 – Norma Regulamentadora de Segurança e Saúde no Trabalho Aquaviário
 30.1 Objetivo
-30.1.1 Esta norma regulamentadora tem como obje tivo a proteção e a regulamentação das condições de
+30.1.1 Esta norma regulamentadora tem como objetivo a proteção e a regulamentação das condições de
 segurança e saúde dos trabalhadores aquaviários.
 30.2 Aplicabilidade
 30.2.1 Esta norma aplica-se aos trabalhadores das embarcações comerciais, de bandeira nacional, bem
 como às de bandeiras estrangeiras, no limite do disposto na Convenção da OIT n.º 147 - Normas Mínimas
 para Marinha Mercante, utilizados no transporte de mercadorias ou de passageiros, inclusive naquelas
-utilizadas na prestação de serviços, seja na naveg ação marítima de longo curso, na de cabotagem, na
+utilizadas na prestação de serviços, seja na navegação marítima de longo curso, na de cabotagem, na
 navegação interior, de apoio marítimo e portuário, bem como em plataformas marítimas e fluviais,
 quando em deslocamento.
-30.2.1.1 O disposto nesta NR aplica-se, no que couber, às  embarcações abaixo de 500 AB, consideradas
+30.2.1.1 O disposto nesta NR aplica-se, no que couber, às embarcações abaixo de 500 AB, consideradas
 as características físicas da embarcação, sua finalidade e área de operação.
 30.2.2 A observância desta Norma Regulamentadora não desobriga as empresas do cumprimento de
 outras disposições legais com relação à matéria e ainda daquelas oriundas de convenções, acordos e
 contratos coletivos de trabalho.
-30.2.3 Às embarcações classificadas  de acordo com a Convenção Solas,  cujas normas de segurança são
+30.2.3 Às embarcações classificadas de acordo com a Convenção Solas, cujas normas de segurança são
 auditadas pelas sociedades classificadoras, não se aplicarem as NR-10, 13 e 23.
 30.2.3.1 Às plataformas e os navios plataforma não se aplica o disposto no subitem anterior.
-30.2.3.2 Para as embarcações descritas no subitem 30. 2.3, são exigidas a apresentação dos certificados de
+30.2.3.2 Para as embarcações descritas no subitem 30.2.3, são exigidas a apresentação dos certificados de
 classe.
 30.3 Competências
 30.3.1 Dos armadores e seus prepostos
 30.3.1.1 Cabe aos armadores e seus prepostos:
 a) cumprir e fazer cumprir o disposto nesta NR, bem como a observância do contido no item 1.7 da NR
 01 – Disposições Gerais e das demais disposições legais de segurança e saúde no trabalho;
-b) disponibilizar aos trabalhadores as normas de segur ança e saúde no trabalho vigentes, publicações e
+b) disponibilizar aos trabalhadores as normas de segurança e saúde no trabalho vigentes, publicações e
 material instrucional em matéria de segurança e saúde, bem estar e vida a bordo;
 c) responsabilizar-se por todos os custos relacionados a implementação do PCMSO;
 d) disponibilizar, sempre que solicitado pelas representações patronais ou de trabalhadores, as
@@ -84,18 +84,18 @@ embarcação;
 c) utilizar corretamente os dispositivos e equipamentos de segurança e estar familiarizado com as
 instalações, sistemas de segurança e compartimentos de bordo.
 30.4 Grupo de Segurança e Saúde no Trabalho a Bordo dos Navios Mercantes – GSSTB
-30.4.1 É obrigatória a constituição do GSSTB a Bord o dos Navios Mercantes de bandeira nacional com,
+30.4.1 É obrigatória a constituição do GSSTB a Bordo dos Navios Mercantes de bandeira nacional com,
 no mínimo, 500 de arqueação bruta (AB).
 30.4.1.1 Com a constituição do GSSTB, na forma estabelecida no item 30.4.1 desta NR, a (s) CIPA (s) da
 empresa deve (m) ser dimensionada (s) por meio de Convenção ou Acordo Coletivos de Trabalho.
-30.4.2 Obrigam-se ao cumprimento da presente nor ma as empresas privadas ou públicas e órgãos da
+30.4.2 Obrigam-se ao cumprimento da presente norma as empresas privadas ou públicas e órgãos da
 administração direta ou indireta.
 30.4.3 O GSSTB, funcionará sob orientação e apoio técnico dos serviços especializados em engenharia de
 segurança e em medicina do trabalho, observando o disposto na NR 04.
-30.4.4 A constituição do GSSTB não gera estabilid ade aos seus membros, em razão das peculiaridades
+30.4.4 A constituição do GSSTB não gera estabilidade aos seus membros, em razão das peculiaridades
 inerentes à atividade a bordo das embarcações mercantes.
 30.4.5 Da composição
-30.4.5.1 O Grupo de Segurança e Saúde do Trabal ho a Bordo - GSSTB fica sob a responsabilidade do
+30.4.5.1 O Grupo de Segurança e Saúde do Trabalho a Bordo - GSSTB fica sob a responsabilidade do
 comandante da embarcação e deve ser integrado pelos seguintes tripulantes:
 - Oficial encarregado da segurança;
 - Chefe de máquinas;
@@ -106,38 +106,38 @@ comandante da embarcação e deve ser integrado pelos seguintes tripulantes:
 30.4.6 Das finalidades do GSSTB:
 a) manter procedimentos que visem à preservação da segurança e saúde no trabalho e do meio ambiente,
 procurando atuar de forma preventiva;
-b) agregar esforços de toda a tripul ação para que a embarcação possa ser considerada local seguro de
+b) agregar esforços de toda a tripulação para que a embarcação possa ser considerada local seguro de
 trabalho;
 c) contribuir para a melhoria das condições de trabalho e de bem-estar a bordo;
-d) recomendar modificações e receber sugestões técn icas que visem a garantia de segurança dos
+d) recomendar modificações e receber sugestões técnicas que visem a garantia de segurança dos
 trabalhos realizados a bordo;
 e) investigar, analisar e discutir as causas de acidentes do trabalho a bordo, divulgando o seu resultado;
 f) adotar providências para que as empresas mantenham à disposição do GSSTB informações, normas e
 recomendações atualizadas em matéria de prevenção de acidentes, doenças relacionadas ao trabalho,
 enfermidades infecto-contagiosas e outras de caráter médico-social;
-g) zelar para que todos a bordo recebam e usem equi pamentos de proteção indi vidual e coletiva para
+g) zelar para que todos a bordo recebam e usem equipamentos de proteção individual e coletiva para
 controle das condições de risco.
 30.4.7 Das atribuições
 30.4.7.1 Cabe ao GSSTB:
-a) zelar pelo cumprimento a bordo da s normas vigentes de segurança, saúde no trabalho e preservação
+a) zelar pelo cumprimento a bordo das normas vigentes de segurança, saúde no trabalho e preservação
 do meio ambiente;
 b) avaliar se as medidas existentes a bordo para prevenção de acidentes e doenças relacionadas ao
 trabalho são satisfatórias;
 c) sugerir procedimentos que contemplem medidas de segurança do trabalho, especialmente quando se
 tratar de atividades que envolvam risco;
 d) verificar o correto funcionamento dos sistemas e equipamentos de segurança e de salvatagem;
-e) investigar, analisar e divulgar os acidentes oco rridos a bordo, com ou sem afastamento, fazendo as
+e) investigar, analisar e divulgar os acidentes ocorridos a bordo, com ou sem afastamento, fazendo as
 recomendações necessárias para evitar a possível repetição dos mesmos;
 f) preencher o quadro estatístico de acordo com o modelo constante no Quadro I anexo e elaborar
 relatório encaminhando-os ao empregador;
 g) participar do planejamento para a execução dos exercícios regulamentares de segurança, tais como
-abandono, combate a incêndio, resgate em am bientes confinados, prevenção a poluição e
+abandono, combate a incêndio, resgate em ambientes confinados, prevenção a poluição e
 emergências em geral, avaliando os resultados e propondo medidas corretivas;
-h) promover, a bordo, palestras e debates de caráter  educativo, assim como a distribuição publicações
+h) promover, a bordo, palestras e debates de caráter educativo, assim como a distribuição publicações
 e/ou recursos audiovisuais relacionados com os propósitos do grupo;
-i) identificar as necessidades de treinamento sobre se gurança, saúde do trabalho e preservação do meio
+i) identificar as necessidades de treinamento sobre segurança, saúde do trabalho e preservação do meio
 ambiente;
-j) quando da ocorrência de acidente de trabalho  o GSSTB deve zelar pela emissão da CAT e
+j) quando da ocorrência de acidente de trabalho o GSSTB deve zelar pela emissão da CAT e
 escrituração de termo de ocorrência no diário de bordo.
 
 30.4.8 Das reuniões
@@ -161,11 +161,11 @@ Medicina do Trabalho – SESMT.
 a bordo com representantes do SESMT da empresa, em porto nacional escolhido por esta, para
 acompanhamento, monitoração e avaliação das atividades do referido grupo.
 30.4.8.7 Quando o empregador não for obrigado a manter o SESMT, deverá recorrer aos serviços
-profissionais de uma assessoria especializada em se gurança e medicina do trabalho para avaliação anual
+profissionais de uma assessoria especializada em segurança e medicina do trabalho para avaliação anual
 das atividades do GSSTB.
 30.4.9 Das comunicações e providências
 30.4.9.1 Cabe ao comandante da embarcação:
-a) comunicar e divulgar as normas que a tripulação deve  conhecer e cumprir em matéria de segurança e
+a) comunicar e divulgar as normas que a tripulação deve conhecer e cumprir em matéria de segurança e
 saúde no trabalho a bordo e preservação do meio ambiente;
 b) dar conhecimento à tripulação das sanções legais que poderão advir do descumprimento das Normas
 Regulamentadoras, no que tange ao trabalho a bordo;
@@ -179,24 +179,24 @@ conhecimento das medidas de segurança que deverão ser tomadas;
 c) promover os meios necessários para o cumprimento das atribuições do GSSTB previstas nos itens
 30.7 e 30.8.
 30.5 Do Programa de Controle Medico de Saúde Ocupacional - PCMSO
-30.5.1 As empresas ficam obrigadas a elaborar Prog rama de Controle Médico de Saúde Ocupacional –
+30.5.1 As empresas ficam obrigadas a elaborar Programa de Controle Médico de Saúde Ocupacional –
 PCMSO, com o objetivo de promover e preservar a saúde de seus empregados, conforme disposto na NR
 07 e observado o disposto no Quadro II - Padrões Mínimos dos Exames Médicos.
 30.5.2 Para cada exame médico realizado, o médico emitirá o Atestado de Saúde Ocupacional – ASO, em
 três vias.
-30.5.2.1 A primeira via do ASO deve ser mantida a bordo da em barcação em que o trabalhador estiver
+30.5.2.1 A primeira via do ASO deve ser mantida a bordo da embarcação em que o trabalhador estiver
 prestando serviço.
-30.5.2.2 A segunda via do ASO deve ser obrigatoriamen te entregue ao trabalhado r, mediante recibo nas
+30.5.2.2 A segunda via do ASO deve ser obrigatoriamente entregue ao trabalhador, mediante recibo nas
 outras duas vias.
 30.5.2.3 A terceira via do ASO deve ser mantida na empresa em terra.
 30.5.3 Caso o prazo de validade do exame médico expire no decorrer de uma travessia, fica prorrogado
 até a data da escala da embarcação em porto onde hajam as condições necessárias para realização desses
 exames, observado o prazo máximo de quarenta e cinco dias.
 30.6 Da Alimentação
-30.6.1 Toda embarcação comercial deve ter a bordo  o aprovisionamento de víveres e água potável,
+30.6.1 Toda embarcação comercial deve ter a bordo o aprovisionamento de víveres e água potável,
 devendo ser observado: o número de tripulantes, a duração, a natureza da viagem e as situações de
 emergência.
-30.6.1.1 Deverá ser garantido um car dápio balanceado, cujo teor nutritiv o atenda às exigências calóricas
+30.6.1.1 Deverá ser garantido um cardápio balanceado, cujo teor nutritivo atenda às exigências calóricas
 necessárias às condições de saúde e conforto dos trabalhadores, adequadas ao tipo de atividade e que
 assegure o bem estar a bordo.
 30.7 Higiene e Conforto a Bordo
@@ -206,14 +206,14 @@ calor, do frio, do ruído excessivo e das emanações provenientes de outras par
 
 30.7.1.1 Ao longo do convés a embarcação deverá possuir uma via de segurança para passagem dos
 tripulantes.
-30.7.2 As tubulações de vapor, de descarga de  gases e outras semelhantes, não devem passar pelas
-acomodações da tripulação nem pelos corredores que le vem a elas. Quando essas, por motivos técnicos,
+30.7.2 As tubulações de vapor, de descarga de gases e outras semelhantes, não devem passar pelas
+acomodações da tripulação nem pelos corredores que levem a elas. Quando essas, por motivos técnicos,
 passarem por tais corredores, devem estar isoladas e protegidas.
-30.7.3 Toda embarcação deve estar provida de um sistema de ventil ação adequado que deve ser regulado
+30.7.3 Toda embarcação deve estar provida de um sistema de ventilação adequado que deve ser regulado
 para manter o ar em condições satisfatórias, de modo suficiente a atender quaisquer condições
 atmosféricas.
-30.7.4 Toda embarcação, à exceção daquelas destinadas  exclusivamente à navegação nos trópicos, deve
-estar provida de um sistema de cal efação adequado para o alojamento da tripulação. Os radiadores e
+30.7.4 Toda embarcação, à exceção daquelas destinadas exclusivamente à navegação nos trópicos, deve
+estar provida de um sistema de calefação adequado para o alojamento da tripulação. Os radiadores e
 demais equipamentos de calefação devem estar instalados de modo a evitar perigo ou desconforto para os
 ocupantes dos alojamentos.
 30.7.5 Todos os locais destinados à tripulação devem ser bem iluminados.
@@ -224,10 +224,10 @@ iluminação artificial.
 armários para os artigos usados no asseio pessoal, uma estante para livros e cabides para pendurar roupas,
 bem como de um armário individual e um cesto de lixo. Todo mobiliário deverá ser de material liso e
 resistente, que não se deforme pela corrosão.
-30.7.7 Nos casos de prévia utilização de qualquer aco modação por tripulante portador de doença infecto-
+30.7.7 Nos casos de prévia utilização de qualquer acomodação por tripulante portador de doença infecto-
 contagiosa, o local deverá ser submetido a uma desinfecção minuciosa.
 30.7.8 Os membros da tripulação devem dispor de camas individuais.
-30.7.9 As camas devem estar colocadas a uma distân cia uma da outra de modo a que se permita o acesso
+30.7.9 As camas devem estar colocadas a uma distância uma da outra de modo a que se permita o acesso
 a uma delas sem passar por cima da outra.
 30.7.9.1 A cama superior deve ser provida de escada fixa para acesso à mesma.
 30.7.10 É vedada a sobreposição de mais de duas camas.
@@ -240,46 +240,46 @@ perfeito estado de higiene e conservação.
 30.7.15 As dimensões internas de uma cama não devem ser inferiores a 1,90 metros por 0,80 metros.
 30.7.16 Na embarcação onde a aplicação dos subitens 30.7.1 e 30.8.4, gere modificações estruturais
 incompatíveis tecnicamente com as áreas disponíveis, ou reformas capazes de influenciar na segurança da
-embarcação, deve ser apresentado pelo  armador projeto técnico alternati vo para aprovação da autoridade
+embarcação, deve ser apresentado pelo armador projeto técnico alternativo para aprovação da autoridade
 competente.
 30.8 Dos Salões de Refeições e Locais de Recreio.
 30.8.1 Os pisos e anteparas não devem apresentar irregularidades e devem ser mantidos em perfeito
 estado de conservação.
 30.8.1.1 Os pisos devem ser de material antiderrapante.
-30.8.2 As mesas e cadeiras devem se r de material resistente à umid ade, de fácil limpeza e estar em
+30.8.2 As mesas e cadeiras devem ser de material resistente à umidade, de fácil limpeza e estar em
 perfeitas condições de uso.
 30.8.2.1 As cadeiras devem possuir dispositivos para fixação ao piso.
-30.8.3 Os salões de refeições e os locais de r ecreio devem ter iluminação, ventilação e temperatura
+30.8.3 Os salões de refeições e os locais de recreio devem ter iluminação, ventilação e temperatura
 adequadas.
-30.8.4 Nas embarcações maiores que 3000 AB, devem ser instaladas  salas de lazer, com mobiliário
+30.8.4 Nas embarcações maiores que 3000 AB, devem ser instaladas salas de lazer, com mobiliário
 próprio.
-30.8.4.1 Nas embarcações menores que as previstas no subitem 30.8.4,  o refeitório pode ser utilizado
+30.8.4.1 Nas embarcações menores que as previstas no subitem 30.8.4, o refeitório pode ser utilizado
 como sala de lazer.
 30.9 Da Cozinha
-30.9.1 A captação de fumaças, vapores e odores deve  ser feita mediante a utilização de um sistema de
+30.9.1 A captação de fumaças, vapores e odores deve ser feita mediante a utilização de um sistema de
 exaustão.
-30.9.2 As garrafas de GLP, bem como suas conexõ es devem ser certificadas e armazenadas fora do
+30.9.2 As garrafas de GLP, bem como suas conexões devem ser certificadas e armazenadas fora do
 recinto da cozinha, em local sinalizado, protegido e ventilado.
 30.10 Das Instalações Sanitárias
 30.10.1 As instalações sanitárias devem obedecer aos seguintes requisitos:
-a) os pisos devem ser de material antiderrapante, im permeável, de fácil limpeza e devem estar providos
+a) os pisos devem ser de material antiderrapante, impermeável, de fácil limpeza e devem estar providos
 de um sistema de drenagem;
 b) os locais devem ser devidamente iluminados, arejados e, quando necessário, aquecidos;
 c) as pias devem ter o necessário abastecimento de água doce, quente e fria;
 
-d) os vasos sanitários devem ter pressão de descar ga suficiente, permitindo seu funcionamento a
+d) os vasos sanitários devem ter pressão de descarga suficiente, permitindo seu funcionamento a
 qualquer momento e o seu controle de modo individual e, quando necessário, dispor de ducha
 higiênica próxima;
 e) quando houver vários vasos sanitários instalados num mesmo local os mesmos devem estar separados
 por meio de divisórias que garantam a privacidade dos usuários;
 f) as instalações sanitárias devem ser mantidas em permanente estado de conservação e limpeza.
 30.11 Dos Locais para Lavagem e Secagem de Roupas e Guarda de Roupas de Trabalho.
-30.11.1 Todas as embarcações de um  mínimo de 500 AB devem ter facilidades para lavagem e secagem
+30.11.1 Todas as embarcações de um mínimo de 500 AB devem ter facilidades para lavagem e secagem
 de roupas de trabalho.
 30.11.2 As instalações para a lavagem de roupas devem ter abastecimento de água doce.
 30.11.3 Deve haver local devidamente arejado e de fácil acesso para guardar as roupas de trabalho.
 30.12 Da Proteção à Saúde
-30.12.1 A enfermaria, quando existente, deve reunir condições quanto a sua cap acidade, área, instalações
+30.12.1 A enfermaria, quando existente, deve reunir condições quanto a sua capacidade, área, instalações
 de água quente e fria, drenagem de líquidos e resíduos.
 30.12.1 A enfermaria deve dispor de meios e materiais adequados para o cumprimento de sua finalidade.
 30.13 Segurança nos Trabalhos de Limpeza e Manutenção das Embarcações.
@@ -287,9 +287,9 @@ de água quente e fria, drenagem de líquidos e resíduos.
 a) vistoria prévia do local por tripulante habilitado, com atenção especial ao monitoramento dos
 percentuais de oxigênio, contaminantes e de explosividade da mistura no ambiente, em conformidade
 com as normas vigentes;
-b) uso de ventilador, exaustor ou de ambos para a e liminação de gases e vapores, antes de permitir a
+b) uso de ventilador, exaustor ou de ambos para a eliminação de gases e vapores, antes de permitir a
 entrada de pessoas, a fim de manter uma atmosfera segura durante a realização dos trabalhos;
-c) trabalho realizado em dupla, portando o executante  um cabo guia que possibilite o seu resgate, pelo
+c) trabalho realizado em dupla, portando o executante um cabo guia que possibilite o seu resgate, pelo
 observador;
 d) uso de aparelhos de iluminação e acessórios cujas especificações sejam adequadas à área classificada;
 e) proibição de fumar ou portar objetos que produzam chamas, centelhas ou faíscas;
@@ -301,11 +301,11 @@ para terem destinação adequada.
 emissão da respectiva Permissão de Trabalho pelo comandante da embarcação ou seu preposto.
 30.13.3 Não são permitidos trabalhos simultâneos de reparo e manutenção com as operações de carga e
 descarga, quando prejudiquem a saúde e a integridade física dos trabalhadores.
-30.13.4 Os tripulantes não poderão realizar trabalho s em andaimes, estruturas altas e em costado sem a
+30.13.4 Os tripulantes não poderão realizar trabalhos em andaimes, estruturas altas e em costado sem a
 observância das medidas de segurança devidas.
 30.14 Disposições Complementares.
 30.14.1 As normas relativas à segurança e saúde no trabalho são regulamentadas quanto à sua
-abrangência, aplicação e condições de trabalho, na  forma de anexos a esta norma, nas seguintes
+abrangência, aplicação e condições de trabalho, na forma de anexos a esta norma, nas seguintes
 atividades:
 exploração e produção de petróleo em plataformas e navios-plataforma marítimos;
 pesca industrial e comercial;
@@ -356,7 +356,7 @@ Requisitos gerais para todos os trabalhadores marítimos por ocasião do exame m
 a) não apresentar qualquer distúrbio em seu senso de equilíbrio, sendo capaz de movimentar-se sobre
 superfícies escorregadias irregulares e instáveis;
 b) não apresentar qualquer limitação ou doença que possa impedir a sua movimentação normal e o
-desempenho das atividades físicas de rotina de bor do, incluído agachar, aj oelhar, curvar e alcançar
+desempenho das atividades físicas de rotina de bordo, incluído agachar, ajoelhar, curvar e alcançar
 objetos localizados acima da altura do ombro;
 c) ser capaz de subir e descer, sem ajuda, escadas verticais e inclinadas;
 d) ser capaz de segurar, levantar, girar e manejar diversas ferramentas de uso comum, abrir e fechar
@@ -371,7 +371,7 @@ desempenhar suas atividades ou
 funções a bordo.
 Para os trabalhadores marítimos que se tornarem monoculares em
 serviço, sem evidência de doença degenerativa progressiva, será
-requerida uma acuidade visual, co m correção, compatível com as
+requerida uma acuidade visual, com correção, compatível com as
 atividades ou funções que desempenham a bordo.
 PRADRÕES MÍNIMOS ESPECÍFICOS
 Função a bordo Acuidade Visual Básica Acuidade Visual Corrigida
@@ -411,5 +411,5 @@ Para todas as funções a bordo serão considerados como padrões mínimos espec
 
 - Sem condições significativas evidentes de visão dupla (diplopia);
 - Campos visuais suficientes e sem evidências de patologias;
-- Serão toleradas discromatopsias leves e moderadas,  conforme os critérios estabelecidos nos testes
+- Serão toleradas discromatopsias leves e moderadas, conforme os critérios estabelecidos nos testes
 utilizados.

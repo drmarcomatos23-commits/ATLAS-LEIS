@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/Anexo2IN0225.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-26
 ---
 
 # Anexo II - Lista de exigência(s) para inclusão dos certificados de proficiência
@@ -24,19 +24,13 @@ IN/DREI Nº 52/2022 ALTERADA PELA IN/DREI Nº. 2/2025
 LISTA DE EXIGÊNCIA(S) PARA INCLUSÃO DOS CERTIFICADOS DE PROFICIÊNCIA NO ANEXO I DA IN DREI
 N. 52/2022
 Senhor(a) Usuário(a),
-Os itens abaixo
-assinalados
-, deverão ser atendidos para
+Os itens abaixo assinalados, deverão ser atendidos para
 reanálise da solicitação, se for o caso:
-Item
-Descrição da Exigência
-
-Fundamentação Legal
+Item Descrição da Exigência  Fundamentação Legal
 1
 Informar o número do processo (ou protocolo
 anterior) se houver: _________________
-
-(IN/DREI 52/2022 - Art. 19-A, §1º, alterada pela IN/DREI
+ (IN/DREI 52/2022 - Art. 19-A, §1º, alterada pela IN/DREI
 2/2025):
 Art. 19-A. O DREI deverá publicar, em seu sítio
 eletrônico, tabela contendo a lista dos exames
@@ -56,8 +50,7 @@ Apresentar Certificado de Proficiência na
 língua de origem:
 (     ) Traduzido       (     ) Consularizado ou
 Apostilado.
-
-(IN/DREI 52/2022 - Art. 10, § 2º)
+ (IN/DREI 52/2022 - Art. 10, § 2º)
 II - diploma estrangeiro revalidado na forma do art. 48 da
 Lei nº 9.394, de 20 de dezembro de 1996, traduzido por
 tradutor e intérprete público e, conforme o caso,
@@ -71,8 +64,7 @@ preferencialmente a Carteira de Registro
 Nacional Migratório, admitindo-se o Registro
 Nacional de Estrangeiro (RNE) válido para
 esse fim.
-
-(IN/DREI 52/2022 - Art. 10, § 3º)
+ (IN/DREI 52/2022 - Art. 10, § 3º)
 §3º O atendimento ao inciso III do caput ocorrerá por meio
 da apresentação de documento oficial de identificação ou,
 em se tratando de estrangeiro, de documento que
@@ -85,13 +77,11 @@ válido para esse fim.
 Anexo II - IN/DREI 52/22 ALTERADA PELA IN/DREI 2/25 (52870380)         SEI 19687.108878/2023-43 / pg. 1
 
 4.
-Se estrangeiro
-, apresentar Certificado de
+Se estrangeiro, apresentar Certificado de
 Proficiência em Língua Portuguesa para
 Estrangeiros (CELPE - Bras) em nível
 Avançado Superior
-
-(IN/DREI 52/2022 - Art. 19, § 2º)
+ (IN/DREI 52/2022 - Art. 19, § 2º)
 Art. 19. Para fins de habilitação e matrícula
 como tradutor e intérprete público, a exigência
 da aprovação em concurso para aferição de
@@ -99,11 +89,9 @@ aptidão fica dispensada àqueles que obtiverem
 grau de excelência em exames nacionais ou
 internacionais de proficiência.
 § 2º Para os estrangeiros, provenientes de
-países que não sejam
-membros da Comunidade
+países que não sejam membros da Comunidade
 dos Países de Língua Portuguesa (CPLP), que
-optarem
-por exame nacional ou internacional de
+optarem por exame nacional ou internacional de
 proficiência, será exigida a apresentação de
 Certificado de Proficiência em Língua Portuguesa
 para Estrangeiros (CELPE-Bras) em nível
@@ -118,9 +106,7 @@ escala do Quadro Europeu Comum de
 Referência para Línguas (QECR), ou
 certificação equivalente atestada por outro
 referencial.
-
-(IN/DREI 52/2022 - Art. 19, §§3ºe 4º)
-
+ (IN/DREI 52/2022 - Art. 19, §§3ºe 4º)
 Art. 19. Para fins de habilitação e matrícula
 como tradutor e intérprete público, a exigência
 da aprovação em concurso para aferição de
@@ -151,19 +137,16 @@ a avaliação se der por outro referencial,
 conforme indicado no Anexo I desta Instrução
 Normativa.
 Vide Anexo I desta Instrução Normativa. (vide tabela de
-referencial no sítio eletrônico:
-Quadro Europeu Comum de
+referencial no sítio eletrônico: Quadro Europeu Comum de
 Referência para as Línguas – Wikipédia, a enciclopédia
-livre
-).
+livre).
 
 6.
 Apresentar Certificado de Proficiência válido
 para análise e posterior inclusão no rol
 exemplificativo do Anexo I, da instrução
 normativa, se for o caso.
-
-(IN/DREI 52/2022 - Art. 19, § 4º, alterada pela IN/DREI
+ (IN/DREI 52/2022 - Art. 19, § 4º, alterada pela IN/DREI
 2/2025):
 §4º. Será observada a validade do certificado de
 proficiência apresentado, sendo que, em caso de
@@ -177,9 +160,7 @@ Anexo II - IN/DREI 52/22 ALTERADA PELA IN/DREI 2/25 (52870380)         SEI 19687
 Apresentar declaração de aptidão para o
 exercício do ofício, considerando a ausência
 de prazo de validade do certificado
-
-(IN/DREI 52/2022 - Art. 19, § 6º)
-
+ (IN/DREI 52/2022 - Art. 19, § 6º)
 §6º. Será observada a validade do certificado de
 proficiência apresentado pelo interessado para o
 requerimento de habilitação no cargo de
@@ -193,8 +174,7 @@ por meio da instituição certificadora, para
 análise e posterior inclusão no rol
 exemplificativo do anexo I, da Instrução
 Normativa, se for o caso.
-
-(IN/DREI 52/2022 - Art. 19, §8º)
+ (IN/DREI 52/2022 - Art. 19, §8º)
 §8º. Os certificados de proficiência poderão ser
 apresentados em formato físico, desde que legíveis
 (claros e nítidos), ou em formato digital, desde que
@@ -225,8 +205,7 @@ Local e data ___________, ______ de
 _______________ de _______.
                                              Assinatura pelo
 Gov.br
-
-(IN/DREI 52/2022 - Art. 14, §1º, alterada pela IN/DREI
+ (IN/DREI 52/2022 - Art. 14, §1º, alterada pela IN/DREI
 2/2025):
 §1º Ao se inscrever no exame de aptidão, o candidato,
 sob as penas da lei, deve declarar ciência de sua situação
@@ -241,25 +220,13 @@ NOME
 
 Anexo II - IN/DREI 52/22 ALTERADA PELA IN/DREI 2/25 (52870380)         SEI 19687.108878/2023-43 / pg. 3
 
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 11/08/2025, às 16:59, conforme horário oficial de Brasília, com
-fundamento no § 3º do art. 4º do
-Decreto nº 10.543, de 13 de novembro de
-2020
-.
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves,
+Diretor(a), em 11/08/2025, às 16:59, conforme horário oficial de Brasília, com
+fundamento no § 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
 A autenticidade deste documento pode ser conferida no site
 https://colaboragov.sei.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código
-verificador
-52870380
- e o código CRC
-44108E6C
-.
-Referência:
- Processo nº 19687.108878/2023-43.
-SEI nº 52870380
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código
+verificador 52870380 e o código CRC 44108E6C.
+Referência: Processo nº 19687.108878/2023-43. SEI nº 52870380
 Anexo II - IN/DREI 52/22 ALTERADA PELA IN/DREI 2/25 (52870380)         SEI 19687.108878/2023-43 / pg. 4

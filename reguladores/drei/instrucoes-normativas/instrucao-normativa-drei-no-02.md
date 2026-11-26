@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/Instrucao_Normativa0225.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-26
 ---
 
 # Instrução Normativa DREI Nº 02
@@ -265,26 +265,13 @@ Documento assinado eletronicamente
 FLÁVIA REGINA BRITTO GONÇALVES
 Diretora Nacional de Registro Empresarial e Integração
 
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 11/08/2025,
-às 12:13, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do
-Decreto nº 10.543,
-de 13 de novembro de 2020
-.
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves, Diretor(a), em 11/08/2025,
+às 12:13, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do Decreto nº 10.543,
+de 13 de novembro de 2020.
 A autenticidade deste documento pode ser conferida no site
 https://colaboragov.sei.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código verificador
-52868095
- e o
-código CRC
-D7884C2F
-.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 52868095 e o
+código CRC D7884C2F.
 
-Referência:
- Processo nº 19687.108878/2023-43.
-SEI nº 52868095
+Referência: Processo nº 19687.108878/2023-43. SEI nº 52868095
 Instrução Normativa 2 (52868095)         SEI 19687.108878/2023-43 / pg. 6

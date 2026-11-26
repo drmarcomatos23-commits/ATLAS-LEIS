@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/sei_54850501_anexo-i.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-26
 ---
 
 # Anexo I - Ata de Constituição e Estatuto Social
@@ -39,8 +39,7 @@ profissão, domicílio e residência, que subscreve XXX quotas partes, na
 forma___________ e no prazo _______________ .
 2. (...)
 3. (...)
-
-(listar o nome dos cooperados fundadores)
+ (listar o nome dos cooperados fundadores)
 
 Foi aclamado/escolhido pela Assembleia para compor a mesa e coordenar os trabalhos
 o Senhor (nome completo), que nomeou a mim, (nome completo), para secretariar os
@@ -79,17 +78,14 @@ entre si até segundo grau, em linha reta ou colateral.
 Nada mais havendo a ser tratado, o Senhor Presidente deu por encerrados os
 trabalhos e eu, na qualidade de Secretário, lavrei a presente Ata que, Iida e achada
 conforme, assinada por todos os cooperados fundadores, como prova de livre vontade
-de cada um de organizar a cooperativa ora constituída.
- 
+de cada um de organizar a cooperativa ora constituída. 
 (local e data).
  
 (Assinaturas do Presidente e Secretário da Assembleia)
 As assinaturas dos cooperados fundadores, respectivas declarações de
 desimpedimento e visto de advogado seguem ao final do Estatuto Social ora
 aprovado.
- 
-
- 
+   
 
 ANEXO À ATA DE CONSTITUIÇÃO
 ESTATUTO SOCIAL DA COOPERATIVA …………………
@@ -582,27 +578,15 @@ Identidade e Órgão Emissor: xxxxxxxxxxx
 Profissão: xxxxxxxxxxx
 Residência: xxxxxxxxxxx
 
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 20/10/2025, às 12:33, conforme horário oficial de Brasília, com
-fundamento no § 3º do art. 4º do
-Decreto nº 10.543, de 13 de novembro de
-2020
-.
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves,
+Diretor(a), em 20/10/2025, às 12:33, conforme horário oficial de Brasília, com
+fundamento no § 3º do art. 4º do Decreto nº 10.543, de 13 de novembro de
+2020.
 Anexo I IN DREI nº 3/2025 (retificado) (54850501)         SEI 16100.004402/2024-71 / pg. 12
 
 A autenticidade deste documento pode ser conferida no site
 https://colaboragov.sei.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código
-verificador
-54850501
- e o código CRC
-49446261
-.
-Referência:
- Processo nº 16100.004402/2024-71.
-SEI nº 54850501
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código
+verificador 54850501 e o código CRC 49446261.
+Referência: Processo nº 16100.004402/2024-71. SEI nº 54850501
 Anexo I IN DREI nº 3/2025 (retificado) (54850501)         SEI 16100.004402/2024-71 / pg. 13

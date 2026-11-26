@@ -8,7 +8,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/sei_54850708_anexo-ii.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-26
 ---
 
 # Anexo II - Ata da Assembleia Geral de Constituição da Cooperativa de Trabalho
@@ -28,13 +28,8 @@ COOPERATIVA DE TRABALHO ..........................................
 
 Aos xx dias do mês de xxxx de xxxxxxx, às xxxx horas, reuniram-se no endereço (rua, número, bairro,
 cidade e CEP) com o propósito de constituírem uma sociedade cooperativa de trabalho nos termos da Lei n.
-12.690/2012 e, no que com ela não colidir, pelas
-Leis nºs 5.764, de 16 de dezembro de 1971
-, e
-10.406, de
-10 de janeiro de 2002 - Código Civil
-, de 2012, as seguintes pessoas:
- 
+12.690/2012 e, no que com ela não colidir, pelas Leis nºs 5.764, de 16 de dezembro de 1971, e 10.406, de
+10 de janeiro de 2002 - Código Civil, de 2012, as seguintes pessoas: 
 1. Senhor(a) (nome, nacionalidade, idade, estado civil (se união estável, informar o estado civil), documento
 de identidade (seu número e órgão expedidor), nº do CPF, profissão, domicílio e residência, que subscreve
 XXX quotas partes, na forma___________ e no prazo _______________ .
@@ -72,8 +67,7 @@ da Lei 5,764, 1971 e art. 1.011, §1º do Código Civil Brasileiro, bem como nã
 segundo grau, em linha reta ou colateral.
 Nada mais havendo a ser tratado, o Senhor Presidente deu por encerrados os trabalhos e eu, na qualidade de
 Secretário, lavrei a presente Ata que, Iida e achada conforme, assinada por todos os cooperados fundadores,
-como prova de livre vontade de cada um de organizar a cooperativa ora constituída.
- 
+como prova de livre vontade de cada um de organizar a cooperativa ora constituída. 
 (local e data).
 
 (Assinaturas do Presidente e Secretário da Assembleia)
@@ -612,27 +606,14 @@ Identidade e Órgão Emissor: xxxxxxxxxxx
 1 Nacionalidade: xxxxxxxxxxx Estado Civil: xxxxxxxxxxx Idade: xxxxxxxxxxx
 Profissão: xxxxxxxxxxx
 Residência: xxxxxxxxxxx
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 20/10/2025,
-às 12:34, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do
-Decreto nº 10.543,
-de 13 de novembro de 2020
-.
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves, Diretor(a), em 20/10/2025,
+às 12:34, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do Decreto nº 10.543,
+de 13 de novembro de 2020.
 A autenticidade deste documento pode ser conferida no site
 https://colaboragov.sei.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código verificador
-54850708
- e o
-código CRC
-5BCA9B98
-.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 54850708 e o
+código CRC 5BCA9B98.
 Anexo II IN DREI nº 3/2025 (retificado) (54850708)         SEI 16100.004402/2024-71 / pg. 12
 
-Referência:
- Processo nº 16100.004402/2024-71.
-SEI nº 54850708
+Referência: Processo nº 16100.004402/2024-71. SEI nº 54850708
 Anexo II IN DREI nº 3/2025 (retificado) (54850708)         SEI 16100.004402/2024-71 / pg. 13

@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/Instrucao_Normativa_325.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-26
 ---
 
 # Instrução Normativa DREI Nº 03
@@ -78,16 +78,12 @@ obrigatórios que devem compor o processo digital de constituição do modelo or
 cooperativa na Junta Comercial, inclusive com a inserção dos respectivos instrumentos no sistema eletrônico
 de registro.
 
-Art. 3° Os cooperados das sociedades cooperativas enquadráveis como
-startup
-, ressalvadas as exceções
+Art. 3° Os cooperados das sociedades cooperativas enquadráveis como startup, ressalvadas as exceções
 previstas nos parágrafos do art. 1º desta Instrução Normativa, deverão assinar digitalmente a respectiva
 declaração de enquadramento, nos termos do art. 4º, §1º, da Lei Complementar nº 182, de 2021, conforme
 modelo constante do Anexo III.
 Parágrafo único. Os sistemas de registro deverão ser adaptados para permitir a seleção da opção de
-enquadramento como
-startup
-, assegurando a inserção automática da declaração referida no caput ao final do
+enquadramento como startup, assegurando a inserção automática da declaração referida no caput ao final do
 estatuto social padronizado.
 
 Art. 4º A Junta Comercial, por deliberação de seu Plenário, adotará preço público reduzido para a execução
@@ -110,10 +106,8 @@ mediante deliberação favorável do Plenário da Junta Comercial.
 
 Instrução Normativa 3 (54257631)         SEI 16100.004402/2024-71 / pg. 2
 
-Art. 5º Para a promoção do estímulo previsto no art. 4º, os integrantes do
-Sistema Nacional de Registro de
-Empresas Mercantis (Sinrem) adot
-arão medidas voltadas à simplificação do registro, de forma articulada,
+Art. 5º Para a promoção do estímulo previsto no art. 4º, os integrantes do Sistema Nacional de Registro de
+Empresas Mercantis (Sinrem) adotarão medidas voltadas à simplificação do registro, de forma articulada,
 visando à constituição e à manutenção ativa dessas cooperativas, mediante parcerias formalizadas por
 instrumento jurídico próprio, precedido da oitiva dos respectivos órgãos de consultoria jurídica, com órgãos
 públicos, entidades sem fins lucrativos e o sistema de representatividade do cooperativismo.
@@ -126,46 +120,18 @@ Art. 6° O Anexo X – ATOS INTEGRANTES DA TABELA DE PREÇOS DOS SERVIÇOS DO
 REGISTRO PÚBLICO DE EMPRESAS E ATIVIDADES AFINS, DA IN DREI Nº 81/2020, no item 5,
 passa a vigorar com as seguintes inclusões:
 
-ATOS
-PREÇOS
+ATOS PREÇOS
+............................  Normal ME EPP DREI
+5. COOPERATIVA  ........ ...... ....... .......
 ............................
-
-Normal
-ME
-EPP
-DREI
-5. COOPERATIVA
-
-........
-......
-.......
-.......
-............................
-
 5.1. Ato Constitutivo simplificado e automático (IN DREI xxxxx/2025)
 *preço público diferenciado com o objetivo de fomentar a abertura de
 cooperativas pelo processo simplificado
-P
-
-......
-.......
-.......
-I
-
-......
-.......
-.......
+P  ...... ....... .......
+I  ...... ....... .......
 5.2. Ato Constitutivo
-P
-
-......
-.......
-.......
-I
-
-......
-.......
-.......
+P  ...... ....... .......
+I  ...... ....... .......
 P: atendimento presencial; I: atendimento via internet.
 
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
@@ -178,28 +144,15 @@ adequação dos sistemas de registro, no âmbito das Juntas Comerciais.
 
 FLÁVIA REGINA BRITTO GONÇALVES
 Diretora Nacional de Registro Empresarial e Integração
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 03/10/2025,
-às 17:34, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do
-Decreto nº 10.543,
-de 13 de novembro de 2020
-.
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves, Diretor(a), em 03/10/2025,
+às 17:34, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do Decreto nº 10.543,
+de 13 de novembro de 2020.
 Instrução Normativa 3 (54257631)         SEI 16100.004402/2024-71 / pg. 3
 
 A autenticidade deste documento pode ser conferida no site
 https://colaboragov.sei.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código verificador
-54257631
- e o
-código CRC
-FD7858F8
-.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 54257631 e o
+código CRC FD7858F8.
 
-Referência:
- Processo nº 16100.004402/2024-71.
-SEI nº 54257631
+Referência: Processo nº 16100.004402/2024-71. SEI nº 54257631
 Instrução Normativa 3 (54257631)         SEI 16100.004402/2024-71 / pg. 4

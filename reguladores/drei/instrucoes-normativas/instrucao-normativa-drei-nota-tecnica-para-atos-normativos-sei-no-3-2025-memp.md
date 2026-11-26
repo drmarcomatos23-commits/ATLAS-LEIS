@@ -9,7 +9,7 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/SEI_48186728_Nota_Tecnica_para_Atos_Normativos_3.pdf/@@display-file/file"
-baixado_em: 2026-11-02
+baixado_em: 2026-11-26
 ---
 
 # Instrução Normativa DREI Nota Técnica para Atos Normativos SEI nº 3/2025/MEMP
@@ -18,46 +18,29 @@ MINISTÉRIO DO EMPREENDEDORISMO, DA MICROEMPRESA E DA EMPRESA DE PEQUENO PORTE
 Secretaria Nacional de Microempresa e Empresa de Pequeno Porte
 Diretoria Nacional de Registro Empresarial e Integração
 
-Nota Técnica para Atos Normativos SEI nº
-3
-/2025/MEMP
+Nota Técnica para Atos Normativos SEI nº 3/2025/MEMP
 
-Assunto: Alteração,
-
-ajuste redacional e revogação dos arts. 18 a 26 da Instrução Normava DREI nº 81,
+Assunto: Alteração, ajuste redacional e revogação dos arts. 18 a 26 da Instrução Normava DREI nº 81,
 de 10 de junho de 2020. Alteração e adequação da minuta de Instrução Normava DREI/MEMP relava
 ao nome empresarial, para atendimento das recomendações apresentadas pela douta Consultoria
-Jurídica deste Ministério do Empreendedorismo, no ilustre PARECER n.
-00185/2024
-/GAB/CONJUR-
+Jurídica deste Ministério do Empreendedorismo, no ilustre PARECER n. 00185/2024/GAB/CONJUR-
 MEMP/CGU/AGU.
-Referência: Processo
-16100.001327/2024-96
+Referência: Processo 16100.001327/2024-96
 
 SUMÁRIO EXECUTIVO
-1
-.
-A presente Nota Técnica refere-se à Minuta de Instrução Norma7va DREI/MEMP que tem
+1. A presente Nota Técnica refere-se à Minuta de Instrução Norma7va DREI/MEMP que tem
 por ﬁnalidade regulamentar os critérios de análise para veriﬁcação de iden7dade e semelhança de nomes
 empresariais, no âmbito das Juntas Comerciais das respec7vas unidades federa7vas do Brasil, assim como
 balizar o processo recursal da matéria subme7da a análise desta Diretoria Nacional de Registro Empresarial
-e Integração (DREI), e para tanto revoga os arts. 18 a 26 da
-Instrução Normativa DREI n
-º
- 81, de 10 de junho
-de 2020
-, que dispõe sobre as normas e diretrizes gerais do Registro Público de Empresas, bem como
+e Integração (DREI), e para tanto revoga os arts. 18 a 26 da Instrução Normativa DREI nº 81, de 10 de junho
+de 2020, que dispõe sobre as normas e diretrizes gerais do Registro Público de Empresas, bem como
 regulamenta as disposições do Decreto n. 1.800, de 30 de janeiro de 1996.
-2
-.
-Esta Diretoria, no decorrer de suas a7vidades, se deparou por diversas vezes com situações
+2. Esta Diretoria, no decorrer de suas a7vidades, se deparou por diversas vezes com situações
 que se demonstravam necessária à uniformização e atualização das regras no exame dos atos subme7dos
 ao Registro Público de Empresas Mercan7s e A7vidades Aﬁns, em especial no que se refere ao nome
 empresarial, assim como das especiﬁcações prementes à parametrização dos sistemas que contemplam o
 registro automático dos atos empresariais.
-3
-.
-Pois bem, esta Diretoria alterou, ajustou e revogou disposi7vos da instrução norma7va
+3. Pois bem, esta Diretoria alterou, ajustou e revogou disposi7vos da instrução norma7va
 supracitada, com o intuito de produzir norma única para nome empresarial que con7vesse as questões
 relacionadas à análise do nome empresarial realizada pelas Juntas Comerciais, bem como os critérios que
 devem ser observados para a sua formação e proteção, com  observância às regras legais e regulamentares,
@@ -66,83 +49,44 @@ há anos consolidadas, de modo a garan7r a segurança jurídica do ambiente empr
 Diretoria Nacional de Registro Empresarial e Integração (DREI), em consonância com as legislações vigentes,
 uma vez que essas servem de parâmetro para as Juntas Comerciais e usuários quando dos pedidos de
 arquivamento de atos empresariais.
-4
-.
-Ao elaborar a referida Minuta de Instrução Norma7va DREI/MEMP (
-46338686
-) os autos
+4. Ao elaborar a referida Minuta de Instrução Norma7va DREI/MEMP (46338686) os autos
 foram subme7dos à apreciação da douta Consultoria Jurídica deste Ministério, para análise e manifestação
 a respeito dos aspectos formais e jurídicos do ato norma7vo em análise, na oportunidade foi exarado
-o PARECER n.
-00185/2024
-/GAB/CONJUR-MEMP/CGU/AGU (
-46778731
-) que ao ﬁnal se manifestou pela
+o PARECER n. 00185/2024/GAB/CONJUR-MEMP/CGU/AGU (46778731) que ao ﬁnal se manifestou pela
 regularidade formal e material da Instrução Norma7va, todavia apresentou recomendações e advertências
-descritas no item 3.3 do aludido parecer,
-notadamente quanto às disposições relavas à análise e
+descritas no item 3.3 do aludido parecer, notadamente quanto às disposições relavas à análise e
 reconhecimento pelas Juntas Comerciais sobre nomes empresariais semelhantes, bem como em relação a
-inserção do título de estabelecimento no registro empresarial
-.
-5
-.
-Diante das orientações postas pela douta Consultoria Jurídica, esta Diretoria providenciou as
+inserção do título de estabelecimento no registro empresarial.
+5. Diante das orientações postas pela douta Consultoria Jurídica, esta Diretoria providenciou as
 devidas alterações, ajustes e adequações no texto da Minuta de Instrução Norma7va DREI/MEMP
-(
-46338686
-) resultando em uma nova redação como se vislumbra do texto proposto e aprovado
-Instrução
-Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025.
-.
+(46338686) resultando em uma nova redação como se vislumbra do texto proposto e aprovado Instrução
+Normativa DREI /MEMP nº 1, de 05 de janeiro de 2025..
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 1
 
-6
-.
-É o breve relatório.
+6. É o breve relatório.
 
 OBJETIVO
-7
-.
-A presente Nota Técnica tem por ﬁnalidade trazer à lume o Relatório das Contribuições
+7. A presente Nota Técnica tem por ﬁnalidade trazer à lume o Relatório das Contribuições
 enviadas a esta Diretoria pelas Juntas Comerciais e cidadãos em geral, durante o período de Consulta
 Pública, assim como destacar que fora realizada a Análise de Impacto Regulatório (AIR), sendo iden7ﬁcados
 os critérios para proceder com a dispenda, outra ﬁnalidade desta Nota Técnica é apresentar todas as
 supressões, inserções e alterações textuais ocorridas na Minuta de Instrução Norma7va DREI/MEMP
-(
-46338686
-) submetida ao crivo do Órgão Consultivo deste Ministério.
+(46338686) submetida ao crivo do Órgão Consultivo deste Ministério.
 
 CONTRIBUIÇÕES OBTIDAS COM A CONSULTA PÚBLICA (ENCERRADA EM 20/10) E AUDIÊNCIA PÚBLICA
 (REALIZADA EM 30/10).
-8
-.
-Link da planilha com as contribuições.
+8. Link da planilha com as contribuições.
 
 ANÁLISE DE IMPACTO REGULATÓRIO
-9
-.
-Oportuno rememorar e reforçar o quanto explanado na
-Nota Técnica para Atos Norma7vos
-SEI nº 23/2024/MEMP
- no tocante à elaboração da Análise de Impacto Regulatório (AIR) que, não obstante
+9. Oportuno rememorar e reforçar o quanto explanado na Nota Técnica para Atos Norma7vos
+SEI nº 23/2024/MEMP no tocante à elaboração da Análise de Impacto Regulatório (AIR) que, não obstante
 haja obrigatoriedade no âmbito deste Ministério, previamente à edição, alteração ou revogação de atos
 norma7vos inferiores a Decreto e de interesse geral de agentes econômicos ou de usuários dos serviços
-prestados, há previsão legal para a dispensa da AIR, consoante disposto no art. 4
-º
- do
-Decreto n
-º
- 10.411, de
-30 de junho de 2020
-, que elenca algumas situações em que a AIR
-pode ser dispensada
-:
+prestados, há previsão legal para a dispensa da AIR, consoante disposto no art. 4º do Decreto nº 10.411, de
+30 de junho de 2020, que elenca algumas situações em que a AIR pode ser dispensada:
 
-Art. 4º A AIR poderá ser dispensada
-, desde que haja decisão fundamentada do órgão ou da
-entidade competente,
-nas hipóteses de
-:
+Art. 4º A AIR poderá ser dispensada, desde que haja decisão fundamentada do órgão ou da
+entidade competente, nas hipóteses de:
 I - urgência;
 II - ato normavo desnado a disciplinar direitos ou obrigações deﬁnidos em norma
 hierarquicamente superior que não permita, técnica ou juridicamente, diferentes
@@ -155,84 +99,54 @@ a) dos mercados de seguro, de resseguro, de capitalização e de previdência co
 b) dos mercados financeiros, de capitais e de câmbio; ou
 c) dos sistemas de pagamentos;
 VI - ato normativo que vise a manter a convergência a padrões internacionais;
-VII - ato normavo que reduza exigências, obrigações,
-restrições, requerimentos ou
-especificações
- com o objetivo de diminuir os custos regulatórios;
- e
+VII - ato normavo que reduza exigências, obrigações, restrições, requerimentos ou
+especificações com o objetivo de diminuir os custos regulatórios; e
 VIII - ato norma7vo que revise normas desatualizadas para adequá-las ao desenvolvimento
-tecnológico consolidado internacionalmente, nos termos do disposto no
-Decreto nº 10.229,
-de 5 de fevereiro de 2020
-.
+tecnológico consolidado internacionalmente, nos termos do disposto no Decreto nº 10.229,
+de 5 de fevereiro de 2020.
 § 1º Nas hipóteses de dispensa de AIR, será elaborada nota técnica ou documento
 equivalente que fundamente a proposta de edição ou de alteração do ato normativo.
 § 2º Na hipótese de dispensa de AIR em razão de urgência, a nota técnica ou o documento
 equivalente de que trata o § 1º deverá, obrigatoriamente, iden7ﬁcar o problema regulatório
 que se pretende solucionar e os obje7vos que se pretende alcançar, de modo a subsidiar a
 elaboração da ARR, observado o disposto no art. 12.
-§ 3º Ressalvadas informações com restrição de acesso, nos termos do disposto na
-Lei nº
-12.527, de 18 de novembro de 2011
-, a nota técnica ou o documento equivalente de que
+§ 3º Ressalvadas informações com restrição de acesso, nos termos do disposto na Lei nº
+12.527, de 18 de novembro de 2011, a nota técnica ou o documento equivalente de que
 tratam o § 1º e o § 2º serão disponibilizados no sí7o eletrônico do órgão ou da en7dade
-competente, conforme definido nas normas próprias.
-(Grifamos)
+competente, conforme definido nas normas próprias. (Grifamos)
 
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 2
 
-10
-.
-No caso em tela, a Análise de Impacto Regulatório - AIR, apesar de poder ser dispensada,
+10. No caso em tela, a Análise de Impacto Regulatório - AIR, apesar de poder ser dispensada,
 uma vez que a presente Nota Técnica será disponibilizada junto à instrução norma7va, entendemos que
 haverá um impacto positivo nas medidas que estão sendo propostas, à medida em que:
-I
- -
-as revogações introduzidas nos ar7gos da Instrução Norma7va DREI nº 81, de
-2020, que versavam sobre o tema,
-
-são consideradas relevantes, pois dispõe sobre a
+I - as revogações introduzidas nos ar7gos da Instrução Norma7va DREI nº 81, de
+2020, que versavam sobre o tema, são consideradas relevantes, pois dispõe sobre a
 regulamentação de critérios de análise para a veriﬁcação de iden7dade e semelhança de
 nomes empresariais, fortalecendo os mecanismos atribuídos, por lei, aos órgãos executores
 locais de registro, as Juntas Comerciais estabelecidas nas 27 (vinte e sete) Unidades da
 Federação;
-II
- -
-permite a coleta de dados, regulamentando a inserção do Rtulo do
+II - permite a coleta de dados, regulamentando a inserção do Rtulo do
 estabelecimento (nome fantasia) no âmbito das Juntas Comerciais, de modo a criar critérios
 negociais para a acomodação do signo nos cadastros, os quais têm a ﬁnalidade de iden7ﬁcar
 a azienda, porquanto referidas expressões são, historicamente, admi7das nos atos
 empresariais registrados nos órgãos executores locais;
-III
- -
-reduz exigências, obrigações e retrabalho às Juntas Comerciais e aos cidadãos
+III - reduz exigências, obrigações e retrabalho às Juntas Comerciais e aos cidadãos
 com o obje7vo de melhorar o ambiente de negócios e diminuir os custos regulatórios (art.
-4
-º
-, inciso VII, do Decreto n
-º
- 10.411, de 2020).
-IV
- -
-principalmente, visa reduzir o número de fraudes que estão ocorrendo, mediante
+4º, inciso VII, do Decreto n º 10.411, de 2020).
+IV - principalmente, visa reduzir o número de fraudes que estão ocorrendo, mediante
 o registro de empresários individuais e sociedades empresárias com nomes de órgãos
 públicos e concessionárias de serviços públicos, tais como: Receita Federal do Brasil Ltda,
 Ministério da Fazenda Consultoria Ltda, CPFL Companhia de Força e Luz etc., em total afronta
 à legislação vigente.
-11
-.
-Os impactos estão sendo relevantes e preocupantes, principalmente por poder induzir o
+11. Os impactos estão sendo relevantes e preocupantes, principalmente por poder induzir o
 cidadão a erros. Esses impactos decorrem da simpliﬁcação de algumas regras para a composição e análise
 de colidência de nomes empresariais, que teve por obje7vo viabilizar o registro automá7co de empresas e
-pessoas jurídicas, mediante o envio de dados e documentos de forma
-online
-, após algumas validações
+pessoas jurídicas, mediante o envio de dados e documentos de forma online, após algumas validações
 desses dados cadastrais, sem adentrar nas regras de registro empresarial quanto à análise do nome
 empresarial, por semelhança, e pela não observância das regras de formação destes, por 7po jurídico,
 inclusive, conforme exemplos citados acima.
-12
-.
-Ademais, o nome empresarial é signo protegido pela Carta Magna, nos termos do ar7go 5º,
+12. Ademais, o nome empresarial é signo protegido pela Carta Magna, nos termos do ar7go 5º,
 inciso XXIX, vejamos:
 
 Art. 5º Todos são iguais perante a lei, sem dis7nção de qualquer natureza, garan7ndo-se aos
@@ -244,9 +158,7 @@ u7lização, bem como proteção às criações industriais, à propriedade das 
 de empresas e a outros signos dis7n7vos, tendo em vista o interesse social e o
 desenvolvimento tecnológico e econômico do País;
 (...)
-13
-.
-Seguindo, ainda que pareçamos repe77vos, neste ponto, faz-se imperioso destacarmos o
+13. Seguindo, ainda que pareçamos repe77vos, neste ponto, faz-se imperioso destacarmos o
 comando legal que prevê, expressamente, que a proteção do nome empresarial decorre automa7camente
 do arquivamento dos atos empresariais no registro público de empresas, obedecendo-se, para tanto, como
 condição para a sua formação a obediência aos princípios da veracidade e da novidade, nos termos do
@@ -256,18 +168,14 @@ constitutivos de firma individual e de sociedades, ou de suas alterações.
 
 Art. 34. O nome empresarial obedecerá aos princípios da veracidade e da novidade.
 
-14
-.
-Na mesma linha, o ar7go 62 do Decreto n. 1.800/1996, que regulamenta a Lei n. 8.934, de
+14. Na mesma linha, o ar7go 62 do Decreto n. 1.800/1996, que regulamenta a Lei n. 8.934, de
 1994, ao prever condições para a observância dos princípios da veracidade, ao passo que o nome
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 3
 
 empresarial, ao conter indicação da a7vidade econômica, esta deverá estar prevista no objeto do
 empresário ou da sociedade (1§º); bem assim o princípio da novidade, ao estabelecer que o nome
 empresarial não poderá ser colidente com outro já protegido (§2º).
-15
-.
-No que per7ne a mecanismos de controle, o legislador prevê que ato do Departamento
+15. No que per7ne a mecanismos de controle, o legislador prevê que ato do Departamento
 Nacional de Registro Empresarial e Integração estabelecerá a composição do nome empresarial e os
 critérios para a veriﬁcação da existência de iden7dade ou semelhança. E, mais, estabelece que o confronto
 entre nomes empresariais por semelhança poderá ser ques7onado pelo interessado por meio do recurso
@@ -279,8 +187,7 @@ Lei n. 8.934/1994:
 
 Art. 35...
 § 2º Eventuais casos de confronto entre nomes empresariais por semelhança poderão ser
-ques7onados pelos interessados, a qualquer tempo, por meio de recurso ao Drei.
-(Incluído
+ques7onados pelos interessados, a qualquer tempo, por meio de recurso ao Drei. (Incluído
 pela Lei nº 14.195, de 2021)
 
 Decreto n. 1.800/1996:
@@ -289,113 +196,82 @@ Art. 62. O nome empresarial atenderá aos princípios da veracidade e da novidad
 identificará, quando assim o exigir a lei, o tipo jurídico da sociedade.
 § 1º Na hipótese de o nome empresarial incluir a indicação de a7vidades econômicas, essas
 deverão estar previstas no objeto social do empresário individual ou da sociedade
-empresária.
-(Redação dada pelo Decreto nº 10.173, de 2019)
+empresária. (Redação dada pelo Decreto nº 10.173, de 2019)
 § 2º Não poderá haver colidência por iden7dade do nome empresarial com outro já
-protegido.
-(Redação dada pelo Decreto nº 11.250, de 2022)
+protegido. (Redação dada pelo Decreto nº 11.250, de 2022)
 § 3º Ato do Departamento Nacional de Registro Empresarial e Integração da Secretaria de
 Governo Digital da Secretaria Especial de Desburocra7zação, Gestão e Governo Digital do
 Ministério da Economia estabelecerá a composição do nome empresarial e os critérios para
-veriﬁcação da existência de iden7dade ou semelhança entre nomes empresariais.
-(Redação
+veriﬁcação da existência de iden7dade ou semelhança entre nomes empresariais. (Redação
 dada pelo Decreto nº 10.173, de 2019)
 § 4º Eventuais casos de confronto entre nomes empresariais por semelhança poderão ser
 ques7onados pelos interessados, a qualquer tempo, por meio de recurso, nos termos de ato
-do Departamento Nacional de Registro Empresarial e Integração.
-(Incluído pelo Decreto nº
+do Departamento Nacional de Registro Empresarial e Integração. (Incluído pelo Decreto nº
 11.250, de 2022)
 § 5º Reconhecida a semelhança de que trata o § 4º, o Departamento Nacional de Registro
 Empresarial e Integração determinará ao interessado que o nome empresarial seja alterado
-no prazo de trinta dias, contado da data de sua in7mação da decisão do recurso.
-(Incluído
+no prazo de trinta dias, contado da data de sua in7mação da decisão do recurso. (Incluído
 pelo Decreto nº 11.250, de 2022)
 § 6º Encerrado o prazo de que trata o § 5º sem providências pelo interessado, a Junta
 Comercial deverá, de oTcio, alterar o nome empresarial para o número de inscrição no CNPJ,
 seguido da parRcula iden7ﬁcadora do 7po societário ou jurídico, quando exigida por lei, sem
-prejuízo de posterior solicitação de alteração do nome empresarial pelo interessado.
-(Incluído
-pelo Decreto nº 11.250, de 2022)
-.
+prejuízo de posterior solicitação de alteração do nome empresarial pelo interessado. (Incluído
+pelo Decreto nº 11.250, de 2022).
 
-16
-.
-A par das disposições acima reproduzidas, resta clarividente a função econômica e social
+16. A par das disposições acima reproduzidas, resta clarividente a função econômica e social
 exercida pelo nome empresarial, sendo, portanto, signo responsável pela iden7ﬁcação do empresário, das
 sociedades empresárias e das sociedades coopera7vas, cujos atos são levados ao registro público de
 empresas, ao qual, se diga de passagem, compete conferir proteção a tal a7vo econômico e de relevante
 importância na estrutura empresarial. O Sistema Nacional de Registro Mercan7l tem crucial atuação em
 referido mister, ao passo que autoriza, por intermédio de decisões singulares e colegiadas, exaradas pelos
 órgãos executores locais, o registro do nome empresarial.
-17
-.
-Na sistemá7ca estabelecida em Lei, o SINREM confere a esta Diretoria atribuição para
+17. Na sistemá7ca estabelecida em Lei, o SINREM confere a esta Diretoria atribuição para
 norma7zar os critérios para a veriﬁcação de iden7dade e semelhança, bem assim o processo recursal, de
 modo a conferirem com mais destreza a proteção constitucionalmente reconhecida.
-18
-.
-Portanto, diante das razões acima elencadas, estamos a cumprir dever legal e que fortalece o
+18. Portanto, diante das razões acima elencadas, estamos a cumprir dever legal e que fortalece o
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 4
 
 Sistema Nacional de Registro Mercan7l e, consequentemente, concede as ferramentas que devem ser
 u7lizadas pelos órgãos de registro locais, a ﬁm de que possibilitem que os nomes empresariais estejam,
 devidamente, protegidos, garan7ndo-se observância à segurança jurídica a que os atos empresariais estão
 sujeitos.
-19
-.
-Ante o exposto, jus7ﬁca-se a necessidade premente de revisão e alteração da instrução
+19. Ante o exposto, jus7ﬁca-se a necessidade premente de revisão e alteração da instrução
 normativa supramencionada.
-20
-.
-Realizadas as considerações acima, importante registrar que a proposta de instrução
+20. Realizadas as considerações acima, importante registrar que a proposta de instrução
 norma7va ora apresentada, nasceu de debates com representantes da Federação Nacional das Juntas
 Comerciais (Fenaju), das Juntas Comerciais e da Receita Federal do Brasil, além de outros órgãos
 integrantes da Redesim, bem assim proﬁssionais que lidam no dia a dia como registro público de empresas,
 uma vez que ao ser autorizado o registro de um ato que não obedeça às prescrições legais, por conter vício
 sanável, há todo um reﬂexo e retrabalho pelos órgãos de registro, licenciadores e tributários nas esferas
 federal, estadual e municipal.
-21
-.
-Além disso, foram realizadas Consulta Pública, no período de 13 de setembro a 20 de
+21. Além disso, foram realizadas Consulta Pública, no período de 13 de setembro a 20 de
 outubro de 2024, e Audiência Pública, na data de 30 de outubro de 2024, de forma presencial e remota, a
 ﬁm de oportunizar a par7cipação da sociedade em geral e, mais tecnicamente, dos proﬁssionais que lidam
 no dia a dia com a matéria, sejam esses Contadores, Advogados, Empreendedores e demais interessados.
-22
-.
-Passa-se, então, ao reexame da instrução norma7va proposta, após contribuições que
+22. Passa-se, então, ao reexame da instrução norma7va proposta, após contribuições que
 sobrevieram da consulta pública, que permaneceu a7va até 20/10/2024, bem assim manifestações que
 resultaram da audiência pública, ocorrida em 30/10/2024, e outras que vieram das próprias juntas
-comerciais
-.
+comerciais.
 
 ALTERAÇÕES INTRODUZIDAS NO TEXTO DA INSTRUÇÃO NORMATIVA PARA ATENDIMENTO ÀS
 ORIENTAÇÕES JURÍDICAS
-23
-.
-De início, importante considerarmos que as contribuições recebidas pelas diversas frentes
+23. De início, importante considerarmos que as contribuições recebidas pelas diversas frentes
 abertas para o debate enriqueceram o texto ﬁnal, bem assim as disposições que foram estampadas no
 Parecer da Consultoria Jurídica do MEMP, as quais foram cruciais para a finalização do presente trabalho.
-24
-.
-A seguir, para melhor encaminhamento, coloca-se planilha que traz pontualmente os
+24. A seguir, para melhor encaminhamento, coloca-se planilha que traz pontualmente os
 disposi7vos que foram readequados, de modo a reﬂe7rem, dentro da legalidade, as orientações e
 procedimentos necessários para a norma7zação que tem como pronto fulcral estabelecer critérios para a
 verificação de colidência entre nomes empresariais e dá outras providências:
 
-Versão encaminhada à CONJUR
-Versão final
-Alterações e Justificativas
-CAPÍTULO I
-CAPÍTULO I
+Versão encaminhada à CONJUR Versão final Alterações e Justificativas
+CAPÍTULO I CAPÍTULO I
 Manteve-se inalterado.
 DA FORMAÇÃO DO NOME
 EMPRESARIAL
 DA FORMAÇÃO DO NOME
 EMPRESARIAL
-SEÇÃO I
-SEÇÃO I
-DA FIRMA e DA DENOMINAÇÃO
-DA FIRMA e DA DENOMINAÇÃO
+SEÇÃO I SEÇÃO I
+DA FIRMA e DA DENOMINAÇÃO DA FIRMA e DA DENOMINAÇÃO
 Art. 1º. Nome empresarial é aquele
 sob o qual o empresário individual, as
 sociedades empresárias, as
@@ -412,8 +288,7 @@ Manteve-se inalterado.
 Parágrafo único. O nome empresarial
 compreende a firma, a denominação.
 Parágrafo único. O nome empresarial
-compreende a firma e a denominação.
-Manteve-se inalterado.
+compreende a firma e a denominação. Manteve-se inalterado.
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 5
 
 Art. 2º. Firma é o nome utilizado pelo
@@ -463,8 +338,7 @@ Manteve-se inalterado.
 Art. 5º. Observado o princípio da
 veracidade:
 Art. 5º. Observado o princípio da
-veracidade:
-Manteve-se inalterado.
+veracidade: Manteve-se inalterado.
 I - a firma é composta pelo nome do
 empresário individual ou de um ou
 mais sócios da sociedade, desde que
@@ -686,9 +560,7 @@ observados os demais critérios de
 formação do nome do tipo jurídico
 escolhido.
 Manteve-se inalterado.
-§ 3º Na firma, observar-se-á, ainda:
-§ 3º Na firma, observar-se-á, ainda:
-Manteve-se inalterado.
+§ 3º Na firma, observar-se-á, ainda: § 3º Na firma, observar-se-á, ainda: Manteve-se inalterado.
 I - o nome civil ou o nome social do
 empresário individual ou do sócio
 único da sociedade limitada
@@ -921,10 +793,8 @@ recuperação judicial”, que será
 excluída após comunicação judicial
 sobre a sua recuperação.
 Manteve-se inalterado.
-SEÇÃO II
-SEÇÃO II
-Manteve-se inalterado.
-DA UTILIZAÇÃO DO NÚMERO
+SEÇÃO II SEÇÃO II
+Manteve-se inalterado.DA UTILIZAÇÃO DO NÚMERO
 DE INSCRIÇÃO NO CNPJ COMO
 NOME EMPRESARIAL
 DA UTILIZAÇÃO DO NÚMERO
@@ -990,15 +860,13 @@ economia mista, consórcios, grupos
 de sociedade e empresas simples de
 crédito.
 Manteve-se inalterado.
-CAPÍTULO II
-CAPÍTULO II
+CAPÍTULO II CAPÍTULO II
 Manteve-se inalterado.
 DA PROTEÇÃO DO NOME
 EMPRESARIAL
 DA PROTEÇÃO DO NOME
 EMPRESARIAL
-SEÇÃO I
-SEÇÃO I
+SEÇÃO I SEÇÃO I
 CRITÉRIOS DE ANÁLISE DE
 IDENTIDADE E SEMELHANÇA
 CRITÉRIOS DE ANÁLISE DE
@@ -1270,9 +1138,7 @@ Inseriu-se o parágrafo 1º
 para explicar a homonímia
 entre homônimos perfeitos e
 não perfeitos.
-II - entre denominações:
-I - Identidade: homônimos perfeitos,
-seja homógrafos ou homófonos;
+II - entre denominações: I - Identidade: homônimos perfeitos, seja homógrafos ou homófonos;
 Inseriu-se o inciso I para
 esclarecer que a identidade
 ocorre quando os
@@ -1374,13 +1240,11 @@ Manteve-se inalterado.
 a) denominações genéricas de
 atividades;
 a) denominações genéricas de
-atividades;
-Manteve-se inalterado.
+atividades; Manteve-se inalterado.
 b) gênero, espécie, natureza, lugar ou
 procedência;
 b) gênero, espécie, natureza, lugar ou
-procedência;
-Manteve-se inalterado.
+procedência; Manteve-se inalterado.
 c) termos técnicos, científicos,
 literários e artísticos do vernáculo
 nacional ou estrangeiro, assim como
@@ -1394,9 +1258,7 @@ popularizado;
 Na alínea foi substituída a
 palavra "vulgar" por
 "popularizado".
-d) nomes civis.
-d) nomes civis.
-Manteve-se inalterado.
+d) nomes civis. d) nomes civis. Manteve-se inalterado.
 Parágrafo único. Não são suscetíveis
 de exclusividade letras ou conjunto de
 letras, desde que não configurem
@@ -1425,9 +1287,7 @@ será convertido para o prazo
 indeterminado e o nome empresarial
 permanecerá protegido.
 Manteve-se inalterado.
-SEÇÃO II
-SEÇÃO II
-Manteve-se inalterado.
+SEÇÃO II SEÇÃO II Manteve-se inalterado.
 CRITÉRIOS PARA PROTEÇÃO DO
 NOME EMPRESARIAL NO
 TERRITÓRIO NACIONAL
@@ -1575,17 +1435,13 @@ unidades da federação, se for o caso,
 mediante o pagamento do preço
 devido.
 Manteve-se inalterado.
-SEÇÃO III
-CAPÍTULO III
-Alterou de "Seção" para "
-CAPTÍTULO".
+SEÇÃO III CAPÍTULO III Alterou de "Seção" para " CAPTÍTULO".
 PROCEDIMENTO DE REEXAME
 E AVERIGUAÇÃO NA
 COMPOSIÇÃO DO NOME
 EMPRESARIAL
 DO REEXAME E DO PROCESSO
-REVISIONAL SEÇÃO I
-Readequou-se.
+REVISIONAL SEÇÃO I Readequou-se.
 
 DO PROCEDIMENTO DE
 REEXAME E AVERIGUAÇÃO NA
@@ -1847,12 +1703,8 @@ sociedade, que impedirá o
 arquivamento de novos atos, até a sua
 regularização.
 Manteve-se inalterado.
-SEÇÃO IV DOS RECURSOS
-SEÇÃO II
-Alterou-se a Seção.
-RECURSO AO PLENÁRIO
-DO RECURSO AO PLENÁRIO
-Manteve-se inalterado.
+SEÇÃO IV DOS RECURSOS SEÇÃO II Alterou-se a Seção.
+RECURSO AO PLENÁRIO DO RECURSO AO PLENÁRIO Manteve-se inalterado.
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 19
 
 Art. 24. A colidência de nome
@@ -1964,7 +1816,6 @@ para explicar sobre as regras
 procedimentais.
 IV - comprovante de pagamento do
 preço dos serviços.
-
 Suprimiu-se o texto devido
 às regras contidas nos
 enunciados anteriores.
@@ -2048,12 +1899,8 @@ estatuto social.
 Suprimiu-se o texto devido
 às regras contidas nos
 enunciados anteriores.
-
-SEÇÃO III
-Inseriu-se nova Seção
-RECURSO AO DREI
-DO RECURSO AO DREI
-Manteve-se inalterado.
+ SEÇÃO III Inseriu-se nova Seção
+RECURSO AO DREI DO RECURSO AO DREI Manteve-se inalterado.
 Art. 25. Das decisões do Plenário da
 Junta Comercial, a que se refere o
 artigo anterior, poderá ser
@@ -2234,11 +2081,8 @@ enunciados anteriores.
 CAPÍTULO III OUTRAS
 DISPOSIÇÕES
 CAPÍTULO IV OUTRAS
-DISPOSIÇÕES
-Ajustou-se o capítulo.
-SEÇÃO I
-SEÇÃO I
-Manteve-se inalterado.
+DISPOSIÇÕES Ajustou-se o capítulo.
+SEÇÃO I SEÇÃO I Manteve-se inalterado.
 DA INSERÇÃO DO TÍTULO DE
 ESTABELECIMENTO (OU NOME
 FANTASIA ) NO REGISTRO
@@ -2462,14 +2306,11 @@ externadas pela Consultoria
 Jurídica e às sugestões
 recebidas durante o prazo de
 Consulta Pública.
-SEÇÃO II
-SEÇÃO II
-Manteve-se inalterado.
+SEÇÃO II SEÇÃO II Manteve-se inalterado.
 DA PARAMETRIZAÇÃO DOS
 SISTEMAS
 DA PARAMETRIZAÇÃO DOS
-SISTEMAS
-Manteve-se inalterado.
+SISTEMAS Manteve-se inalterado.
 Art. 30. Os sistemas coletores de
 dados de registro deverão conter
 critérios de verificação de identidade
@@ -2636,13 +2477,8 @@ dispostas nesta instrução normativa,
 com a funcionalidade desenvolvida.
 Inseriu-se o parágrafo 2º
 para harmonizar regras.
-
-CAPÍTULO V
-Inseriu-se o capítulo.
-
-DAS DISPOSIÇÕES FINAIS E
-TRANSITÓRIAS
-Inseriu-se novo texto.
+ CAPÍTULO V Inseriu-se o capítulo.
+ DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS Inseriu-se novo texto.
 Art. 34. Caberá aos desenvolvedores
 dos sistemas integradores o envio da
 documentação de especificação dos
@@ -2686,9 +2522,7 @@ adequação dos sistemas utilizados.
 Inseriu-se o inciso II e
 adequou-se a redação.
 DISPOSIÇÕES FINAIS E
-TRANSITÓRIAS
-
-Suprimiu-se o texto.
+TRANSITÓRIAS  Suprimiu-se o texto.
 Art. 35. Esta Instrução Normativa
 entra em vigor na data de publicação,
 e em até 180 (cento e oitenta dias) da
@@ -2698,104 +2532,65 @@ de cada junta comercial na adequação
 dos sistemas utilizados.
 Art. 35. Ficam revogados os arts. 18 a
 26 da Instrução Normativa DREI nº
-81, de 10 de junho de 2020.
-Alterou-se a redação para
+81, de 10 de junho de 2020. Alterou-se a redação para
 aglutinar os artigos 35 e 36
 Art. 36. Ficam revogados os art. 18 a
 26 da Instrução Normativa DREI nº
 81, de 10 de junho de 2020
 
-25
-.
-Não obstante o quadro compara7vo em epígrafe, esta Diretoria entendeu relevante inserir
+25. Não obstante o quadro compara7vo em epígrafe, esta Diretoria entendeu relevante inserir
 na íntegra os textos da Minuta da Instrução Norma7va encaminhada à Douta Consultoria Jurídica deste
 Ministério e da Instrução Normativa DREI/MEMP N. 1, de 5 de janeiro de 2025, consoante documento SEI n.
-47642079
-.
-26
-.
-Pois bem, após alinhamento com o d. Consultor Jurídico Chefe da Consultoria Jurídica do
+47642079.
+26. Pois bem, após alinhamento com o d. Consultor Jurídico Chefe da Consultoria Jurídica do
 MEMP, em reuniões realizadas nos dias 2 e 16 de dezembro de 2024, procedemos às seguintes
 readequações redacionais, as quais foram devidamente corroboradas:
-I
- -
-Conceituação do fenômeno iden7dade, considerando-se a homonímia, uma vez
+I - Conceituação do fenômeno iden7dade, considerando-se a homonímia, uma vez
 que expressões com graﬁa e sons assemelhados, por vezes, não são suﬁcientes para afastar a
 iden7dade, razão pela qual foram estabelecidos critérios obje7vos para pautar a
 diferenciação desejada;
-II
- -
-No que tange ao processo revisional, considerando que a lei, expressamente,
+II - No que tange ao processo revisional, considerando que a lei, expressamente,
 atribui ao DREI o recurso por semelhança dos nomes e o Decreto regulamentador, por sua
 vez, não é cristalino quanto a tal disposição restri7va, o texto foi readequado para
 possibilitar, apenas e tão somente, o recurso por alegação de iden7dade ao plenário das
 juntas comerciais, como possibilidade de primeira instância administra7va. O recurso por
 alegação de semelhança deverá ter como instância inicial o DREI;
-III
- -
-A possibilidade de o nome empresarial ser formado, também, pelo nome social,
+III - A possibilidade de o nome empresarial ser formado, também, pelo nome social,
 em atendimento às sugestões recebidas na consulta pública e disposições legais e
 regulamentares atuais (Decreto n. 8.727/2016);
-IV
- -
-Quanto à proteção do Rtulo de estabelecimento, as alterações foram mais
+IV - Quanto à proteção do Rtulo de estabelecimento, as alterações foram mais
 profundas, uma vez que se refutou a proteção, razão pela qual foi prevista a possibilidade de
 inserção do Rtulo no órgão de registro público de empresas, sem que se garanta proteção,
 tudo porque os Rtulos de estabelecimento são, historicamente, subme7dos às juntas
 comerciais, por intermédio dos atos empresariais que são apresentados a registro, inclusive
 com cláusulas inseridas em contratos padronizados, assim:
-a
-)
-Estamos a falar de realidade, costumeiramente, autorizada pelos julgadores dos órgãos
+a) Estamos a falar de realidade, costumeiramente, autorizada pelos julgadores dos órgãos
 executores locais, mas que não passam por qualquer veriﬁcação de critérios obje7vos de
 possível colisão com signos já existentes;
-b
-)
-Não há obrigatoriedade para sua adoção, mas diante da importância do signo, por
+b) Não há obrigatoriedade para sua adoção, mas diante da importância do signo, por
 identificar o estabelecimento, cujos contratos competem às juntas comerciais, nos termos do
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 29
 
 ar7go 1.144 do Código Civil, o DREI, como órgão central regulamentador, entendeu por bem
 estabelecer critérios para a inserção do referido signo nos atos empresariais, mediante a
 observância de diretrizes a serem seguidas, inclusive sistêmicas.
-V
- -
-Por ﬁm, e não menos importante, estabeleceu-se a readequação redacional
+V - Por ﬁm, e não menos importante, estabeleceu-se a readequação redacional
 quanto a palavras que não mais se adequam à realidade econômico-social, bem como
 entendemos por bem melhor deﬁnirmos as situações de u7lização dos vocábulos "banco" e
 "grupo".
 CONCLUSÃO
-27
-.
-Diante do exposto, concluiu-se pela aprovação da presente Instrução Norma7va, nos termos
+27. Diante do exposto, concluiu-se pela aprovação da presente Instrução Norma7va, nos termos
 apresentados, uma vez que obje7va aperfeiçoar as normas do Registro Público de Empresas e A7vidades
 Aﬁns, em especial, no tocante aos critérios de análise de nome empresarial, por iden7dade e semelhança,
 readequando, com o ﬁm de entregar às Juntas Comerciais condições para exercer com mais efe7vidade a
 competência que lhes é própria.
 
-28
-.
-Sugerimos a divulgação da presente Nota Técnica
-para Atos Norma7vos SEI nº
-3
-/2025/MEMP
- (
-48186728
-) no site ins7tucional desta Diretoria Nacional, devidamente instruída dos
+28. Sugerimos a divulgação da presente Nota Técnica para Atos Norma7vos SEI nº
+3/2025/MEMP (48186728) no site ins7tucional desta Diretoria Nacional, devidamente instruída dos
 seguintes documentos:
-a
-)
-Planilha com o resultado da Consulta Pública (
-47733452
-);
-b
-)
-Redação ﬁnal da
-Instrução Norma7va DREI /MEMP nº 1, de 05 de janeiro de 2025
- -
-Link
-da publicação no DOU
-.
+a) Planilha com o resultado da Consulta Pública ( 47733452);
+b) Redação ﬁnal da Instrução Norma7va DREI /MEMP nº 1, de 05 de janeiro de 2025 - Link
+da publicação no DOU.
 
 REGIANI OLIVEIRA DE PAULA
 Coordenadora-Geral de Normas
@@ -2808,33 +2603,15 @@ Diretora Nacional de Registro Empresarial e Integração
 
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 30
 
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 05/02/2025,
-às 17:28, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do
-Decreto nº
-10.543, de 13 de novembro de 2020
-.
-Documento assinado eletronicamente por
-Regiani Oliveira de Paula
-,
-Coordenador(a)-Geral
-, em
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves, Diretor(a), em 05/02/2025,
+às 17:28, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do Decreto nº
+10.543, de 13 de novembro de 2020.
+Documento assinado eletronicamente por Regiani Oliveira de Paula, Coordenador(a)-Geral, em
 05/02/2025, às 17:30, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do
-Decreto nº 10.543, de 13 de novembro de 2020
-.
+Decreto nº 10.543, de 13 de novembro de 2020.
 A autenticidade deste documento pode ser conferida no site
 https://sei.economia.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código verificador
-48186728
- e
-o código CRC
-A9FE4175
-.
-Referência:
- Processo nº 16100.001327/2024-96.
-SEI nº 48186728
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 48186728 e
+o código CRC A9FE4175.
+Referência: Processo nº 16100.001327/2024-96. SEI nº 48186728
 Nota Técnica para Atos Normativos 3 (48186728)         SEI 16100.001327/2024-96 / pg. 31

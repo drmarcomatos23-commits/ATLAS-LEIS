@@ -8,72 +8,49 @@ revogada: false
 versao_texto: "PDF publicado pelo DREI (inclui versões atualizadas/compiladas)"
 fonte: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas"
 arquivo: "https://www.gov.br/empresas-e-negocios/pt-br/drei/legislacao/instrucoes-normativas/arquivos-instrucoes-normativas-em-vigor/IN_DREI_MEMP_1_2026_anexo_ajustado.pdf/@@display-file/file"
-baixado_em: 2026-11-05
+baixado_em: 2026-11-26
 ---
 
 # Atributos do Cadastro Estadual de Empresas
 
 III – disponibilizar link direto para os canais oficiais de denúncia de fraudes mantidos no portal do Ministério
 do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte – MEMP.
-Art. 22.
-As Juntas Comerciais deverão comunicar ao DREI os incidentes relacionados à fraude digital, à
+Art. 22. As Juntas Comerciais deverão comunicar ao DREI os incidentes relacionados à fraude digital, à
 falsa representação institucional ou ao uso indevido da identidade institucional que envolvam cadastro
 estadual de empresas, observadas as orientações técnicas expedidas por este Departamento.
-Art. 23.
-O DREI elaborará relatório anual consolidado dos incidentes a que se refere o art. 22, com base nas
+Art. 23. O DREI elaborará relatório anual consolidado dos incidentes a que se refere o art. 22, com base nas
 informações recebidas das Juntas Comerciais e nos registros oriundos dos canais antifraude do portal do
 MEMP.
-Parágrafo único.
- O relatório poderá subsidiar a atualização normativa, o aprimoramento das medidas de
+Parágrafo único. O relatório poderá subsidiar a atualização normativa, o aprimoramento das medidas de
 segurança, a articulação com órgãos de controle, segurança institucional e defesa cibernética, bem como a
 adoção de providências estruturantes no âmbito do SINREM.
-Art. 24.
- A implementação das medidas previstas neste Capítulo constitui dever institucional das Juntas
+Art. 24. A implementação das medidas previstas neste Capítulo constitui dever institucional das Juntas
 Comerciais, como órgãos executores locais, e integra a política nacional de fortalecimento da integridade, da
 confiança, da segurança da informação e da segurança jurídica no âmbito do Registro Público de Empresas
 Mercantis.
 
 CAPÍTULO VII
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
-Art. 25.
- As Juntas Comerciais deverão promover, no prazo de 180 (cento e oitenta) dias, contado da data de
+Art. 25. As Juntas Comerciais deverão promover, no prazo de 180 (cento e oitenta) dias, contado da data de
 publicação desta Instrução Normativa, a adequação de seus sistemas informatizados, procedimentos
 operacionais e cadastros estaduais às disposições nela estabelecidas.
-§ 1º
- O DREI prestará orientação técnica e expedirá as diretrizes necessárias à implementação das adequações
-previstas no
-caput
-.
-§ 2º
- O prazo referido no
-caput
- poderá ser prorrogado por decisão do DREI, mediante solicitação
+§ 1º O DREI prestará orientação técnica e expedirá as diretrizes necessárias à implementação das adequações
+previstas no caput.
+§ 2º O prazo referido no caput poderá ser prorrogado por decisão do DREI, mediante solicitação
 devidamente justificada da Junta Comercial interessada.
-Art. 26.
- Esta Instrução Normativa entra em vigor na data de sua publicação.
+Art. 26. Esta Instrução Normativa entra em vigor na data de sua publicação.
 
 Documento assinado eletronicamente
 FLÁVIA REGINA BRITTO GONÇALVES
 Diretora do Departamento Nacional de Registro Empresarial e Integração
 
-Documento assinado eletronicamente por
-Flavia Regina Britto Gonçalves
-,
-Diretor(a)
-, em 23/06/2026,
-às 18:03, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do
-Decreto nº 10.543,
-de 13 de novembro de 2020
-.
+Documento assinado eletronicamente por Flavia Regina Britto Gonçalves, Diretor(a), em 23/06/2026,
+às 18:03, conforme horário oficial de Brasília, com fundamento no § 3º do art. 4º do Decreto nº 10.543,
+de 13 de novembro de 2020.
 A autenticidade deste documento pode ser conferida no site
 https://colaboragov.sei.gov.br/sei/controlador_externo.php?
-acao=documento_conferir&id_orgao_acesso_externo=0
-, informando o código verificador
-61500220
- e o
-código CRC
-B7206665
-.
+acao=documento_conferir&id_orgao_acesso_externo=0, informando o código verificador 61500220 e o
+código CRC B7206665.
 
 ANEXO À INSTRUÇÃO NORMATIVA DREI Nº 1, DE 22 DE JUNHO DE 2026.
 Instrução Normativa 2 Instrução Normativa 1 (61500220)         SEI 16100.003569/2025-03 / pg. 7
@@ -102,8 +79,7 @@ transparência, segurança e prevenção, vinculado à qualificação registral 
 arquivados ou matriculados.
 
 1. Informações da empresa
-Grupo
-Atributos
+Grupo Atributos
 Identificação
 Última atualização cadastral [Data]; NIRE [número registral interno atribuído
 pela Junta Comercial competente]; CNPJ Sede (numérico ou alfanumérico);
@@ -136,8 +112,7 @@ transparência, segurança e prevenção, vinculado à qualificação registral 
 arquivados ou matriculados.
 
 1. Informações da empresa
-Grupo
-Atributos
+Grupo Atributos
 Identificação
 Última atualização cadastral [Data]; NIRE [número registral interno atribuído
 pela Junta Comercial competente]; CNPJ Sede (numérico ou alfanumérico);
@@ -211,23 +186,19 @@ Natureza jurídica, porte, enquadramento ou condição especial e situação cad
 distintos e deverão ser parametrizados de forma autônoma nos sistemas eletrônicos das Juntas Comerciais.
 
 2. Capital social
-Grupo
-Atributos
+Grupo Atributos
 Capital
 Valor do capital [R$ valor]; valor da cota [R$ valor]; capital social integralizado [R$
 valor]; capital a integralizar [R$ valor]; prazo para integralização
 [prazo/integralizado]; participações no capital social [%]; evolução do capital social
 [data e valores]; forma de integralização.
-Beneficiário final
- [quando informado ou quando exigido por legislação ou
+Beneficiário final [quando informado ou quando exigido por legislação ou
 regulamentação específica: nome da pessoa física beneficiária final; CPF ou
 documento equivalente; nacionalidade; país de residência; forma de controle ou
 influência; percentual de participação direta ou indireta, quando aplicável].
 
-3.
- Representação, anotações e histórico registral
-Grupo
-Atributos
+3. Representação, anotações e histórico registral
+Grupo Atributos
 Representante legal
 Nome [nome]; CPF [número]; qualificação [representante legal, procurador,
 inventariante, tutor, curador, administrador judicial ou outra qualificação aplicável];
@@ -268,8 +239,7 @@ aplicável.
 
 4. Sócios e representantes
 4.1 Pessoa natural
-Grupo
-Atributos
+Grupo Atributos
 Identificação pessoal
 Nome completo [nome]; nome social [nome]; nacionalidade [nacionalidade];
 profissão [profissão]; estado civil [solteiro/casado/viúvo/divorciado/união estável];
@@ -296,8 +266,7 @@ assistente, representante, inventariante, tutor, curador e administrador judicia
 situação [situação].
 
 4.2 Pessoa jurídica
-Grupo
-Atributos
+Grupo Atributos
 Identificação
 Nome empresarial, denominação social ou identificação própria
 [identificação]; natureza jurídica [pessoa jurídica nacional, pessoa jurídica
@@ -333,13 +302,10 @@ Situação tributária e
 fiscal
 Porte [ME, EPP, demais/normal]
 
-4.
-2.1
-Entes despersonificados, fundos de investimento, consórcios, espólios, massas,
+4.2.1 Entes despersonificados, fundos de investimento, consórcios, espólios, massas,
 condomínios e estruturas assemelhadas, quando vinculados a ato arquivado ou
 matriculado
-Grupo
-Atributos
+Grupo Atributos
 Identificação
 Denominação, nome, identificação própria ou referência cadastral do ente;
 natureza ou tipo da estrutura; CNPJ, quando houver; data de constituição,
@@ -363,8 +329,7 @@ Dados complementares
 Informações necessárias à rastreabilidade, individualização, governança
 cadastral, identificação do beneficiário final, prevenção de inconsistências e
 integração com bases públicas, quando aplicável.
-Situação tributária e fiscal
-Porte [ME, EPP, demais/normal]
+Situação tributária e fiscal Porte [ME, EPP, demais/normal]
 
 Os atributos previstos neste item (4.2.1.) aplicam-se, quando constarem do ato arquivado ou matriculado, a
 entes, universalidades, estruturas patrimoniais, fiduciárias, sucessórias, contratuais ou organizacionais que,
@@ -378,8 +343,7 @@ matrícula ou arquivamento obrigatório, nem condicionando o deferimento dos ato
 Instrução Normativa 2 Instrução Normativa 1 (61500220)         SEI 16100.003569/2025-03 / pg. 12
 
 4.3 Administrador vinculado à pessoa jurídica
-Grupo
-Atributos
+Grupo Atributos
 Identificação e
 qualificação
 Nome completo [nome]; nome social [nome]; nacionalidade [nacionalidade];
@@ -405,8 +369,7 @@ condicionamento de acesso, nos termos desta Instrução Normativa.
 
 5. Agentes auxiliares do comércio
 5.1 Leiloeiro oficial
-Grupo
-Atributos
+Grupo Atributos
 Profissional
 matriculado
 Nome completo; nome social; CPF; número da matrícula principal; data da
@@ -428,8 +391,7 @@ Nome empresarial; NIRE; CNPJ (numérico ou alfanumérico); endereço da sede;
 CNAE; situação cadastral.
 
 5.2 Tradutor público e intérprete comercial
-Grupo
-Atributos
+Grupo Atributos
 Instrução Normativa 2 Instrução Normativa 1 (61500220)         SEI 16100.003569/2025-03 / pg. 13
 
 Profissional
@@ -446,8 +408,7 @@ alfanumérico); endereço da sede; CNAE; sócio único, quando for o caso [nome 
 CPF]; situação cadastral.
 
 5.3 Administrador de armazém geral ou trapicheiro
-Grupo
-Atributos
+Grupo Atributos
 Matriculado
 Nome completo; nome social; CPF; número da matrícula; data da matrícula;
 Junta Comercial de origem; situação da matrícula [ativa/suspensa/cancelada];
@@ -489,55 +450,44 @@ Instrução Normativa 2 Instrução Normativa 1 (61500220)         SEI 16100.003
 6.1. Dados facultativos
 Dado facultativo
 Finalidade pública
-específica
-Regime
+específica Regime
 Condição de pessoa com deficiência
 [sim/não]
 Políticas de empreendedorismo,
 inclusão produtiva, crédito e
-estatística pública.
-Uso restrito
+estatística pública. Uso restrito
 Forma de declaração da condição de
 pessoa com deficiência
 [autodeclarada/informação validada]
 Governança da informação e
 eventual integração com bases
-públicas.
-Uso restrito
+públicas. Uso restrito
 Ciência do titular quanto ao uso em
 política pública [sim/não]
 Transparência e governança do
-tratamento.
-Uso restrito
-Data da declaração [data]
-Rastreabilidade e auditoria.
-Uso restrito
+tratamento. Uso restrito
+Data da declaração [data] Rastreabilidade e auditoria. Uso restrito
 Mulher na composição societária ou na
 administração [sim/não]
 Políticas de empreendedorismo
 feminino, crédito orientado e
-estatística pública.
-Uso restrito
+estatística pública. Uso restrito
 Jovem empreendedor [sim/não]
 Políticas de capacitação, primeiro
-negócio e crédito orientado.
-Uso restrito
+negócio e crédito orientado. Uso restrito
 Egresso do sistema prisional [sim/não]
 Políticas de reinserção produtiva e
-empreendedorismo.
-Uso restrito
+empreendedorismo. Uso restrito
 Pertencimento a população tradicional ou
 grupo social específico [sim/não, com
 categoria]
 Políticas de economia solidária,
 inclusão produtiva e
-desenvolvimento regional.
-Uso restrito
+desenvolvimento regional. Uso restrito
 Informação de vulnerabilidade
 socioeconômica declarada [sim/não]
 Políticas de microcrédito, fomento
-e inclusão produtiva.
-Uso restrito
+e inclusão produtiva. Uso restrito
 Número estimado de empregos gerados
 [faixa]
 Monitoramento de políticas de
@@ -548,20 +498,17 @@ Raça/cor/etnia [conforme classificação
 adotada]
 Políticas de igualdade racial,
 monitoramento e avaliação de
-ações públicas.
-Uso restrito
+ações públicas. Uso restrito
 Gênero [conforme autodeclaração]
 Políticas de inclusão, igualdade e
 monitoramento de acesso a
-programas públicos.
-Uso restrito
+programas públicos. Uso restrito
 Escolaridade
 [fundamental/médio/superior/pós-
 graduado/mestre/doutorado];
 Políticas de inclusão, igualdade e
 monitoramento de acesso a
-programas públicos.
-Uso restrito
+programas públicos. Uso restrito
 
 Instrução Normativa 2 Instrução Normativa 1 (61500220)         SEI 16100.003569/2025-03 / pg. 15
 
@@ -580,7 +527,5 @@ Documento assinado eletronicamente
 FLÁVIA REGINA BRITTO GONÇALVES
 Diretora do Departamento Nacional de Registro Empresarial e Integração
 
-Referência:
- Processo nº 16100.003569/2025-03.
-SEI nº 61500220
+Referência: Processo nº 16100.003569/2025-03. SEI nº 61500220
 Instrução Normativa 2 Instrução Normativa 1 (61500220)         SEI 16100.003569/2025-03 / pg. 16
